@@ -1,0 +1,1250 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "1ec41479-0524-e711-80fb-005056857ef3",
+            "title": "ALS01",
+            "summary": "ALS01 is a medium-low flow (MFR13), heat and UV stabilized",
+            "description": "ALS01 is a medium-low flow (MFR13), heat and UV stabilized, polycarbonate product with mold release designed for use in the automotive lens market.",
+            "applications": [
+                "Multi purpose injection moulding"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC-PC Resin-ALS01-Global-en-2016-04-18",
+                    "url": "/en/products/documents/sabic-pc-resin-als01-global-en-2016-04-18/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "cc02ce6c-0d24-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_ALS01_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_als01_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "7525ec8f-45ec-ea11-8105-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_ALS01_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_als01_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "6544a19c-45ec-ea11-8105-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_ALS01_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_als01_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "d6c9fea8-45ec-ea11-8105-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "689c586c-e73e-eb11-8106-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "als01"
+        },
+        {
+            "$id": "4",
+            "id": "072b56ad-f823-e711-80fb-005056857ef3",
+            "title": "ALS02",
+            "summary": "ALS02 resin is a medium-high flow (MFR23), heat and UV stabilized",
+            "description": "ALS02 resin is a medium-high flow (MFR23), heat and UV stabilized, polycarbonate product with mold release designed for use in the automotive lens market.",
+            "applications": [
+                "Multi purpose injection moulding"
+            ],
+            "processingTechniques": [
+                "Injection moulding"
+            ],
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC-PC Resin-ALS02-SDSR-Global-en",
+                    "url": "/en/products/documents/sabic-pc-resin-als02-sdsr-global-en/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "972f94c2-0d24-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_ALS02_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_als02_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "f288c5cb-f8ec-ea11-8105-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_ALS02_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_als02_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "94373dd9-f8ec-ea11-8105-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_ALS02_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_als02_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "baf255e3-f8ec-ea11-8105-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [
+                {
+                    "$id": "5",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "5a53b63f-e73e-eb11-8106-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "als02"
+        },
+        {
+            "$id": "6",
+            "id": "6240aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PC0700",
+            "summary": "PC0700 resin is a low flow (MFR = 7 at 300?C/1.2kg), heat stabilized, polycarbonate product designed for use in the custom compounding market.  It does not contain UV stabilizer or mold release.  It is available exclusivPC0700 resin is a low flow (MF",
+            "description": "PC0700 resin is a low flow (MFR = 7 at 300?C/1.2kg), heat stabilized, polycarbonate product designed for use in the custom compounding market.  It does not contain UV stabilizer or mold release.  It is available exclusivPC0700 resin is a low flow (MFR = 7 at 300?C/1.2kg), heat stabilized, polycarbonate product designed for use in the custom compounding market.  It does not contain UV stabilizer or mold release.  It is available exclusively at www.sabicpc.com.",
+            "applications": [
+                "Building/Construction Sheet"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC0700_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc0700_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "28bc102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC0700_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc0700_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "14c8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Construction"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc0700"
+        },
+        {
+            "$id": "7",
+            "id": "6440aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PC0703",
+            "summary": "PC0703 resin is a low flow (MFR = 7 at 300?C/1.2kg), heat and UV stabilized, polycarbonate product designed for use in the extrusion market.  It is available exclusively at www.sabicpc.com",
+            "description": "PC0703 resin is a low flow (MFR = 7 at 300?C/1.2kg), heat and UV stabilized, polycarbonate product designed for use in the extrusion market.  It is available exclusively at www.sabicpc.com",
+            "applications": [
+                "Building/Construction Sheet"
+            ],
+            "processingTechniques": [
+                "Injection Molding",
+                "Profile Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC0703_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc0703_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "4eba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC0703_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc0703_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "5abb102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Construction"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc0703"
+        },
+        {
+            "$id": "8",
+            "id": "6640aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PC0703R",
+            "summary": "PC0703R resin is a low flow (MFR = 7 at 300?C/1.2kg), heat and UV stabilized, polycarbonate product with mold release designed for use in the extrusion market.  It is available exclusively at www.sabicpc.com",
+            "description": "PC0703R resin is a low flow (MFR = 7 at 300?C/1.2kg), heat and UV stabilized, polycarbonate product with mold release designed for use in the extrusion market.  It is available exclusively at www.sabicpc.com",
+            "applications": [
+                "Building/Construction Sheet"
+            ],
+            "processingTechniques": [
+                "Injection Molding",
+                "Profile Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC0703R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc0703r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "2ebc102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC0703R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc0703r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "17c8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Construction"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc0703r"
+        },
+        {
+            "$id": "9",
+            "id": "6840aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PC0800",
+            "summary": "PC0800 resin is a low flow (MFR = 8 at 300?C/1.2kg), heat stabilized, polycarbonate product designed for use in the custom compounding market.  It does not contain UV stabilizer or mold release.  It is available exclusively at www.sabicpc.com.",
+            "description": "PC0800 resin is a low flow (MFR = 8 at 300?C/1.2kg), heat stabilized, polycarbonate product designed for use in the custom compounding market.  It does not contain UV stabilizer or mold release.  It is available exclusively at www.sabicpc.com.",
+            "applications": [
+                "Building/Construction Sheet"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC0800_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc0800_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "54ba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC0800_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc0800_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "63bb102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Construction"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc0800"
+        },
+        {
+            "$id": "10",
+            "id": "6a40aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PC1000",
+            "summary": "PC1000 resin is a medium-low flow (MFR = 10 at 300?C/1.2kg), heat stabilized, polycarbonate product designed for use in the custom compounding market.  It does not contain UV stabilizer or mold release.  It is available exclusively at sabicpc.com",
+            "description": "PC1000 resin is a medium-low flow (MFR = 10 at 300?C/1.2kg), heat stabilized, polycarbonate product designed for use in the custom compounding market.  It does not contain UV stabilizer or mold release.  It is available exclusively at www.sabicpc.com.",
+            "applications": [
+                "Data Transfer",
+                "Non-LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1000_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1000_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "34bc102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1000_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1000_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "19c8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc1000"
+        },
+        {
+            "$id": "11",
+            "id": "6c40aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PC1000R",
+            "summary": "PC1000R resin is a medium-low flow (MFR = 10 at 300?C/1.2kg), heat stabilized, polycarbonate product with mold release designed for use in the general purpose molding market.  It is available exclusively at www.sabicpc.com",
+            "description": "PC1000R resin is a medium-low flow (MFR = 10 at 300?C/1.2kg), heat stabilized, polycarbonate product with mold release designed for use in the general purpose molding market.  It is available exclusively at www.sabicpc.com",
+            "applications": [
+                "Building/Construction Sheet",
+                "Data Transfer",
+                "Electronic Components",
+                "Enclosures",
+                "Non-LED Lighting",
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1000R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1000r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "5dba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1000R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1000r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "6fbb102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc1000r"
+        },
+        {
+            "$id": "12",
+            "id": "6e40aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PC1003R",
+            "summary": "PC1003R resin is a medium-low flow (MFR = 10 at 300?C/1.2kg), heat and UV stabilized, polycarbonate product with mold release designed for use in the general purpose molding market.  It is available exclusively at www.sabicpc.com",
+            "description": "PC1003R resin is a medium-low flow (MFR = 10 at 300?C/1.2kg), heat and UV stabilized, polycarbonate product with mold release designed for use in the general purpose molding market.  It is available exclusively at www.sabicpc.com",
+            "applications": [
+                "Building/Construction Sheet",
+                "Multi purpose injection moulding"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1003R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1003r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "3abc102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc1003r"
+        },
+        {
+            "$id": "13",
+            "id": "4bc8ae62-7922-e711-80fb-005056857ef3",
+            "title": "PC1004R",
+            "summary": "MFR = 10 at 300\u00b0C/1.2kg",
+            "description": "PC1004R resin is a medium-low flow (MFR = 10 at 300\u00b0C/1.2kg), natural, FDA food contact complaint, heat stabilized, polycarbonate product with mold release designed for use in the general purpose molding market.",
+            "applications": [
+                "Multi purpose injection moulding"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-PC Resin-PC1004R-Global-en",
+                    "url": "/en/products/documents/sabic-pc-resin-pc1004r-global-en/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ef296eb4-0e24-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1004R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1004r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "3a29d254-f9ec-ea11-8105-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1004R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1004r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "ea94cf5e-f9ec-ea11-8105-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1004R_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1004r_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "72f84d69-f9ec-ea11-8105-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [
+                {
+                    "$id": "14",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "688a5685-f9ec-ea11-8105-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc1004r"
+        },
+        {
+            "$id": "15",
+            "id": "7040aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PC1500",
+            "summary": "PC1500 resin is a medium-high flow (MFR = 15 at 300?C/1.2kg), heat stabilized, polycarbonate product designed for use in the custom compounding market.  It does not contain UV stabilizer or mold release.  It is available exclusively at sabicpc.com",
+            "description": "PC1500 resin is a medium-high flow (MFR = 15 at 300?C/1.2kg), heat stabilized, polycarbonate product designed for use in the custom compounding market.  It does not contain UV stabilizer or mold release.  It is available exclusively at www.sabicpc.com.",
+            "applications": [
+                "Data Transfer",
+                "Non-LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1500_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1500_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "3dbc102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1500_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1500_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "1dc8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc1500"
+        },
+        {
+            "$id": "16",
+            "id": "7240aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PC1800",
+            "summary": "PC1800 resin is a medium-high flow (MFR = 18 at 300?C/1.2kg), heat stabilized, polycarbonate product designed for use in the custom compounding market.  It does not contain UV stabilizer or mold release.  It is available exclusively at sabicpc.com",
+            "description": "PC1800 resin is a medium-high flow (MFR = 18 at 300?C/1.2kg), heat stabilized, polycarbonate product designed for use in the custom compounding market.  It does not contain UV stabilizer or mold release.  It is available exclusively at www.sabicpc.com.",
+            "applications": [
+                "Data Transfer"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1800_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1800_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "65ba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1800_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1800_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "78bb102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc1800"
+        },
+        {
+            "$id": "17",
+            "id": "7440aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PC1800R",
+            "summary": "PC1800R resin is a medium-high flow (MFR = 18 at 300?C/1.2kg), heat stabilized, polycarbonate product with mold release designed for use in the general purpose molding market.  It is available exclusively at www.sabicpc.com",
+            "description": "PC1800R resin is a medium-high flow (MFR = 18 at 300?C/1.2kg), heat stabilized, polycarbonate product with mold release designed for use in the general purpose molding market.  It is available exclusively at www.sabicpc.com",
+            "applications": [
+                "Data Transfer",
+                "LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1800R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1800r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "47bc102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1800R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1800r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "20c8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc1800r"
+        },
+        {
+            "$id": "18",
+            "id": "ca3d3a8c-8b04-e711-80fb-005056857ef3",
+            "title": "PC1803R",
+            "summary": "MFR = 18 at 300?C/1.2kg",
+            "description": "PC1803R resin is a medium-high flow (MFR = 18 at 300?C/1.2kg), heat and UV stabilized, polycarbonate product with mold release designed for use in the\ngeneral purpose molding market.",
+            "applications": [
+                "Multi purpose injection moulding"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-PC Resin-PC1803R-Global-en-2016-05-22",
+                    "url": "/en/products/documents/sabic-pc-resin-pc1803r-global-en-2016-05-22/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e7c47512-0e24-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1803R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1803r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "928dcee6-f9ec-ea11-8105-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1803R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1803r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "2859b0f0-f9ec-ea11-8105-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1803R_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1803r_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "d79d98fb-f9ec-ea11-8105-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [
+                {
+                    "$id": "19",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "08901115-e73e-eb11-8106-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc1803r"
+        },
+        {
+            "$id": "20",
+            "id": "fc015952-bb19-e711-80fb-005056857ef3",
+            "title": "PC1804R",
+            "summary": "MFR = 18 at 300\u00b0C/1.2kg",
+            "description": "PC1804R resin is a medium-high flow (MFR = 18 at 300\u00b0C/1.2kg), natural, FDA food contact complaint, heat stabilized, polycarbonate product with mold release designed for use in the general purpose molding market.",
+            "applications": [
+                "Multi purpose injection moulding"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC-PC Resin-PC1804R-SDSR-Global-en",
+                    "url": "/en/products/documents/sabic-pc-resin-pc1804r-sdsr-global-en/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4c87c5fc-0e24-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1804R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1804r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "6f18d050-faec-ea11-8105-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1804R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1804r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "2a5f5b5a-faec-ea11-8105-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC1804R_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc1804r_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "b2b75764-faec-ea11-8105-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [
+                {
+                    "$id": "21",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "d9ac3c7c-faec-ea11-8105-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc1804r"
+        },
+        {
+            "$id": "22",
+            "id": "7940aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PC2200",
+            "summary": "PC2200 resin is a high flow (MFR = 22 at 300?C/1.2kg), heat stabilized, polycarbonate product designed for use in the custom compounding market.  It does not contain UV stabilizer or mold release.  It is available exclusively at www.sabicpc.com.",
+            "description": "PC2200 resin is a high flow (MFR = 22 at 300?C/1.2kg), heat stabilized, polycarbonate product designed for use in the custom compounding market.  It does not contain UV stabilizer or mold release.  It is available exclusively at www.sabicpc.com.",
+            "applications": [
+                "Data Transfer",
+                "Non-LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC2200_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc2200_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "53bc102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC2200_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc2200_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "24c8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc2200"
+        },
+        {
+            "$id": "23",
+            "id": "7b40aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PC2200R",
+            "summary": "PC2200R resin is a high flow (MFR = 22 at 300?C/1.2kg), heat stabilized, polycarbonate product with mold release designed for use in the general purpose molding market.  It is available exclusively at www.sabicpc.com",
+            "description": "PC2200R resin is a high flow (MFR = 22 at 300?C/1.2kg), heat stabilized, polycarbonate product with mold release designed for use in the general purpose molding market.  It is available exclusively at www.sabicpc.com",
+            "applications": [
+                "LED Lighting",
+                "Non-LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC2200R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc2200r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "7aba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC2200R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc2200r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "86bb102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc2200r"
+        },
+        {
+            "$id": "24",
+            "id": "2e4e728e-9904-e711-80fb-005056857ef3",
+            "title": "PC2203R",
+            "summary": "MFR = 22 at 300\u00b0C/1.2kg",
+            "description": "PC2203R resin is a high flow (MFR = 22 at 300?C/1.2kg), heat and UV stabilized, polycarbonate product with mold release designed for use in the general\npurpose molding market.",
+            "applications": [
+                "Multi purpose injection moulding"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC-PC Resin-PC2203R-Global-en",
+                    "url": "/en/products/documents/sabic-pc-resin-pc2203r-global-en/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8da0b962-0e24-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC2203R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc2203r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "508c10c3-faec-ea11-8105-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC2203R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc2203r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "885a2bcc-faec-ea11-8105-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC2203R_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc2203r_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "2bacfcd5-faec-ea11-8105-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [
+                {
+                    "$id": "25",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "24359be7-faec-ea11-8105-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc2203r"
+        },
+        {
+            "$id": "26",
+            "id": "8040aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PC4800",
+            "summary": "PC4800 resin is a very high flow (MFR = 8.0 at 250C/1.2kg) polycarbonate product designed for use in the optical media market.  It is available exclusively at www.sabicpc.com.",
+            "description": "PC4800 resin is a very high flow (MFR = 8.0 at 250C/1.2kg) polycarbonate product designed for use in the optical media market.  It is available exclusively at www.sabicpc.com.",
+            "applications": [
+                "Data Management"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC4800_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc4800_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "83ba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC4800_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc4800_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "92bb102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc4800"
+        },
+        {
+            "$id": "27",
+            "id": "8140aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PC5800",
+            "summary": "PC5800 resin is a very high flow (MFR = 8.9 at 250C/1.2kg) polycarbonate product designed for use in the optical media market.  It is available exclusively at www.sabicpc.com.",
+            "description": "PC5800 resin is a very high flow (MFR = 8.9 at 250C/1.2kg) polycarbonate product designed for use in the optical media market.  It is available exclusively at www.sabicpc.com.",
+            "applications": [
+                "Data Management"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC5800_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc5800_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "86ba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PC Resin_PC5800_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pc-resin_pc5800_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "95bb102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pc5800"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "28",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "2ce92bf0-ca5c-4544-a40c-4840b1ef54c3",
+            "title": "Injection moulding",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "af7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Profile Extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "31",
+            "id": "33e3ea80-2973-4f1a-a4c8-4cbc9b4b67fb",
+            "title": "Multi purpose injection moulding",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "55ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building/Construction Sheet",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "40",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "42",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "43",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "44",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "45",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "46",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "47",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "48",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

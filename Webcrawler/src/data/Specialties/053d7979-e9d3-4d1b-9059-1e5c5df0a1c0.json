@@ -1,0 +1,459 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "8a45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VH1003",
+            "summary": "Transparent, Thermoplastic Polyimide (TPI) resin with a glass transition temperature (Tg) of 247C.  This product has thinwall FR capability and has a UL94 V0 listing.",
+            "description": "Transparent, Thermoplastic Polyimide (TPI) resin with a glass transition temperature (Tg) of 247C.  This product has thin wall FR capability and has a UL94 V0 listing. This material is RoHS compliant and also halogen free according VDE/DIN 472 part 815.",
+            "applications": [
+                "Electronic Components",
+                "Meter Gas",
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_VH1003_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_vh1003_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "f8be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_VH1003_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_vh1003_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "c2bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_VH1003_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_vh1003_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "45c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vh1003"
+        },
+        {
+            "$id": "3",
+            "id": "8c45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VH1003F",
+            "summary": "Transparent, Thermoplastic Polyimide (TPI) resin. Glass transition Temp. (Tg) of 247C.  Global Food Contact Approval. Resin is subject to Commerce Control Laws U.S. 15CFR Chapter VII, Part 774 and Annex I of Reg. EC 428/2009 as ECCN1C008.",
+            "description": "Transparent, Thermoplastic Polyimide (TPI) resin with a glass transition temperature (Tg) of 247C.  This product has thin wall FR capability and has a UL94 V0 listing. This material is RoHS compliant and also halogen free according VDE/DIN 472 part 815. Global Food Contact Approvals.",
+            "applications": null,
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_VH1003F_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_vh1003f_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "d0bd102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_VH1003F_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_vh1003f_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "febe102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_VH1003F_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_vh1003f_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "c5bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vh1003f"
+        },
+        {
+            "$id": "4",
+            "id": "8e45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VH1003M",
+            "summary": "Transparent, Thermoplastic Polyimide (TPI) resin. Glass transition Temp. (Tg) of 247C. Internal mold release. UL94 V0 listed.",
+            "description": "Transparent, Thermoplastic Polyimide (TPI) resin with a glass transition temperature (Tg) of 247C. Internal mold release. This product has thinwall FR capability and has a UL94 V0 listing. This material is RoHS compliant and also halogen free according VDE/DIN 472 part 815.",
+            "applications": [
+                "Non-LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_VH1003M_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_vh1003m_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "d3bd102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_VH1003M_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_vh1003m_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "cbbf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_VH1003M_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_vh1003m_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "46c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vh1003m"
+        },
+        {
+            "$id": "5",
+            "id": "9045aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VH1003P",
+            "summary": "Transparent, Thermoplastic Polyimide (TPI) resin. Powder version of VH1003. Glass transition Temp. (Tg) of 247C.",
+            "description": "Transparent, Thermoplastic Polyimide (TPI) resin with a glass transition temperature (Tg) of 247C. Powder version of VH1003.",
+            "applications": [
+                "Additive Plastic",
+                "Circuit Board"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_VH1003P_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_vh1003p_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "d9bd102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_VH1003P_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_vh1003p_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "01bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_VH1003P_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_vh1003p_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "47c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Materials",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vh1003p"
+        },
+        {
+            "$id": "6",
+            "id": "da46aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XH1015",
+            "summary": "TPI Resin, Non-halogenated, Transparent,",
+            "description": "Thermoplastic Polyimide Extem* XH1015 Resin. Also UL rating 94V0 at 1.5 and 3.0.",
+            "applications": [
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Electronic Components",
+                "Fluid Delivery",
+                "Non-LED Lighting",
+                "Wearables",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "SMT",
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Application",
+                    "title": "ULTEM and EXTEM resin in Photonics Applications",
+                    "url": "/en/products/documents/ultem-and-extem-resin-in-photonics-applications/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f081ee57-87a9-ea11-8103-c81318e981df"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_XH1015_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_xh1015_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "f9be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_XH1015_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_xh1015_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "40c0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "EXTEM\u2122  Resin_XH1015_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/extem-resin_xh1015_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "afc9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xh1015"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "7",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "b4fce1c0-abe3-e611-80fb-005056857ef3",
+            "title": "SMT",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "9",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "c1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Gas",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "12",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "13",
+            "id": "36ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Plastic",
+            "count": 0
+        },
+        {
+            "$id": "14",
+            "id": "5bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Board",
+            "count": 0
+        },
+        {
+            "$id": "15",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "93ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid Delivery",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "1400ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wearables",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "21",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "25",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Management",
+            "id": "07ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "26",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "27",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "28",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "29",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Materials",
+            "id": "18ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "30",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "id": "2fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "31",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

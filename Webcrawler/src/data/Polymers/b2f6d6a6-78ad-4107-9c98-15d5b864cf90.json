@@ -1,0 +1,525 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "05f76c67-a44a-e711-80fb-005056857ef3",
+            "title": "BC210",
+            "summary": "Crystalline Polyethylene Terephthalate (IV=0.8)",
+            "description": "BC210 is a crystalline, high molecular weight thermoplastic polymer made by continues melt-phase polymerization process\nfollowed by solid-state polymerization. BC210 is especially formulated bottle grade PET characterized by medium IV.",
+            "applications": [
+                "Bottles",
+                "Food Container"
+            ],
+            "processingTechniques": [
+                "Injection stretch blow molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PET-BC210-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc210-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3716c1cf-6115-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-PET-BC210-SDS-Global-en",
+                    "url": "/en/products/documents/sabic-pet-bc210-sds-global-en/en",
+                    "language": "English",
+                    "country": "360a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Global",
+                    "id": "e968070d-baca-e811-80ff-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PET-BC210-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc210-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3aea2c75-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PET-BC210-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc210-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "62ba5f8f-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PET-BC210-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc210-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4c4fccd4-2faf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-PET-BC210-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc210-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ed3b55d9-3be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PET_BC210_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pet_bc210_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "41b3e4ce-3c4c-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Food & Beverage"
+            ],
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "f373ef44-4c22-ea11-8102-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "f473ef44-4c22-ea11-8102-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "bc210"
+        },
+        {
+            "$id": "5",
+            "id": "8813738c-b24a-e711-80fb-005056857ef3",
+            "title": "BC211",
+            "summary": "Crystalline Polyethylene Terephthalate (IV=0.76)",
+            "description": "BC211 is a crystalline, high molecular weight thermoplastic polymer made by continues melt-phase polymerization process\nfollowed by solid-state polymerization. BC211 is especially formulated bottle grade PET characterized by low I.V., and low acetaldehyde generation during\nmelting.",
+            "applications": [
+                "Bottles",
+                "Food Container"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PET-BC211-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc211-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e1f0aff5-6115-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PET-BC211-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc211-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3dea2c75-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PET-BC211-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc211-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "65ba5f8f-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PET-BC211-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc211-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4f4fccd4-2faf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-PET-BC211-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc211-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "64c496df-3be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PET_BC211_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pet_bc211_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c2bdb051-3c4c-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Food & Beverage"
+            ],
+            "contacts": [
+                {
+                    "$id": "6",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "dfc1a8af-81cb-e811-80ff-005056857ef3"
+                },
+                {
+                    "$id": "7",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "e0c1a8af-81cb-e811-80ff-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "bc211"
+        },
+        {
+            "$id": "8",
+            "id": "5abbc5a3-b64a-e711-80fb-005056857ef3",
+            "title": "BC212",
+            "summary": "Crystalline Polyethylene Terephthalate (IV=0.84)",
+            "description": "BC212 is a crystalline, high molecular weight thermoplastic polymer made by continues melt-phase polymerization process\nfollowed by solid-state polymerization. BC212 is specially formulated bottle grade PET, characterized by high I.V and low acetaldehyde. The high I.V. confers good\nmechanical properties; high burst strengths and reduced bottle distension after filling.",
+            "applications": [
+                "Bottles",
+                "Food Container"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PET-BC212-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc212-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "83d90b5c-6215-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PET-BC212-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc212-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "40ea2c75-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PET-BC212-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc212-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "68ba5f8f-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PET-BC212-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc212-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "524fccd4-2faf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-PET-BC212-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pet-bc212-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "67c496df-3be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PET_BC212_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pet_bc212_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c2de7687-3d4c-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Food & Beverage"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "bc212"
+        },
+        {
+            "$id": "9",
+            "id": "4d2f4543-804b-e711-80fb-005056857ef3",
+            "title": "PCG 60",
+            "summary": "PET for Healthcare Application (IV=0.6)",
+            "description": "SABIC\u00ae PCG PET60 for healthcare applications is produced under controlled conditions resulting in high product quality,\nconsistency and a high level of purity. PCG PET60 is a crystalline, low molecular weight thermoplastic polymer made by\ncontinues melt-phase polymerization process followed by solid-state polymerization. PCG PET60 is a specially formulated medical grade complying European pharma requirements. This grade exhibits easy flow ability which benefits thin walled injection molding process.",
+            "applications": [
+                "Medical Device",
+                "Renal and Blood Handling"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PET_PCG 60_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pet_pcg-60_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "ba6e97ed-304c-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Fluid and Blood Handling",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [
+                {
+                    "$id": "10",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "97ad1051-e9fb-ea11-8105-005056857ef3"
+                },
+                {
+                    "$id": "11",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "98ad1051-e9fb-ea11-8105-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pcg-60"
+        },
+        {
+            "$id": "12",
+            "id": "61745fb2-274c-e711-80fb-005056857ef3",
+            "title": "PCG 80",
+            "summary": "PET for Healthcare Application (IV=0.8)",
+            "description": "SABIC\u00ae PCG PET80 for healthcare applications is produced under controlled conditions resulting in high product quality, consistency and a high level of purity. PCG PET80 is a crystalline, high molecular weight thermoplastic polymer made by continues melt-phase polymerization process followed by solid-state polymerization. PCG PET80 is a specially formulated medical grade for pharma bottles and healthcare applications.",
+            "applications": [
+                "Bottles",
+                "Pharmaceutical Manufacturing",
+                "Pharmaceutical Packaging & Drug Delivery"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PET_PCG 80_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pet_pcg-80_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "23c3ea4b-2e4c-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pcg-80"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "13",
+            "id": "d7e3022f-66fd-4e64-af9d-26942d28f930",
+            "title": "Injection stretch blow molding",
+            "count": 0
+        },
+        {
+            "$id": "14",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "15",
+            "id": "51ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Bottles",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "95ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Container",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "e6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Renal and Blood Handling",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "d4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Manufacturing",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "d5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Packaging & Drug Delivery",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "21",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "25",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rigid Packaging",
+            "id": "c34e23fb-45e9-e611-80fb-005056857ef3"
+        },
+        {
+            "$id": "26",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food & Beverage",
+            "id": "0fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "27",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid and Blood Handling",
+            "id": "2effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "28",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "id": "34ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "29",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical",
+            "id": "04ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

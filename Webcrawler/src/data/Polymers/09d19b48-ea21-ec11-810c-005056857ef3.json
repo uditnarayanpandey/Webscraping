@@ -1,0 +1,84 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "81d1c58b-ea21-ec11-810c-005056857ef3",
+            "title": "2518DF",
+            "summary": "VA content 18 wt%, MFR(2.16 kg) 2.5 g/10 min",
+            "description": "SABIC EVA 2518DF contains 18% ethylene vinyl acetate copolymer resin, and is designed for a variety of foam application. SABIC EVA 2518DF Contains thermal stabilizer. It does not contain any anti-block nor slip agent.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae EVA_2518DF_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-eva_2518df_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211006",
+                    "id": "2a6e3c62-ed21-ec11-810c-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Foam Packaging"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "2518df"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "3",
+            "id": "d9dcd341-8780-4940-b2a7-028d86ff728e",
+            "title": "Foam",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "4",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "5",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "8",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Foam Packaging",
+            "id": "27f9afdd-45e9-e611-80fb-005056857ef3"
+        }
+    ]
+}

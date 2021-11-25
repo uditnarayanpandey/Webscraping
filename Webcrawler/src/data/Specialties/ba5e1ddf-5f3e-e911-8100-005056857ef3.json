@@ -1,0 +1,345 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "9744aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "STM1500",
+            "summary": "polyetherimide(PEI)-siloxane copolymer.  Wire and cable use.  Strength and flexibility.  RoHS compliant.",
+            "description": "SILTEM\u2122 STM1500 resin is a flexible polyetherimide(PEI)-siloxane copolymer for cable and wire coatings. RoHS compliant.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Defense Vehicles",
+                "Document Handling",
+                "Enclosures",
+                "Exterior Rail Components",
+                "Interior Rail Components",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SILTEM\u2122 Resin_STM1500_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/siltem-resin_stm1500_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "13c9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SILTEM\u2122 Resin_STM1500_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/siltem-resin_stm1500_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "27155be6-683e-e911-8100-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Aircraft Interiors",
+                "Defense",
+                "Rail",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Nuclear"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "stm1500"
+        },
+        {
+            "$id": "3",
+            "id": "9844aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "STM1600",
+            "summary": "Polyetherimide(PEI)-siloxane copolymer, Flame retardant, Non-halogenated, Transparent,",
+            "description": "SILTEM\u2122 STM1600 resin is a flexible polyetherimide(PEI)-siloxane copolymer designed for wire and cable applications. It offers a halogen free (according VDE 0472) flame retardant solution that also offers low smoke emission and toxicity. It is an amber colored transparent material that can be selfcolored and easily processed on conventional equipment. The material may also have a fit in flexible profiles or injection molded parts.",
+            "applications": [
+                "Aerospace",
+                "Enclosure/Housing/Cover",
+                "Fluid Delivery",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding",
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SILTEM\u2122 Resin_STM1600_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/siltem-resin_stm1600_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "2cbd102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SILTEM\u2122 Resin_STM1600_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/siltem-resin_stm1600_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "14c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Aircraft Interiors",
+                "Defense",
+                "Rail",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Nuclear"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "stm1600"
+        },
+        {
+            "$id": "4",
+            "id": "9944aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "STM1700",
+            "summary": "Polyetherimide(PEI)-siloxane copolymer, Flame retardant, Non-halogenated, Transparent,",
+            "description": "SILTEM\u2122 STM1700 resin is a flexible polyetherimide(PEI)-siloxane copolymer designed for wire and cable applications. It offers a halogen free (according VDE 0472) flame retardant solution that also offers low smoke emission and toxicity. It is an amber colored transparent material that can be selfcolored and easily processed on conventional equipment. The material may also have a fit in flexible profiles or injection molded parts.",
+            "applications": [
+                "Composite",
+                "Document Handling",
+                "Adhesives"
+            ],
+            "processingTechniques": [
+                "Injection Molding",
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SILTEM\u2122 Resin_STM1700_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/siltem-resin_stm1700_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "63be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SILTEM\u2122 Resin_STM1700_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/siltem-resin_stm1700_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "15c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Aircraft Interiors",
+                "Defense",
+                "Rail",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Nuclear"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "stm1700"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "5",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "b17d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Wire Coating Extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "7",
+            "id": "39ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "6dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "8effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Rail Components",
+            "count": 0
+        },
+        {
+            "$id": "12",
+            "id": "b4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior Rail Components",
+            "count": 0
+        },
+        {
+            "$id": "13",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "14",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "15",
+            "id": "38ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aerospace",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "93ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid Delivery",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "66ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Composite",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "1f8fb7b9-09a7-45e5-acb5-1175b471ed83",
+            "title": "Adhesives",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "20",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "21",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "24",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aircraft Interiors",
+            "id": "d7c9ad41-13ee-e611-80fb-005056857ef3"
+        },
+        {
+            "$id": "25",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense",
+            "id": "03ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "26",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "id": "13ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "27",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "28",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "29",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "id": "2affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "30",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "id": "2fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "31",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Nuclear",
+            "id": "32ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

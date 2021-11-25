@@ -1,0 +1,1039 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "7d42fa98-88ea-e911-8102-005056857ef3",
+            "title": "1922P20",
+            "summary": "Density 919 kg/m3, MFR (2.16 kg) 22 g/10 min",
+            "description": "SABIC\u00ae LDPE Powder 1922P20 is an additive free CTR\u00ae tubular grade with a typically high purity and as such a fine material for masterbatches in film applications.\n\nApplication\nSABIC\u00ae LDPE Powder 1922P20 is a normal sized powder grade. Since the grade is supplied in powder form it is typically used for pre mixing. The flow and dispersion of pigments and additives that tend towards blocking are typically improved by adding this grade.\n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Masterbatch"
+            ],
+            "processingTechniques": [
+                "masterbatch compounding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-LDPE Powder-1922P20-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p20-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "533f76ee-25a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-LDPE Powder-1922P20-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p20-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f19c5cf9-a7a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-LDPE Powder-1922P20-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p20-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "19804f1a-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-LDPE Powder-1922P20-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p20-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6ac9105f-2faf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-LDPE Powder-1922P20-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p20-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "bc779230-3be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae LDPE Powder_1922P20_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ldpe-powder_1922p20_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2df38232-8dea-e911-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1922p20"
+        },
+        {
+            "$id": "3",
+            "id": "8d0222fe-0080-4397-b082-7aad7c713733",
+            "title": "1922P3",
+            "summary": "Density 919 kg/m3, MFR (2.16 kg) 22 g/10 min",
+            "description": "SABIC\u00ae LDPE Powder 1922P3 is an additive free CTR\u00ae tubular grade with a typically high purity. The grade is supplied in powder form. \n\nApplication \nSABIC\u00ae LDPE Powder 1922P3 is typically used for textile coating, carpet backing and compounding applications. The very fine particle size makes that this grade is typically used for delicate tissues in textile coating. For compounding typically fine incorporation in mixtures or blends is possible. The enhanced MFR provides a low zero shear viscosity or good flow in extrusion processes. \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Masterbatch"
+            ],
+            "processingTechniques": [
+                "textile, carpetbacking, compounding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-LDPE Powder-1922P3-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p3-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f02d85ac-4fd4-41c8-a392-04dc023e5ee8"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-LDPE Powder-1922P3-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p3-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9ed885e6-7793-4e1f-ab6f-2b18abfef531"
+                },
+                {
+                    "documentType": "Toy declaration",
+                    "title": "1922P3\\00900-Toy declaration",
+                    "url": "/en/products/documents/1922p3-00900-toy-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "41f29594-d16d-45a5-a976-3c7b456f9130"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "1922P3\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/1922p3-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "f94e78f2-dc1d-433c-8f02-81a0d3d76f86"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-LDPE Powder-1922P3-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p3-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d55f28dc-423c-49be-8c53-894b70d17121"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-LDPE Powder-1922P3-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p3-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8f111a54-807a-4e04-8685-8e5f02e00e83"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "1922P3\\00900-Phthalates declaration",
+                    "url": "/en/products/documents/1922p3-00900-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "aa27d006-fd98-4add-ba55-d4ae16458488"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-LDPE Powder-1922P3-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p3-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "fe955b3f-4d64-4369-b234-f7740bbe1e9f"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae LDPE Powder_1922P3_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ldpe-powder_1922p3_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "9fc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1922p3"
+        },
+        {
+            "$id": "4",
+            "id": "796198eb-3272-4404-b43f-09054b85c204",
+            "title": "1922P5",
+            "summary": "Density 919 kg/m3, MFR (2.16 kg) 22 g/10 min",
+            "description": "SABIC\u00ae LDPE Powder 1922P5 is an additive free CTR\u00ae tubular grade with a typically high purity and as such a fine material for masterbatches in film applications.\n\nApplication\nSABIC\u00ae LDPE Powder 1922P5 is a medium sized powder grade. Since the grade is supplied in powder form it is typically used for pre mixing. The flow and dispersion of pigments and additives that tend towards blocking are typically improved by adding this grade.\n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Masterbatch"
+            ],
+            "processingTechniques": [
+                "textile, carpetbacking, masterbatch"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-LDPE Powder-1922P5-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p5-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "dfde834c-27a7-4942-a027-267d0f706a53"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "1922P5\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/1922p5-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "c947f3fb-1519-4944-adcb-31be7d5f35e6"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-LDPE Powder-1922P5-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p5-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "acb55e5e-15ea-4ad2-b539-4099de4df3e1"
+                },
+                {
+                    "documentType": "Toy declaration",
+                    "title": "1922P5\\00900-Toy declaration",
+                    "url": "/en/products/documents/1922p5-00900-toy-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "7c09ac87-4c8e-4fef-b9bc-46ee820d01c8"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-LDPE Powder-1922P5-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p5-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "47f29404-8da5-44ea-9901-73e276a4335d"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "1922P5\\00900-Phthalates declaration",
+                    "url": "/en/products/documents/1922p5-00900-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3c1c2988-0ee8-4752-8558-94851fd76c8c"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-LDPE Powder-1922P5-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p5-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e0ddca27-0968-43a4-8049-cfaef87d5649"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-LDPE Powder-1922P5-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p5-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "159e7e65-2004-4530-91c7-f2a0dcb5888c"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae LDPE Powder_1922P5_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ldpe-powder_1922p5_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "36ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1922p5"
+        },
+        {
+            "$id": "5",
+            "id": "1f8a0e7f-c53f-4b53-8c96-ceb44dc8b439",
+            "title": "1922P9",
+            "summary": "Density 919 kg/m3, MFR (2.16 kg) 22 g/10 min",
+            "description": "SABIC\u00ae LDPE Powder 1922P9 is an additive free CTR\u00ae tubular grade with a typically high purity and as such a fine material for masterbatches in film applications.\n\nApplication\nSABIC\u00ae LDPE Powder 1922P9 is a normal sized powder grade. Since the grade is supplied in powder form it is typically used for pre mixing. The flow and dispersion of pigments and additives that tend towards blocking are typically improved by adding this grade.\n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Masterbatch"
+            ],
+            "processingTechniques": [
+                "masterbatch compounding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Toy declaration",
+                    "title": "1922P9\\00900-Toy declaration",
+                    "url": "/en/products/documents/1922p9-00900-toy-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "7047331f-1ae0-443b-978d-0c18dfed15cc"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-LDPE Powder-1922P9-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p9-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "070ef446-d835-4217-8a1c-23bfbf47835c"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "1922P9\\00900-Phthalates declaration",
+                    "url": "/en/products/documents/1922p9-00900-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c7b07c2a-e5b1-44d9-9649-2c1564cd2c8d"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-LDPE Powder-1922P9-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p9-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "15fdaa14-8c3d-4152-b2c7-349bb7de9e9e"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-LDPE Powder-1922P9-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p9-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "efaa9ae2-8cd1-4885-b45e-442b2bae9f21"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-LDPE Powder-1922P9-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p9-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "eea8d3d8-48d2-44d7-8f7a-95cf7dcccdda"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "1922P9\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/1922p9-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "ec468c61-bbb9-43ec-9f34-defa09cabb2e"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-LDPE Powder-1922P9-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1922p9-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "15b9abb0-7d04-435a-9d04-e249e78bc623"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae LDPE Powder_1922P9_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ldpe-powder_1922p9_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "9bc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1922p9"
+        },
+        {
+            "$id": "6",
+            "id": "2d3c4003-8aea-e911-8102-005056857ef3",
+            "title": "1965P20",
+            "summary": "Density 919 kg/m3, MFR (2.16 kg) 65 g/10 min",
+            "description": "SABIC\u00ae LDPE Powder 1965P20 is an additive free standard CTR\u00ae tubular grade for masterbatch with a typically low viscosity. This grade has a typically high filler acceptance.\n\nApplication \nSABIC\u00ae LDPE Powder 1965P20 is a normal sized powder grade. Since the grade is supplied in powder form it is typically used for pre mixing. The flow and dispersion of pigments and additives that tend towards blocking are typically improved by adding this grade.\n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Masterbatch"
+            ],
+            "processingTechniques": [
+                "masterbatch compounding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-LDPE Powder-1965P20-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p20-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "52fb110a-12a4-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-LDPE Powder-1965P20-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p20-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "fa9c5cf9-a7a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-LDPE Powder-1965P20-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p20-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a7634422-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-LDPE Powder-1965P20-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p20-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "59abac65-2faf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-LDPE Powder-1965P20-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p20-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9f6c8b37-3be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae LDPE Powder_1965P20_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ldpe-powder_1965p20_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e75a44d4-8cea-e911-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1965p20"
+        },
+        {
+            "$id": "7",
+            "id": "70cbf4af-0ad0-4cbd-b9c5-34adfbd6ac3f",
+            "title": "1965P3",
+            "summary": "Density 919 kg/m3, MFR (2.16 kg) 65 g/10 min",
+            "description": "SABIC\u00ae LDPE Powder 1965P3 is an additive free standard CTR\u00ae tubular grade for masterbatch with a typically low viscosity. This grade has a typically high filler acceptance.\n\nApplication \nSABIC\u00ae LDPE Powder 1965P3 is a very fine powder grade. Since the grade is supplied in powder form it is typically used for pre mixing. The flow and dispersion of pigments and additives that tend towards blocking are typically improved by adding this grade.\n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Masterbatch"
+            ],
+            "processingTechniques": [
+                "textile, carpetbacking, compounding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-LDPE Powder-1965P3-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p3-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "7612af3a-23a0-46ad-8346-2435da8c0595"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "1965P3\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/1965p3-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "4cbdbc46-46ab-47b6-a4f3-54195d3efb14"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-LDPE Powder-1965P3-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p3-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "48f6ca83-cabe-416b-8992-6bd1f6d1889c"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "1965P3\\00900-Phthalates declaration",
+                    "url": "/en/products/documents/1965p3-00900-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5ca77d87-16af-44c8-908d-7b4c65e04004"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-LDPE Powder-1965P3-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p3-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "03f6ab32-13f7-45ba-837f-9c9d29d52cb0"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-LDPE Powder-1965P3-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p3-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "17771b2c-1ac8-4045-85f3-aef6b60319f8"
+                },
+                {
+                    "documentType": "Toy declaration",
+                    "title": "1965P3\\00900-Toy declaration",
+                    "url": "/en/products/documents/1965p3-00900-toy-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "14a0e95e-1393-412f-86b6-b599461c5fab"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-LDPE Powder-1965P3-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p3-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e6d5571d-cfa8-4bea-814d-d28d8da1953e"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae LDPE Powder_1965P3_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ldpe-powder_1965p3_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "06c3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1965p3"
+        },
+        {
+            "$id": "8",
+            "id": "3a92828c-e001-41b5-affe-38cc0cfdf448",
+            "title": "1965P5",
+            "summary": "Density 919 kg/m3, MFR (2.16 kg) 65 g/10 min",
+            "description": "SABIC\u00ae LDPE Powder 1965P5 is an additive free standard CTR\u00ae tubular grade with a high melt flow rate and is known for its typically high filler/pigments acceptance properties. This grade is supplied in powder form.\n\nApplication\nSABIC\u00ae LDPE Powder 1965P5 is a medium sized powder grade with a low viscosity for textile coating, carpet backing and compounding applications. It is further used for masterbatches with a typically very high loading of carbon black, titanium dioxide or pigment.\n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Masterbatch"
+            ],
+            "processingTechniques": [
+                "textile, carpetbacking, masterbatch"
+            ],
+            "documents": [
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-LDPE Powder-1965P5-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p5-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5eabac65-2faf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-LDPE Powder-1965P5-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p5-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0a051432-f061-48a6-b94b-1972dfa30c52"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "1965P5\\00900-Phthalates declaration",
+                    "url": "/en/products/documents/1965p5-00900-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3b0d598e-5092-4b4d-80d5-41dae629372f"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-LDPE Powder-1965P5-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p5-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c44b0be6-7789-4712-a59c-6c1aac5c5117"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "1965P5\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/1965p5-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "df493ce7-7c1e-412b-a536-6f9969ea0bea"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-LDPE Powder-1965P5-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p5-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "84486851-4987-4122-874b-7a88493bc990"
+                },
+                {
+                    "documentType": "Toy declaration",
+                    "title": "1965P5\\00900-Toy declaration",
+                    "url": "/en/products/documents/1965p5-00900-toy-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f883c252-a116-4b01-9b3b-c1112d330382"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-LDPE Powder-1965P5-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p5-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5bd75178-6294-4279-b07a-f7174493f6a1"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae LDPE Powder_1965P5_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ldpe-powder_1965p5_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f1c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1965p5"
+        },
+        {
+            "$id": "9",
+            "id": "643f7ae4-c4c4-46f7-9249-faca00b1c83c",
+            "title": "1965P9",
+            "summary": "Density 919 kg/m3, MFR (2.16 kg) 65 g/10 min",
+            "description": "SABIC\u00ae LDPE Powder 1965P9 is an additive free standard CTR\u00ae tubular grade for masterbatch with a typically low viscosity. This grade has a typically high filler acceptance.\n\nApplication \nSABIC\u00ae LDPE Powder 1965P9 is a normal sized powder grade. Since the grade is supplied in powder form it is typically used for pre mixing. The flow and dispersion of pigments and additives that tend towards blocking are typically improved by adding this grade.\n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Masterbatch"
+            ],
+            "processingTechniques": [
+                "masterbatch compounding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-LDPE Powder-1965P9-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p9-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "57fff916-4c9b-4e7a-a071-3599a2ad1f19"
+                },
+                {
+                    "documentType": "Toy declaration",
+                    "title": "1965P9\\00900-Toy declaration",
+                    "url": "/en/products/documents/1965p9-00900-toy-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5ea4c45f-74aa-40ee-9d80-4b2930843124"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "1965P9\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/1965p9-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "09ded886-8670-4ce5-93f0-979b247925f4"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-LDPE Powder-1965P9-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p9-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6aa78b74-b8dc-4808-8952-a047f512766e"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-LDPE Powder-1965P9-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p9-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "7f44cbea-01c3-45bd-abae-a4324d11fc49"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-LDPE Powder-1965P9-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p9-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "031610d2-02ac-4035-a05b-b3d08dc782da"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-LDPE Powder-1965P9-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-1965p9-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "bf417edd-0b11-4c0f-a63f-cfbbbf6d4ccc"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "1965P9\\00900-Phthalates declaration",
+                    "url": "/en/products/documents/1965p9-00900-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8358fb68-aea3-44aa-9faa-fa3268159c67"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae LDPE Powder_1965P9_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ldpe-powder_1965p9_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b6c3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1965p9"
+        },
+        {
+            "$id": "10",
+            "id": "60c03c08-9512-4fc5-8977-91209370bb99",
+            "title": "2008P5",
+            "summary": "Density 920 kg/m3, MFR (2.16 kg) 7.5 g/10 min",
+            "description": "SABIC\u00ae LDPE Powder 2008P5 is an additive free standard CTR\u00ae tubular grade with very low gel count and as such fine material for general purpose use.\nThe grade is supplied in powder form. \n\nApplication\nSABIC\u00ae LDPE Powder 2008P5 is a medium sized powder grade with medium viscosity for textile coating, carpet backing and compounding applications. It is also typically used for masterbatch applications. \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Masterbatch"
+            ],
+            "processingTechniques": [
+                "textile, carpetbacking, masterbatch"
+            ],
+            "documents": [
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-LDPE Powder-2008P5-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-2008p5-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "06244f63-6d34-4cb3-b759-161cfc2efae4"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-LDPE Powder-2008P5-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-2008p5-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0cca5873-ba48-4b94-807c-285b1c35aa23"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-LDPE Powder-2008P5-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-2008p5-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "de8cdf74-28e1-4ada-a784-3a214057ae5d"
+                },
+                {
+                    "documentType": "Toy declaration",
+                    "title": "2008P5\\00900-Toy declaration",
+                    "url": "/en/products/documents/2008p5-00900-toy-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "49046a07-8f25-416c-b297-722279f97dc0"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-LDPE Powder-2008P5-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-2008p5-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "76bed998-71e5-4c1b-af45-a34f441f9b76"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-LDPE Powder-2008P5-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-2008p5-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "38628a6d-0f21-4c1a-8d5e-d33efc03a481"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "2008P5\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/2008p5-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "028ab43e-f7a3-46cb-ada5-eac21fd5f557"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "2008P5\\00900-Phthalates declaration",
+                    "url": "/en/products/documents/2008p5-00900-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0d03ba90-4aac-4293-9a2c-efab5302b014"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae LDPE Powder_2008P5_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ldpe-powder_2008p5_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "abc3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "2008p5"
+        },
+        {
+            "$id": "11",
+            "id": "dc9bec97-474c-4149-82ff-f92aa9034722",
+            "title": "2102P5",
+            "summary": "Density 921 kg/m3, MFR (2.16 kg) 1.9 g/10 min",
+            "description": "SABIC\u00ae LDPE Powder 2102P5 is an additive free standard CTR\u00ae tubular grade for masterbatch with a relatively low melt flow rate. This grade is supplied in powder form.\n\nApplication\nSABIC\u00ae LDPE Powder 2102P5 is a general medium sized powder grade, typical used for textile coating, carpet backing and compounding applications with a low viscosity. Further it can be used for low filled or additive masterbatches (e.g. slip agents, anti fog agents, anti static agents, thermal stabilizers).\n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Masterbatch"
+            ],
+            "processingTechniques": [
+                "textile, carpetbacking, masterbatch"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-LDPE Powder-2102P5-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-2102p5-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c283aecf-4c75-45b7-bec3-2529bfca1fc3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "2102P5\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/2102p5-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "374e183b-b791-432f-a66a-70bfcd921972"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "2102P5\\00900-Phthalates declaration",
+                    "url": "/en/products/documents/2102p5-00900-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0c85d05e-6b7d-4873-8601-714502896df5"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-LDPE Powder-2102P5-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-2102p5-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "30047179-0f78-4d96-9b8c-74b2f12c357e"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-LDPE Powder-2102P5-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-2102p5-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "aa2c7433-7f32-4092-89dd-8dce4f2a7124"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-LDPE Powder-2102P5-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-2102p5-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1030b6c5-752b-4335-a681-8f794cd2f40a"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-LDPE Powder-2102P5-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ldpe-powder-2102p5-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "fc051592-455c-4144-88d8-b31683f2af09"
+                },
+                {
+                    "documentType": "Toy declaration",
+                    "title": "2102P5\\00900-Toy declaration",
+                    "url": "/en/products/documents/2102p5-00900-toy-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b07cb00a-d267-4faa-a2e8-be4529825806"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae LDPE Powder_2102P5_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ldpe-powder_2102p5_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0ec4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "2102p5"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "12",
+            "id": "add099bb-3e80-4a8f-8a7a-1f2e79415625",
+            "title": "masterbatch compounding",
+            "count": 0
+        },
+        {
+            "$id": "13",
+            "id": "93cabc24-d9f0-48a6-a373-7d25cd2b9bec",
+            "title": "textile, carpetbacking, compounding",
+            "count": 0
+        },
+        {
+            "$id": "14",
+            "id": "e2278f28-a9ea-4cc2-93f8-961fadae6911",
+            "title": "textile, carpetbacking, masterbatch",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "15",
+            "id": "8e1267b2-3402-4a11-a323-4e33df0d3572",
+            "title": "Masterbatch",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "16",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Middle East and Africa",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "20",
+            "industry": "1679dc71-a5d2-4e3b-bd90-ef43d09fe4d9",
+            "title": "IndustrySegment",
+            "id": "f25a6df1-91f0-43a8-9b69-520be613d22d"
+        }
+    ]
+}

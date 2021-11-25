@@ -1,0 +1,254 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "cb2faad7-e0d8-e611-819b-06b69393ae39",
+            "title": "1000F3SP",
+            "summary": "ULTEM 1000F3SP powder is a RoHS compliant polyetherimide (PEI) powder offering a glass transition temperature (Tg) of 217\u00baC. This FDA compliant powder is available in a spherical shape with an average particle size (D50) of 15 micron and a maximum",
+            "description": "ULTEM 1000F3SP powder is a RoHS compliant polyetherimide (PEI) powder offering a glass transition temperature (Tg) of 217\u00baC. This FDA compliant powder is available in a spherical shape with an average particle size (D50) of 15 micron and a maximum particle size (D100) of 75 micron.",
+            "applications": [
+                "Additive Plastic",
+                "Composite"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "Dianhydrides & Imides_1000F3SP_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/dianhydrides-imides_1000f3sp_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "8faf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "Dianhydrides & Imides_1000F3SP_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/dianhydrides-imides_1000f3sp_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "3ec4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Composite"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1000f3sp"
+        },
+        {
+            "$id": "3",
+            "id": "ec2faad7-e0d8-e611-819b-06b69393ae39",
+            "title": "1040A",
+            "summary": "Transparent, high flow polyetherimide.",
+            "description": "Transparent, high flow polyetherimide.",
+            "applications": [
+                "Additive Plastic",
+                "Composite",
+                "Enclosures",
+                "Water Treatment/Filtration",
+                "Adhesives",
+                "Wire & cable"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "Dianhydrides & Imides_1040A_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/dianhydrides-imides_1040a_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "38972957-ad88-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Adhesives",
+                "Electrical Components and Infrastructure",
+                "Composite"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1040a"
+        },
+        {
+            "$id": "4",
+            "id": "7a55c15a-1d1e-e811-80fd-005056857ef3",
+            "title": "BISDA",
+            "summary": "BISDA (4,4-Bisphenol A Dianhydride) (di-anhydride of BPA) is a flake that can be used as a comonomer in polyimide synthesis or as an anhydride curing agent in epoxy.",
+            "description": "BISDA (4,4-Bisphenol A Dianhydride) (dianhydrides of BPA) is a flake that can be used as a comonomer in polyimide synthesis or as an anhydride curing agent in epoxy.  When used as an epoxy curative, BISDA can be used to enhance thermal performance in comparison to mono anhydrides and aromatic amine curing agents.  Application areas include electronics encapsulation, composites, and adhesives. BISDA derived polyimide varnishes, coatings, adhesives, films and wire enamels meet desired solubility/stability in organic solvents even after complete imidization, heat resistance, flexibility/softness, dimensional stability and adhesion properties for ever-increasing design complexity of electronics devices.",
+            "applications": [
+                "Tire",
+                "Additive Plastic",
+                "Composite"
+            ],
+            "processingTechniques": null,
+            "documents": null,
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Materials",
+                "Composite"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "bisda"
+        },
+        {
+            "$id": "5",
+            "id": "1d4fe2c0-ab88-eb11-8108-005056857ef3",
+            "title": "SD1100P",
+            "summary": "SD1100P powder is a high purity 4,4\u2019-BPADA powder. When used in polyimide applications, SD1100P powder may offer performance improvements such as solubility of polyimides in organic solvents, lower water absorption, lower dielectric constant and lower dissipation factor.",
+            "description": "SD1100P powder is a high purity 4,4\u2019-BPADA powder. When used in polyimide applications, SD1100P powder may offer performance improvements such as solubility of polyimides in organic solvents, lower water absorption, lower dielectric constant and lower dissipation factor.",
+            "applications": [
+                "Additive Plastic",
+                "Composite"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Product Brochure",
+                    "title": "SABIC SD1100P - Building polyimide varnishes and films using high purity BPADA powder",
+                    "url": "/en/products/documents/sabic-sd1100p-building-polyimide-varnishes-and-films-using-high-purity-bpada-powder/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "703c3108-af88-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Materials",
+                "Composite"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sd1100p"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "6",
+            "id": "36ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Plastic",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "66ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Composite",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "1200ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Treatment/Filtration",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "1f8fb7b9-09a7-45e5-acb5-1175b471ed83",
+            "title": "Adhesives",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "12",
+            "id": "d8162da8-08e9-e611-80fb-005056857ef3",
+            "title": "Tire",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "13",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "14",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "15",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "16",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Composite",
+            "id": "2bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "17",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Management",
+            "id": "07ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "18",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Adhesives",
+            "id": "1cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "19",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "20",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Materials",
+            "id": "18ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

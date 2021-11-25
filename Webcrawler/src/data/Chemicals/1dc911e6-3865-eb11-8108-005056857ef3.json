@@ -1,0 +1,275 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "8068fae3-4265-eb11-8108-005056857ef3",
+            "title": "SABIC\u00ae CG Circular Propylene",
+            "summary": "Propylene is a non-toxic, non-corrosive, colorless gas with very little odor.",
+            "description": "Propylene is a non-toxic, non-corrosive, colorless gas with very little odor. It burns readily in the presence of oxygen with a luminous flame.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae CG Circular Propylene_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-cg-circular-propylene_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "7e821958-4365-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "b3db06d7-2e65-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "07bfb350-62bd-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "f2af68e3-2e65-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "08bfb350-62bd-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "5",
+                    "contact": "2e24ebc9-8905-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "09bfb350-62bd-eb11-8109-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [
+                "a00e6af7-ee5e-eb11-8108-005056857ef3"
+            ],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-cg-circular-propylene"
+        },
+        {
+            "$id": "6",
+            "id": "e7044d66-3865-eb11-8108-005056857ef3",
+            "title": "SABIC\u00ae CG Propylene",
+            "summary": "Propylene is a non-toxic, non-corrosive, colorless gas with very little odor.",
+            "description": "Propylene is a non-toxic, non-corrosive, colorless gas with very little odor. It burns readily in the presence of oxygen with a luminous flame.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-CG Propylene-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-cg-propylene-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "17ca7370-7bb8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-CG Propylene-SDS-Asia-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-cg-propylene-sds-asia-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "id": "fe5e2a0b-8bb8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae CG Propylene_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-cg-propylene_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "6c948de9-4065-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "7",
+                    "contact": "b3db06d7-2e65-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "06c2c4cb-61bd-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "8",
+                    "contact": "2e24ebc9-8905-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "07c2c4cb-61bd-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "9",
+                    "contact": "f2af68e3-2e65-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "08c2c4cb-61bd-eb11-8109-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [
+                "a00e6af7-ee5e-eb11-8108-005056857ef3"
+            ],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-cg-propylene"
+        },
+        {
+            "$id": "10",
+            "id": "03097849-4165-eb11-8108-005056857ef3",
+            "title": "SABIC\u00ae CG Renewable Propylene",
+            "summary": "Propylene is a non-toxic, non-corrosive, colorless gas with very little odor.",
+            "description": "Propylene is a non-toxic, non-corrosive, colorless gas with very little odor. It burns readily in the presence of oxygen with a luminous flame.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-CG Renewable Propylene-SDS-Global-en-2021-05-17",
+                    "url": "/en/products/documents/sabic-cg-renewable-propylene-sds-global-en-2021-05-17/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "96efdcb1-1ab7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae CG Renewable Propylene_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-cg-renewable-propylene_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "592eeeb1-4265-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "11",
+                    "contact": "b3db06d7-2e65-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "45d23019-62bd-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "12",
+                    "contact": "f2af68e3-2e65-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "46d23019-62bd-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "13",
+                    "contact": "2e24ebc9-8905-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "47d23019-62bd-eb11-8109-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [
+                "a00e6af7-ee5e-eb11-8108-005056857ef3"
+            ],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-cg-renewable-propylene"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "14",
+            "id": "313ee29e-8cc7-e611-8197-06b69393ae39",
+            "title": "Placeholder - please replace me",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "15",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

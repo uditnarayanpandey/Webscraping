@@ -1,0 +1,155 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "ccecdc1f-fd90-eb11-8108-005056857ef3",
+            "title": "MDI 2031",
+            "summary": "brown low viscosity mixture of diphenylmethane-4,4' diisocyanate with isomers and homologues of higher functionality \nIsocyanate (NCO) content\t% weight\t30.4 \u2013 32.00",
+            "description": "SABIC\u00ae MDI 2031 is a brown low viscosity mixture of diphenylmethane-4,4' diisocyanate with isomers and homologues of higher functionality (polymeric-MDI) with an average functionality of 2.7 for multi-purpose (non-) foamed rigid and flexible applications.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae Isocyanate_MDI 2031_Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-isocyanate_mdi-2031_material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "482d6f6f-6abc-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Isocyanate_MDI 2031_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-isocyanate_mdi-2031_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "4da71ad2-fe90-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mdi-2031"
+        },
+        {
+            "$id": "3",
+            "id": "0c05a50d-05c2-eb11-8109-005056857ef3",
+            "title": "o-TDA",
+            "summary": "SABIC\u00ae o-TDA",
+            "description": "Chemical name : ORTHO-TOLUENE DIAMINE",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae ISOCYANATE_o-TDA_MATERIAL SAFETY DATASHEET",
+                    "url": "/en/products/documents/sabic-isocyanate_o-tda_material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ddf62341-06c2-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "o-tda"
+        },
+        {
+            "$id": "4",
+            "id": "973b3ab4-6385-eb11-8108-005056857ef3",
+            "title": "TDI 0380",
+            "summary": "Isocyanate (NCO) content\t% weight\t48.20\tASTM D5155\nIsomer content 2, 6 isomer 18.5 - 21    ASTM D4660 and 2, 4 isomer 79 - 81.5    ASTM D4660",
+            "description": "SABIC\u00ae TDI 0380 is an 80:20 mixture of 2, 4 and 2, 6 isomers of toluene diisocyanate (TDI), difunctional isocyanate widely used in flexible foam application.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae Isocyanate _ TDI 0380_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-isocyanate-_-tdi-0380_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5eaa75a8-ecbe-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Isocyanate_TDI 0380_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-isocyanate_tdi-0380_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "4a55a24a-6685-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "tdi-0380"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "5",
+            "id": "d9dcd341-8780-4940-b2a7-028d86ff728e",
+            "title": "Foam",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "6",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

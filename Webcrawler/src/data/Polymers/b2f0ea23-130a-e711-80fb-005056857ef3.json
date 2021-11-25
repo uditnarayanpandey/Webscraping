@@ -1,0 +1,995 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "0b4e4fe6-73c4-e711-80fd-005056857ef3",
+            "title": "140HF",
+            "summary": "MFR(230\u00b0C, 3.80 kg) 14 g/10 min",
+            "description": "SABIC\u00ae PMMA 140HF is a standard easy flowing grade for Injection molding applications. The grade is available in pellet form.",
+            "applications": [
+                "Lighting"
+            ],
+            "processingTechniques": [
+                "Extrusion",
+                "Thermoforming"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae PMMA_140HF Material Safety Data Sheet",
+                    "url": "/en/products/documents/sabic-pmma_140hf-material-safety-data-sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "210686ac-9bd2-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PMMA-140HF-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-140hf-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "674a6dbc-df01-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PMMA-140HF-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-140hf-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "43ea2c75-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PMMA-140HF-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-140hf-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2e650a96-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PMMA-140HF-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-140hf-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "554fccd4-2faf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-PMMA-140HF-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-140hf-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6ac496df-3be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PMMA_140HF_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pmma_140hf_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "17fdbd9a-74c4-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Lighting",
+                "Automotive Lighting"
+            ],
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "90fbe278-b32a-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "3367fa85-dae3-e611-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "91fbe278-b32a-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "5",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "92fbe278-b32a-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "6",
+                    "contact": "380fa919-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "93fbe278-b32a-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "7",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "94fbe278-b32a-e911-8100-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "140hf"
+        },
+        {
+            "$id": "8",
+            "id": "f0cabdbb-74c4-e711-80fd-005056857ef3",
+            "title": "17OP",
+            "summary": "MFR(230\u00b0C, 3.80 kg) 1.7 g/10 min",
+            "description": "SABIC\u00ae PMMA 17OP is an optical LGP extrusion grade with low foreign matter count and low UV absorbance. The grade is\navailable in pellet form.",
+            "applications": [
+                "Lighting"
+            ],
+            "processingTechniques": [
+                "Extrusion",
+                "Thermoforming"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae PMMA_17OP Material Safety Data Sheet",
+                    "url": "/en/products/documents/sabic-pmma_17op-material-safety-data-sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9f44b29b-97d2-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PMMA-17OP-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-17op-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5b5fa338-0901-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PMMA-17OP-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-17op-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "46ea2c75-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PMMA-17OP-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-17op-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "31650a96-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PMMA-17OP-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-17op-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "584fccd4-2faf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-PMMA-17OP-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-17op-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6dc496df-3be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PMMA_17OP_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pmma_17op_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "16158d51-75c4-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Lighting",
+                "Automotive Lighting"
+            ],
+            "contacts": [
+                {
+                    "$id": "9",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "629ab159-b32a-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "10",
+                    "contact": "3367fa85-dae3-e611-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "639ab159-b32a-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "11",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "649ab159-b32a-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "12",
+                    "contact": "380fa919-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "659ab159-b32a-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "13",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "669ab159-b32a-e911-8100-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "17op"
+        },
+        {
+            "$id": "14",
+            "id": "9f6d1e5d-6fc4-e711-80fd-005056857ef3",
+            "title": "20HR",
+            "summary": "MFR(230\u00b0C, 3.80 kg) 2.0 g/10 min",
+            "description": "SABIC\u00ae PMMA 20HR is a PMMA grade with good heat resistance property suitable for extrusion and injection molding\napplications. The grade is available in pellet form.",
+            "applications": [
+                "Cover Lens",
+                "Optical Film",
+                "Lighting"
+            ],
+            "processingTechniques": [
+                "Extrusion",
+                "Thermoforming"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae PMMA_20HR Material Safety Data Sheet",
+                    "url": "/en/products/documents/sabic-pmma_20hr-material-safety-data-sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "7716ace4-96d2-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PMMA-20HR-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-20hr-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "08465edc-0901-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PMMA-20HR-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-20hr-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "69b6ae7b-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PMMA-20HR-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-20hr-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "34650a96-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PMMA-20HR-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-20hr-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5b4fccd4-2faf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-PMMA-20HR-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-20hr-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d1dd74e6-3be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PMMA_20HR_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pmma_20hr_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "8b848cf4-71c4-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Lighting",
+                "Automotive Lighting"
+            ],
+            "contacts": [
+                {
+                    "$id": "15",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "186ae588-9271-e911-8101-005056857ef3"
+                },
+                {
+                    "$id": "16",
+                    "contact": "3367fa85-dae3-e611-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "196ae588-9271-e911-8101-005056857ef3"
+                },
+                {
+                    "$id": "17",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "1a6ae588-9271-e911-8101-005056857ef3"
+                },
+                {
+                    "$id": "18",
+                    "contact": "380fa919-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "1b6ae588-9271-e911-8101-005056857ef3"
+                },
+                {
+                    "$id": "19",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "1c6ae588-9271-e911-8101-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "20hr"
+        },
+        {
+            "$id": "20",
+            "id": "3425866c-72c4-e711-80fd-005056857ef3",
+            "title": "23SP",
+            "summary": "MFR(230\u00b0C, 3.80 kg) 2.3 g/10 min",
+            "description": "SABIC\u00ae PMMA 23SP is a special extrusion grade with good chemical resistance and weather resistance. The grade is\navailable in pellet form.",
+            "applications": [
+                "Lighting"
+            ],
+            "processingTechniques": [
+                "Extrusion",
+                "Thermoforming"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae PMMA_23SP Material Safety Data Sheet",
+                    "url": "/en/products/documents/sabic-pmma_23sp-material-safety-data-sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2bd91925-98d2-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PMMA-23SP-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-23sp-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "beb7ee38-0f01-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PMMA-23SP-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-23sp-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6cb6ae7b-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PMMA-23SP-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-23sp-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "37650a96-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PMMA-23SP-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-23sp-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "436e41db-2faf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-PMMA-23SP-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pmma-23sp-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d4dd74e6-3be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PMMA_23SP_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pmma_23sp_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "3ff540cc-73c4-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Lighting",
+                "Automotive Lighting"
+            ],
+            "contacts": [
+                {
+                    "$id": "21",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "4b65ba28-b32a-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "22",
+                    "contact": "3367fa85-dae3-e611-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "4c65ba28-b32a-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "23",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "4d65ba28-b32a-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "24",
+                    "contact": "380fa919-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "4e65ba28-b32a-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "25",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "4f65ba28-b32a-e911-8100-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "23sp"
+        },
+        {
+            "$id": "26",
+            "id": "92918055-31ed-eb11-810a-005056857ef3",
+            "title": "P15OE",
+            "summary": "MFR(230\u00b0C, 3.80 kg) 1.5 g/10 min",
+            "description": "SABIC\u00ae PMMA P15OE is a Optical extrusion grade for sheets for signage, display, sound barrier, and LED light guide panels, as well as for profiles pipes and rods.",
+            "applications": [
+                "Cover Lens",
+                "Optical Film",
+                "Lighting"
+            ],
+            "processingTechniques": [
+                "Extrusion",
+                "Thermoforming"
+            ],
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC-SABIC\u00ae PMMA-P15OE-SDSR-Global-en-2021-10-12",
+                    "url": "/en/products/documents/sabic-sabic-pmma-p15oe-sdsr-global-en-2021-10-12/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "62f6d364-312b-ec11-810c-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PMMA_P15OE_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pmma_p15oe_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211012",
+                    "id": "204e641b-32ed-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Lighting",
+                "Automotive Lighting"
+            ],
+            "contacts": [
+                {
+                    "$id": "27",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "e28a30e1-482b-ec11-810c-005056857ef3"
+                },
+                {
+                    "$id": "28",
+                    "contact": "3367fa85-dae3-e611-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "e38a30e1-482b-ec11-810c-005056857ef3"
+                },
+                {
+                    "$id": "29",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "e48a30e1-482b-ec11-810c-005056857ef3"
+                },
+                {
+                    "$id": "30",
+                    "contact": "380fa919-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "e58a30e1-482b-ec11-810c-005056857ef3"
+                },
+                {
+                    "$id": "31",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "e68a30e1-482b-ec11-810c-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p15oe"
+        },
+        {
+            "$id": "32",
+            "id": "70f80d27-8fdc-eb11-810a-005056857ef3",
+            "title": "P20MH",
+            "summary": "MFR(230\u00b0C, 3.80 kg) 2.0 g/10 min",
+            "description": "SABIC\u00ae PMMA P20MH is a General purpose grade suitable for injection moulded housewares, automotive tail lights, optical lens, as well as for extrusion sheets,\npipes, and rods.",
+            "applications": [
+                "Cover Lens",
+                "Optical Film",
+                "Lighting"
+            ],
+            "processingTechniques": [
+                "Extrusion",
+                "Thermoforming"
+            ],
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC-SABIC\u00ae PMMA-P20MH-SDSR-Global-en-2021-10-12",
+                    "url": "/en/products/documents/sabic-sabic-pmma-p20mh-sdsr-global-en-2021-10-12/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "20732588-312b-ec11-810c-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PMMA_P20MH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pmma_p20mh_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211012",
+                    "id": "eb7b7fc4-30ed-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Lighting",
+                "Automotive Lighting"
+            ],
+            "contacts": [
+                {
+                    "$id": "33",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "03a942c2-482b-ec11-810c-005056857ef3"
+                },
+                {
+                    "$id": "34",
+                    "contact": "3367fa85-dae3-e611-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "04a942c2-482b-ec11-810c-005056857ef3"
+                },
+                {
+                    "$id": "35",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "05a942c2-482b-ec11-810c-005056857ef3"
+                },
+                {
+                    "$id": "36",
+                    "contact": "380fa919-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "06a942c2-482b-ec11-810c-005056857ef3"
+                },
+                {
+                    "$id": "37",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "07a942c2-482b-ec11-810c-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p20mh"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "38",
+            "id": "0cf9ad07-62b0-4021-88d3-07861c00788c",
+            "title": "Extrusion",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "fe0a822d-49d2-42bd-9c4d-fa8ee1baab70",
+            "title": "Thermoforming",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "40",
+            "id": "bcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "18dd2d5b-9271-e911-8101-005056857ef3",
+            "title": "Cover Lens",
+            "count": 0
+        },
+        {
+            "$id": "42",
+            "id": "588d956f-9271-e911-8101-005056857ef3",
+            "title": "Optical Film",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "43",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "44",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "45",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "46",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "47",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rigid Packaging",
+            "id": "c34e23fb-45e9-e611-80fb-005056857ef3"
+        },
+        {
+            "$id": "48",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "49",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Lighting",
+            "id": "33ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

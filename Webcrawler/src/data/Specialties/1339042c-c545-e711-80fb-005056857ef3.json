@@ -1,0 +1,91 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "1a440464-e636-e711-80fb-005056857ef3",
+            "title": "UTF120",
+            "summary": "ULTEM\u2122 Polyetherimide (PEI) UTF120 film offers solutions for professional-grade dielectric film capacitors, meeting the most stringent technical demands.",
+            "description": "ULTEM\u2122 UTF120 dielectric PEI film offers solutions for small to medium size, professional-grade capacitors, up to 10 microfarads capacitance, addressing challenging industry requirements.  The film exhibits stable properties through a range of temperatures (-40 \u00b0C to +150 \u00b0C) and frequency, including stable capacitance, good insulation resistance, stable dielectric constant (Dk) and low dissipation factor (Df). ULTEM UTF120 film has been validated by customers with both film-foil and metalized electrodes, including flat aluminum, heavy edge/light body and fused/patterned electrode designs. ULTEM UTF120 film offers excellent handling through metallization, winding and capacitor squashing / flattening. Additionally, capacitors using ULTEM UTF120 film are also capable of passing industry-standard 260 \u00b0C reflow soldering processes. ULTEM UTF120 dielectric film is available in 4, 5, 7 & 10 micron gauges sold in 620mm x 5000m size rolls.",
+            "applications": [
+                "Electronic Material"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Datasheet",
+                    "title": "SABIC ULTEM UTF120 Film TECHNICAL DATASHEET",
+                    "url": "/en/products/documents/sabic-ultem-utf120-film-technical-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "10d7dad5-e736-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "Product Brochure",
+                    "title": "SABIC ULTEM UTF120 Film Flyer",
+                    "url": "/en/products/documents/sabic-ultem-utf120-film-flyer/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "20bdd8f2-ab46-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "utf120"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "3",
+            "id": "7dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "4",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "5",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "8",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

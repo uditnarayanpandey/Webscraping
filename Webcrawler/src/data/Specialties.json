@@ -1,0 +1,378 @@
+{
+    "Specialties": [
+        {
+            "family_name": "ADDITIVE MANUFACTURING",
+            "family_description": "Materials from SABIC, including high performance pellets, filaments for fused deposition modeling and reinforced compounds for large format additive manufacturing, can help address customer requirements and further advance technology adoption. By leveraging our unique resin technologies and process capabilities to develop differentiated material solutions for various additive manufacturing processes, we are committed to accelerating application innovation and helping to grow the industry.\nFollow us to stay connected on our LinkedIn Showcase - SABIC Solutions for Additive Manufacturing - created to engage the additive manufacturing community with interesting industry articles and innovative 3D printing solutions.",
+            "family_link": "https://www.sabic.com/en/products/specialties/additive-manufacturing",
+            "product": [
+                {
+                    "product_name": "EXTEM Filament",
+                    "product_link": "https://www.sabic.com/en/products/specialties/filaments/extem-filament",
+                    "product_id": "40c62add-be06-ea11-8102-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "LEXAN EXL Filament",
+                    "product_link": "https://www.sabic.com/en/products/specialties/filaments/lexan-exl-filament",
+                    "product_id": "296cea7d-57c5-e711-80fd-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "Support Filaments",
+                    "product_link": "https://www.sabic.com/en/products/specialties/filaments/support-filaments",
+                    "product_id": "489bdc03-fa49-e911-8101-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "ULTEM Filament",
+                    "product_link": "https://www.sabic.com/en/products/specialties/filaments/ultem-filament",
+                    "product_id": "25a7d08f-e30e-e711-80fb-005056857ef3",
+                    "related_products": [
+                        "ULTEM  Resin"
+                    ],
+                    "total_grades": 3
+                },
+                {
+                    "product_name": "LNP THERMOCOMP AM Compound",
+                    "product_link": "https://www.sabic.com/en/products/specialties/specialty-compounds/lnp-thermocomp-am-compound",
+                    "product_id": "3bdb8502-3b24-e711-80fb-005056857ef3",
+                    "related_products": [
+                        "LNP THERMOCOMP Compound"
+                    ],
+                    "total_grades": 13
+                }
+            ]
+        },
+        {
+            "family_name": "Additives",
+            "family_description": "Specialty building blocks and reactive additives that impart unique balances of properties in thermoset systems. Offerings include functional NORYL oligomers, specialty dianhydrides, unique monomers, and thermoplastics in forms suitable for thermoset formulation. Potential application areas include electronics, electrical, composites, and adhesives.",
+            "family_link": "https://www.sabic.com/en/products/specialties/additives",
+            "product": [
+                {
+                    "product_name": "Dianhydrides & Imides",
+                    "product_link": "https://www.sabic.com/en/products/specialties/additives/dianhydrides-imides",
+                    "product_id": "458589ee-110c-e811-80fd-005056857ef3",
+                    "related_products": [
+                        "PPE reactive chemistries",
+                        "Specialty Bisphenols",
+                        "ULTEM  Resin"
+                    ],
+                    "total_grades": 4
+                },
+                {
+                    "product_name": "PPE reactive chemistries",
+                    "product_link": "https://www.sabic.com/en/products/specialties/additives/ppe-reactive-chemistries",
+                    "product_id": "cdc855c6-100c-e811-80fd-005056857ef3",
+                    "related_products": [
+                        "Dianhydrides & Imides",
+                        "Specialty Bisphenols",
+                        "NORYL PPE  Powders + Concentrates"
+                    ],
+                    "total_grades": 5
+                },
+                {
+                    "product_name": "Specialty Bisphenols",
+                    "product_link": "https://www.sabic.com/en/products/specialties/additives/specialty-bisphenols",
+                    "product_id": "0ac5a9a1-110c-e811-80fd-005056857ef3",
+                    "related_products": [
+                        "PPE reactive chemistries",
+                        "Dianhydrides & Imides"
+                    ],
+                    "total_grades": 1
+                }
+            ]
+        },
+        {
+            "family_name": "CAPACITOR FILMS",
+            "family_description": "Dielectric films for film-foil and metalized electrode professional grade capacitors exhibit stable properties through a range of temperatures (-40 C to +150 C) and frequency, including stable capacitance, good insulation resistance, stable dielectric constant (Dk) and low dissipation factor (Df).",
+            "family_link": "https://www.sabic.com/en/products/specialties/capacitor-films",
+            "product": [
+                {
+                    "product_name": "ELCRES DIELECTRIC FILM for DC link power capacitors",
+                    "product_link": "https://www.sabic.com/en/products/specialties/capacitor-films/elcres-dielectric-film-for-dc-link-power-capacitors",
+                    "product_id": "17a9476a-1a00-e711-80fb-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "ULTEM DIELECTRIC FILM for small to medium size capacitors",
+                    "product_link": "https://www.sabic.com/en/products/specialties/capacitor-films/ultem-dielectric-film-for-small-to-medium-size-capacitors",
+                    "product_id": "1339042c-c545-e711-80fb-005056857ef3",
+                    "related_products": [
+                        "ULTEM DIELECTRIC FILM for small to medium size capacitors"
+                    ],
+                    "total_grades": 1
+                }
+            ]
+        },
+        {
+            "family_name": "CYCOLOY RESINS",
+            "family_description": "For strength and processability",
+            "family_link": "https://www.sabic.com/en/products/specialties/cycoloy-resins",
+            "product": [
+                {
+                    "product_name": "CYCOLOY FR Resin",
+                    "product_link": "https://www.sabic.com/en/products/specialties/cycoloy-resins/cycoloy-fr-resin",
+                    "product_id": "08a705ef-818e-4cb7-acf7-f907f48e00c5",
+                    "related_products": [
+                        "CYCOLOY  Resin"
+                    ],
+                    "total_grades": 14
+                },
+                {
+                    "product_name": "CYCOLOY non-FR Resin",
+                    "product_link": "https://www.sabic.com/en/products/specialties/cycoloy-resins/cycoloy-non-fr-resin",
+                    "product_id": "5bd49613-131e-e811-80fd-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                }
+            ]
+        },
+        {
+            "family_name": "EXTEM RESINS",
+            "family_description": "World's highest heat amorphous thermoplastic polyimide",
+            "family_link": "https://www.sabic.com/en/products/specialties/extem-resins",
+            "product": [
+                {
+                    "product_name": "EXTEM  Resin",
+                    "product_link": "https://www.sabic.com/en/products/specialties/extem-resins/extem-resin",
+                    "product_id": "053d7979-e9d3-4d1b-9059-1e5c5df0a1c0",
+                    "related_products": null,
+                    "total_grades": 5
+                }
+            ]
+        },
+        {
+            "family_name": "LEXAN RESINS",
+            "family_description": "The broadest & most innovative polycarbonate portfolio available today.",
+            "family_link": "https://www.sabic.com/en/products/specialties/lexan-resins",
+            "product": [
+                {
+                    "product_name": "LEXAN Copolymer",
+                    "product_link": "https://www.sabic.com/en/products/specialties/lexan-resins/lexan-copolymer",
+                    "product_id": "2931e98d-afdc-e611-819b-06b69393ae39",
+                    "related_products": [
+                        "LEXAN FR Resin",
+                        "LEXAN  Resin"
+                    ],
+                    "total_grades": 136
+                },
+                {
+                    "product_name": "LEXAN FR Resin",
+                    "product_link": "https://www.sabic.com/en/products/specialties/lexan-resins/lexan-fr-resin",
+                    "product_id": "c02b7a04-5ba0-4bdc-880a-03bb7524e885",
+                    "related_products": [
+                        "LEXAN Copolymer"
+                    ],
+                    "total_grades": 14
+                },
+                {
+                    "product_name": "LEXAN VISUALFX Resin",
+                    "product_link": "https://www.sabic.com/en/products/specialties/lexan-resins/lexan-visualfx-resin",
+                    "product_id": "d87f4d2d-2997-e811-80fe-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 56
+                }
+            ]
+        },
+        {
+            "family_name": "LNP COMPOUNDS",
+            "family_description": "Specialty Compounding Solutions from SABIC.\n\n Look at our LNP 70 years of Experience & Innovation",
+            "family_link": "https://www.sabic.com/en/products/specialties/lnp-compounds",
+            "product": [
+                {
+                    "product_name": "LNP COLORCOMP Compound",
+                    "product_link": "https://www.sabic.com/en/products/specialties/lnp-compounds/lnp-colorcomp-compound",
+                    "product_id": "e8d99fa0-ac14-4f3b-ad4a-57d6a1429bf2",
+                    "related_products": null,
+                    "total_grades": 72
+                },
+                {
+                    "product_name": "LNP ELCRES",
+                    "product_link": "https://www.sabic.com/en/products/specialties/lnp-compounds/lnp-elcres",
+                    "product_id": "f56c6816-1c7e-e911-8101-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 17
+                },
+                {
+                    "product_name": "LNP ELCRIN",
+                    "product_link": "https://www.sabic.com/en/products/specialties/lnp-compounds/lnp-elcrin",
+                    "product_id": "81e03436-837c-e911-8101-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 22
+                },
+                {
+                    "product_name": "LNP FARADEX Compound",
+                    "product_link": "https://www.sabic.com/en/products/specialties/lnp-compounds/lnp-faradex-compound",
+                    "product_id": "b4b97220-b82b-479b-9ed9-a969e79c049d",
+                    "related_products": null,
+                    "total_grades": 15
+                },
+                {
+                    "product_name": "LNP KONDUIT Compound",
+                    "product_link": "https://www.sabic.com/en/products/specialties/lnp-compounds/lnp-konduit-compound",
+                    "product_id": "733e8430-fb5a-4138-a2a4-b49c63a86c3e",
+                    "related_products": null,
+                    "total_grades": 12
+                },
+                {
+                    "product_name": "LNP LUBRICOMP Compound",
+                    "product_link": "https://www.sabic.com/en/products/specialties/lnp-compounds/lnp-lubricomp-compound",
+                    "product_id": "f9be5d67-63e0-440a-abd5-4477bb351edb",
+                    "related_products": null,
+                    "total_grades": 361
+                },
+                {
+                    "product_name": "LNP LUBRILOY Compound",
+                    "product_link": "https://www.sabic.com/en/products/specialties/lnp-compounds/lnp-lubriloy-compound",
+                    "product_id": "cffe337d-f59a-40a1-abcf-414e4edabb46",
+                    "related_products": null,
+                    "total_grades": 33
+                },
+                {
+                    "product_name": "LNP STAT-KON Compound",
+                    "product_link": "https://www.sabic.com/en/products/specialties/lnp-compounds/lnp-stat-kon-compound",
+                    "product_id": "1208c75e-1b91-4302-9e40-4e9326031ea2",
+                    "related_products": null,
+                    "total_grades": 197
+                },
+                {
+                    "product_name": "LNP STAT-LOY Compound",
+                    "product_link": "https://www.sabic.com/en/products/specialties/lnp-compounds/lnp-stat-loy-compound",
+                    "product_id": "97d30e80-07fc-4c19-9336-6cf39056d937",
+                    "related_products": null,
+                    "total_grades": 28
+                },
+                {
+                    "product_name": "LNP THERMOCOMP Compound",
+                    "product_link": "https://www.sabic.com/en/products/specialties/lnp-compounds/lnp-thermocomp-compound",
+                    "product_id": "4412b499-ce10-4153-a953-23d74bf231c5",
+                    "related_products": [
+                        "LNP THERMOCOMP AM Compound"
+                    ],
+                    "total_grades": 447
+                },
+                {
+                    "product_name": "LNP THERMOTUF Compound",
+                    "product_link": "https://www.sabic.com/en/products/specialties/lnp-compounds/lnp-thermotuf-compound",
+                    "product_id": "b3f4e1e6-e476-4802-9524-f86c1bc0f297",
+                    "related_products": null,
+                    "total_grades": 50
+                }
+            ]
+        },
+        {
+            "family_name": "NORYL RESINS",
+            "family_description": "Unique blends offering a balance of performance and affordability for water, electrical and automotive products.",
+            "family_link": "https://www.sabic.com/en/products/specialties/noryl-resins",
+            "product": [
+                {
+                    "product_name": "FLEX NORYL Resin",
+                    "product_link": "https://www.sabic.com/en/products/specialties/noryl-resins/flex-noryl-resin",
+                    "product_id": "2c802a81-c4dc-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 26
+                },
+                {
+                    "product_name": "NORYL GTX  Resin",
+                    "product_link": "https://www.sabic.com/en/products/specialties/noryl-resins/noryl-gtx-resin",
+                    "product_id": "c44bc30a-432d-40b9-aff4-9698656c2f31",
+                    "related_products": null,
+                    "total_grades": 42
+                },
+                {
+                    "product_name": "NORYL PPX  Resin",
+                    "product_link": "https://www.sabic.com/en/products/specialties/noryl-resins/noryl-ppx-resin",
+                    "product_id": "e157846d-1090-4b44-8bb8-6726ce817d4f",
+                    "related_products": null,
+                    "total_grades": 9
+                },
+                {
+                    "product_name": "NORYL PPE  Powders + Concentrates",
+                    "product_link": "https://www.sabic.com/en/products/specialties/noryl-resins/noryl-ppe-powders-concentrates",
+                    "product_id": "33d49906-139e-45c3-8fe3-7a77e0135edd",
+                    "related_products": null,
+                    "total_grades": 7
+                },
+                {
+                    "product_name": "NORYL Resin",
+                    "product_link": "https://www.sabic.com/en/products/specialties/noryl-resins/noryl-resin",
+                    "product_id": "7b002c5e-bbda-459f-8ea4-fc843e69a168",
+                    "related_products": null,
+                    "total_grades": 130
+                }
+            ]
+        },
+        {
+            "family_name": "SILTEM RESINS",
+            "family_description": "The SILTEM Resin family of amorphous thermoplastic polyetherimide-siloxane (PEI-Si) copolymer resins combine the high heat performance of ULTEM \nresin (PEI) with the flexibility of silicone elastomers (Si).",
+            "family_link": "https://www.sabic.com/en/products/specialties/siltem-resins",
+            "product": [
+                {
+                    "product_name": "SILTEM Resin",
+                    "product_link": "https://www.sabic.com/en/products/specialties/siltem-resins/siltem-resin",
+                    "product_id": "ba5e1ddf-5f3e-e911-8100-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 3
+                }
+            ]
+        },
+        {
+            "family_name": "ULTEM RESINS",
+            "family_description": "A resin that takes the heat.",
+            "family_link": "https://www.sabic.com/en/products/specialties/ultem-resins",
+            "product": [
+                {
+                    "product_name": "ULTEM  Resin",
+                    "product_link": "https://www.sabic.com/en/products/specialties/ultem-resins/ultem-resin",
+                    "product_id": "9b687258-4c8a-4884-aa04-a7ee72a8d815",
+                    "related_products": [
+                        "ULTEM Filament",
+                        "ULTEM Foam"
+                    ],
+                    "total_grades": 128
+                },
+                {
+                    "product_name": "ULTEM Foam",
+                    "product_link": "https://www.sabic.com/en/products/specialties/ultem-resins/ultem-foam",
+                    "product_id": "62d65918-3ea6-4146-beb1-dabf3ca00c21",
+                    "related_products": null,
+                    "total_grades": 4
+                }
+            ]
+        },
+        {
+            "family_name": "VALOX RESINS",
+            "family_description": "Performance-matched flame retardant polyester resins and blends",
+            "family_link": "https://www.sabic.com/en/products/specialties/valox-resins",
+            "product": [
+                {
+                    "product_name": "VALOX FR Resin",
+                    "product_link": "https://www.sabic.com/en/products/specialties/valox-resins/valox-fr-resin",
+                    "product_id": "c3cd4585-953c-462a-b3aa-6e71f7615a24",
+                    "related_products": [
+                        "VALOX Resin"
+                    ],
+                    "total_grades": 11
+                }
+            ]
+        },
+        {
+            "family_name": "XENOY RESINS",
+            "family_description": "Aesthetic appeal, impact resistance",
+            "family_link": "https://www.sabic.com/en/products/specialties/xenoy-resins",
+            "product": [
+                {
+                    "product_name": "XENOY FR  Resin",
+                    "product_link": "https://www.sabic.com/en/products/specialties/xenoy-resins/xenoy-fr-resin",
+                    "product_id": "262d968b-ec45-46ad-a481-02e64694d978",
+                    "related_products": null,
+                    "total_grades": 3
+                }
+            ]
+        }
+    ]
+}

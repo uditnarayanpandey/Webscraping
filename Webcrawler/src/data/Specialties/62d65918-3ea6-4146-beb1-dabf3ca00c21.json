@@ -1,0 +1,282 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "3c46a116-9073-e811-80fe-005056857ef3",
+            "title": "XP050",
+            "summary": "XP050 ULTEM\u2122 foam is a polyetherimide based thermoplastic foam with a 50kg/m3 density with excellent flame, smoke and toxicity performance and a high strength to weight ratio with low moisture absorption.",
+            "description": "ULTEM foam is a polyetherimide based thermoplastic foam with excellent flame, smoke and toxicity performance. The material combines a high strength to weight ratio with low moisture absorption. The foam also possesses excellent dielectric properties. ULTEM foam is targeted at applications where structural fire performance, radar transparency, or extreme hot or cold environments are required. ULTEM foam is thermoformable and compatible with phenolic pre-pregs. Information on processing or secondary operations is available upon request.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Composite",
+                "Panels"
+            ],
+            "processingTechniques": [
+                "Structural Foam Molding",
+                "Foam Extrusion",
+                "Thermoforming"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "ULTEM\u2122 Foam_XP050_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/ultem-foam_xp050_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "4bbd89db-9373-e811-80fe-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Aircraft Interiors",
+                "Insulations",
+                "Defense"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xp050"
+        },
+        {
+            "$id": "3",
+            "id": "0047aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XP060",
+            "summary": "ULTEM XP060 foam is a polyetherimide based thermoplastic foam with excellent compression strength and flame, smoke and toxicity performance. Density for XP060 is 60 kg/m3.",
+            "description": "ULTEM foam is a polyetherimide based thermoplastic foam with excellent flame, smoke and toxicity performance. The material combines a high strength to weight ratio with low moisture absorption. The foam also possesses excellent dielectric properties. ULTEM foam is targeted at applications where structural fire performance, radar transparency, or extreme hot or cold environments are required. ULTEM foam is thermoformable and compatible with phenolic pre-pregs. Information on processing or secondary operations is available upon request.",
+            "applications": [
+                "Composite",
+                "Sensor"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "ULTEM\u2122 Foam_XP060_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/ultem-foam_xp060_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "68c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Lighting",
+                "Home Appliance",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xp060"
+        },
+        {
+            "$id": "4",
+            "id": "0147aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XP080",
+            "summary": "ULTEM XP080 foam is a polyetherimide based thermoplastic foam with excellent compression strength and flame, smoke and toxicity performance. Density for XP080 is 80 kg/m3.",
+            "description": "ULTEM foam is a polyetherimide based thermoplastic foam with excellent flame, smoke and toxicity performance. The material combines a high strength to weight ratio with low moisture absorption. The foam also possesses excellent dielectric properties. ULTEM foam is targeted at applications where structural fire performance, radar transparency, or extreme hot or cold environments are required. ULTEM foam is thermoformable and compatible with phenolic pre-pregs. Information on processing or secondary operations is available upon request.",
+            "applications": [
+                "Composite",
+                "Sensor"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "ULTEM\u2122 Foam_XP080_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/ultem-foam_xp080_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "25bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "ULTEM\u2122 Foam_XP080_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/ultem-foam_xp080_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "c3c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Lighting",
+                "Home Appliance",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xp080"
+        },
+        {
+            "$id": "5",
+            "id": "0247aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XP110",
+            "summary": "ULTEM XP110 foam is a polyetherimide based thermoplastic foam with excellent compression strength and flame, smoke and toxicity performance. Density for XP110 is 110 kg/m3.",
+            "description": "ULTEM foam is a polyetherimide based thermoplastic foam with excellent flame, smoke and toxicity performance. The material combines a high strength to weight ratio with low moisture absorption. The foam also possesses excellent dielectric properties. ULTEM foam is targeted at applications where structural fire performance, radar transparency, or extreme hot or cold environments are required. ULTEM foam is thermoformable and compatible with phenolic pre-pregs. Information on processing or secondary operations is available upon request.",
+            "applications": [
+                "Composite",
+                "Sensor"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "ULTEM\u2122 Foam_XP110_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/ultem-foam_xp110_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "38c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Lighting",
+                "Home Appliance",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xp110"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "6",
+            "id": "b07d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Structural Foam Molding",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "2e12944f-ba66-4777-8639-bce769059804",
+            "title": "Foam Extrusion",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "fe0a822d-49d2-42bd-9c4d-fa8ee1baab70",
+            "title": "Thermoforming",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "9",
+            "id": "39ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "66ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Composite",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "cfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Panels",
+            "count": 0
+        },
+        {
+            "$id": "12",
+            "id": "f0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sensor",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "13",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "14",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "15",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Middle East and Africa",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "17",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aircraft Interiors",
+            "id": "d7c9ad41-13ee-e611-80fb-005056857ef3"
+        },
+        {
+            "$id": "18",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Insulations",
+            "id": "f806c36d-2815-e711-80fb-005056857ef3"
+        },
+        {
+            "$id": "19",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense",
+            "id": "03ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "20",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "21",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "22",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Aerospace",
+            "id": "62f520a6-82bc-40d1-8716-dfe4e90dbf65"
+        }
+    ]
+}

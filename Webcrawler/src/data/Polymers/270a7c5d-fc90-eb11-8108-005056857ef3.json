@@ -1,0 +1,237 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "b9f9bb42-79b8-eb11-8109-005056857ef3",
+            "title": "SABIC\u00ae DPG_Dipropylene Glycol Regular Grade",
+            "summary": "Chemical name\tOxybipropanol\nFormula\tC6H14O3\nMolecular Weight (g/mol)\t134.20",
+            "description": "SABIC\u00ae DPG is a co-product from the manufacture of monopropylene glycol involving high temperature and high-pressure hydrolysis of propylene oxide (PO) with excess water. DPG is a high purity (99%) distilled product delivered in drum, IBC and bulk quantities.\n\nDPG is a mixture of structural isomers (oxybispropanol CAS 25265-71-8, EINECS 246-770-3), defined by the manufacturing process and comprising: \n1,1'-oxybis-2-propanol (CAS 110-98-5, EINECS 203-821-4) \n2,2'-oxybis-1-propanol (CAS 108-61-2) \n2-(2-hydroxypropoxy)-1-propanol (CAS 106-62-7) \n\nDPG is a colorless, odorless, water soluble, medium viscosity and hygroscopic liquid with low vapor pressure and low toxicity.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae DPG_Dipropylene Glycol Regular Grade_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-dpg_dipropylene-glycol-regular-grade_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3b4407b8-f5be-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae DPG_Dipropylene Glycol Regular Grade_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-dpg_dipropylene-glycol-regular-grade_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "532211cc-96b8-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-dpg_dipropylene-glycol-regular-grade"
+        },
+        {
+            "$id": "3",
+            "id": "723f71eb-08c2-eb11-8109-005056857ef3",
+            "title": "SABIC\u00ae PGH_Propylene Glycol - Highers",
+            "summary": "SABIC\u00ae PGH",
+            "description": "Chemical name : Propylene Glycol - Highers",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae PGH_Propylene Glycol - Highers_ MATERIAL SAFETY DATASHEET",
+                    "url": "/en/products/documents/sabic-pgh_propylene-glycol-highers_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "32bce971-09c2-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-pgh_propylene-glycol---highers"
+        },
+        {
+            "$id": "4",
+            "id": "d896320e-89b9-eb11-8109-005056857ef3",
+            "title": "SABIC\u00ae PGI_Propylene Glycol Industrial Grade",
+            "summary": "Propylene Glycol Industrial Grade, is a high purity material produced by a high temperature and high-pressure hydrolysis of propylene oxide (PO) with excess water. PGI is a high purity (99.5%).",
+            "description": "SABIC\u00ae PGI is a high purity material produced by a high temperature and high-pressure hydrolysis of propylene oxide (PO) with excess water. PGI is a high purity (99.5%) distilled product delivered in drum, IBC and bulk quantities.\nPGI is a colorless, water soluble, hygroscopic liquid with a characteristic glycol odor, medium viscosity, low vapor pressure and low toxicity.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae PGI_Propylene Glycol Industrial Grade_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-pgi_propylene-glycol-industrial-grade_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e4cffb5d-f1be-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PGI_Propylene Glycol Industrial Grade_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pgi_propylene-glycol-industrial-grade_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "27d0bd77-8db9-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-pgi_propylene-glycol-industrial-grade"
+        },
+        {
+            "$id": "5",
+            "id": "4836f159-97b8-eb11-8109-005056857ef3",
+            "title": "SABIC\u00ae PGT_Propylene Glycol Technical Grade",
+            "summary": "Propylene Glycol, Technical Grade (PGT), is a high purity co-product from Propylene Oxide (PO) manufacturing via Hydrogen-Peroxide process. PGT is a high purity (99.5%)",
+            "description": "SABIC\u00ae PGT is a high purity co-product from Propylene Oxide (PO) manufacturing via Hydrogen-Peroxide process. PGT is a high purity (99.5%) distilled product delivered in drum, IBC and bulk quantities.\nPGT is a colorless, water soluble, hygroscopic liquid with a characteristic glycol odor, medium viscosity, low vapor pressure and low toxicity.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae PGT_Propylene Glycol Technical Grade_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-pgt_propylene-glycol-technical-grade_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "eb6f467b-f3be-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PGT_Propylene Glycol Technical Grade_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pgt_propylene-glycol-technical-grade_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "05d089bd-6db9-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-pgt_propylene-glycol-technical-grade"
+        },
+        {
+            "$id": "6",
+            "id": "54bb9b7e-8fb9-eb11-8109-005056857ef3",
+            "title": "SABIC\u00ae TPG_Tripropylene Glycol Regular Grade",
+            "summary": "Tripropylene Glycol (TPG), Chemical name\t[(1-methyl-1,2-ethanediyl)(bis(oxy)]bispropanol\nFormula\tC9H20O4\nMolecular Weight (g/mol)\t192.30",
+            "description": "SABIC\u00ae TPG is a co-product from the manufacture of monopropylene glycol involving high temperature and high-pressure hydrolysis of propylene oxide (PO) with excess water. TPG is a high purity distilled product delivered in drum, IBC and bulk quantities.\n\nOur tightly controlled manufacturing process defines the consistent composition and isomer distribution of the product comprising the following isomers: \n1,1'-[(1-methyl-1,2-ethanediyl)bis(oxy)]bis-2-propanol (CAS 1638-16-0) (sec, sec-tripropylene glycol) \n2,2'-[(1-methyl-1,2-ethanediyl)bis(oxy)]bis-1-propanol (pri,pri-tripropylene glycol) 2-[1-(2-hydroxypropoxy)-2-propoxy]-1-propanol (pri, sec-tripropylene glycol) \n2-[2-(2-hydroxypropoxy)-propoxy]-1-propanol(CAS45096-22-8)(pri,sec-tripropylene glycol) \n\nTPG is a colorless, water soluble, medium viscosity, hygroscopic liquid with low vapor pressure, low toxicity and a faint glycol-specific odor.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae TPG_Tripropylene Glycol Regular Grade_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-tpg_tripropylene-glycol-regular-grade_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0f15cfe5-f6be-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae TPG_Tripropylene Glycol Regular Grade_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-tpg_tripropylene-glycol-regular-grade_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "149a787c-92b9-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-tpg_tripropylene-glycol-regular-grade"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "7",
+            "id": "d9dcd341-8780-4940-b2a7-028d86ff728e",
+            "title": "Foam",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "8",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

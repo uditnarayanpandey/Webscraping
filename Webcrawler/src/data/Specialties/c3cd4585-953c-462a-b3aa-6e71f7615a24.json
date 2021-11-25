@@ -1,0 +1,810 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "0336aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "ENH3500",
+            "summary": "FR PBT, non-Cl/Br, unreinforced, UL94V0@0.80mm",
+            "description": "VALOX ENH3500 is an unreinforced, non-chlorinated/brominated flame retardant Polybutylene Terephthalate (PBT) injection moldable grade with excellent chemical resistance. It has a UL94V0@0.80mm flame rating. This is a good candidate for a variety of applications needing a sustainable FR PBT solution.",
+            "applications": [
+                "Electronic Components",
+                "Medical Facility Infrastructure",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH3500_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh3500_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "3eb5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH3500_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh3500_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "f4c5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "enh3500"
+        },
+        {
+            "$id": "3",
+            "id": "0436aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "ENH4530",
+            "summary": "FR PBT, non-Cl/Br, 15% glass reinforced, UL94V0@0.80mm",
+            "description": "VALOX ENH4530 is a 15% glass reinforced, non-chlorinated/brominated flame retardant Polybutylene Terephthalate (PBT) injection moldable grade with excellent chemical resistance. It has a UL94V0@0.80mm  flame rating. This is a good candidate for a variety of applications needing a sustainable FR PBT solution.",
+            "applications": [
+                "Coil bobbin",
+                "Displays",
+                "Electronic Components",
+                "Enclosures",
+                "EV Infrastructure",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "Personal Computing",
+                "Respiratory",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Product Brochure",
+                    "title": "Valox Resins for Coil Bobbins",
+                    "url": "/en/products/documents/valox-resins-for-coil-bobbins/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1c4bd421-c454-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH4530_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh4530_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "37b4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH4530_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh4530_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "6df000ac-c043-e911-8100-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH4530_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh4530_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "760678c5-c043-e911-8100-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Respiratory and Sleep Therapy",
+                "Electrical Components and Infrastructure",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "enh4530"
+        },
+        {
+            "$id": "4",
+            "id": "0536aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "ENH4550",
+            "summary": "FR PBT, non-Cl/Br, 25% glass reinforced, UL94V0@0.30mm/5VA@2.0mm",
+            "description": "VALOX ENH4550 is a 25% glass reinforced, non-chlorinated/brominated flame retardant Polybutylene Terephthalate (PBT) injection moldable grade with excellent chemical resistance. It has a UL94V0@0.30mm and 5VA@2.0mm flame rating. This is a good candidate for a variety of applications needing a sustainable FR PBT solution.",
+            "applications": [
+                "Coil bobbin",
+                "Circuit Protection",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "Energy Management",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Small Appliance"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Product Brochure",
+                    "title": "Valox Resins for Coil Bobbins",
+                    "url": "/en/products/documents/valox-resins-for-coil-bobbins/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1c4bd421-c454-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH4550_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh4550_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210929",
+                    "id": "3ab4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH4550_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh4550_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210929",
+                    "id": "19b5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH4550_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh4550_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210929",
+                    "id": "41b5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "enh4550"
+        },
+        {
+            "$id": "5",
+            "id": "0636aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "ENH4560",
+            "summary": "FR PBT, non-Cl/Br, 30% glass reinforced, UL94V0@0.80mm/5VA@3.0mm",
+            "description": "VALOX ENH4560 is a 30% glass reinforced, non-chlorinated/brominated flame retardant Polybutylene Terephthalate (PBT) injection moldable grade with excellent chemical resistance. It has a UL94V0@0.80mm and 5VA@3.0mm flame rating. This is a good candidate for a variety of applications needing a sustainable FR PBT solution.",
+            "applications": [
+                "Data Management",
+                "Data Transfer",
+                "Electronic Components",
+                "EV Infrastructure",
+                "Inverter",
+                "Personal Computing",
+                "Power Manangement",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH4560_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh4560_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "43b5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH4560_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh4560_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "f5c5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "enh4560"
+        },
+        {
+            "$id": "6",
+            "id": "0736aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "ENH4565",
+            "summary": "FR PBT, non-Cl/Br, 33% glassreinforced, UL94V0@0.75mm",
+            "description": "VALOX ENH4565 is a 33% glass reinforced, non-chlorinated/brominated flame retardant Polybutylene Terephthalate (PBT) injection moldable grade with excellent chemical resistance. It has a UL94V0@0.75mm flame rating. This is a good candidate for a variety of applications needing a sustainable FRPBT solution.",
+            "applications": [
+                "Electronic Components",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH4565_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh4565_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "3db4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH4565_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh4565_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "46b5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH4565_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh4565_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "f6c5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "enh4565"
+        },
+        {
+            "$id": "7",
+            "id": "0836aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "ENH8530",
+            "summary": "FR PBT/PET, non-Cl/Br, 15% glass reinforced, UL94V0@1.5mm/5VA@2.0mm",
+            "description": "VALOX ENH8530 is a 15% glass reinforced, non-chlorinated/brominated flame retardant Polybutylene Terephthalate/Polyethylene Terephthalate (PBT/PET) injection moldable  grade with excellent chemical resistance. It has a UL94V0@1.5mm and 5VA@2.0mm flame rating. This is a good candidate for a variety of applications needing a sustainable FR PBT/PET solution.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH8530_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh8530_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "1cb5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "enh8530"
+        },
+        {
+            "$id": "8",
+            "id": "0936aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "ENH8560",
+            "summary": "FR PBT/PET, non-Cl/Br, 30% glass reinforced, UL94V0@1.5mm/5VA@2.0mm",
+            "description": "VALOX ENH8560 is a 30% glass reinforced, non-chlorinated/brominated flame retardant Polybutylene Terephthalate/Polyethylene Terephthalate (PBT/PET) injection moldable  grade with excellent chemical resistance. It has a UL94V0@1.5mm and 5VA@2.0mm flame rating. This is a good candidate for a variety of applications needing a sustainable FR PBT/PET solution.",
+            "applications": [
+                "Circuit Protection",
+                "Electronic Components",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_ENH8560_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_enh8560_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "40b4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "enh8560"
+        },
+        {
+            "$id": "9",
+            "id": "7645aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VC108",
+            "summary": "PBT,8% carbon fiber,Electrically Conductive,  Light-weight Structural, Super Strong (Carbon Fiber Filled), Flame Retardant",
+            "description": "VALOX VC108 compound is based on Polybutylene Terephthalate (PBT) resin containing 8% carbon fiber. Added features of this grade include: Electrically Conductive, Flame Retardant.",
+            "applications": [
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_VC108_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_vc108_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d7b9f67e-2e1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vc108"
+        },
+        {
+            "$id": "10",
+            "id": "7745aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VC112",
+            "summary": "PBT,12% carbon fiber,Electrically Conductive,  Light-weight Structural, Super Strong (Carbon Fiber Filled), Flame Retardant",
+            "description": "VALOX  VC112 compound is based on Polybutylene Terephthalate (PBT) resin containing 12% carbon fiber. Added features of this grade include: Electrically Conductive, Flame Retardant.",
+            "applications": [
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_VC112_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_vc112_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "6d36a7c7-2d1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vc112"
+        },
+        {
+            "$id": "11",
+            "id": "7845aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VC120",
+            "summary": "PBT,20% carbon fiber,Electrically Conductive,  Light-weight Structural, Super Strong (Carbon Fiber Filled), High Stiffness, Flame Retardant",
+            "description": "VALOX VC120 compound is based on Polybutylene Terephthalate (PBT) resin containing 20% carbon fiber. Added features of this grade include: Electrically Conductive, Flame Retardant.",
+            "applications": [
+                "Document Handling",
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_VC120_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_vc120_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "6cbe31a9-0320-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vc120"
+        },
+        {
+            "$id": "12",
+            "id": "7945aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VC130",
+            "summary": "PBT,30% carbon fiber,Electrically Conductive,  Light-weight Structural, Super Strong (Carbon Fiber Filled), High Stiffness, Flame Retardant",
+            "description": "VALOX VC130 compound is based on Polybutylene Terephthalate (PBT) resin containing 30% carbon fiber. Added features of this grade include: Electrically Conductive, Flame Retardant.",
+            "applications": [
+                "Electronic Components",
+                "Toy"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resin_VC130_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resin_vc130_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "144fb168-0320-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vc130"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "13",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "14",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "15",
+            "id": "c0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "07b4d1ca-c34a-e711-80fb-005056857ef3",
+            "title": "Coil bobbin",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "86ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "21",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "b7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lab Ware and Clinical Diagnostics",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "e7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "82ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Management",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "b6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Inverter",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "1b00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "0300ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Toy",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "39",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "42",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "43",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "44",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "id": "34ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "45",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "46",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "47",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory and Sleep Therapy",
+            "id": "1effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "48",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "49",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "50",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "51",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electric Vehicle",
+            "id": "09ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "52",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductors",
+            "id": "06ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "53",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "54",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "id": "2fffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

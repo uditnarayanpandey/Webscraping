@@ -1,0 +1,11 @@
+        # url = kwargs['url']
+        # driver = webdriver.Firefox(executable_path='/home/udit/Desktop/Project/webcrawler/drivers/gecko/geckodriver')
+        # driver.get(url)
+        # delay = 10
+        # try:
+        #     x = WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.ID, 'grades-list')))
+        # except TimeoutException:
+        #     print("Loading took too much time!")
+        # html=driver.page_source
+        # self.soup = BeautifulSoup(html, 'html.parser') # Creating an object for BeautifulSoup
+        # driver.quit()

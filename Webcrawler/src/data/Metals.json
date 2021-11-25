@@ -1,0 +1,105 @@
+{
+    "Metals": [
+        {
+            "family_name": "Flat Product",
+            "family_description": "SABIC offers a broad range of hot rolled and cold rolled flat products in the form of both Coils and Slit Coils.",
+            "family_link": "https://www.sabic.com/en/products/metals/flat-product",
+            "product": [
+                {
+                    "product_name": "CRC",
+                    "product_link": "https://www.sabic.com/en/products/metals/flat-product/crc",
+                    "product_id": "1640f52f-b7d9-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 22
+                },
+                {
+                    "product_name": "CRCG",
+                    "product_link": "https://www.sabic.com/en/products/metals/flat-product/crcg",
+                    "product_id": "1740f52f-b7d9-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 23
+                },
+                {
+                    "product_name": "CRS",
+                    "product_link": "https://www.sabic.com/en/products/metals/flat-product/crs",
+                    "product_id": "1840f52f-b7d9-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 22
+                },
+                {
+                    "product_name": "CRSG",
+                    "product_link": "https://www.sabic.com/en/products/metals/flat-product/crsg",
+                    "product_id": "1940f52f-b7d9-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 23
+                },
+                {
+                    "product_name": "HRC",
+                    "product_link": "https://www.sabic.com/en/products/metals/flat-product/hrc",
+                    "product_id": "1a40f52f-b7d9-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 78
+                },
+                {
+                    "product_name": "HRCP",
+                    "product_link": "https://www.sabic.com/en/products/metals/flat-product/hrcp",
+                    "product_id": "1b40f52f-b7d9-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 64
+                },
+                {
+                    "product_name": "HRS",
+                    "product_link": "https://www.sabic.com/en/products/metals/flat-product/hrs",
+                    "product_id": "1c40f52f-b7d9-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 77
+                },
+                {
+                    "product_name": "PPGI",
+                    "product_link": "https://www.sabic.com/en/products/metals/flat-product/ppgi",
+                    "product_id": "1d40f52f-b7d9-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 23
+                }
+            ]
+        },
+        {
+            "family_name": "Long Products",
+            "family_description": "SABIC offers a broad range of Long products in the form of concrete reinforcing bars (rebars), wire rod coils, light sections, and steel billets.",
+            "family_link": "https://www.sabic.com/en/products/metals/long-products",
+            "product": [
+                {
+                    "product_name": "Rebar",
+                    "product_link": "https://www.sabic.com/en/products/metals/long-products/rebar",
+                    "product_id": "b3e91729-66c7-e611-8197-06b69393ae39",
+                    "related_products": [
+                        "straighten rebar",
+                        "Rebar in Coil"
+                    ],
+                    "total_grades": 4
+                },
+                {
+                    "product_name": "Rebar in Coil",
+                    "product_link": "https://www.sabic.com/en/products/metals/long-products/rebar-in-coil",
+                    "product_id": "40cb31d4-73c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 4
+                },
+                {
+                    "product_name": "straighten rebar",
+                    "product_link": "https://www.sabic.com/en/products/metals/long-products/straighten-rebar",
+                    "product_id": "532be2e0-71c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 4
+                },
+                {
+                    "product_name": "Wire Rod",
+                    "product_link": "https://www.sabic.com/en/products/metals/long-products/wire-rod",
+                    "product_id": "50f46390-65c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 15
+                }
+            ]
+        }
+    ]
+}

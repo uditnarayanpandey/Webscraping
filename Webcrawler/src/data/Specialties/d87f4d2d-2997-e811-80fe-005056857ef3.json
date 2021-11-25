@@ -1,0 +1,3962 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "3639aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXC630SK",
+            "summary": "PC+ABS, ECO-conforming flame retardant with diamond sparkle appearance.",
+            "description": "PC+ABS, ECO-conforming flame retardant with diamond sparkle appearance. Color package may affect performance.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Commercial Storage/Cookware",
+                "Data Management",
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Personal Computing",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXC630SK_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxc630sk_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "54b5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXC630SK_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxc630sk_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "bab6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXC630SK_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxc630sk_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "5bc6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Food & Beverage",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxc630sk"
+        },
+        {
+            "$id": "3",
+            "id": "4639aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD121R",
+            "summary": "Polycarbonate (PC), Translucent, Aesthetics & Visual effects",
+            "description": "LEXAN FXD121R compound is based on Polycarbonate (PC) resin. Added features of this grade include: Mold release, Transparent/Translucent, and Low Viscosity grade for Light Diffusion Special Effects. Color package may affect performance.",
+            "applications": [
+                "Audio",
+                "Auto Aftermarket",
+                "Circuit Protection",
+                "Cluster",
+                "Console",
+                "Data Management",
+                "Data Transfer",
+                "Dishwasher",
+                "Displays",
+                "Document Handling",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "EV Infrastructure",
+                "Forward Lighting",
+                "Heavy Vehicles",
+                "Infotainment/Telematic",
+                "Laundry Dryer",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Motorcycle",
+                "Personal Care",
+                "Personal Computing",
+                "Power Manangement",
+                "Recreational Vehicle",
+                "Refrigerator",
+                "Security/Detection",
+                "Washing Machine",
+                "Wearables",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD121R_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd121r_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211006",
+                    "id": "4d6b167b-c60b-ec11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd121r"
+        },
+        {
+            "$id": "4",
+            "id": "4739aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD123R",
+            "summary": "Polycarbonate (PC), Transparent/translucent PC for light diffusion special effects. UV-Stabilized.  Color package may affect performance.",
+            "description": "LEXAN FXD123R is a transparent/translucent low viscosity grade for light diffusion special effects.  UV-stabilized. Color package may affect performance.",
+            "applications": [
+                "Audio",
+                "Auto Aftermarket",
+                "Cluster",
+                "Console",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Forward Lighting",
+                "Heavy Vehicles",
+                "Infotainment/Telematic",
+                "LED Lighting",
+                "Meter Gas",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Power Manangement",
+                "Rear/Signal Lighting",
+                "Small Appliance",
+                "Surgical Devices",
+                "Trim",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD123R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd123r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "62b5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD123R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd123r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "36b6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Surgical",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd123r"
+        },
+        {
+            "$id": "5",
+            "id": "4a39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD1413T",
+            "summary": "PC-siloxane copolymer in special light diffusion colors. Medium flow. Improved toughness compared to medium flow standard PC in same color.  Color package may affect performance.",
+            "description": "Clear PC-siloxane copolymer with excellent processability, in special light diffusion colors. Medium flow. Improved toughness compared to medium flow standard PC in same color.  Color package may affect performance.",
+            "applications": [
+                "Audio",
+                "Console",
+                "Document Handling",
+                "Enclosures",
+                "Heavy Vehicles",
+                "Medical Device",
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD1413T_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd1413t_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "3ab6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD1413T_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd1413t_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "c6b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD1413T_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd1413t_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "5ec6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd1413t"
+        },
+        {
+            "$id": "6",
+            "id": "4b39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD1414T",
+            "summary": "PC-siloxane copolymer in special light diffusion colors. Medium flow. Improved toughness compared to medium flow standard PC in same color.  Color package may affect performance.",
+            "description": "PC-siloxane copolymer in special light diffusion colors. Medium flow. Improved toughness compared to medium flow standard PC in same color.  Color package may affect performance.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Auto Aftermarket",
+                "Data Transfer",
+                "Document Handling",
+                "Enclosures",
+                "LED Lighting",
+                "Medical Device",
+                "Personal Computing",
+                "Power Manangement",
+                "Security/Detection",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD1414T_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd1414t_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "65b5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD1414T_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd1414t_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "c9b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD1414T_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd1414t_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "5fc6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd1414t"
+        },
+        {
+            "$id": "7",
+            "id": "4c39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD141R",
+            "summary": "Polycarbonate (PC), Aesthetics & Visual effects, Transculent",
+            "description": "Transparent/translucent PC for light diffusion special effects.  Color package may affect performance.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Audio",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Food Processor",
+                "Game Player",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Personal Care",
+                "Personal Computing",
+                "Small Appliance",
+                "Sunglasses",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD141R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd141r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "3cb6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD141R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd141r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "cbb6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Ophthalmics",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd141r"
+        },
+        {
+            "$id": "8",
+            "id": "4e39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD143R",
+            "summary": "Transparent/translucent PC for light diffusion special effects.  MFR of 10.8.  Color package may affect performance.  UV-stabilized.",
+            "description": "LEXAN FXD143R is Transparent/translucent PC for light diffusion special effects.  MFR of 10.8.  Color package may affect performance.  UV-stabilized.",
+            "applications": [
+                "Audio",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Forward Lighting",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD143R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd143r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "67b5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD143R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd143r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "ceb6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD143R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd143r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "d9d98a44-d035-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd143r"
+        },
+        {
+            "$id": "9",
+            "id": "4f39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD144R",
+            "summary": "Transparent/translucent medium viscosity grade for light diffusion. FDA compliant.  Color package may affect performance.",
+            "description": "Transparent/translucent medium viscosity grade for light diffusion. FDA compliant.  Color package may affect performance.",
+            "applications": [
+                "Coffee Maker/Espresso Machine"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD144R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd144r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "40b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD144R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd144r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "60c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Home Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd144r"
+        },
+        {
+            "$id": "10",
+            "id": "5039aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD153",
+            "summary": "PC, Translucent, BlowMolding / Extrusion grade",
+            "description": "FXD153 is an Extrusion / Blow molding grade in a Diffusion effect, which is part of the VisualFX family. These effects have been developed to meet increasing Aesthetic demands in the Marketplace. Color Package may affect properties, Application testing always reccomended.",
+            "applications": [
+                "Air Cabin Interiors",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Rail Cabin Interiors"
+            ],
+            "processingTechniques": [
+                "Extrusion Blow Molding",
+                "Injection Molding",
+                "Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD153_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd153_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "69b5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD153_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd153_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "43b6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rail",
+                "Lighting",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd153"
+        },
+        {
+            "$id": "11",
+            "id": "5539aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD171R",
+            "summary": "Transparent/transluscent PC for light diffusion special effects.  MFR of 25.0.",
+            "description": "Transparent/transluscent PC for light diffusion special effects.  MFR of 25.0.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Audio",
+                "Cluster",
+                "Console",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Eyeglasses",
+                "Game Player",
+                "Heavy Vehicles",
+                "Industrial Material Handling",
+                "LED Lighting",
+                "Medical Device",
+                "Meter Water",
+                "Monitoring and Imaging",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Recreational Vehicle",
+                "Security/Detection",
+                "Small Appliance",
+                "Surgical Devices",
+                "Washing Machine",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD171R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd171r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "6bb5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD171R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd171r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "45b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD171R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd171r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "61c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Pharmaceutical",
+                "Water Management",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Surgical",
+                "Ophthalmics",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Commercial Appliance",
+                "Recreational Vehicle"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd171r"
+        },
+        {
+            "$id": "12",
+            "id": "5639aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD173R",
+            "summary": "Polycarbonate (PC), UV stabilized translucent high flow grade for light diffusion special effects. Contains a release agent to ensure easy processing.",
+            "description": "LEXAN FXD173R is a UV stabilized translucent high flow grade for light diffusion special effects. The color package may affect performance.",
+            "applications": [
+                "Audio",
+                "Circuit Protection",
+                "Data Management",
+                "Electronic Components",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Rear/Signal Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD173R_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd173r_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "617fdcb1-ea9d-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd173r"
+        },
+        {
+            "$id": "13",
+            "id": "5839aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD911A",
+            "summary": "Polycarbonate (PC) for light diffusion special effects.  MFR of 20.",
+            "description": "Transparent/translucent PC for light diffusion special effects.  MFR of 20. Brominated FR.",
+            "applications": [
+                "Display",
+                "Washing Machine",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD911A_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd911a_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "47b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD911A_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd911a_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "62c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Home Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd911a"
+        },
+        {
+            "$id": "14",
+            "id": "5939aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD921A",
+            "summary": "Transparent/translucent PC for light diffusion special effects.  Color package may affect performance.",
+            "description": "LEXAN FXD921A compound is based on Polycarbonate (PC) resin for light diffusion special effects. Color package may affect performance. Added features of this grade include: . Transparent/translucent, Brominated Flame Retardant.",
+            "applications": [
+                "Amusement Machine",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Data Management",
+                "Data Transfer",
+                "Document Handling",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Medical Device",
+                "Non-LED Lighting",
+                "Personal Care",
+                "Personal Computing",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD921A_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd921a_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211006",
+                    "id": "fd421eeb-e9f4-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd921a"
+        },
+        {
+            "$id": "15",
+            "id": "5a39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD923A",
+            "summary": "Transparent/translucent PC for light diffusion special effects. UV-stabilized.  Color package may affect performance.",
+            "description": "Transparent/translucent PC for light diffusion special effects. UV-stabilized.  Brominated FR. Color package may affect performance.",
+            "applications": [
+                "Displays",
+                "Electronic Components",
+                "Enclosures",
+                "LED Lighting",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Security/Detection",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD923A_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd923a_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211006",
+                    "id": "6f710336-189f-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd923a"
+        },
+        {
+            "$id": "16",
+            "id": "5c39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD941A",
+            "summary": "Polycarbonate (PC), Translucent, BlowMolding / Extrusion grade",
+            "description": "LEXAN FXD941A resin is based on Polycarbonate (PC) resin for Extrusion / Blow molding. Added features of this grade include: Diffusion effect and Brominated Flame Retardant. Color package may affect performance.",
+            "applications": [
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "LED Lighting",
+                "Personal Computing",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Extrusion Blow Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD941A_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd941a_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211006",
+                    "id": "8a705423-7f05-ec11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd941a"
+        },
+        {
+            "$id": "17",
+            "id": "5e39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD953A",
+            "summary": "Diffused colors, high viscosity, flame retardant with exceptional surface.  UV-stabilized.",
+            "description": "LEXAN FXD953A is a high viscosity brominated flame retardant, UV-stabilized, light diffusing grade, especially suitable for electrical and lighting applications.",
+            "applications": [
+                "Air Cabin Interiors"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD953A_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd953a_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211006",
+                    "id": "6edf6787-0a57-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd953a"
+        },
+        {
+            "$id": "18",
+            "id": "5f39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXD9810",
+            "summary": "PC Copolymer, Flame Retardant, High Flow, High impact, Limited translucent colors.",
+            "description": "Non-chlorinated, non-brominated Flame retardant PC-siloxane copolymer blend. Excellent processability, super high flow, good impact, UL rated V-0. Limited translucent colors.",
+            "applications": [
+                "Data Management",
+                "Data Transfer",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD9810_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd9810_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "50b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD9810_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd9810_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "e6b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXD9810_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxd9810_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "63c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxd9810"
+        },
+        {
+            "$id": "19",
+            "id": "6439aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXE1112T",
+            "summary": "PC Copolymer, High Impact, Transparent, Visual fX",
+            "description": "LEXAN FXE1112T polycarbonate (PC) siloxane copolymer resin is a transparent injection molding grade. This resin offers good low temperature (-20 C) ductility in combination with high flow characteristics and excellent processability with opportunities for shorter IM cycle times compared to standard PC. Lexan FXE1112T resin may be an excellent candidate for a broad range of applications. This product is available in SABIC VISUALFX* resin Piano Black, Raven Black & Illuminate color range only.",
+            "applications": [
+                "Audio",
+                "Data Transfer",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Personal Computing",
+                "Scooter/Moped",
+                "Wearables",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE1112T_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe1112t_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "7ab5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE1112T_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe1112t_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "edb6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE1112T_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe1112t_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "64c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxe1112t"
+        },
+        {
+            "$id": "20",
+            "id": "c828cfd3-8826-ec11-810c-005056857ef3",
+            "title": "FXE121",
+            "summary": "Polycarbonate (PC).  ILLUMINATE special effects (fluorescent/edge glow colors).  MFR 18.2.",
+            "description": "Transparent PC.  ILLUMINATE special effects (fluorescent/edge glow colors).  MFR 18.2.",
+            "applications": [
+                "Audio",
+                "Auto Electrical",
+                "Circuit Protection",
+                "Cluster",
+                "Data Transfer",
+                "Electrical",
+                "EV Infrastructure",
+                "Infotainment/Telematic",
+                "LED Lighting",
+                "Overhead",
+                "Personal Computing",
+                "Wearables",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE121_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe121_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "79faca03-8a26-ec11-810c-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE121_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe121_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "7bfaca03-8a26-ec11-810c-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE121_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe121_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "bd272b0c-8a26-ec11-810c-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxe121"
+        },
+        {
+            "$id": "21",
+            "id": "6639aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXE121R",
+            "summary": "Polycarbonate (PC).  ILLUMINATE special effects (fluorescent/edge glow colors).  MFR 18.2.  Internal mold release.",
+            "description": "Transparent PC.  ILLUMINATE special effects (fluorescent/edge glow colors).  MFR 18.2.  Internal mold release.",
+            "applications": [
+                "Audio",
+                "Auto Electrical",
+                "Circuit Protection",
+                "Cluster",
+                "Data Transfer",
+                "Electrical",
+                "EV Infrastructure",
+                "Infotainment/Telematic",
+                "LED Lighting",
+                "Overhead",
+                "Personal Computing",
+                "Wearables",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE121R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe121r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "7cb5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE121R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe121r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "65c6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE121R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe121r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "e1a5340f-b68a-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxe121r"
+        },
+        {
+            "$id": "22",
+            "id": "6b39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXE1414",
+            "summary": "Special effects resin with fluorescence. Medium flow, low temperature ductile, PC siloxane copolymer. Excellent processability.",
+            "description": "LEXAN FXE1414 polycarbonate (PC) siloxane copolymer resin is a special effects fluorescent, medium flow opaque injection molding (IM) grade. This resin offers extreme low temperature (-40 C) ductility in combination with excellent processability and release with opportunities for shorter IM cycle times compared to standard PC.",
+            "applications": [
+                "Audio",
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "Personal Computing",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE1414_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe1414_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "66c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxe1414"
+        },
+        {
+            "$id": "23",
+            "id": "6c39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXE1414L",
+            "summary": "PC Copolymer, UV-Stabilizer, Opaque, UV-Stabilized,",
+            "description": "Opaque EXL, UV-Stabilized & light shielding capability (Wall thickness >0.8mm), for portable electronics device enclosure application. Only available in white, grey and limited pastel colors. Consult CIC or PM for color availability & limitation.",
+            "applications": [
+                "Data Management",
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "Forward Lighting",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Power Manangement",
+                "Rear/Signal Lighting",
+                "Semiconductor",
+                "Tray",
+                "Wearables",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE1414L_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe1414l_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "f0b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE1414L_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe1414l_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "67c6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE1414L_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe1414l_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "68c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxe1414l"
+        },
+        {
+            "$id": "24",
+            "id": "6e39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXE1414T",
+            "summary": "PC Copolymer, High Impact, Transparent,",
+            "description": "Clear PC-siloxane copolymer with excellent processability, for Visual fX capability in \"Energy\" colors. Medium flow. Improved toughness compared to medium flow standard PC in same color. Color package may affect performance.",
+            "applications": [
+                "Audio",
+                "Cooking Range",
+                "Data Transfer",
+                "Enclosures",
+                "Exercise Equipment",
+                "Heavy Vehicles",
+                "Personal Computing",
+                "Wearables",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE1414T_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe1414t_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "7fb5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE1414T_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe1414t_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "56b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE1414T_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe1414t_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "59b6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Sport/Leisure",
+                "Home Appliance",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxe1414t"
+        },
+        {
+            "$id": "25",
+            "id": "6f39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXE141R",
+            "summary": "Polycarbonate (PC).  ILLUMINATE special effects (fluorescent/edge glow colors).  MFR 10.1.  Internal mold release.",
+            "description": "Transparent PC.  ILLUMINATE special effects (fluorescent/edge glow colors).  MFR 10.1.  Internal mold release.",
+            "applications": [
+                "Building Accessory",
+                "Cluster",
+                "Data Transfer",
+                "Document Handling",
+                "Enclosure/Housing/Cover",
+                "Forward Lighting",
+                "Individual Equiptment",
+                "LED Lighting",
+                "Rear/Signal Lighting",
+                "Wireless Communications",
+                "Irrigation"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE141R_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe141r_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211006",
+                    "id": "5c41a74f-ee9f-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Water Management",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxe141r"
+        },
+        {
+            "$id": "26",
+            "id": "7539aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXE154",
+            "summary": "FDA compliant (color limited) PC.  2.5 MFR.  Potable water/extrusion blowmoldable.  ILLUMINATE special effects (fluorescent/edge glow colors).",
+            "description": "FDA compliant (color limited) PC.  2.5 MFR.  Potable water/extrusion blowmoldable.  ILLUMINATE special effects (fluorescent/edge glow colors).",
+            "applications": [
+                "Bottles",
+                "LED Lighting"
+            ],
+            "processingTechniques": [
+                "Extrusion Blow Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE154_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe154_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211006",
+                    "id": "8eb80ee1-7926-ec11-810c-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Food & Beverage",
+                "Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxe154"
+        },
+        {
+            "$id": "27",
+            "id": "7b39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXE171R",
+            "summary": "High flow PC.  Internal mold release.  Thin wall applications.  ILLUMINATE special effects (fluorescent/edge glow colors).",
+            "description": "High flow PC.  Internal mold release.  Thin wall applications.  ILLUMINATE special effects (fluorescent/edge glow colors).",
+            "applications": [
+                "Auto Aftermarket",
+                "Enclosures",
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE171R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe171r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "86b5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE171R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe171r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "69c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxe171r"
+        },
+        {
+            "$id": "28",
+            "id": "7f39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXE4271L",
+            "summary": "LEXAN FXE4271L is a 10% glass filled, impact modified polycarbonate with excellent light-shield capability. It is designed for high flow, superior surface appearance, enhance release and good impact ductility. FXE4271L is available in white color on",
+            "description": "LEXAN FXE4271L is a 10% glass filled, impact modified polycarbonate with excellent light-shield capability. It is designed for high flow, superior surface appearance, enhance release and good impact ductility. FXE4271L is available in white color only and ideal for light-shield applications.",
+            "applications": [
+                "Enclosures",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE4271L_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe4271l_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "89b5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxe4271l"
+        },
+        {
+            "$id": "29",
+            "id": "8039aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXE4472L",
+            "summary": "LEXAN FXE4472L is a 20% glass filled, impact modified polycarbonate with excellent light-shield capability. It is designed for high flow, superior surface appearance, enhance release and good impact ductility. FXE4472L is available in white color on",
+            "description": "LEXAN FXE4472L is a 20% glass filled, impact modified polycarbonate with excellent light-shield capability. It is designed for high flow, superior surface appearance, enhance release and good impact ductility. FXE4472L is available in white color only and ideal for light-shield applications.",
+            "applications": [
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXE4472L_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxe4472l_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "6ac6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxe4472l"
+        },
+        {
+            "$id": "30",
+            "id": "8f2f886e-be01-e911-8100-005056857ef3",
+            "title": "FXE9330",
+            "summary": "Polycarbonate (PC) Copolymer, Flame retardant, Opaque, UV-Stabilized, Non-chlorinated, non-brominated flame retardant product in most colors for ECO conforming applications.",
+            "description": "FXE9330 PC-Siloxane copolymer  is a special effects fluorescent with excellent processability and low temperature impact performance. \nNon-chlorinated, non-brominated flame retardant product in most colors. UV-stabilized. UL rated f1/V-0/5VA.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Air Conditioning",
+                "Aircraft Seating",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Battery System",
+                "Building Accessory",
+                "Building Element",
+                "Circuit Protection",
+                "Cladding",
+                "Data Management",
+                "Data Transfer",
+                "Defense Vehicles",
+                "Display",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Exercise Equipment",
+                "Exterior Rail Components",
+                "Freezer",
+                "Fuel Cell",
+                "Furnace/Heater",
+                "Head Protection",
+                "Heavy Vehicles",
+                "Ignition System",
+                "Individual Equiptment",
+                "Industrial Material Handling",
+                "Interior Rail Components",
+                "Inverter",
+                "Lab Ware and Clinical Diagnostics",
+                "Laundry Dryer",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Device",
+                "Meter Gas",
+                "Microwave Oven",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Oil/Gas",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Photovoltaic Components",
+                "Power Boat",
+                "Power Manangement",
+                "Pump",
+                "Rail Cabin Interiors",
+                "Rail",
+                "Recreational Vehicle",
+                "Refrigerator",
+                "Renal and Blood Handling",
+                "Respiratory",
+                "Security/Detection",
+                "Semiconductor",
+                "Small Appliance",
+                "Smart/ID Card",
+                "Surgical Devices",
+                "Swimming Pool/Spa",
+                "Traffic Management",
+                "Vending Machine",
+                "Washing Machine",
+                "Water Treatment/Filtration",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Irrigation",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FXE9330_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fxe9330_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "239bce53-c101-e911-8100-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Fossil",
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Surgical",
+                "Ophthalmics",
+                "Rail",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Energy Storage",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Automotive Under the Hood",
+                "Fluid and Blood Handling",
+                "Commercial Appliance",
+                "Recreational Vehicle",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxe9330"
+        },
+        {
+            "$id": "31",
+            "id": "8539aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXEMPX1",
+            "summary": "Polycarbonate (PC), UV-Stabilizer, High Impact",
+            "description": "LEXAN FXEMPX1 polycarbonate (PC) siloxane copolymer resin is a UV stabilized injection molding (IM) grade with release properties. This resin offers good low temperature ductility in combination with high flow characteristics and excellent processability with opportunities for shorter IM cycle times compared to standard IM PC resins. LEXAN FXEMPX1 resin is a general purpose product available in limited colors and may be an excellent candidate for a broad range of applications.",
+            "applications": [
+                "Wearables",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXEMPX1_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxempx1_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "8cb5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxempx1"
+        },
+        {
+            "$id": "32",
+            "id": "8639aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXEMPX1L",
+            "summary": "PC Copolymer, UV-Stabilizer, Opaque, UV-Stabilized,",
+            "description": "Opaque EXL, UV-Stabilized & light shielding capability, for portable electronics device enclosure application. Only available in white, grey and limited pastel colors. Consult CIC or PM for color availability & limitation.",
+            "applications": [
+                "Displays"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXEMPX1L_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxempx1l_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "8fb5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxempx1l"
+        },
+        {
+            "$id": "33",
+            "id": "8739aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXEMPX2",
+            "summary": "PC Copolymer, High Impact",
+            "description": "LEXAN FXEMPX2 polycarbonate (PC) siloxane copolymer resin is a injection molding (IM) grade with release properties. This resin offers good low temperature ductility in combination with medium flow characteristics and excellent processability with opportunities for shorter IM cycle times compared to standard IM PC resins. LEXAN FXEMPX2 resin is a general purpose product available for wide range of  colors and may be an excellent candidate for a broad range of applications.",
+            "applications": [
+                "Enclosure/Housing/Cover"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXEMPX2_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxempx2_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "6cc6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxempx2"
+        },
+        {
+            "$id": "34",
+            "id": "8839aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXEMPX2L",
+            "summary": "PC Copolymer, UV-Stabilizer, Opaque, UV-Stabilized,",
+            "description": "Opaque EXL, UV-Stabilized & light shielding capability, for portable electronics device enclosure application. Only available in white, grey and limited pastel colors. Consult CIC or PM for color availability & limitation.",
+            "applications": [
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXEMPX2L_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxempx2l_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "6dc6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxempx2l"
+        },
+        {
+            "$id": "35",
+            "id": "8b39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXG121R",
+            "summary": "Polycarbonate (PC) in special effects colors.  \"Diamond Sparkle\" appearance additives. Color package may affect performance.",
+            "description": "PC in special effects colors.  \"Diamond Sparkle\" appearance additives. Color package may affect performance.",
+            "applications": [
+                "Document Handling",
+                "Enclosures",
+                "Forward Lighting",
+                "Medical Device",
+                "Personal Computing",
+                "Respiratory",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXG121R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxg121r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "60b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXG121R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxg121r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "fab6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Respiratory and Sleep Therapy",
+                "Electrical Components and Infrastructure",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxg121r"
+        },
+        {
+            "$id": "36",
+            "id": "8c39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXG123R",
+            "summary": "PC in special effects colors.  \"Diamond Sparkle\" appearance additives. Color package may affect performance.",
+            "description": "LEXAN FXG123R is a UV stabilized transparent/translucent low viscosity grade for special effects colors with a diamond sparkle appearance. Color package may affect performance.",
+            "applications": [
+                "Recreational Vehicle"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXG123R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxg123r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "6ec6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Recreational Vehicle"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxg123r"
+        },
+        {
+            "$id": "37",
+            "id": "8f39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXG1414T",
+            "summary": "PC-siloxane copolymer in special \"Diamond Sparkle\" colors. Medium flow. Improved toughness compared to medium flow standard PC in same color.  Color package may affect performance.",
+            "description": "PC-siloxane copolymer in special \"Diamond Sparkle\" colors. Medium flow. Improved toughness compared to medium flow standard PC in same color.  Color package may affect performance.",
+            "applications": [
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXG1414T_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxg1414t_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "94b5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXG1414T_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxg1414t_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "66b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXG1414T_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxg1414t_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "6fc6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxg1414t"
+        },
+        {
+            "$id": "38",
+            "id": "9739aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXM101",
+            "summary": "PC in special effects colors.  Metallic and pearlescent additives. Color package may affect performance.",
+            "description": "LEXAN FXM101 is a transparent/translucent high viscosity grade for special effects colors with a metallic-luster appearance. Color package may affect performance.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": null,
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxm101"
+        },
+        {
+            "$id": "39",
+            "id": "9939aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXM121R",
+            "summary": "Polycarbonate (PC) in special effects colors.  Metallic and pearlescent additives. Color package may affect performance.",
+            "description": "PC in special effects colors.  Metallic and pearlescent additives. Color package may affect performance.",
+            "applications": [
+                "Auto Aftermarket",
+                "Forward Lighting",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM121R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm121r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "6ab6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM121R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm121r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "71c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxm121r"
+        },
+        {
+            "$id": "40",
+            "id": "9a39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXM123R",
+            "summary": "PC, Mold Release, UV-Stabilizer, Translucent,",
+            "description": "FXM123R is a LEXAN PC grade in Metallic or Pearlescent effects, part of the VisualFX family. These effects have been developed to meet increasing Aesthetic demands in the Marketplace. Color Package may affect properties, Application testing always recommended.",
+            "applications": [
+                "Building Accessory",
+                "Rear/Signal Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM123R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm123r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "6cb6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM123R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm123r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "71b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM123R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm123r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "72c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Construction",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxm123r"
+        },
+        {
+            "$id": "41",
+            "id": "9c39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXM1414T",
+            "summary": "PC-siloxane copolymer in special metallic colors. Medium flow.  Improved toughness compared to medium flow standard PC in same color.  Color package may affect performance.",
+            "description": "PC-siloxane copolymer in special metallic colors. Medium flow.  Improved toughness compared to medium flow standard PC in same color.  Color package may affect performance.",
+            "applications": [
+                "Air Conditioning",
+                "Data Management",
+                "Motorcycle",
+                "Recreational Vehicle"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM1414T_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm1414t_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "9cb5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM1414T_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm1414t_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "77b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM1414T_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm1414t_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "08b7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Personal Recreation",
+                "Recreational Vehicle"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxm1414t"
+        },
+        {
+            "$id": "42",
+            "id": "9d39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXM141R",
+            "summary": "PC, Mold Release, Translucent,",
+            "description": "FXM141R is a LEXAN PC grade in Metallic or Pearlescent effect, which is part of the VisualFX family. These effects have been developed to meet increasing Aesthetic demands in the Marketplace. Color Package may affect properties, Application testing always reccomended.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM141R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm141r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "9eb5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM141R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm141r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "0bb7102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM141R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm141r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "73c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxm141r"
+        },
+        {
+            "$id": "43",
+            "id": "a139aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXM171R",
+            "summary": "PC in special effects colors.  Metallic and pearlescent additives. Color may affect performance.",
+            "description": "PC in special effects colors.  Metallic and pearlescent additives. Color may affect performance.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Building Accessory",
+                "Electronic Components",
+                "Security/Detection",
+                "Small Appliance"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM171R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm171r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "11b7102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM171R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm171r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "75c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Construction",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxm171r"
+        },
+        {
+            "$id": "44",
+            "id": "a439aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXM2143H",
+            "summary": "PC Copolymer, Nonhalogenated,",
+            "description": "FXM2143H is a high flow, UV stabilized, high heat polycarbonate copolymer with an HDT/Af of 142 C.",
+            "applications": [
+                "Enclosures"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM2143H_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm2143h_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "14b7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxm2143h"
+        },
+        {
+            "$id": "45",
+            "id": "a939aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXM941A",
+            "summary": "Polycarbonate (PC) in special effects colors.  Metallic and pearlescent additives. Color package may affect performance.",
+            "description": "PC in special effects colors.  Metallic and pearlescent additives. Color package may affect performance.",
+            "applications": [
+                "Building Accessory",
+                "Building Element",
+                "Enclosure/Housing/Cover",
+                "Enclosures"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM941A_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm941a_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "7cb6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXM941A_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxm941a_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "17b7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxm941a"
+        },
+        {
+            "$id": "46",
+            "id": "b039aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXR123R",
+            "summary": "LEXAN FXR123R Resin",
+            "description": "LEXAN FXR123R Resin",
+            "applications": [
+                "LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_FXR123R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_fxr123r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "a9b5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxr123r"
+        },
+        {
+            "$id": "47",
+            "id": "6fa8bd41-ba55-e711-80fb-005056857ef3",
+            "title": "IFX121RA",
+            "summary": "IFX121RA is a low viscosity, infra-red absorbing, polycarbonate grade-color",
+            "description": "IFX121RA is a low viscosity, infra-red absorbing, polycarbonate grade-color",
+            "applications": [
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_IFX121RA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_ifx121ra_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211006",
+                    "id": "527813de-834d-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ifx121ra"
+        },
+        {
+            "$id": "48",
+            "id": "5e3daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX7430C",
+            "summary": "Polycarbonate with medium flow, good processability, UV stablized, non-Chlorine and non-Bromine flame retardant, UL rated V-0/5VA.",
+            "description": "LEXAN LUX7430C Polycarbonate (PC)  resin is a non-filled, injection moldable grade. This non-chlorinated, non-brominated  flame retardant PC has an UL-94 V0 rating at 1.2 mm / 5VA rating at 3.0mm and is UV stabilized(F1 rating) providing additional weathering capability. LEXAN LUX7430C is available in clear transparent and tinted color options that is an excellent candidate for a wide variety of applications.",
+            "applications": [
+                "Data Transfer",
+                "Electronic Components",
+                "Enclosures",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Personal Computing",
+                "Pump",
+                "Small Appliance",
+                "Wearables",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7430C_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7430c_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "65b8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7430C_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7430c_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "6cb9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7430C_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7430c_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "09ba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux7430c"
+        },
+        {
+            "$id": "49",
+            "id": "5f3daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX7432C",
+            "summary": "Polycarbonate with medium flow, good processability, UV stablized, non-Chlorine and non-Bromine flame retardant, UL rated V-0/5VA.",
+            "description": "LEXAN LUX7432C Polycarbonate (PC)  resin is a non-filled, injection moldable grade. This non-chlorinated, non-brominated  flame retardant PC has an UL-94 V0 rating at 1.2 mm / 5VA rating at 3.0mm and is UV stabilized(F1 rating) providing additional weathering capability. LEXAN LUX7432C is available in diffusion colors.",
+            "applications": [
+                "Displays",
+                "LED Lighting",
+                "Non-LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7432C_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7432c_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "68b8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7432C_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7432c_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "70b9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7432C_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7432c_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "71c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux7432c"
+        },
+        {
+            "$id": "50",
+            "id": "603daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX7436C",
+            "summary": "Polycarbonate with medium flow, good processability, UV stablized, non-Chlorine and non-Bromine flame retardant, UL rated V-0/5VA.",
+            "description": "LEXAN LUX7436C Polycarbonate (PC)  resin is a non-filled, injection moldable grade. This non-chlorinated, non-brominated  flame retardant PC has an UL-94 V0 rating at 1.2 mm / 5VA rating at 3.0mm and is UV stabilized(F1 rating) providing additional weathering capability. LEXAN LUX7436C is available in diffusion colors.",
+            "applications": [
+                "Air Cabin Interiors",
+                "LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7436C_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7436c_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "6eb8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7436C_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7436c_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "0cba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7436C_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7436c_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "72c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Lighting",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux7436c"
+        },
+        {
+            "$id": "51",
+            "id": "613daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX7630C",
+            "summary": "Polycarbonate with good extrusion capability, good processability, UV stablized, non-Chlorine and non-Bromine flame retardant, UL rated V-0/5VA.",
+            "description": "LEXAN LUX7630C Polycarbonate (PC) resin is a non-filled resin, suitable for injection molding and extrusion. This non-chlorinated, non-brominated flame retardant PC has an UL-94 V0 rating at 1.0 mm / 5VA rating at 3.0mm and is UV stabilized (F1 rating) providing additional weathering capability. LEXAN LUX7630C is available in transparent natural colors only.",
+            "applications": [
+                "Circuit Protection",
+                "Data Management",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Heavy Vehicles",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7630C_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7630c_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "73b9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7630C_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7630c_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "10ba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7630C_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7630c_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "73c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux7630c"
+        },
+        {
+            "$id": "52",
+            "id": "623daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX7632C",
+            "summary": "Polycarbonate with good extrusion capability, good processability, UV stablized, non-Chlorine and non-Bromine flame retardant, UL rated V-0/5VA.",
+            "description": "LEXAN LUX7632C  Polycarbonate (PC)  resin is a non-filled, extrudable grade. This non-chlorinated, non-brominated  flame retardant PC has an UL-94 V0 rating at 1.0 mm / 5VA rating at 3.0mm and is UV stabilized(F1 rating) providing additional weathering capability. LEXAN LUX7632C is available in diffusion colors.",
+            "applications": [
+                "Amusement Machine",
+                "Document Handling",
+                "Enclosure/Housing/Cover",
+                "LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7632C_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7632c_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "71b8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7632C_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7632c_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "76b9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7632C_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7632c_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "74c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux7632c"
+        },
+        {
+            "$id": "53",
+            "id": "633daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX7636C",
+            "summary": "Polycarbonate with good extrusion capability, good processability, UV stablized, non-Chlorine and non-Bromine flame retardant, UL rated V-0/5VA.",
+            "description": "LEXAN LUX7636C  Polycarbonate (PC)  resin is a non-filled, extrudable grade. This non-chlorinated, non-brominated  flame retardant PC has an UL-94 V0 rating at 1.0 mm / 5VA rating at 3.0mm and is UV stabilized(F1 rating) providing additional weathering capability. LEXAN LUX7636C is available in diffusion colors.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Aircraft Seating",
+                "Document Handling",
+                "Enclosure/Housing/Cover",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Renal and Blood Handling",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7636C_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7636c_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "74b8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7636C_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7636c_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "79b9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX7636C_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux7636c_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "13ba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Fluid and Blood Handling",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux7636c"
+        },
+        {
+            "$id": "54",
+            "id": "643daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX9130C",
+            "summary": "Polycarbonate with high flow capability, good processability, non-Chlorine and non-Bromine flame retardant, UL rated V-0.",
+            "description": "LEXAN LUX9130C Polycarbonate (PC) resin is a non-filled, injection moldable grade. This non-chlorinated, non-brominated flame retardant PC has an UL-94 V0 rating at 1.5 mm, high flow capability and is UV stabilized providing additional weathering capability. Lexan* LUX9130C is available in clear transparent and tinted color options that is an excellent candidate for a wide variety of applications.",
+            "applications": [
+                "LED Lighting",
+                "Non-LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX9130C_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux9130c_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "16ba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX9130C_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux9130c_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "19ba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX9130C_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux9130c_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "75c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux9130c"
+        },
+        {
+            "$id": "55",
+            "id": "653daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX9130T",
+            "summary": "Polycarbonate with good processability, UV stablized, non-Chlorine and non-Bromine flame retardant, UL rated V-0 and 5VA. High transmission, low haze and bubble free for molding.",
+            "description": "LUX9130T Polycarbonate (PC)  resin is a non-filled, injection moldable grade. This non-chlorinated, non-brominated  flame retardant PC has an UL-94 V0 rating at 1.5 mm / 5VA rating at 6.0mm and is UV stabilized providing additional weathering capability. LUX9130T is  high transparency, extremly low haze and bubble free for thick part molding.LUX9130T is available in clear transparent and tinted color options that is an excellent candidate for a wide variety of applications.",
+            "applications": [
+                "Enclosures",
+                "LED Lighting",
+                "Medical Facility Infrastructure",
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX9130T_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux9130t_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "76c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux9130t"
+        },
+        {
+            "$id": "56",
+            "id": "663daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX9132C",
+            "summary": "Polycarbonate with high flow capability, good processability, non-Chlorine and non-Bromine flame retardant, UL rated V-0.",
+            "description": "LEXAN LUX9132C Polycarbonate (PC) resin is a non-filled, injection moldable grade. This non-chlorinated, non-brominated flame retardant PC has an UL-94 V0 rating at 1.5 mm, high flow capability and is UV stabilized providing additional weathering capability. LEXAN LUX9132C is available in diffusion colors.",
+            "applications": [
+                "Data Transfer",
+                "Enclosures",
+                "LED Lighting",
+                "Medical Device",
+                "Non-LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX9132C_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux9132c_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "77b8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX9132C_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux9132c_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "79b8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX9132C_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux9132c_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "7cb9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux9132c"
+        },
+        {
+            "$id": "57",
+            "id": "673daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX9136C",
+            "summary": "Polycarbonate with high flow capability, good processability, non-Chlorine and non-Bromine flame retardant, UL rated V-0.",
+            "description": "LEXAN LUX9136C Polycarbonate (PC) resin is a non-filled, injection moldable grade. This non-chlorinated, non-brominated flame retardant PC has an UL-94 V0 rating at 1.5 mm, high flow capability and is UV stabilized providing additional weathering capability. LEXAN LUX9136C is available in diffusion colors.",
+            "applications": [
+                "Electronic Components",
+                "LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX9136C_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux9136c_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20211006",
+                    "id": "7cb8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX9136C_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux9136c_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20211006",
+                    "id": "7fb9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 VISUALFX\u2122 Resin_LUX9136C_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-visualfx-resin_lux9136c_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20211006",
+                    "id": "77c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux9136c"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "58",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "59",
+            "id": "ab7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Extrusion Blow Molding",
+            "count": 0
+        },
+        {
+            "$id": "60",
+            "id": "0cf9ad07-62b0-4021-88d3-07861c00788c",
+            "title": "Extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "61",
+            "id": "47ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "ATM/Ticket Machine",
+            "count": 0
+        },
+        {
+            "$id": "62",
+            "id": "65ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Storage/Cookware",
+            "count": 0
+        },
+        {
+            "$id": "63",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "64",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "65",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "66",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "67",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "68",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "69",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "70",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "71",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "72",
+            "id": "48ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Audio",
+            "count": 0
+        },
+        {
+            "$id": "73",
+            "id": "49ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Aftermarket",
+            "count": 0
+        },
+        {
+            "$id": "74",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "75",
+            "id": "60ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cluster",
+            "count": 0
+        },
+        {
+            "$id": "76",
+            "id": "67ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Console",
+            "count": 0
+        },
+        {
+            "$id": "77",
+            "id": "6fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Dishwasher",
+            "count": 0
+        },
+        {
+            "$id": "78",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "79",
+            "id": "75ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Doors Hardware/Trim",
+            "count": 0
+        },
+        {
+            "$id": "80",
+            "id": "86ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "81",
+            "id": "98ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Forward Lighting",
+            "count": 0
+        },
+        {
+            "$id": "82",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "83",
+            "id": "b2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Infotainment/Telematic",
+            "count": 0
+        },
+        {
+            "$id": "84",
+            "id": "b9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Laundry Dryer",
+            "count": 0
+        },
+        {
+            "$id": "85",
+            "id": "baffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lawn/Garden",
+            "count": 0
+        },
+        {
+            "$id": "86",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "87",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "88",
+            "id": "c0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "89",
+            "id": "c6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Motorcycle",
+            "count": 0
+        },
+        {
+            "$id": "90",
+            "id": "d1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "91",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "92",
+            "id": "e3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "93",
+            "id": "e4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Refrigerator",
+            "count": 0
+        },
+        {
+            "$id": "94",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "95",
+            "id": "1000ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Washing Machine",
+            "count": 0
+        },
+        {
+            "$id": "96",
+            "id": "1400ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wearables",
+            "count": 0
+        },
+        {
+            "$id": "97",
+            "id": "c1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Gas",
+            "count": 0
+        },
+        {
+            "$id": "98",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "99",
+            "id": "e2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rear/Signal Lighting",
+            "count": 0
+        },
+        {
+            "$id": "100",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "101",
+            "id": "ffffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Devices",
+            "count": 0
+        },
+        {
+            "$id": "102",
+            "id": "0a00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Trim",
+            "count": 0
+        },
+        {
+            "$id": "103",
+            "id": "39ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "104",
+            "id": "7effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronics",
+            "count": 0
+        },
+        {
+            "$id": "105",
+            "id": "96ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Processor",
+            "count": 0
+        },
+        {
+            "$id": "106",
+            "id": "a1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Game Player",
+            "count": 0
+        },
+        {
+            "$id": "107",
+            "id": "fdffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sunglasses",
+            "count": 0
+        },
+        {
+            "$id": "108",
+            "id": "63ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Coffee Maker/Espresso Machine",
+            "count": 0
+        },
+        {
+            "$id": "109",
+            "id": "ddffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "110",
+            "id": "91ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Eyeglasses",
+            "count": 0
+        },
+        {
+            "$id": "111",
+            "id": "b1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "112",
+            "id": "c2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Water",
+            "count": 0
+        },
+        {
+            "$id": "113",
+            "id": "c5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Monitoring and Imaging",
+            "count": 0
+        },
+        {
+            "$id": "114",
+            "id": "d5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Packaging & Drug Delivery",
+            "count": 0
+        },
+        {
+            "$id": "115",
+            "id": "70ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Display",
+            "count": 0
+        },
+        {
+            "$id": "116",
+            "id": "43ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Amusement Machine",
+            "count": 0
+        },
+        {
+            "$id": "117",
+            "id": "b7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lab Ware and Clinical Diagnostics",
+            "count": 0
+        },
+        {
+            "$id": "118",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "119",
+            "id": "ebffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Scooter/Moped",
+            "count": 0
+        },
+        {
+            "$id": "120",
+            "id": "4affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Electrical",
+            "count": 0
+        },
+        {
+            "$id": "121",
+            "id": "7affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical",
+            "count": 0
+        },
+        {
+            "$id": "122",
+            "id": "cdffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Overhead",
+            "count": 0
+        },
+        {
+            "$id": "123",
+            "id": "d6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photo/Video Camera",
+            "count": 0
+        },
+        {
+            "$id": "124",
+            "id": "efffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductor",
+            "count": 0
+        },
+        {
+            "$id": "125",
+            "id": "0900ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Tray",
+            "count": 0
+        },
+        {
+            "$id": "126",
+            "id": "69ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cooking Range",
+            "count": 0
+        },
+        {
+            "$id": "127",
+            "id": "8bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exercise Equipment",
+            "count": 0
+        },
+        {
+            "$id": "128",
+            "id": "53ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Accessory",
+            "count": 0
+        },
+        {
+            "$id": "129",
+            "id": "b0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Individual Equiptment",
+            "count": 0
+        },
+        {
+            "$id": "130",
+            "id": "32431af9-01d4-4107-9322-793fbea45634",
+            "title": "Irrigation",
+            "count": 0
+        },
+        {
+            "$id": "131",
+            "id": "51ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Bottles",
+            "count": 0
+        },
+        {
+            "$id": "132",
+            "id": "3affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Conditioning",
+            "count": 0
+        },
+        {
+            "$id": "133",
+            "id": "3fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aircraft Seating",
+            "count": 0
+        },
+        {
+            "$id": "134",
+            "id": "4effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery System",
+            "count": 0
+        },
+        {
+            "$id": "135",
+            "id": "54ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Element",
+            "count": 0
+        },
+        {
+            "$id": "136",
+            "id": "5effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cladding",
+            "count": 0
+        },
+        {
+            "$id": "137",
+            "id": "6dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "138",
+            "id": "82ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Management",
+            "count": 0
+        },
+        {
+            "$id": "139",
+            "id": "8effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Rail Components",
+            "count": 0
+        },
+        {
+            "$id": "140",
+            "id": "9affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Freezer",
+            "count": 0
+        },
+        {
+            "$id": "141",
+            "id": "9dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fuel Cell",
+            "count": 0
+        },
+        {
+            "$id": "142",
+            "id": "9fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Furnace/Heater",
+            "count": 0
+        },
+        {
+            "$id": "143",
+            "id": "a7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Head Protection",
+            "count": 0
+        },
+        {
+            "$id": "144",
+            "id": "afffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Ignition System",
+            "count": 0
+        },
+        {
+            "$id": "145",
+            "id": "b4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior Rail Components",
+            "count": 0
+        },
+        {
+            "$id": "146",
+            "id": "b6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Inverter",
+            "count": 0
+        },
+        {
+            "$id": "147",
+            "id": "c3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Microwave Oven",
+            "count": 0
+        },
+        {
+            "$id": "148",
+            "id": "cbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Oil/Gas",
+            "count": 0
+        },
+        {
+            "$id": "149",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        },
+        {
+            "$id": "150",
+            "id": "daffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Boat",
+            "count": 0
+        },
+        {
+            "$id": "151",
+            "id": "dcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pump",
+            "count": 0
+        },
+        {
+            "$id": "152",
+            "id": "e0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "count": 0
+        },
+        {
+            "$id": "153",
+            "id": "e6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Renal and Blood Handling",
+            "count": 0
+        },
+        {
+            "$id": "154",
+            "id": "e7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory",
+            "count": 0
+        },
+        {
+            "$id": "155",
+            "id": "f6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Smart/ID Card",
+            "count": 0
+        },
+        {
+            "$id": "156",
+            "id": "0100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Swimming Pool/Spa",
+            "count": 0
+        },
+        {
+            "$id": "157",
+            "id": "0500ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Traffic Management",
+            "count": 0
+        },
+        {
+            "$id": "158",
+            "id": "0e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vending Machine",
+            "count": 0
+        },
+        {
+            "$id": "159",
+            "id": "1200ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Treatment/Filtration",
+            "count": 0
+        },
+        {
+            "$id": "160",
+            "id": "1b00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "161",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "162",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "163",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "164",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "165",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food & Beverage",
+            "id": "0fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "166",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "167",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "168",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "169",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Decoration",
+            "id": "16ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "170",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "171",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "172",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "173",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Management",
+            "id": "07ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "174",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "175",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "176",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "177",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Lighting",
+            "id": "33ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "178",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Exteriors",
+            "id": "35ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "179",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "180",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense",
+            "id": "03ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "181",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Ophthalmics",
+            "id": "12ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "182",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Aerospace",
+            "id": "62f520a6-82bc-40d1-8716-dfe4e90dbf65"
+        },
+        {
+            "$id": "183",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "id": "13ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "184",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical",
+            "id": "04ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "185",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Recreation",
+            "id": "27ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "186",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "187",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "id": "2affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "188",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "id": "31ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "189",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Under the Hood",
+            "id": "2cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "190",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "191",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Outdoor, Lawn and Landscape",
+            "id": "05ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "192",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fossil",
+            "id": "08ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "193",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electric Vehicle",
+            "id": "09ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "194",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory and Sleep Therapy",
+            "id": "1effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "195",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Storage",
+            "id": "21ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "196",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "197",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid and Blood Handling",
+            "id": "2effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "198",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "id": "34ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

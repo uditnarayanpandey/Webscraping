@@ -1,0 +1,318 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "b98e380c-1add-e611-819b-06b69393ae39",
+            "title": "L2",
+            "summary": "SABICOL L2 is an adduct of naturally derived fatty alcohol C12-14 with two moles of Ethylene Oxide.",
+            "description": "SABICOL L2 is an adduct of naturally derived fatty alcohol C12-14 with two moles of Ethylene Oxide. It is a colorless and odorless liquid. It is efficient water in oil emulsifier and is readily biodegradable.",
+            "applications": [
+                "Cleaning fluids.",
+                "Soap: The product can be used for making soap, which finds an application in textile and leather industries"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABILOL L2-Material Safety Datasheet-KSA in Arabic",
+                    "url": "/en/products/documents/sabilol-l2-material-safety-datasheet-ksa-in-arabic/ar",
+                    "language": "Arabic",
+                    "region": "Global",
+                    "id": "c2ee500f-5cf3-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABICOL L2",
+                    "url": "/en/products/documents/sabicol-l2/ar",
+                    "language": "Arabic",
+                    "region": "Global",
+                    "id": "5c485a8d-65f3-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SABICOL-L2-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-sabicol-l2-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1632f0ff-7bb8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "Natural Fatty Alcohol Ethoxylates_L2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/natural-fatty-alcohol-ethoxylates_l2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a6c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Personal Accessory"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l2"
+        },
+        {
+            "$id": "3",
+            "id": "03fedcc6-1cdd-e611-819b-06b69393ae39",
+            "title": "L3",
+            "summary": "SABICOL L3 is an adduct of naturally derived fatty alcohol C12-14 with three moles of Ethylene Oxide",
+            "description": "SABICOL L3 is an adduct of naturally derived fatty alcohol C12-14 with three moles of Ethylene Oxide. It is a colorless and odorless liquid, is efficient water in oil emulsifier and is readily biodegradable.",
+            "applications": [
+                "Cleaning fluids.",
+                "Coatings"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABICOL L3-Material Safety Datasheet-KSA in Arabic",
+                    "url": "/en/products/documents/sabicol-l3-material-safety-datasheet-ksa-in-arabic/ar",
+                    "language": "Arabic",
+                    "region": "Global",
+                    "id": "8c39b039-68f3-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SABICOL-L3-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-sabicol-l3-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5071b530-7cb8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABICOL L3 - Safety Data Sheet",
+                    "url": "/en/products/documents/sabicol-l3-safety-data-sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0ed5657d-f5dd-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "Natural Fatty Alcohol Ethoxylates_L3_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/natural-fatty-alcohol-ethoxylates_l3_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a9c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Personal Accessory"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l3"
+        },
+        {
+            "$id": "4",
+            "id": "70c8c8d0-1ddd-e611-819b-06b69393ae39",
+            "title": "L7",
+            "summary": "SABICOL L7 is an adduct of naturally derived fatty alcohol C12-14 with seven moles of Ethylene Oxide.",
+            "description": "SABICOL L7 is an adduct of naturally derived fatty alcohol C12-14 with seven moles of Ethylene Oxide. It is a versatile non-ionic surfactant. It is a colorless and odorless liquid, is efficient oil in water emulsifier and is readily biodegradable.",
+            "applications": [
+                "Cleaning fluids.",
+                "Soap: The product can be used for making soap, which finds an application in textile and leather industries",
+                "Coatings",
+                "Textile coating"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABICOL L7",
+                    "url": "/en/products/documents/sabicol-l7/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "04c64a6c-86f3-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SABICOL-L7-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-sabicol-l7-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2822a566-7cb8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "Natural Fatty Alcohol Ethoxylates_L7_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/natural-fatty-alcohol-ethoxylates_l7_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "acc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Textile",
+                "Coatings"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l7"
+        },
+        {
+            "$id": "5",
+            "id": "94142033-1fdd-e611-819b-06b69393ae39",
+            "title": "L9",
+            "summary": "SABICOL L9 is an adduct of naturally derived fatty alcohol C12-14 with nine moles of Ethylene Oxide.",
+            "description": "SABICOL L9 is an adduct of naturally derived fatty alcohol C12-14 with nine moles of Ethylene Oxide. It is a versatile non-ionic surfactant. It is an odorless white paste, is efficient oil in water emulsifier and is readily biodegradable.",
+            "applications": [
+                "Cleaning fluids.",
+                "Soap: The product can be used for making soap, which finds an application in textile and leather industries",
+                "Textile coating"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABICOL L9-Material Safety Datasheet-Belgium in French",
+                    "url": "/en/products/documents/sabicol-l9-material-safety-datasheet-belgium-in-french/fr",
+                    "language": "French",
+                    "region": "Global",
+                    "id": "f3c9ee99-24f4-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SABICOL-L9-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-sabicol-l9-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "eb4bfe9a-7cb8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABICOL L9 - Safety Data Sheet",
+                    "url": "/en/products/documents/sabicol-l9-safety-data-sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "de1f1fd7-f5dd-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "Natural Fatty Alcohol Ethoxylates_L9_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/natural-fatty-alcohol-ethoxylates_l9_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "6ac2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Textile"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l9"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "6",
+            "id": "5350c1ae-9ec7-e611-8197-06b69393ae39",
+            "title": "Cleaning fluids.",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "26a9af34-3cc8-e611-8197-06b69393ae39",
+            "title": "Soap: The product can be used for making soap, which finds an application in textile and leather industries",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "62ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Coatings",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "08b5ebf2-75e5-4e1d-9ba8-ffd0e44b873e",
+            "title": "Textile coating",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "10",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "12",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "13",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "14",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "15",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Textile",
+            "id": "1fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "16",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Coatings",
+            "id": "2dffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

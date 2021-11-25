@@ -1,0 +1,566 @@
+{
+    "Chemicals": [
+        {
+            "family_name": "Aromatics",
+            "family_description": "Aromatics product family",
+            "family_link": "https://www.sabic.com/en/products/chemicals/aromatics",
+            "product": [
+                {
+                    "product_name": "Paraxylene",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/aromatics/paraxylene",
+                    "product_id": "9d3d296b-4ec8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "PTA (Purified Terephthalic Acid)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/aromatics/pta-purified-terephthalic-acid",
+                    "product_id": "91cbf2de-54c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Acetic Acid",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/aromatics/sabic-acetic-acid",
+                    "product_id": "7fe2c943-9fc7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Acetone",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/aromatics/sabic-acetone",
+                    "product_id": "a01d42a4-96c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Benzene",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/aromatics/sabic-benzene",
+                    "product_id": "f1cb6427-02dc-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 3
+                },
+                {
+                    "product_name": "SABIC Phenol",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/aromatics/sabic-phenol",
+                    "product_id": "5c820b6b-7de3-e911-8102-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Pygas",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/aromatics/sabic-pygas",
+                    "product_id": "8113a92d-5dc8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Styrene Monomer (SM)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/aromatics/sabic-styrene-monomer-sm",
+                    "product_id": "22440112-5ac8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                }
+            ]
+        },
+        {
+            "family_name": "Butyl Glycol Ether",
+            "family_description": "Butyl Glycol Ether",
+            "family_link": "https://www.sabic.com/en/products/chemicals/butyl-glycol-ether",
+            "product": [
+                {
+                    "product_name": "SABIC  Butoxy  Tri Glycol Ether (BTG)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/butyl-glycol-ether/sabic-butoxy-tri-glycol-ether-btg",
+                    "product_id": "21b60fe9-2e95-eb11-8109-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC  Butoxy Di Glycol ETher (DB)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/butyl-glycol-ether/sabic-butoxy-di-glycol-ether-db",
+                    "product_id": "deab9054-3295-eb11-8109-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC  Butoxy Glycol Ether (EB)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/butyl-glycol-ether/sabic-butoxy-glycol-ether-eb",
+                    "product_id": "3998ade0-3395-eb11-8109-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                }
+            ]
+        },
+        {
+            "family_name": "Chlor-Alkali",
+            "family_description": "Chlor-Alkali product family",
+            "family_link": "https://www.sabic.com/en/products/chemicals/chlor-alkali",
+            "product": [
+                {
+                    "product_name": "SABIC Caustic Soda (NaOH)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/chlor-alkali/sabic-caustic-soda-naoh",
+                    "product_id": "fb008ad0-5ac8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Ethylene dichloride (EDC)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/chlor-alkali/sabic-ethylene-dichloride-edc",
+                    "product_id": "1e0b7163-5ac8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "VCM",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/chlor-alkali/vcm",
+                    "product_id": "cf3e7bca-57c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                }
+            ]
+        },
+        {
+            "family_name": "Ethanolamines",
+            "family_description": "Ethanolamines product family",
+            "family_link": "https://www.sabic.com/en/products/chemicals/ethanolamines",
+            "product": [
+                {
+                    "product_name": "SABIC Diethanolamine",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/ethanolamines/sabic-diethanolamine",
+                    "product_id": "2caa5af1-8cc7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 2
+                },
+                {
+                    "product_name": "SABIC Monoethanolamine",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/ethanolamines/sabic-monoethanolamine",
+                    "product_id": "72ab9732-86c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 2
+                },
+                {
+                    "product_name": "SABIC Triethanolamine",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/ethanolamines/sabic-triethanolamine",
+                    "product_id": "7334b181-93c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 2
+                }
+            ]
+        },
+        {
+            "family_name": "Ethoxylates",
+            "family_description": "Ethoxylated surfactants for every market.",
+            "family_link": "https://www.sabic.com/en/products/chemicals/ethoxylates",
+            "product": [
+                {
+                    "product_name": "Castor Oil Ethoxylates",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/ethoxylates/castor-oil-ethoxylates",
+                    "product_id": "73a4f1a3-fcdc-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 3
+                },
+                {
+                    "product_name": "Natural Fatty Alcohol Ethoxylates",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/ethoxylates/natural-fatty-alcohol-ethoxylates",
+                    "product_id": "43d8d4c5-19dd-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 4
+                },
+                {
+                    "product_name": "Polyethylene Glycol",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/ethoxylates/polyethylene-glycol",
+                    "product_id": "bae7abc4-20dd-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 6
+                },
+                {
+                    "product_name": "Synthetic Alcohol Ethoxylates",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/ethoxylates/synthetic-alcohol-ethoxylates",
+                    "product_id": "a6621ef5-13dd-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 6
+                }
+            ]
+        },
+        {
+            "family_name": "Ethyleneamines",
+            "family_description": "Ethyleneamines",
+            "family_link": "https://www.sabic.com/en/products/chemicals/ethyleneamines",
+            "product": [
+                {
+                    "product_name": "SABIC  DIETHYLENETRIAMINE (DETA)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/ethyleneamines/sabic-diethylenetriamine-deta",
+                    "product_id": "9bc58d45-1f95-eb11-8109-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC  PIPERAZINE (PIP68)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/ethyleneamines/sabic-piperazine-pip68",
+                    "product_id": "345c06c5-2095-eb11-8109-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC ETHYLENEDIAMINE (EDA)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/ethyleneamines/sabic-ethylenediamine-eda",
+                    "product_id": "dc2ddce4-2195-eb11-8109-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                }
+            ]
+        },
+        {
+            "family_name": "Gases",
+            "family_description": "Gases product family",
+            "family_link": "https://www.sabic.com/en/products/chemicals/gases",
+            "product": [
+                {
+                    "product_name": "SABIC Hydrogen",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/gases/sabic-hydrogen",
+                    "product_id": "28e7fdb7-6fc7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Liquid Argon",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/gases/sabic-liquid-argon",
+                    "product_id": "76f03614-76c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Liquid Carbon Dioxide",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/gases/sabic-liquid-carbon-dioxide",
+                    "product_id": "66256048-77c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Nitrogen",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/gases/sabic-nitrogen",
+                    "product_id": "4a4aa43e-72c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Oxygen",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/gases/sabic-oxygen",
+                    "product_id": "751510e8-74c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                }
+            ]
+        },
+        {
+            "family_name": "GLYCOLS",
+            "family_description": "GLYCOLS product family",
+            "family_link": "https://www.sabic.com/en/products/chemicals/glycols",
+            "product": [
+                {
+                    "product_name": "SABIC Diethylene Glycol",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/glycols/sabic-diethylene-glycol",
+                    "product_id": "01344bcb-22c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Monoethylene Glycol",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/glycols/sabic-monoethylene-glycol",
+                    "product_id": "65b3629f-97c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Triethylene Glycol",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/glycols/sabic-triethylene-glycol",
+                    "product_id": "b78efe89-2ec8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                }
+            ]
+        },
+        {
+            "family_name": "Linear Alpha Olefins",
+            "family_description": "Linear Alpha Olefins product family",
+            "family_link": "https://www.sabic.com/en/products/chemicals/linear-alpha-olefins",
+            "product": [
+                {
+                    "product_name": "SABIC Butene-1",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/linear-alpha-olefins/sabic-butene-1",
+                    "product_id": "c79ced15-65c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC C14-C18",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/linear-alpha-olefins/sabic-c14-c18",
+                    "product_id": "d4148803-55c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC C20+",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/linear-alpha-olefins/sabic-c20",
+                    "product_id": "8894403d-52c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Decene-1",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/linear-alpha-olefins/sabic-decene-1",
+                    "product_id": "77a056d0-91c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Dodecene-1",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/linear-alpha-olefins/sabic-dodecene-1",
+                    "product_id": "cefdb55e-9bc7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Hexene-1",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/linear-alpha-olefins/sabic-hexene-1",
+                    "product_id": "745b114c-6fc7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Octene-1",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/linear-alpha-olefins/sabic-octene-1",
+                    "product_id": "acc4235f-7bc7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Raw Decene-1",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/linear-alpha-olefins/sabic-raw-decene-1",
+                    "product_id": "fb33ad4c-95c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                }
+            ]
+        },
+        {
+            "family_name": "Natural Detergent Alcohol",
+            "family_description": "Natural Detergent Alcohol product family",
+            "family_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol",
+            "product": [
+                {
+                    "product_name": "SABIC C12-C14 Fatty Acid",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol/sabic-c12-c14-fatty-acid",
+                    "product_id": "3315abb7-49c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC C16-C18 Fatty Acid",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol/sabic-c16-c18-fatty-acid",
+                    "product_id": "390bc5d3-4fc8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC C6-C8 Fatty Acid",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol/sabic-c6-c8-fatty-acid",
+                    "product_id": "6b8e8201-4dc8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC C8-C10 Fatty Acid",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol/sabic-c8-c10-fatty-acid",
+                    "product_id": "2e2be015-4bc8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Fatty Acid Heavies",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol/sabic-fatty-acid-heavies",
+                    "product_id": "b5fb3e80-3cc8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Fatty Alcohol Heavies",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol/sabic-fatty-alcohol-heavies",
+                    "product_id": "017e1d55-37c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Fatty Alcohol Lights",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol/sabic-fatty-alcohol-lights",
+                    "product_id": "a0238f50-38c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Fatty Alcohol/Hydrocarbons",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol/sabic-fatty-alcohol-hydrocarbons",
+                    "product_id": "3d1985f4-34c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Fatty Matter",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol/sabic-fatty-matter",
+                    "product_id": "7a1112ea-39c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Glycerin Heavies",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol/sabic-glycerin-heavies",
+                    "product_id": "58904948-3ec8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Glycerin Refined Grade - USP",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol/sabic-glycerin-refined-grade-usp",
+                    "product_id": "dc32ee40-47c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Glycerin Technical Grade",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol/sabic-glycerin-technical-grade",
+                    "product_id": "66d1d323-45c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC SABICOL 1214",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol/sabic-sabicol-1214",
+                    "product_id": "3576c872-65c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC SABICOL 1618",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/natural-detergent-alcohol/sabic-sabicol-1618",
+                    "product_id": "c0b90a02-4ec8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                }
+            ]
+        },
+        {
+            "family_name": "Olefins & Gases",
+            "family_description": "Olefins & Gases product family",
+            "family_link": "https://www.sabic.com/en/products/chemicals/olefins-gases",
+            "product": [
+                {
+                    "product_name": "SABIC 1,3-Butadiene",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/olefins-gases/sabic-1-3-butadiene",
+                    "product_id": "3dc05536-a7c7-e611-8197-06b69393ae39",
+                    "related_products": [
+                        "SABIC 1,3-Butadiene"
+                    ],
+                    "total_grades": 3
+                },
+                {
+                    "product_name": "SABIC CG Propylene",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/olefins-gases/sabic-cg-propylene",
+                    "product_id": "1dc911e6-3865-eb11-8108-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 3
+                },
+                {
+                    "product_name": "SABIC PG Ethylene",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/olefins-gases/sabic-pg-ethylene",
+                    "product_id": "1ba234c9-a3c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 3
+                },
+                {
+                    "product_name": "SABIC PG Propylene",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/olefins-gases/sabic-pg-propylene",
+                    "product_id": "c42904a9-9fc7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 3
+                }
+            ]
+        },
+        {
+            "family_name": "OXO Alcohols & Performance Monomers",
+            "family_description": "OXO Alcohols & Performance Monomers product family",
+            "family_link": "https://www.sabic.com/en/products/chemicals/oxo-alcohols-performance-monomers",
+            "product": [
+                {
+                    "product_name": "SABIC 2-Ethylhexanol (2-EH)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/oxo-alcohols-performance-monomers/sabic-2-ethylhexanol-2-eh",
+                    "product_id": "7df2a4e3-84c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Dioctyl Phthalate (DOP)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/oxo-alcohols-performance-monomers/sabic-dioctyl-phthalate-dop",
+                    "product_id": "a5b9e789-31c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Iso butanol (i-Butanol)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/oxo-alcohols-performance-monomers/sabic-iso-butanol-i-butanol",
+                    "product_id": "1ae7ae96-7cc7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Isobutyraldehyde (IBAL)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/oxo-alcohols-performance-monomers/sabic-isobutyraldehyde-ibal",
+                    "product_id": "4b4b188f-80c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC MMA",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/oxo-alcohols-performance-monomers/sabic-mma",
+                    "product_id": "a104dac9-9b61-e911-8101-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Normal Butanol (n-Butanol)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/oxo-alcohols-performance-monomers/sabic-normal-butanol-n-butanol",
+                    "product_id": "c98d7c66-36c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC SABICOL V (Mixed)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/oxo-alcohols-performance-monomers/sabic-sabicol-v-mixed",
+                    "product_id": "8d960ccd-b2e5-e911-8102-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                }
+            ]
+        },
+        {
+            "family_name": "OXYGENATES",
+            "family_description": "OXYGENATES product family",
+            "family_link": "https://www.sabic.com/en/products/chemicals/oxygenates",
+            "product": [
+                {
+                    "product_name": "SABIC Methanol",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/oxygenates/sabic-methanol",
+                    "product_id": "164db185-3dc8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Methyl Tertiary Butyl Ether (MTBE)",
+                    "product_link": "https://www.sabic.com/en/products/chemicals/oxygenates/sabic-methyl-tertiary-butyl-ether-mtbe",
+                    "product_id": "a95ba0b4-55c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 2
+                }
+            ]
+        }
+    ]
+}

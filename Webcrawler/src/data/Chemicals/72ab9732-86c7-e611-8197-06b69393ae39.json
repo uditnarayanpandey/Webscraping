@@ -1,0 +1,195 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "f7fbdd49-87c7-e611-8197-06b69393ae39",
+            "title": "MEA 99",
+            "summary": "MEA 99 is a colorless, hygroscopic and moderately viscous liquid with a Mild ammonical odor.",
+            "description": "MEA 99 is a colorless, hygroscopic and moderately viscous liquid with a Mild ammonical odor.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-MEA 99-SDS-Global-en-2021-05-18",
+                    "url": "/en/products/documents/sabic-mea-99-sds-global-en-2021-05-18/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "423c5c8a-d2b7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-MEA 99-SDS-Asia-China-en-2021-05-18",
+                    "url": "/en/products/documents/sabic-mea-99-sds-asia-china-en-2021-05-18/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "id": "f5bcf6d0-d2b7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Monoethanolamine_MEA 99_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-monoethanolamine_mea-99_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "3cf57269-cd93-e811-80fe-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "af7dbe9d-66c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "170f9bfb-47be-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "aaa5a8f4-9981-e711-80fc-005056857ef3",
+                    "contactRoles": [
+                        "949d4a7a-cf37-4938-98e4-4dbd59741ee6"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "180f9bfb-47be-eb11-8109-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mea-99"
+        },
+        {
+            "$id": "5",
+            "id": "76664ca2-1b95-eb11-8109-005056857ef3",
+            "title": "SABIC\u00ae Monoethanolamine (MEA 995)",
+            "summary": "MEA 995 is a colorless, hygroscopic and moderately viscous liquid with a mild ammoniacal odor.",
+            "description": "MEA 995 is a colorless, hygroscopic and moderately viscous liquid with a mild ammoniacal odor.",
+            "applications": [
+                "Additive Plastic"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-Monoethanolamine (MEA 995)-SDS-Global-en-2021-06-16",
+                    "url": "/en/products/documents/sabic-monoethanolamine-mea-995-sds-global-en-2021-06-16/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "20f32acf-0fb7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Monoethanolamine (MEA 995)_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-monoethanolamine-mea-995-_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "5d18b5eb-1c95-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "6",
+                    "contact": "af7dbe9d-66c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "aa19a18c-a3d2-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-monoethanolamine-(mea-995)"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "7",
+            "id": "313ee29e-8cc7-e611-8197-06b69393ae39",
+            "title": "Placeholder - please replace me",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "36ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Plastic",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "9",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "12",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

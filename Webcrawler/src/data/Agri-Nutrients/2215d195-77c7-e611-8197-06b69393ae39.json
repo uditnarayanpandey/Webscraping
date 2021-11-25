@@ -1,0 +1,100 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "1a9fcdcc-77c7-e611-8197-06b69393ae39",
+            "title": "18-18-5_9S NPK",
+            "summary": "-",
+            "description": "18-18-5+9S grade is used on a wide range of vegetables and green landscapes.18-18-5+9S is a balanced fertilizer promoting homogenity of primary and secondary nutrients in one granular providing the needs of the plant during the whole seasons to have a healthy growth and good harvest.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-18-18-5_9S NPK-SDS-MEA-Saudi Arabia-en-2021-06-01",
+                    "url": "/en/products/documents/sabic-18-18-5_9s-npk-sds-mea-saudi-arabia-en-2021-06-01/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "id": "524ce8b0-78ce-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-18-18-5_9S NPK-SDS-Global-en-2021-06-01",
+                    "url": "/en/products/documents/sabic-18-18-5_9s-npk-sds-global-en-2021-06-01/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2a7a01a7-79ce-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "18-18-5_9S NPK_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/18-18-5_9s-npk_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f724d33f-66fe-e611-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Americas",
+                "Asia",
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": [
+                "Crop Protection"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "18-18-5_9s-npk"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "3",
+            "id": "313ee29e-8cc7-e611-8197-06b69393ae39",
+            "title": "Placeholder - please replace me",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "4",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "5",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "8",
+            "industry": "bf73007a-f5fc-e611-80fb-005056857ef3",
+            "title": "Crop Protection",
+            "id": "6f98a3c4-f5fc-e611-80fb-005056857ef3"
+        }
+    ]
+}

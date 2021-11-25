@@ -1,0 +1,110 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "870f3093-3dc8-e611-8197-06b69393ae39",
+            "title": "SABIC\u00ae Methanol",
+            "summary": "Methanol is a colorless alcohol, hygroscopic and completely miscible with water, but much lighter (specific gravity 0.8).",
+            "description": "Methanol is a colorless alcohol, hygroscopic and completely miscible with water, but much lighter (specific gravity 0.8). It is a good solvent, but very toxic and extremely flammable. This simple single carbon alcohol is a volatile solvent and a light fuel.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-Methanol-SDS-Global-en-2021-05-17",
+                    "url": "/en/products/documents/sabic-methanol-sds-global-en-2021-05-17/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9ccbad29-12b7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-Methanol-SDS-China-en-2021-05-18",
+                    "url": "/en/products/documents/sabic-methanol-sds-china-en-2021-05-18/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "id": "2fc59f55-d3b7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Methanol_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-methanol_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "34c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "5fff030a-a0c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "29f7d726-96b8-eb11-8109-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-methanol"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "4",
+            "id": "313ee29e-8cc7-e611-8197-06b69393ae39",
+            "title": "Placeholder - please replace me",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "5",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

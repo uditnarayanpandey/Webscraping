@@ -1,0 +1,299 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "f4abe834-c2cc-4f37-8325-ca34ec94ad5b",
+            "title": "61EK61PS",
+            "summary": "MFR (2.16 kg) 0.30 g/10 min",
+            "description": "This impact copolymer has a high molecular weight and is provided with a long-term heat stabilisation package. It\nexhibits extra high stiffness in combination with very high impact strength even at low temperatures. This\nmaterial is typically used for extrusion of non-pressure sewage pipe applications and can also be typically used for blow-moulding of large containers and sheet extrusion.\n\nHealth, Safety and Food Contact regulations: \nMaterial Safety Data Sheets (MSDS) and Product Safety declarations are available on our Internet site http://www.SABIC.com\n\nIMDS 80775790",
+            "applications": [
+                "Sheet",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Drinkingwater contact declaration",
+                    "title": "61EK61PS\\00900-Drinkingwater contact declaration",
+                    "url": "/en/products/documents/61ek61ps-00900-drinkingwater-contact-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4d43b840-2d9b-42ca-864e-1e6d7c93ef18"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "61EK61PS\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/61ek61ps-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "392e4b7d-a3d9-40ea-abe7-2222988dd376"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PP RELY-61EK61PS-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pp-rely-61ek61ps-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4f9dea76-f09d-431f-925f-4697dbf49d8e"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PP RELY-61EK61PS-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pp-rely-61ek61ps-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "12ec5c58-0192-4e5e-86ad-5128eb9b802b"
+                },
+                {
+                    "documentType": "Toy declaration",
+                    "title": "61EK61PS\\00900-Toy declaration",
+                    "url": "/en/products/documents/61ek61ps-00900-toy-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "41421393-ab4f-4982-b8f3-5eacb91b3873"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "61EK61PS\\00900-Phthalates declaration",
+                    "url": "/en/products/documents/61ek61ps-00900-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "31fcf1fa-07b6-41f2-92c9-74bc0a52dbe4"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-PP RELY-61EK61PS-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pp-rely-61ek61ps-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6d5e5cfd-2014-447c-b9ed-7d15aae54134"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PP RELY-61EK61PS-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pp-rely-61ek61ps-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ec660349-908c-49e8-a2ee-85873cab3226"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "61EK61PS\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/61ek61ps-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "ba82c007-41e5-4d09-bfaf-9cfd1f8f7cad"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PP RELY-61EK61PS-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pp-rely-61ek61ps-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "41c13ab4-b75f-4d9e-b270-d56b6230865d"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PP RELY_61EK61PS_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pp-rely_61ek61ps_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e3c3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "61ek61ps"
+        },
+        {
+            "$id": "3",
+            "id": "1953c275-b99e-4839-a047-7116f1052002",
+            "title": "71EK71PS",
+            "summary": "MFR (2.16 kg) 0.30 g/10 min",
+            "description": "This impact copolymer has a high molecular weight and is provided with a long-term heat stabilisation package. It exhibits high stiffness in combination with very high impact strength even at low temperatures. This material is typically used for extrusion of sewage pipe applications and can also be typically used for blow-moulding of large containers and sheet extrusion.\n\nHealth, Safety and Food Contact regulations:\nMaterial Safety Data Sheets (MSDS) and Product Safety declarations are available on our Internet site http://www.SABIC.com \n\nThis grade material is UL registered under File E111275 (www.ul.com)\nIMDS 80775790",
+            "applications": [
+                "Sheet",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Toy declaration",
+                    "title": "71EK71PS\\00900-Toy declaration",
+                    "url": "/en/products/documents/71ek71ps-00900-toy-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b12eeda5-b5a1-4481-bf4d-1d8f78a49e1b"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-PP RELY-71EK71PS-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pp-rely-71ek71ps-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "761651e9-81c6-40ef-9835-54ab0327bdc5"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "71EK71PS\\00900-Phthalates declaration",
+                    "url": "/en/products/documents/71ek71ps-00900-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "94e1242b-f526-47ad-8627-643924d38be9"
+                },
+                {
+                    "documentType": "Drinkingwater contact declaration",
+                    "title": "71EK71PS\\00900-Drinkingwater contact declaration",
+                    "url": "/en/products/documents/71ek71ps-00900-drinkingwater-contact-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "722ceb70-73c3-464d-a4c5-7060c624c8ab"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "71EK71PS\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/71ek71ps-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "16224273-8b9f-49b8-bcfc-730245f31c4e"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PP RELY-71EK71PS-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pp-rely-71ek71ps-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d099a8a8-599d-44e2-8956-77d5e0a8c1a5"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PP RELY-71EK71PS-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pp-rely-71ek71ps-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "746f81f9-67df-436f-9628-9e74b0ddd589"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "71EK71PS\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/71ek71ps-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "cfcfc115-e469-47ae-b791-a29db6af1fed"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PP RELY-71EK71PS-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pp-rely-71ek71ps-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6a3801d8-5c19-41a4-9996-a72a33cbd7e1"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PP RELY-71EK71PS-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pp-rely-71ek71ps-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "32ed7b90-554c-4c9c-a3d4-fc83d6825f64"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PP RELY_71EK71PS_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pp-rely_71ek71ps_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "abc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "71ek71ps"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "4",
+            "id": "68450aab-b9b8-4b9b-be53-91d72734e67d",
+            "title": "Pipe extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "5",
+            "id": "07c64c9c-bba2-4a0f-b1c5-5424d49c327e",
+            "title": "Sheet",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "55982401-1b76-4c37-a0ca-f6b40dd7e910",
+            "title": "Sewage",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "7",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "11",
+            "industry": "1679dc71-a5d2-4e3b-bd90-ef43d09fe4d9",
+            "title": "IndustrySegment",
+            "id": "f25a6df1-91f0-43a8-9b69-520be613d22d"
+        }
+    ]
+}

@@ -1,0 +1,506 @@
+{
+    "Polymers": [
+        {
+            "family_name": "Acrylonitrile Butadiene Styrene (ABS)",
+            "family_description": "CYCOLAC Resin - Acrylonitrile-butadiene-styrene (ABS) thermoplastic resin is widely recognized as a tailorable engineering material offering outstanding aesthetics, flow, toughness, dimensional stability, excellent colorability, scratch resistance and high temperature resistance. FDA approved.",
+            "family_link": "https://www.sabic.com/en/products/polymers/acrylonitrile-butadiene-styrene-abs",
+            "product": [
+                {
+                    "product_name": "CYCOLAC  Resin",
+                    "product_link": "https://www.sabic.com/en/products/polymers/acrylonitrile-butadiene-styrene-abs/cycolac-resin",
+                    "product_id": "bf77b703-e1d8-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 47
+                }
+            ]
+        },
+        {
+            "family_name": "Acrylonitrile Styrene Acrylate (ASA)",
+            "family_description": "GELOY Resin - Improved UV over PC/ABS, excellent processability, higher heat and impact vs. ASA.",
+            "family_link": "https://www.sabic.com/en/products/polymers/acrylonitrile-styrene-acrylate-asa",
+            "product": [
+                {
+                    "product_name": "GELOY  Resin",
+                    "product_link": "https://www.sabic.com/en/products/polymers/acrylonitrile-styrene-acrylate-asa/geloy-resin",
+                    "product_id": "c177b703-e1d8-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 20
+                }
+            ]
+        },
+        {
+            "family_name": "Carbon Black",
+            "family_description": "Hard particle furnace grades reinforcing carbon black used for a range of applications in rubber industry.",
+            "family_link": "https://www.sabic.com/en/products/polymers/carbon-black",
+            "product": [
+                {
+                    "product_name": "SABIC Carbon Black",
+                    "product_link": "https://www.sabic.com/en/products/polymers/carbon-black/sabic-carbon-black",
+                    "product_id": "0d1c10c0-201a-e911-8100-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 5
+                }
+            ]
+        },
+        {
+            "family_name": "Metallocene Polyethylene (mPE)",
+            "family_description": "SUPEER Metallocene Linear Low Density Polyethylene (mLLDPE), COHERE Metallocene Polyolefin Plastomer (POP) and FORTIFY Polyolefin Elastomer (POE) - Metallocene based linear low-density polyethylene, Polyolefin Plastomers and Polyolefin Elastomers e.g. for flexible packaging and polymer modification solutions.",
+            "family_link": "https://www.sabic.com/en/products/polymers/metallocene-polyethylene-mpe",
+            "product": [
+                {
+                    "product_name": "COHERE Metallocene Polyolefin Plastomer (POP)",
+                    "product_link": "https://www.sabic.com/en/products/polymers/metallocene-polyethylene-mpe/cohere-metallocene-polyolefin-plastomer-pop",
+                    "product_id": "a433518a-5f8f-4c20-b32b-f43ca34aed42",
+                    "related_products": null,
+                    "total_grades": 10
+                },
+                {
+                    "product_name": "FORTIFY Polyolefin Elastomer (POE)",
+                    "product_link": "https://www.sabic.com/en/products/polymers/metallocene-polyethylene-mpe/fortify-polyolefin-elastomer-poe",
+                    "product_id": "36ffe56c-2218-4650-9763-535c1b8f4197",
+                    "related_products": null,
+                    "total_grades": 14
+                },
+                {
+                    "product_name": "SUPEER Metallocene Linear Low Density Polyethylene (mLLDPE)",
+                    "product_link": "https://www.sabic.com/en/products/polymers/metallocene-polyethylene-mpe/supeer-metallocene-linear-low-density-polyethylene-mlldpe",
+                    "product_id": "1203c905-a1f1-44fd-bf87-a12088853574",
+                    "related_products": null,
+                    "total_grades": 14
+                }
+            ]
+        },
+        {
+            "family_name": "POLYAMIDE (PA)",
+            "family_description": "POLYAMIDE (PA)",
+            "family_link": "https://www.sabic.com/en/products/polymers/polyamide-pa",
+            "product": [
+                {
+                    "product_name": "SABIC PA6",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyamide-pa/sabic-pa6",
+                    "product_id": "e2dcebd9-08df-eb11-810a-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 2
+                }
+            ]
+        },
+        {
+            "family_name": "Polybutylene Terephthalate (PBT)",
+            "family_description": "VALOX Resin - Dimensional stability, low warpage, weatherable, excellent chemical resistance and high quality surface finish & gloss.",
+            "family_link": "https://www.sabic.com/en/products/polymers/polybutylene-terephthalate-pbt",
+            "product": [
+                {
+                    "product_name": "VALOX FR Resins",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polybutylene-terephthalate-pbt/valox-fr-resins",
+                    "product_id": "571b8bba-335c-e911-8101-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 26
+                },
+                {
+                    "product_name": "VALOX Resin",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polybutylene-terephthalate-pbt/valox-resin",
+                    "product_id": "c677b703-e1d8-e611-819b-06b69393ae39",
+                    "related_products": [
+                        "VALOX FR Resin"
+                    ],
+                    "total_grades": 60
+                }
+            ]
+        },
+        {
+            "family_name": "Polycarbonate (PC)",
+            "family_description": "Polycarbonate, an amorphous polymer, offers a unique combination of toughness with exceptional impact strength. It also exhibits high optical clarity, excellent creep, and high temperature resistance.",
+            "family_link": "https://www.sabic.com/en/products/polymers/polycarbonate-pc",
+            "product": [
+                {
+                    "product_name": "LEXAN  Resin",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polycarbonate-pc/lexan-resin",
+                    "product_id": "c277b703-e1d8-e611-819b-06b69393ae39",
+                    "related_products": [
+                        "LEXAN FR Resins",
+                        "LEXAN Healthcare Resin"
+                    ],
+                    "total_grades": 107
+                },
+                {
+                    "product_name": "LEXAN FR Resins",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polycarbonate-pc/lexan-fr-resins",
+                    "product_id": "17eb120c-2f5c-e911-8101-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 49
+                },
+                {
+                    "product_name": "LEXAN Healthcare Resin",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polycarbonate-pc/lexan-healthcare-resin",
+                    "product_id": "e0207e0d-2997-e811-80fe-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 20
+                },
+                {
+                    "product_name": "SABIC PC Resin",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polycarbonate-pc/sabic-pc-resin",
+                    "product_id": "c477b703-e1d8-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 20
+                },
+                {
+                    "product_name": "LEXAN FILM",
+                    "product_link": "https://www.sabic.com/en/products/polymers/lexan-films/lexan-film",
+                    "product_id": "40b7abf0-e240-ea11-8102-005056857ef3",
+                    "related_products": [
+                        "LEXAN THERMOCLEAR (MULTIWALL) SHEETS",
+                        "LEXAN BUILDING SYSTEMS",
+                        "LEXAN CORRUGATED Sheet",
+                        "LEXAN SOLID SHEET"
+                    ],
+                    "total_grades": 0
+                },
+                {
+                    "product_name": "LEXAN BUILDING SYSTEMS",
+                    "product_link": "https://www.sabic.com/en/products/polymers/lexan-sheets/lexan-building-systems",
+                    "product_id": "62cc0a37-c93d-ea11-8102-005056857ef3",
+                    "related_products": [
+                        "LEXAN THERMOCLEAR (MULTIWALL) SHEETS"
+                    ],
+                    "total_grades": 0
+                },
+                {
+                    "product_name": "LEXAN CORRUGATED Sheet",
+                    "product_link": "https://www.sabic.com/en/products/polymers/lexan-sheets/lexan-corrugated-sheet",
+                    "product_id": "db228307-d53d-ea11-8102-005056857ef3",
+                    "related_products": [
+                        "LEXAN THERMOCLEAR (MULTIWALL) SHEETS",
+                        "LEXAN SOLID SHEET",
+                        "LEXAN BUILDING SYSTEMS"
+                    ],
+                    "total_grades": 0
+                },
+                {
+                    "product_name": "LEXAN SOLID SHEET",
+                    "product_link": "https://www.sabic.com/en/products/polymers/lexan-sheets/lexan-solid-sheet",
+                    "product_id": "af12c234-e732-ea11-8102-005056857ef3",
+                    "related_products": [
+                        "LEXAN THERMOCLEAR (MULTIWALL) SHEETS"
+                    ],
+                    "total_grades": 0
+                },
+                {
+                    "product_name": "LEXAN THERMOCLEAR (MULTIWALL) SHEETS",
+                    "product_link": "https://www.sabic.com/en/products/polymers/lexan-sheets/lexan-thermoclear-multiwall-sheets",
+                    "product_id": "88c96612-6e4d-4a7d-a3f8-b9a4bd435d45",
+                    "related_products": [
+                        "LEXAN BUILDING SYSTEMS",
+                        "LEXAN CORRUGATED Sheet",
+                        "LEXAN SOLID SHEET"
+                    ],
+                    "total_grades": 0
+                }
+            ]
+        },
+        {
+            "family_name": "Polycarbonate (PC)-Acrylonitrile Butadiene Styrene (ABS)",
+            "family_description": "CYCOLOY polycarbonate/acrylonitrile-butadiene-styrene (PC/ABS) high impact amorphous thermoplastic blends combine ease of processing with low-temperature ductility. With excellent impact resistance, heat resistance, and outstanding aesthetics. CYCOLOY resin blends provide an excellent design solution when both appearance and durability are important.",
+            "family_link": "https://www.sabic.com/en/products/polymers/polycarbonate-pc-acrylonitrile-butadiene-styrene-abs",
+            "product": [
+                {
+                    "product_name": "CYCOLOY  Resin",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polycarbonate-pc-acrylonitrile-butadiene-styrene-abs/cycoloy-resin",
+                    "product_id": "c077b703-e1d8-e611-819b-06b69393ae39",
+                    "related_products": [
+                        "CYCOLOY FR Resin"
+                    ],
+                    "total_grades": 17
+                },
+                {
+                    "product_name": "CYCOLOY FR Resins",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polycarbonate-pc-acrylonitrile-butadiene-styrene-abs/cycoloy-fr-resins",
+                    "product_id": "f1c776d7-2c5c-e911-8101-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 19
+                }
+            ]
+        },
+        {
+            "family_name": "Polycarbonate (PC)-Polybutylene Terephthalate (PBT)",
+            "family_description": "XENOY Resin - Long-term durability, high impact strength, chemical resistance, good surface appearance, low shrinkage, easy processing.",
+            "family_link": "https://www.sabic.com/en/products/polymers/polycarbonate-pc-polybutylene-terephthalate-pbt",
+            "product": [
+                {
+                    "product_name": "XENOY Resin",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polycarbonate-pc-polybutylene-terephthalate-pbt/xenoy-resin",
+                    "product_id": "c777b703-e1d8-e611-819b-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 38
+                }
+            ]
+        },
+        {
+            "family_name": "Polyethylene (PE)",
+            "family_description": "Complete range of HDPE, LDPE and LLDPE for Flexible and Rigid Applications",
+            "family_link": "https://www.sabic.com/en/products/polymers/polyethylene-pe",
+            "product": [
+                {
+                    "product_name": "SABIC HDPE",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyethylene-pe/sabic-hdpe",
+                    "product_id": "942298de-12c2-457f-8c75-b6fb063fdaf2",
+                    "related_products": null,
+                    "total_grades": 90
+                },
+                {
+                    "product_name": "SABIC LDPE",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyethylene-pe/sabic-ldpe",
+                    "product_id": "6b6dcac7-fb64-46ad-9716-2c8b4fd4043f",
+                    "related_products": null,
+                    "total_grades": 81
+                },
+                {
+                    "product_name": "SABIC LDPE Powder",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyethylene-pe/sabic-ldpe-powder",
+                    "product_id": "4607d968-67f3-4b7b-8de7-22ff156bfada",
+                    "related_products": null,
+                    "total_grades": 10
+                },
+                {
+                    "product_name": "SABIC LLDPE",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyethylene-pe/sabic-lldpe",
+                    "product_id": "0c7ed634-faec-4733-9ede-93fdaad44fd7",
+                    "related_products": null,
+                    "total_grades": 76
+                },
+                {
+                    "product_name": "SABIC Vestolen A",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyethylene-pe/sabic-vestolen-a",
+                    "product_id": "309581a6-439a-44f4-a2a4-eef9378b6e27",
+                    "related_products": null,
+                    "total_grades": 14
+                }
+            ]
+        },
+        {
+            "family_name": "Polyethylene Terephthalate (PET)",
+            "family_description": "A transparent, lightweight material with excellent water and moisture barrier properties, used mostly for water, carbonated soft drinks, milk and juice packaging application.",
+            "family_link": "https://www.sabic.com/en/products/polymers/polyethylene-terephthalate-pet",
+            "product": [
+                {
+                    "product_name": "SABIC PET",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyethylene-terephthalate-pet/sabic-pet",
+                    "product_id": "b2f6d6a6-78ad-4107-9c98-15d5b864cf90",
+                    "related_products": null,
+                    "total_grades": 5
+                }
+            ]
+        },
+        {
+            "family_name": "Polymethyl Methacrylate (PMMA)",
+            "family_description": "Super transparent, amorphous PMMA offers high resistance to UV light and weathering, chemical and heat resistance, long service life, and unlimited coloring options for various applications.",
+            "family_link": "https://www.sabic.com/en/products/polymers/polymethyl-methacrylate-pmma",
+            "product": [
+                {
+                    "product_name": "SABIC PMMA",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polymethyl-methacrylate-pmma/sabic-pmma",
+                    "product_id": "b2f0ea23-130a-e711-80fb-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 6
+                }
+            ]
+        },
+        {
+            "family_name": "Polyoxymethylene (POM)",
+            "family_description": "A wide range of Polyoxymethylene (POM) including Glass-Filled grades (SABITAL). To be used in several applications replacing metals and moving parts for different market segments.",
+            "family_link": "https://www.sabic.com/en/products/polymers/polyoxymethylene-pom",
+            "product": [
+                {
+                    "product_name": "SABIC POM",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyoxymethylene-pom/sabic-pom",
+                    "product_id": "4cebfa4c-8a7d-e711-80fc-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 7
+                },
+                {
+                    "product_name": "SABIC SABITAL",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyoxymethylene-pom/sabic-sabital",
+                    "product_id": "84e0d736-dfbe-e711-80fd-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 3
+                }
+            ]
+        },
+        {
+            "family_name": "Polypropylene (PP)",
+            "family_description": "Complete range of Homo, Random & Impact Polypropylene and Polypropylene Compounds for Flexible and Rigid Applications",
+            "family_link": "https://www.sabic.com/en/products/polymers/polypropylene-pp",
+            "product": [
+                {
+                    "product_name": "HAPSOFT",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polypropylene-pp/hapsoft",
+                    "product_id": "730aa40f-62ee-e911-8102-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 3
+                },
+                {
+                    "product_name": "SABIC PP",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polypropylene-pp/sabic-pp",
+                    "product_id": "4cf1c097-1963-4651-8498-43736e9c7b0d",
+                    "related_products": null,
+                    "total_grades": 157
+                },
+                {
+                    "product_name": "SABIC PP RELY",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polypropylene-pp/sabic-pp-rely",
+                    "product_id": "b403f58c-c8cf-4be4-ab8a-ae939efeb96b",
+                    "related_products": null,
+                    "total_grades": 2
+                },
+                {
+                    "product_name": "SABIC PPcompound",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polypropylene-pp/sabic-ppcompound",
+                    "product_id": "5d9df833-acda-4c5d-b748-58de7432ca13",
+                    "related_products": null,
+                    "total_grades": 164
+                },
+                {
+                    "product_name": "SABIC PP-UMS",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polypropylene-pp/sabic-pp-ums",
+                    "product_id": "226ab69a-4bd4-e711-80fd-005056857ef3",
+                    "related_products": [
+                        "SABIC PP"
+                    ],
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Vestolen P",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polypropylene-pp/sabic-vestolen-p",
+                    "product_id": "290a7a06-de31-4cd3-bdff-cde9f7fa41e1",
+                    "related_products": null,
+                    "total_grades": 4
+                },
+                {
+                    "product_name": "STAMAX",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polypropylene-pp/stamax",
+                    "product_id": "3d34c78c-9e4c-4439-9b70-9bbf91ee0dae",
+                    "related_products": null,
+                    "total_grades": 29
+                }
+            ]
+        },
+        {
+            "family_name": "Polystyrene (PS)",
+            "family_description": "A transparent polymer used in a variety of applications, such as food packaging and appliances. Polystyrene foams are used for thermal insulation and protective packaging.",
+            "family_link": "https://www.sabic.com/en/products/polymers/polystyrene-ps",
+            "product": [
+                {
+                    "product_name": "SABIC EPS",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polystyrene-ps/sabic-eps",
+                    "product_id": "1a1f853c-791e-e711-80fb-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 8
+                },
+                {
+                    "product_name": "SABIC PS",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polystyrene-ps/sabic-ps",
+                    "product_id": "24a88068-972c-4644-8e08-25b4a5f2f653",
+                    "related_products": null,
+                    "total_grades": 6
+                }
+            ]
+        },
+        {
+            "family_name": "Polyurethane (PU)",
+            "family_description": "Polyurethane PU is made by mixing a Polyol with a different diisocyanate, e.g Toluene diisocyanate (TDI) or Methylenediphenyl diisocyanate (MDI ) with other chemical and additives to produce materials that can be used in furniture/bedding, construction, insulation, automotive and CASE (coatings, adhesives, sealants and elastomers).",
+            "family_link": "https://www.sabic.com/en/products/polymers/polyurethane-pu",
+            "product": [
+                {
+                    "product_name": "SABIC Isocyanate",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyurethane-pu/sabic-isocyanate",
+                    "product_id": "3d3e0901-4982-eb11-8108-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 3
+                },
+                {
+                    "product_name": "SABIC PG",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyurethane-pu/sabic-pg",
+                    "product_id": "270a7c5d-fc90-eb11-8108-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 5
+                },
+                {
+                    "product_name": "SABIC PO",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyurethane-pu/sabic-po",
+                    "product_id": "3bdf350b-177f-eb11-8108-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "SABIC Polyol",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyurethane-pu/sabic-polyol",
+                    "product_id": "74bb8d6a-4e82-eb11-8108-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 12
+                }
+            ]
+        },
+        {
+            "family_name": "Polyvinyl Acetate (EVA)",
+            "family_description": "EVA",
+            "family_link": "https://www.sabic.com/en/products/polymers/polyvinyl-acetate-eva",
+            "product": [
+                {
+                    "product_name": "SABIC EVA",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyvinyl-acetate-eva/sabic-eva",
+                    "product_id": "09d19b48-ea21-ec11-810c-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 1
+                }
+            ]
+        },
+        {
+            "family_name": "Polyvinyl Chloride (PVC)",
+            "family_description": "A durable and long-lasting material that can be used in a variety of applications, either rigid or flexible: building and construction, medical devices and food packaging.",
+            "family_link": "https://www.sabic.com/en/products/polymers/polyvinyl-chloride-pvc",
+            "product": [
+                {
+                    "product_name": "SABIC SPVC",
+                    "product_link": "https://www.sabic.com/en/products/polymers/polyvinyl-chloride-pvc/sabic-spvc",
+                    "product_id": "5f6e9f53-fc7e-450d-ac5e-f0f83f9e610e",
+                    "related_products": null,
+                    "total_grades": 5
+                }
+            ]
+        },
+        {
+            "family_name": "Synthetic Rubbers",
+            "family_description": "A wide range of BR and EPDM rubber, which finds application in tire and non-tire industries.",
+            "family_link": "https://www.sabic.com/en/products/polymers/synthetic-rubbers",
+            "product": [
+                {
+                    "product_name": "SABIC BR",
+                    "product_link": "https://www.sabic.com/en/products/polymers/synthetic-rubbers/sabic-br",
+                    "product_id": "2b1fdf22-b3b6-4a09-b751-bfab2e912074",
+                    "related_products": null,
+                    "total_grades": 3
+                },
+                {
+                    "product_name": "SABIC EPDM",
+                    "product_link": "https://www.sabic.com/en/products/polymers/synthetic-rubbers/sabic-epdm",
+                    "product_id": "73199965-0c7b-4a72-8df9-f1fb5875a0fd",
+                    "related_products": null,
+                    "total_grades": 5
+                }
+            ]
+        },
+        {
+            "family_name": "XYLEX RESINS",
+            "family_description": "Strong chemical resistance plus clarity",
+            "family_link": "https://www.sabic.com/en/products/polymers/xylex-resins",
+            "product": [
+                {
+                    "product_name": "XYLEX  Resin",
+                    "product_link": "https://www.sabic.com/en/products/polymers/xylex-resins/xylex-resin",
+                    "product_id": "adb6c3b8-5253-4680-9168-f634db982c64",
+                    "related_products": null,
+                    "total_grades": 12
+                }
+            ]
+        }
+    ]
+}

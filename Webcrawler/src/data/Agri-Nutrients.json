@@ -1,0 +1,81 @@
+{
+    "Agri-Nutrients": [
+        {
+            "family_name": "Agri-Nutrients",
+            "family_description": "SABIC is a global leader in the fertilizers industry. It supplies a comprehensive portfolio of nitrogen-based inorganic products, helping solve the worlds food supply challenges, with a leading position in Middle East, Far East, Africa, and Americas.",
+            "family_link": "https://www.sabic.com/en/products/agri-nutrients/agri-nutrients",
+            "product": [
+                {
+                    "product_name": "11-29-19_6S NPK",
+                    "product_link": "https://www.sabic.com/en/products/agri-nutrients/agri-nutrients/11-29-19_6s-npk",
+                    "product_id": "46ee92d2-79c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "18-18-5_9S NPK",
+                    "product_link": "https://www.sabic.com/en/products/agri-nutrients/agri-nutrients/18-18-5_9s-npk",
+                    "product_id": "2215d195-77c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "Anhydrous Ammonia",
+                    "product_link": "https://www.sabic.com/en/products/agri-nutrients/agri-nutrients/anhydrous-ammonia",
+                    "product_id": "ba272ed8-29c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "DAP",
+                    "product_link": "https://www.sabic.com/en/products/agri-nutrients/agri-nutrients/dap",
+                    "product_id": "64e753bc-2cc8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "Date Palm NPK",
+                    "product_link": "https://www.sabic.com/en/products/agri-nutrients/agri-nutrients/date-palm-npk",
+                    "product_id": "8431f203-69c7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "Enriched Urea",
+                    "product_link": "https://www.sabic.com/en/products/agri-nutrients/agri-nutrients/enriched-urea",
+                    "product_id": "8f4e5310-f486-eb11-8108-005056857ef3",
+                    "related_products": null,
+                    "total_grades": 5
+                },
+                {
+                    "product_name": "GRANULAR UREA",
+                    "product_link": "https://www.sabic.com/en/products/agri-nutrients/agri-nutrients/granular-urea",
+                    "product_id": "f833be59-28c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "MAP",
+                    "product_link": "https://www.sabic.com/en/products/agri-nutrients/agri-nutrients/map",
+                    "product_id": "6271a381-2fc8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "PRILLED UREA",
+                    "product_link": "https://www.sabic.com/en/products/agri-nutrients/agri-nutrients/prilled-urea",
+                    "product_id": "197871f0-23c8-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                },
+                {
+                    "product_name": "TECHNICAL GRADE UREA",
+                    "product_link": "https://www.sabic.com/en/products/agri-nutrients/agri-nutrients/technical-grade-urea",
+                    "product_id": "8a573e16-7bc7-e611-8197-06b69393ae39",
+                    "related_products": null,
+                    "total_grades": 1
+                }
+            ]
+        }
+    ]
+}

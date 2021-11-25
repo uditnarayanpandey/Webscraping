@@ -1,0 +1,416 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "9f8736e6-20dd-e611-819b-06b69393ae39",
+            "title": "200",
+            "summary": "SAPEG 200 consists of a distribution of polymers of varying molecular weights with an average molecular weight of 200.",
+            "description": "SAPEG 200 consists of a distribution of polymers of varying molecular weights with an average molecular weight of 200. It is a colorless and odorless liquid. SAPEG 200 is nontoxic, nonirritant and is used as humectant, lubricant, solvent and viscosity modifier in many applications.",
+            "applications": [
+                "Adhesives"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SAPEG 200",
+                    "url": "/en/products/documents/sapeg-200/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5c759728-2ef4-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SAPEG 200-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-sapeg-200-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "cd93a666-83b8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SAPEG-200-SDS-Asia-China-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-sapeg-200-sds-asia-china-en-2021-05-19/en",
+                    "language": "English",
+                    "country": "290a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "e9e5b740-89b8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "Polyethylene Glycol_200_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/polyethylene-glycol_200_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "afc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Textile"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "200"
+        },
+        {
+            "$id": "3",
+            "id": "7d6d77e5-21dd-e611-819b-06b69393ae39",
+            "title": "300",
+            "summary": "SAPEG 300 consists of a distribution of polymers of varying molecular weights with an average molecular weight of 300.",
+            "description": "SAPEG 300 consists of a distribution of polymers of varying molecular weights with an average molecular weight of 300. It is a colorless and odorless liquid, completely miscible in water and many organic solvents. SAPEG 300 is nontoxic, nonirritant and is used as humectant, lubricant, solvent and viscosity modifier in many applications.",
+            "applications": [
+                "Adhesives",
+                "Textile coating"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SAPEG 300",
+                    "url": "/en/products/documents/sapeg-300/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "abfaa4b1-35f4-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SAPEG-300-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-sapeg-300-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3526e6ac-84b8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SAPEG-300-SDS-Asia-China-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-sapeg-300-sds-asia-china-en-2021-05-19/en",
+                    "language": "English",
+                    "country": "290a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "e53bf3ce-89b8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "Polyethylene Glycol_300_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/polyethylene-glycol_300_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "6dc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Textile"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "300"
+        },
+        {
+            "$id": "4",
+            "id": "9c9abad7-22dd-e611-819b-06b69393ae39",
+            "title": "400",
+            "summary": "SAPEG 400 consists of a distribution of polymers of varying molecular weights with an average molecular weight of 400.",
+            "description": "SAPEG 400 consists of a distribution of polymers of varying molecular weights with an average molecular weight of 400. It is a colorless and odorless liquid, completely miscible in water and many organic solvents. SAPEG 400 is nontoxic, nonirritant and is used as humectant, lubricant, solvent and viscosity modifier in many applications.",
+            "applications": [
+                "Adhesives",
+                "Textile coating"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SAPEG 400",
+                    "url": "/en/products/documents/sapeg-400/ar",
+                    "language": "Arabic",
+                    "region": "Global",
+                    "id": "6b273d71-4cf4-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SAPEG-400-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-sapeg-400-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "70e2cad7-87b8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SAPEG-400-SDS-Asia-China-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-sapeg-400-sds-asia-china-en-2021-05-19/en",
+                    "language": "English",
+                    "country": "290a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "39f2c41f-8ab8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "Polyethylene Glycol_400_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/polyethylene-glycol_400_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "34ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Textile"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "400"
+        },
+        {
+            "$id": "5",
+            "id": "748fa280-23dd-e611-819b-06b69393ae39",
+            "title": "600",
+            "summary": "SAPEG 600 consists of a distribution of polymers of varying molecular weights with an average molecular weight of 600.",
+            "description": "SAPEG 600 consists of a distribution of polymers of varying molecular weights with an average molecular weight of 600. It is a colorless and odorless liquid, completely miscible in water and many organic solvents. SAPEG 600 is nontoxic, nonirritant and is used as humectant, lubricant, solvent and viscosity modifier in many applications.",
+            "applications": [
+                "Adhesives",
+                "Textile coating"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SAPEG-600-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-sapeg-600-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9e8a7b92-88b8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SAPEG-600-SDS-Asia-China-en,zh-chs",
+                    "url": "/en/products/documents/sabic-sapeg-600-sds-asia-china-en-zh-chs/en",
+                    "language": "English",
+                    "country": "290a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "cd3dc963-8ab8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "Polyethylene Glycol_600_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/polyethylene-glycol_600_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "70c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Textile"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "600"
+        },
+        {
+            "$id": "6",
+            "id": "34fcfcb1-6114-eb11-8106-005056857ef3",
+            "title": "SAPEG 400 PH",
+            "summary": "SAPEG 400 PH consists of a distribution of polymers of varying molecular weights with an average molecular weight of 400.",
+            "description": "SAPEG 400 PH consists of a distribution of polymers of varying molecular weights with an average molecular weight of 400. It is a white\nto pale yellow liquid, completely miscible in water and many organic solvents. SAPEG 400 PH is non-toxic, non-irritant and is used as\nhumectant, lubricant, and viscosity modifier in many applications. SAPEG 400 PH conforms to USP-NF and EP monograph and is\nmanufactured in accordance with EXCiPACT Good Manufacturing Practices of pharmaceutical excipients.",
+            "applications": [
+                "Cosmetics",
+                "Pharmaceuticals",
+                "Personal Care"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SAPEG 400 PH-SDS-Global-en-2021-05-17",
+                    "url": "/en/products/documents/sabic-sapeg-400-ph-sds-global-en-2021-05-17/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e51754aa-1ab7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SAPEG 400 PH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sapeg-400-ph_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fe4b5249-bb16-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sapeg-400-ph"
+        },
+        {
+            "$id": "7",
+            "id": "a25fdf04-b716-eb11-8106-005056857ef3",
+            "title": "SAPEG 600 PH",
+            "summary": "SAPEG 600 PH consists of a distribution of polymers of varying molecular weights with an average molecular weight of 600.",
+            "description": "SAPEG 600 PH consists of a distribution of polymers of varying molecular weights with an average molecular weight of 600. It is a white\nto pale yellow liquid, completely miscible in water and many organic solvents. SAPEG 600 PH is non-toxic, non-irritant and is used as\nhumectant, lubricant, and viscosity modifier in many applications. SAPEG 600 PH conforms to USP-NF and EP monograph and is\nmanufactured in accordance with EXCiPACT Good Manufacturing Practices of pharmaceutical excipients.",
+            "applications": [
+                "Cosmetics",
+                "Pharmaceuticals",
+                "Personal Care"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SAPEG 600 PH-SDS-Global-en-2021-05-17",
+                    "url": "/en/products/documents/sabic-sapeg-600-ph-sds-global-en-2021-05-17/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "aafcb4df-1ab7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SAPEG 600 PH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sapeg-600-ph_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "81eb5e02-bc16-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Personal Accessory"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sapeg-600-ph"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "8",
+            "id": "1f8fb7b9-09a7-45e5-acb5-1175b471ed83",
+            "title": "Adhesives",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "08b5ebf2-75e5-4e1d-9ba8-ffd0e44b873e",
+            "title": "Textile coating",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "22288f7f-0532-ea11-8102-005056857ef3",
+            "title": "Cosmetics",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "da9ab3aa-bf19-eb11-8106-005056857ef3",
+            "title": "Pharmaceuticals",
+            "count": 0
+        },
+        {
+            "$id": "12",
+            "id": "d1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Care",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "13",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "14",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "15",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "17",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Textile",
+            "id": "1fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "18",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical",
+            "id": "04ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "19",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

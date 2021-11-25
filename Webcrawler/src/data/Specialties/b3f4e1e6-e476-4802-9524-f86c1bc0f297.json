@@ -1,0 +1,2630 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "e6392a1f-bffe-eb11-810a-005056857ef3",
+            "title": "AX06401",
+            "summary": "THERMOTUF AX06401 compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing 20% glass fiber. Added features of this grade include: Improved Toughness.",
+            "description": "THERMOTUF AX06401 compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing 20% glass fiber. Added features of this grade include: Improved Toughness.",
+            "applications": [
+                "Commercial Appliance"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_AX06401_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_ax06401_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210819",
+                    "id": "47c2be15-f600-ec11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Construction",
+                "Home Appliance",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ax06401"
+        },
+        {
+            "$id": "3",
+            "id": "e3e56d2d-76dd-e811-80ff-005056857ef3",
+            "title": "D1000FRD",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,impact modified, good Low temperature ductility, excellent surface aesthetics, excellent knit line strength ,excellent processability",
+            "description": "LNP THERMOTUF D1000FRD compound is based on Polycarbonate (PC) resin. Added features of this grade include: impact modified, good Low temperature ductility in combination with medium flow characteristics, excellent surface aesthetics, excellent knit line strength and excellent processability with opportunities for shorter IM cycle times compared to standard IM PC resins. This is a general purpose product available for wide range of opaque colors and may be an excellent candidate for a broad range of applications.",
+            "applications": [
+                "Personal Computing",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_D1000FRD_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_d1000frd_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "96d8d90b-7222-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000frd"
+        },
+        {
+            "$id": "4",
+            "id": "54e63af2-dbba-e811-80fe-005056857ef3",
+            "title": "D1000UF",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,UV stabilized, impact modified, good low temperature ductility,excellent processability",
+            "description": "LNP THERMOTUF D1000UF compound is based on Polycarbonate (PC) resin. Added features of this grade include: UV stabilized, impact modified, good low temperature ductility in combination with high flow characteristics and excellent processability with opportunities for shorter IM cycle times compared to standard PC resins. This is a general-purpose product available in a wide range of opaque colors and may be an excellent candidate for a broad range of applications.",
+            "applications": [
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Medical Facility Infrastructure",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Small Appliance",
+                "Wearables",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_D1000UF_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_d1000uf_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c7878aa8-e91f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000uf"
+        },
+        {
+            "$id": "5",
+            "id": "730525d4-0437-e811-80fd-005056857ef3",
+            "title": "DF002PSI",
+            "summary": "Polycarbonate (PC) resin ,Unreinforced,Impact Modified, High Flow Ductile, Good Chemical Resistance",
+            "description": "LNP THERMOTUF DF002PSI compound is based on Polycarbonate (PC) resin containing 10% glass fiber. Added features of this grade include: Impact Modified, High Flow, Ductile, Good Chemical Resistance.",
+            "applications": [
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_DF002PSI_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_df002psi_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "999ced7a-dc20-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "df002psi"
+        },
+        {
+            "$id": "6",
+            "id": "8634aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DF004PSI",
+            "summary": "Polycarbonate (PC) resin ,Glass Fiber,Structural,High Stiffness, Impact Modified, High Flow Ductile, Good Chemical Resistance",
+            "description": "LNP THERMOTUF DF004PSI compound is based on Polycarbonate (PC) resin containing 20% glass fiber. Added features of this grade include: Impact Modified, High Flow Ductile, Good Chemical Resistance.",
+            "applications": [
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_DF004PSI_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_df004psi_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "578f4314-de32-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "df004psi"
+        },
+        {
+            "$id": "7",
+            "id": "9834aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DF008EI",
+            "summary": "Polycarbonate (PC) resin ,Glass Fiber,Structural,High Stiffness, Easy Molding, Impact Modified",
+            "description": "LNP THERMOTUF DF008EI compound is based on Polycarbonate (PC) resin containing 40% glass fiber. Added features of this grade include: Easy Molding, Impact Modified.",
+            "applications": [
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_DF008EI_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_df008ei_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "24258f68-9d5c-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "df008ei"
+        },
+        {
+            "$id": "8",
+            "id": "2ac60bb4-0b86-e811-80fe-005056857ef3",
+            "title": "ENH2900A",
+            "summary": "Polycarbonate / Polybutylene Terephthalate blend,Unreinforced,Non-Chlorinated, Non-Brominated Flame Retardant, Good Flow, Impact Modified ,Improved Chemical Resistance.",
+            "description": "LNP THERMOTUF ENH2900A compound is based on Polycarbonate / Polybutylene Terephthalate (PC/PBT) blend. Added features of this grade include: Non-Chlorinated, Non-Brominated Flame Retardant, Good Flow, Impact Modified and Improved Chemical Resistance. It was designed to be suitable for E&E and Healthcare housing applications.",
+            "applications": [
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_ENH2900A_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_enh2900a_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7f9ea9ad-d820-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "enh2900a"
+        },
+        {
+            "$id": "9",
+            "id": "e33baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "IX02582",
+            "summary": "Nylon 6/12 resin ,Proprietary Filler,Structural,High Stiffness, Impact Modified",
+            "description": "LNP THERMOTUF IX02582 compound is based on Nylon 6/12 resin containing 40% glass fiber. Added features of this grade include: Impact Modified.",
+            "applications": [
+                "Weapon"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_IX02582_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_ix02582_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "4cb7102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_IX02582_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_ix02582_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "17c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ix02582"
+        },
+        {
+            "$id": "10",
+            "id": "d93daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MF0049I",
+            "summary": "Polypropylene (PP) resin ,Glass Fiber,Structural,High Stiffness, Flame Retardant, Impact Modified",
+            "description": "LNP THERMOTUF MF0049I compound is based on Polypropylene (PP) resin containing 20% glass fiber. Added features of this grade include: Flame Retardant, Impact Modified.",
+            "applications": [
+                "Aerospace"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_MF0049I_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_mf0049i_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "45ba7f7d-ea1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mf0049i"
+        },
+        {
+            "$id": "11",
+            "id": "da3daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MF004AI",
+            "summary": "Polypropylene (PP) resin ,Glass Fiber,Structural,High Stiffness, Impact Modified",
+            "description": "LNP THERMOTUF MF004AI compound is based on Polypropylene (PP) resin containing 20% glass fiber. Added features of this grade include: Impact Modified.",
+            "applications": [
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_MF004AI_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_mf004ai_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "8e275aaa-1448-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mf004ai"
+        },
+        {
+            "$id": "12",
+            "id": "123faad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MX00619",
+            "summary": "Polypropylene (PP) resin, glass fiber, High Impact",
+            "description": "LNP THERMOTUF MX00619 compound is based on Polypropylene (PP) resin containing 15% glass fiber. Added features of this grade include: High Impact.",
+            "applications": [
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_MX00619_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_mx00619_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0f0922bf-125a-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mx00619"
+        },
+        {
+            "$id": "13",
+            "id": "0340aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "OF006I",
+            "summary": "Polyphenylene Sulfide (PPS) resin,Glass Fiber,Structural,High Stiffness, Impact Modified",
+            "description": "LNP THERMOTUF OF006I compound is based on linear Polyphenylene Sulfide (PPS) resin compound containing 30% glass fiber. Added features of this grade include: Impact Modified.",
+            "applications": [
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_OF006I_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_of006i_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d31e9877-3b22-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "of006i"
+        },
+        {
+            "$id": "14",
+            "id": "0940aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "OF008EI",
+            "summary": "Polyphenylene Sulfide (PPS) resin,Glass Fiber,Structural,High Stiffness, Impact Modified ,Easy Molding",
+            "description": "LNP THERMOTUF OF008EI compound is based on linear Polyphenylene Sulfide (PPS) resin containing 40% glass fiber. Added features of this grade include: Impact Modified and Easy Molding.",
+            "applications": [
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_OF008EI_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_of008ei_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "cc23b2d8-e91f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "of008ei"
+        },
+        {
+            "$id": "15",
+            "id": "0c40aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "OF008I",
+            "summary": "Polyphenylene Sulfide (PPS) resin,Glass Fiber,Impact Modified, Structural, High Stiffness",
+            "description": "LNP THERMOTUF OF008I compound is based on linear Polyphenylene Sulfide (PPS) resin containing 40% glass fiber. Added features of this grade include: Impact Modified.",
+            "applications": [
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_OF008I_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_of008i_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "21848dfc-30a7-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "of008i"
+        },
+        {
+            "$id": "16",
+            "id": "7356503c-f8d5-e711-80fd-005056857ef3",
+            "title": "PF003IU",
+            "summary": "Nylon 6 resin ,Glass Fiber,Impact Modified ,UV Stabilized",
+            "description": "LNP THEMROTUF PF003IU compound is based on Nylon 6 resin containing 15% glass fiber. Added features of this grade include: Impact Modified and UV Stabilized.",
+            "applications": [
+                "Enclosures"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_PF003IU_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_pf003iu_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "3fa3e5b7-ab21-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pf003iu"
+        },
+        {
+            "$id": "17",
+            "id": "ae40aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PF006I",
+            "summary": "Nylon 6 resin ,Glass Fiber,Structural,High Stiffness, Impact Modified",
+            "description": "LNP THERMOTUF PF006I compound is based on Nylon 6 resin containing 30% glass fiber. Added features of this grade include: Impact Modified.",
+            "applications": [
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_PF006I_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_pf006i_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "eac5f4e5-8bb4-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pf006i"
+        },
+        {
+            "$id": "18",
+            "id": "b540aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PF008IR",
+            "summary": "Nylon 6 resin ,Glass Fiber,Structural,High Stiffness, Impact Modified, Mold Release",
+            "description": "LNP THERMOTUF PF008IR compound is based on Nylon 6 resin containing 40% glass fiber. Added features of this grade include: Impact Modified, Mold Release.",
+            "applications": [
+                "Medical Facility Infrastructure"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_PF008IR_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_pf008ir_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b1dd7fe4-235a-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pf008ir"
+        },
+        {
+            "$id": "19",
+            "id": "4141aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PX06416",
+            "summary": "Nylon 6 resin ,Glass Fiber,Impact Modified, Easy Molding, Heat Stabilised",
+            "description": "LNP THERMOTUF PX06416 compound is based on Nylon 6 resin containing 15% glass fiber. Added features of this grade include: Impact Modified, Easy Molding, Heat Stabilized.",
+            "applications": [
+                "Automotive ",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_PX06416_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_px06416_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "be6c9d99-2b5a-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "px06416"
+        },
+        {
+            "$id": "20",
+            "id": "4241aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PX06417",
+            "summary": "Nylon 6 resin ,Glass Fiber,Structural,High Stiffness, Heat Stabilised, Impact Modified",
+            "description": "LNP THERMOTUF PX06417 compound is based on Nylon 6 resin containing 40% glass fiber. Added features of this grade include: Heat Stabilized, Impact Modified.",
+            "applications": [
+                "Enclosures",
+                "Security/Detection"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_PX06417_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_px06417_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "51a2d998-d732-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "px06417"
+        },
+        {
+            "$id": "21",
+            "id": "0442aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PX95726",
+            "summary": "Nylon 6 resin, Glass Fiber, Heat Stabilized, Impact Modified",
+            "description": "LNP THERMOTUF PX95726 compound is based on Nylon 6 resin containing 15% glass fiber. Added features of this grade include: Heat Stabilized, Impact Modified.",
+            "applications": [
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_PX95726_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_px95726_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "710c88f3-ea1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "px95726"
+        },
+        {
+            "$id": "22",
+            "id": "2942aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "QX01581H",
+            "summary": "Nylon 6/10 resin ,Glass Fiber, Healthcare, Structural, High Stiffness, Impact Modified",
+            "description": "LNP THERMOTUF QX01581H compound is based on Nylon 6/10 resin containing 30% glass fiber. Added features of this grade include: Impact Modified.",
+            "applications": [
+                "Electronic Components",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_QX01581H_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_qx01581h_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "74c35c96-375a-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "qx01581h"
+        },
+        {
+            "$id": "23",
+            "id": "2e42aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "R1000I",
+            "summary": "Nylon 6/6 resin ,Unreinforced,High Impact Resistance",
+            "description": "LNP THERMOTUF R1000I compound is based on Nylon 6/6 resin containing Impact Modifier.",
+            "applications": [
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_R1000I_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_r1000i_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "074c13af-0e48-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "r1000i"
+        },
+        {
+            "$id": "24",
+            "id": "fd878d75-c84e-e911-8101-005056857ef3",
+            "title": "RBX7245",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Non-Brominated & Non-Chlorinated Flame Retardant with excellent V-0 rating at 0.6mm, Post-Consumer Recycling (PCR) Polycarbonate content up to 50%.",
+            "description": "LNP THERMOTUF RBX7245 compound is based on Polycarbonate (PC) resin. Added features of this grade include: Non-Brominated & Non-Chlorinated Flame Retardant with excellent V-0 rating at 0.6mm, Post-Consumer Recycling (PCR) Polycarbonate content up to 50%.",
+            "applications": [
+                "Personal Computing",
+                "Power Manangement",
+                "Watch/Jewelry",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_RBX7245_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_rbx7245_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7af8014c-dc20-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "rbx7245"
+        },
+        {
+            "$id": "25",
+            "id": "9842aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "RF002I",
+            "summary": "Nylon 6/6 resin ,Glass Fiber,Impact Modified",
+            "description": "LNP THERMOTUF RF002I compound is based on Nylon 6/6 resin containing 10% glass fiber. Added features of this grade include: Impact Modified.",
+            "applications": [
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_RF002I_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_rf002i_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "773bd6ce-3a5a-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "rf002i"
+        },
+        {
+            "$id": "26",
+            "id": "bc42aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "RF006I",
+            "summary": "Nylon 6/6 resin ,Glass Fiber,Structural,High Stiffness, Impact Modified",
+            "description": "LNP THERMOTUF RF006I compound is based on Nylon 6/6 resin containing 30% glass fiber. Added features of this grade include: Impact Modified.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Document Handling"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_RF006I_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_rf006i_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "aa67bf9d-5922-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "rf006i"
+        },
+        {
+            "$id": "27",
+            "id": "d642aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "RF008IS",
+            "summary": "Nylon 6/6 resin ,Glass Fiber,Structural,High Stiffness, Impact Modified, Heat Stabilised",
+            "description": "LNP THERMOTUF RF008IS compound is based on Nylon 6/6 resin containing 40% glass fiber. Added features of this grade include: Impact Modified, Heat Stabilized.",
+            "applications": [
+                "Circuit Protection"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_RF008IS_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_rf008is_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "691b6588-5a5d-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "rf008is"
+        },
+        {
+            "$id": "28",
+            "id": "2b45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "V1000",
+            "summary": "Nylon resin,Unreinforced,Impact Modified",
+            "description": "LNP THERMOTUF V1000 compound is based on unfilled Super Tough Nylon resin. Added features of this grade include: Impact Modified.",
+            "applications": [
+                "Additive Semiconductor Materials",
+                "Document Handling",
+                "Enclosures",
+                "Eyeglasses",
+                "Individual Equiptment",
+                "Industrial Material Handling",
+                "Lawn/Garden",
+                "Safety Glasses",
+                "Semiconductor",
+                "Ski Goggles",
+                "Sunglasses"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_V1000_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_v1000_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "19778717-e248-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "v1000"
+        },
+        {
+            "$id": "29",
+            "id": "2d45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "V1000SU",
+            "summary": "Nylon resin,Unreinforced,Impact Modified, Heat Stabilized, UV Stabilized",
+            "description": "LNP THERMOTUF V1000SU compound is based on unfilled Super Touch Nylon resin. Added features of this grade include: Impact Modified, Heat Stabilized, UV Stabilized.",
+            "applications": [
+                "Electronics"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_V1000SU_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_v1000su_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d849bbb9-31a7-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "v1000su"
+        },
+        {
+            "$id": "30",
+            "id": "2f45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "V1000UXC",
+            "summary": "Nylon resin,Unreinforced,Impact Modified, UV Stabilized",
+            "description": "LNP THERMOTUF V1000UXC compound is based on Super Tough Nylon resin. Added features of this grade include: Impact Modified, UV Stabilized.",
+            "applications": [
+                "Enclosure/Housing/Cover",
+                "Enclosures"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_V1000UXC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_v1000uxc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "8bba7048-ea1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "v1000uxc"
+        },
+        {
+            "$id": "31",
+            "id": "7545aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VC006",
+            "summary": "Nylon resin,Carbon Fiber,Structural,High Stiffness, Impact Modified, Electrically Conductive",
+            "description": "LNP THERMOTUF VC006 compound is based on Super Tough Nylon resin containing 30% carbon fiber. Added features of this grade include: Impact Modified, Electrically Conductive.",
+            "applications": [
+                "Weapon"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_VC006_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_vc006_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "e6be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_VC006_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_vc006_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "40c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vc006"
+        },
+        {
+            "$id": "32",
+            "id": "7f45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VF003",
+            "summary": "Nylon resin,Glass Fiber,Impact Modified",
+            "description": "LNP THERMOTUF VF003 compound is based on Super Touch Nylon resin containing 15% glass fiber. Added features of this grade include: Impact Modified.",
+            "applications": [
+                "Pump"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_VF003_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_vf003_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "6d183370-5c5d-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vf003"
+        },
+        {
+            "$id": "33",
+            "id": "8045aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VF004S",
+            "summary": "Nylon resin,Glass Fiber,Structural,High Stiffness, Impact Modified, Heat Stabilised",
+            "description": "LNP THERMOTUF VF004S compound is based on Super Tough Nylon resin containing 20% glass fiber. Added features of this grade include: Impact Modified, Heat Stabilized.",
+            "applications": [
+                "HVAC Underhood"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_VF004S_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_vf004s_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "b6bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_VF004S_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_vf004s_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "43c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vf004s"
+        },
+        {
+            "$id": "34",
+            "id": "8245aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VF008",
+            "summary": "Nylon resin,Glass Fiber,Structural,High Stiffness, Impact Modified",
+            "description": "LNP THERMOTUF VF008 compound is based on Super Tough Nylon resin containing 40% glass fiber. Added features of this grade include: Impact Modified.",
+            "applications": [
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_VF008_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_vf008_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "f2be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_VF008_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_vf008_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f5be102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vf008"
+        },
+        {
+            "$id": "35",
+            "id": "8445aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VF1001S",
+            "summary": "Nylon resin,Glass Fiber,Heat Stabilised, Impact Modified",
+            "description": "LNP THERMOTUF VF1001S compound is based on Super Tough Nylon resin containing 5% glass fiber. Added features of this grade include: Heat Stabilized, Impact Modified.",
+            "applications": [
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_VF1001S_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_vf1001s_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "3aa26287-ab21-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vf1001s"
+        },
+        {
+            "$id": "36",
+            "id": "ae45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VX00585",
+            "summary": "Nylon resin,Glass Fiber,Structural,High Stiffness, Impact Modified, Easy Release",
+            "description": "LNP THERMOTUF VX00585 compound is based on Super Tough Nylon resin containing 30% glass fiber. Added features of this grade include: Impact Modified, Easy Release.",
+            "applications": [
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_VX00585_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_vx00585_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "4eed3d28-865c-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vx00585"
+        },
+        {
+            "$id": "37",
+            "id": "c545aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VX99809",
+            "summary": "Nylon resin,Proprietary Filler,Impact Modified, Easy Release",
+            "description": "LNP THERMOTUF VX99809 compound is based on Super Tough Nylon resin containing proprietary fillers. Added features of this grade include: Impact Modified, Easy Release.",
+            "applications": [
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_VX99809_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_vx99809_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e0fe80ae-ea1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vx99809"
+        },
+        {
+            "$id": "38",
+            "id": "c645aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VX99810",
+            "summary": "Nylon resin,Proprietary Filler,Impact Modified, Easy Release",
+            "description": "LNP THERMOTUF VX99810 compound is based on Super Tough Nylon resin containing 15% glass fiber. Added features of this grade include: Impact Modified, Easy Release.",
+            "applications": [
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_VX99810_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_vx99810_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "48cd4742-ac21-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vx99810"
+        },
+        {
+            "$id": "39",
+            "id": "c845aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "W1000I",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Unreinforced,Impact Modified",
+            "description": "LNP THERMOTUF W1000I compound is based on Polybutylene Terephthalate (PBT) resin. Added features of this grade include: Impact Modified",
+            "applications": [
+                "Cooking Range",
+                "Heavy Vehicles",
+                "Refrigerator",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_W1000I_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_w1000i_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "324bb48a-4d22-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "w1000i"
+        },
+        {
+            "$id": "40",
+            "id": "0b46aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WF002I",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Glass Fiber,Impact Modified",
+            "description": "LNP THERMOTUF WF006I compound is based on Polybutylene Terephthalate (PBT) resin containing 10% glass fiber. Added features of this grade include: Impact Modified.",
+            "applications": [
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_WF002I_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_wf002i_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2f554611-ea1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wf002i"
+        },
+        {
+            "$id": "41",
+            "id": "0d46aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WF003I",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Glass Fiber,Impact Modified",
+            "description": "LNP THERMOTUF WF003I compound is based on Polybutylene Terephthalate (PBT) resin containing 15% glass fiber. Added features of this grade include: Impact Modified.",
+            "applications": [
+                "Auto Aftermarket",
+                "Cluster",
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_WF003I_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_wf003i_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "80bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_WF003I_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_wf003i_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "36c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wf003i"
+        },
+        {
+            "$id": "42",
+            "id": "50b4e635-280e-e911-8100-005056857ef3",
+            "title": "WF004N",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Glass,Structural,High Stiffness, Nano molding technology grade, Impact Modified, Low Dielectric Constant (Dk), Good Metal Bonding Strength ,Good Chemical Resistance",
+            "description": "LNP THERMOTUF WF004N compound is based on Polybutylene Terephthalate (PBT) resin containing 20% glass fiber. Added features of this grade include: Impact Modified, Low Dielectric Constant (Dk), Good Metal Bonding Strength and Good Chemical Resistance suitable for Nano-Molding Technology (NMT) applications.",
+            "applications": [
+                "Auto Electrical",
+                "Personal Computing",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_WF004N_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_wf004n_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d033bd01-dc20-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wf004n"
+        },
+        {
+            "$id": "43",
+            "id": "1446aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WF006I",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Glass Fiber,Structural,High Stiffness, Impact Modified",
+            "description": "LNP THERMOTUF WF006I compound is based on Polybutylene Terephthalate (PBT) resin containing 30% glass fiber. Added features of this grade include: Impact Modified.",
+            "applications": [
+                "Electronic Components",
+                "Heavy Vehicles"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_WF006I_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_wf006i_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "41be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_WF006I_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_wf006i_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "3fc0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wf006i"
+        },
+        {
+            "$id": "44",
+            "id": "1646aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WF006N",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Glass Fiber,Structural,High Stiffness, Nano molding technology grade, High Metal Bonding Strength, High Impact, Good Dimensional Stability ,Good Chemical Resistance.",
+            "description": "LNP THERMOTUF WF006N compound is based on Polybutylene Terephthalate (PBT) resin containing 30% glass fiber. Added features of this grade include: High Metal Bonding Strength, High Impact, Good Dimensional Stability and Good Chemical Resistance. The potential applications include Nano-Molding Technology (NMT).",
+            "applications": [
+                "Auto Electrical",
+                "Personal Computing",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_WF006N_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_wf006n_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "847b63e9-d720-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wf006n"
+        },
+        {
+            "$id": "45",
+            "id": "a1d50144-d23f-e911-8100-005056857ef3",
+            "title": "WF006NiQ",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Glass Fiber,Structural,High Stiffness, Nano molding technology grade, Impact Modified, High Flow, Good Metal Bonding Strength ,Good Chemical Resistance , >25% Post Consumer Recycled content",
+            "description": "LNP THERMOTUF WF006NiQ compound is based on Polybutylene Terephthalate (PBT) resin utilizing ELCRIN iQ upcycling technology and containing 30% glass fiber. Added features of this grade include: Impact Modified, High Flow, Good Metal Bonding Strength and Good Chemical Resistance suitable for Nano-Molding Technology (NMT) applications, >25% Post Consumer Recycled content.",
+            "applications": [
+                "Auto Electrical",
+                "Personal Computing",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": null,
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wf006niq"
+        },
+        {
+            "$id": "46",
+            "id": "1c46aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WF008N",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Glass Fiber,Structural,High Stiffness, Nano molding technology grade, Impact Modified, Good Metal Bonding Strength ,Good Chemical Resistance",
+            "description": "LNP THERMOTUF WF008N compound is based on Polybutylene Terephthalate (PBT) resin containing 40% glass fiber. Added features of this grade include: Impact Modified, Good Metal Bonding Strength and Good Chemical Resistance suitable for Nano-Molding Technology (NMT) applications.",
+            "applications": [
+                "Electronic Components",
+                "Personal Computing",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_WF008N_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_wf008n_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c8b334cc-d720-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wf008n"
+        },
+        {
+            "$id": "47",
+            "id": "f09e38d7-98fe-e811-8100-005056857ef3",
+            "title": "WF008NA",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Glass Fiber,Structural,High Stiffness, High Modulus, Impact Modified, Good Metal Bonding Strength ,Good Chemical Resistance",
+            "description": "LNP THERMOTUF WF008NA compound is based on Polybutylene Terephthalate (PBT) resin containing 40% glass fiber. Added features of this grade include: High Modulus, Impact Modified, Good Metal Bonding Strength and Good Chemical Resistance suitable for Nano-Molding Technology (NMT) applications and Good Color Stability during anodizing process.",
+            "applications": [
+                "Electronic Components",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_WF008NA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_wf008na_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d90a448c-db20-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wf008na"
+        },
+        {
+            "$id": "48",
+            "id": "ff6962bd-c8bc-e911-8102-005056857ef3",
+            "title": "WF008NXQ",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Glass Fiber,Structural,High Stiffness, High Modulus, Impact Modified, Good Metal Bonding Strength ,Good Chemical Resistance suitable for Nano-Molding Technology (NMT) applications ,Good Color Stability during anodizing process",
+            "description": "LNP THERMOTUF WF008NXQ compound is based on Polybutylene Terephthalate (PBT) resin containing 40% glass fiber. Added features of this grade include: High Modulus, Impact Modified, Good Metal Bonding Strength and Good Chemical Resistance suitable for Nano-Molding Technology (NMT) applications and Good Color Stability during anodizing process.",
+            "applications": [
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_WF008NXQ_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_wf008nxq_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b3708349-6922-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wf008nxq"
+        },
+        {
+            "$id": "49",
+            "id": "6c7d8497-6ff2-e611-80fb-005056857ef3",
+            "title": "WF009N",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Glass Fiber,Structural,High Stiffness, Nano molding technology grade, Impact Modified, Good Metal Bonding Strength ,Good Chemical Resistance",
+            "description": "LNP THERMOTUF WF009N compound is based on Polybutylene Terephthalate (PBT) resin containing 45% glass fiber. Added features of this grade include: Impact Modified, Good Metal Bonding Strength and Good Chemical Resistance suitable for Nano-Molding Technology (NMT) applications.",
+            "applications": [
+                "Electrical Components & Infrastructure"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_WF009N_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_wf009n_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a752c506-dd20-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wf009n"
+        },
+        {
+            "$id": "50",
+            "id": "e5c6d3d2-74f2-e611-80fb-005056857ef3",
+            "title": "WF009NA",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Glass Fiber,Structural,High Stiffness, Nano molding technology grade, Impact Modified, Good Metal Bonding Strength ,Good Chemical Resistance",
+            "description": "LNP THERMOTUF WF009NA compound is based on Polybutylene Terephthalate (PBT) resin containing 45% glass fiber. Added features of this grade include: Impact Modified, Good Metal Bonding Strength and Good Chemical Resistance suitable for Nano-Molding Technology (NMT) applications.",
+            "applications": [
+                "Electrical Components & Infrastructure"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_WF009NA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_wf009na_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c9674abe-dc20-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wf009na"
+        },
+        {
+            "$id": "51",
+            "id": "e8e78ae0-31cb-e711-80fd-005056857ef3",
+            "title": "WF009NAR",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Glass Fiber,Structural,High Stiffness, Nano molding technology grade, Impact Modified, Good Metal Bonding Strength ,Good Chemical Resistance",
+            "description": "LNP THERMOTUF WF009NAR compound is based on Polybutylene Terephthalate (PBT) resin containing 45% glass fiber. Added features of this grade include: Impact Modified, Good Metal Bonding Strength and Good Chemical Resistance suitable for Nano-Molding Technology (NMT) applications.",
+            "applications": [
+                "Electrical Components & Infrastructure"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOTUF\u2122 Compound_WF009NAR_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermotuf-compound_wf009nar_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "9e36fbc3-db20-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wf009nar"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "52",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "53",
+            "id": "64ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "count": 0
+        },
+        {
+            "$id": "54",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "55",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "56",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "57",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "58",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "59",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "60",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "61",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "62",
+            "id": "c0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "63",
+            "id": "d6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photo/Video Camera",
+            "count": 0
+        },
+        {
+            "$id": "64",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "65",
+            "id": "1400ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wearables",
+            "count": 0
+        },
+        {
+            "$id": "66",
+            "id": "1300ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Weapon",
+            "count": 0
+        },
+        {
+            "$id": "67",
+            "id": "38ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aerospace",
+            "count": 0
+        },
+        {
+            "$id": "68",
+            "id": "7affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical",
+            "count": 0
+        },
+        {
+            "$id": "69",
+            "id": "d1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "70",
+            "id": "9a7bffa6-4015-e711-80fb-005056857ef3",
+            "title": "Automotive ",
+            "count": 0
+        },
+        {
+            "$id": "71",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "72",
+            "id": "b7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lab Ware and Clinical Diagnostics",
+            "count": 0
+        },
+        {
+            "$id": "73",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "74",
+            "id": "ffffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Devices",
+            "count": 0
+        },
+        {
+            "$id": "75",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "76",
+            "id": "1100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Watch/Jewelry",
+            "count": 0
+        },
+        {
+            "$id": "77",
+            "id": "47ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "ATM/Ticket Machine",
+            "count": 0
+        },
+        {
+            "$id": "78",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "79",
+            "id": "37ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Semiconductor Materials",
+            "count": 0
+        },
+        {
+            "$id": "80",
+            "id": "91ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Eyeglasses",
+            "count": 0
+        },
+        {
+            "$id": "81",
+            "id": "b0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Individual Equiptment",
+            "count": 0
+        },
+        {
+            "$id": "82",
+            "id": "b1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "83",
+            "id": "baffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lawn/Garden",
+            "count": 0
+        },
+        {
+            "$id": "84",
+            "id": "e8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Safety Glasses",
+            "count": 0
+        },
+        {
+            "$id": "85",
+            "id": "efffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductor",
+            "count": 0
+        },
+        {
+            "$id": "86",
+            "id": "f2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Ski Goggles",
+            "count": 0
+        },
+        {
+            "$id": "87",
+            "id": "fdffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sunglasses",
+            "count": 0
+        },
+        {
+            "$id": "88",
+            "id": "7effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronics",
+            "count": 0
+        },
+        {
+            "$id": "89",
+            "id": "dcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pump",
+            "count": 0
+        },
+        {
+            "$id": "90",
+            "id": "adffee91-14d8-e611-819b-06b69393ae39",
+            "title": "HVAC Underhood",
+            "count": 0
+        },
+        {
+            "$id": "91",
+            "id": "69ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cooking Range",
+            "count": 0
+        },
+        {
+            "$id": "92",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "93",
+            "id": "e4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Refrigerator",
+            "count": 0
+        },
+        {
+            "$id": "94",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "95",
+            "id": "49ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Aftermarket",
+            "count": 0
+        },
+        {
+            "$id": "96",
+            "id": "60ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cluster",
+            "count": 0
+        },
+        {
+            "$id": "97",
+            "id": "4affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Electrical",
+            "count": 0
+        },
+        {
+            "$id": "98",
+            "id": "79ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components & Infrastructure",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "99",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "100",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "101",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "102",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "103",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Outdoor, Lawn and Landscape",
+            "id": "05ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "104",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "105",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "106",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "107",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "108",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "109",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "110",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "111",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "id": "34ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "112",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense",
+            "id": "03ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "113",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Aerospace",
+            "id": "62f520a6-82bc-40d1-8716-dfe4e90dbf65"
+        },
+        {
+            "$id": "114",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "115",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Under the Hood",
+            "id": "2cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "116",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare Packaging",
+            "id": "6011329c-67f2-e811-80ff-005056857ef3"
+        },
+        {
+            "$id": "117",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "118",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "119",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

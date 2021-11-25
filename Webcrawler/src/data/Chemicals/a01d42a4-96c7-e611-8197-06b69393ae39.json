@@ -1,0 +1,194 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "e4e31993-97c7-e611-8197-06b69393ae39",
+            "title": "SABIC\u00ae Acetone",
+            "summary": "Acetone is a colorless flammable liquid. It is simple format of ketones.",
+            "description": "Acetone is a colorless flammable liquid. It is simple format of ketones. It is miscible in water, ethanol and ether. Also serves as an important solvent.",
+            "applications": [
+                "Production of BPA",
+                "Production of methyl methacrylate (MMA)",
+                "Production of chloroform intermediate.",
+                "Manufacturing of cellulose acetate films",
+                "Manufacture and casting of photographic films and plates.",
+                "Solvent in surface coatings",
+                "Solvent in Films and adhesives.",
+                "Cleaning fluids."
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-Acetone-SDS-Global-en-2021-05-17",
+                    "url": "/en/products/documents/sabic-acetone-sds-global-en-2021-05-17/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d96538fb-16b7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-Acetone-SDS-Asia-China-en-2021-05-18",
+                    "url": "/en/products/documents/sabic-acetone-sds-asia-china-en-2021-05-18/en",
+                    "language": "English",
+                    "country": "290a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "640c5c74-ccb7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Acetone - SABIC - Europe GHS SDS - Ireland SABIC Petrochemicals BV - Import",
+                    "url": "/en/products/documents/acetone-sabic-europe-ghs-sds-ireland-sabic-petrochemicals-bv-import/en",
+                    "language": "English",
+                    "country": "430a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Europe",
+                    "id": "6a788d0d-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Acetone - SABIC - Europe GHS SDS - United Kingdom SABIC Petrochemicals BV - Import",
+                    "url": "/en/products/documents/acetone-sabic-europe-ghs-sds-united-kingdom-sabic-petrochemicals-bv-import/en",
+                    "language": "English",
+                    "country": "350a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Europe",
+                    "id": "2d87b713-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Europe GHS SDS - Ireland SABIC Petrochemicals BV - Import",
+                    "url": "/en/products/documents/sabic-europe-ghs-sds-ireland-sabic-petrochemicals-bv-import/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "id": "2fe93808-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Europe GHS SDS - United Kingdom SABIC Petrochemicals BV - Import",
+                    "url": "/en/products/documents/sabic-europe-ghs-sds-united-kingdom-sabic-petrochemicals-bv-import/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "id": "70ef730e-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Acetone_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-acetone_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "6caf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "aaa5a8f4-9981-e711-80fc-005056857ef3",
+                    "contactRoles": [
+                        "949d4a7a-cf37-4938-98e4-4dbd59741ee6"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "c9601112-2ac9-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-acetone"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "4",
+            "id": "943b4a70-9ec7-e611-8197-06b69393ae39",
+            "title": "Production of BPA",
+            "count": 0
+        },
+        {
+            "$id": "5",
+            "id": "5913f277-9ec7-e611-8197-06b69393ae39",
+            "title": "Production of methyl methacrylate (MMA)",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "5a13f277-9ec7-e611-8197-06b69393ae39",
+            "title": "Production of chloroform intermediate.",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "cff8d485-9ec7-e611-8197-06b69393ae39",
+            "title": "Manufacturing of cellulose acetate films",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "55b4b999-9ec7-e611-8197-06b69393ae39",
+            "title": "Manufacture and casting of photographic films and plates.",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "2636f4a5-9ec7-e611-8197-06b69393ae39",
+            "title": "Solvent in surface coatings",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "2736f4a5-9ec7-e611-8197-06b69393ae39",
+            "title": "Solvent in Films and adhesives.",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "5350c1ae-9ec7-e611-8197-06b69393ae39",
+            "title": "Cleaning fluids.",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "12",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "13",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "14",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "15",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

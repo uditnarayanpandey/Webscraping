@@ -1,0 +1,533 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "08d22e89-4391-eb11-8108-005056857ef3",
+            "title": "0434",
+            "summary": "Hydroxyl Number\tmg KOH/g\t32.3 - 35.6\tASTM D4274",
+            "description": "SABIC\u00ae Polyol 0434 is a high reactivity capped polyether triol with high molecular weight and high primary hydroxyl content. Typical uses include high resiliency, flexible molded and semi-flexible molded foams.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POLYOL_0434_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-polyol_0434_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d829cdff-41c1-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Polyol_0434_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-polyol_0434_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "ef150e5b-57a1-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "0434"
+        },
+        {
+            "$id": "3",
+            "id": "55b8e248-3d9c-eb11-8109-005056857ef3",
+            "title": "0548",
+            "summary": "Hydroxyl Number\tmg KOH/g\t46.0 \u2013 50.0\tASTM D4274",
+            "description": "SABIC\u00ae Polyol 0548 is a glycerine initiated polyether heteropolymer triol with a molecular weight of 3500 for the manufacture of flexible slabstock foam.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POLYOL_0548_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-polyol_0548_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "dc85e8ae-43c1-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Polyol_0548_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-polyol_0548_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "48a9c276-5aa1-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "0548"
+        },
+        {
+            "$id": "4",
+            "id": "7e49d3a9-3f9c-eb11-8109-005056857ef3",
+            "title": "0656",
+            "summary": "Hydroxyl Number\tmg KOH/g\t54.5 \u2013 58.5\tASTM D4274",
+            "description": "SABIC\u00ae Polyol 0656 is a glycerine initiated polyether heteropolymer triol with a molecular weight of 3000 for flexible slabstock foam production.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POLYOL_0656_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-polyol_0656_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4c2a32d5-d8c1-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Polyol_0656_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-polyol_0656_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "9fa11927-5ea1-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "0656"
+        },
+        {
+            "$id": "5",
+            "id": "97fe395e-409c-eb11-8109-005056857ef3",
+            "title": "0842T1",
+            "summary": "Hydroxyl Number\tmg KOH/g\t39.5 \u2013 45\tSABIC method",
+            "description": "SABIC\u00ae Polyol 0842T1 is a styrene acrylonitrile (SAN) based copolymer polyether polyol with 15 % solid content developed for flexible foam.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POLYOL_0842T1_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-polyol_0842t1_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9009a10a-e2c1-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Polyol_0842T1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-polyol_0842t1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "1a8bebe3-5fa1-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "0842t1"
+        },
+        {
+            "$id": "6",
+            "id": "ee4e86ef-409c-eb11-8109-005056857ef3",
+            "title": "0842T2",
+            "summary": "Hydroxyl Number\tmg KOH/g\t39.5 \u2013 45\tSABIC method",
+            "description": "SABIC\u00ae Polyol 0842T2 is a styrene acrylonitrile (SAN) based copolymer polyether polyol with 15 % solid content developed for flexible foam.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POLYOL_0842T2_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-polyol_0842t2_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "88514e48-f1c1-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Polyol_0842T2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-polyol_0842t2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "3b5e2e97-61a1-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "0842t2"
+        },
+        {
+            "$id": "7",
+            "id": "27d8ee1e-9484-eb11-8108-005056857ef3",
+            "title": "0844T1",
+            "summary": "Hydroxyl Number\tmg KOH/g\t(42.0 \u2013 46.0) Sabic method",
+            "description": "SABIC\u00ae Polyol 0844T1 is a styrene acrylonitrile (SAN) based copolymer polyether polyol with 10 % solid content developed for flexible foam.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POLYOL_0844T1_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-polyol_0844t1_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5622282c-f2c1-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Polyol_0844T1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-polyol_0844t1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "3c3a346d-9684-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "0844t1"
+        },
+        {
+            "$id": "8",
+            "id": "65f28aa6-419c-eb11-8109-005056857ef3",
+            "title": "0844T2",
+            "summary": "Hydroxyl Number\tmg KOH/g\t42.0 \u2013 46.0\tSABIC method",
+            "description": "SABIC\u00ae Polyol 0844T2 is a styrene acrylonitrile (SAN) based copolymer polyether polyol with 10 % solid content developed for flexible foam.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POLYOL_0844T2_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-polyol_0844t2_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4bdf09d5-f2c1-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Polyol_0844T2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-polyol_0844t2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "7c08f832-91a7-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "0844t2"
+        },
+        {
+            "$id": "9",
+            "id": "69ff0534-429c-eb11-8109-005056857ef3",
+            "title": "1127",
+            "summary": "Hydroxyl Number\tmg KOH/g\t27 - 29\tASTM D4274",
+            "description": "SABIC\u00ae Polyol 1127 is a glycerine initiated, ethylene oxide capped, polyether triol of 6000 MW. It is specially developed for the production of flexible high resilient molded polyurethane foam with TDI, TDI/PMDI blends or MDI.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POLYOL_1127_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-polyol_1127_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f7a6b810-dcc1-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Polyol_1127_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-polyol_1127_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "f828efde-3aab-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1127"
+        },
+        {
+            "$id": "10",
+            "id": "807752b0-429c-eb11-8109-005056857ef3",
+            "title": "1132",
+            "summary": "Hydroxyl Number\tmg KOH/g\t30.5 \u2013 34.5\tASTM D4274",
+            "description": "SABIC\u00ae Polyol 1132 is an ethylene oxide capped propoxylated polyol with high functionality and high molecular weight mainly used for the manufacture of high resilience (HR) flexible molded foams",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POLYOL_1132_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-polyol_1132_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c275fd74-dec1-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Polyol_1132_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-polyol_1132_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "80debdbb-3cab-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1132"
+        },
+        {
+            "$id": "11",
+            "id": "2f837b27-439c-eb11-8109-005056857ef3",
+            "title": "1339T1",
+            "summary": "Hydroxyl Number\tmg KOH/g\t35.5 - 40.5\tSABIC method",
+            "description": "SABIC\u00ae Polyol 1339T1 is a styrene acrylonitrile (SAN) based copolymer polyether polyol with 25 % solid content developed for flexible foam.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POLYOL_1339T1_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-polyol_1339t1_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "818bc473-f3c1-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Polyol_1339T1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-polyol_1339t1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "85f3bc01-3fab-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1339t1"
+        },
+        {
+            "$id": "12",
+            "id": "ef4d69da-439c-eb11-8109-005056857ef3",
+            "title": "1339T2",
+            "summary": "Hydroxyl Number\tmg KOH/g\t35.5 - 40.5\tSABIC method",
+            "description": "SABIC\u00ae Polyol 1339T2 is a styrene acrylonitrile (SAN) based copolymer polyether polyol with 25 % solid content developed for flexible foam.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POLYOL_1339T2_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-polyol_1339t2_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "79f18600-f4c1-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Polyol_1339T2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-polyol_1339t2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "80ddc6da-3fab-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1339t2"
+        },
+        {
+            "$id": "13",
+            "id": "538ddc38-449c-eb11-8109-005056857ef3",
+            "title": "1529",
+            "summary": "Hydroxyl Number\tmg KOH/g\t27.5 \u2013 31.5\tASTM D4274",
+            "description": "SABIC\u00ae Polyol 1529 is an ethylene oxide capped polyether polyol with a high functionality and high molecular weight for the production of high resilience (HR) flexible slabstock foam and as specialty polyol for non-foamed applications.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POLYOL_1529_ Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-polyol_1529_-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0011e032-e0c1-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Polyol_1529_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-polyol_1529_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "52d9a5e1-3dab-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1529"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "14",
+            "id": "d9dcd341-8780-4940-b2a7-028d86ff728e",
+            "title": "Foam",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "15",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

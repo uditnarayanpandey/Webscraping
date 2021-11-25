@@ -1,0 +1,130 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "40e7ecd3-48d4-e711-80fd-005056857ef3",
+            "title": "561P (former HEX17112)",
+            "summary": "MFR (2.16 kg) 2.5 g/10 min",
+            "description": "SABIC\u00ae PP-UMS 561P (former HEX17112)  is an unique new Ultra Melt Strength resin in the market, with a melt strength of more than 65 cN and outstanding foam-ability. It can be used by all industry segments as a building block to develop new foaming solutions that enable an unprecedented level of light weighting.",
+            "applications": [
+                "Foam Extrusion",
+                "Foam"
+            ],
+            "processingTechniques": [
+                "Structural Foam Molding",
+                "Foam Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "FCD US FDA HEX17112",
+                    "url": "/en/products/documents/fcd-us-fda-hex17112/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1ef166a0-1724-e911-8100-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS HEX17112",
+                    "url": "/en/products/documents/msds-hex17112/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d2ec36e9-1724-e911-8100-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PP-UMS_561P (former HEX17112)_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pp-ums_561p-former-hex17112-_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "af8f92f4-3072-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Foam Packaging",
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "561p-(former-hex17112)"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "3",
+            "id": "b07d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Structural Foam Molding",
+            "count": 0
+        },
+        {
+            "$id": "4",
+            "id": "2e12944f-ba66-4777-8639-bce769059804",
+            "title": "Foam Extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "5",
+            "id": "f5076806-09e9-e611-80fb-005056857ef3",
+            "title": "Foam Extrusion",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "d9dcd341-8780-4940-b2a7-028d86ff728e",
+            "title": "Foam",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "7",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "11",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Foam Packaging",
+            "id": "27f9afdd-45e9-e611-80fb-005056857ef3"
+        },
+        {
+            "$id": "12",
+            "industry": "1679dc71-a5d2-4e3b-bd90-ef43d09fe4d9",
+            "title": "IndustrySegment",
+            "id": "f25a6df1-91f0-43a8-9b69-520be613d22d"
+        }
+    ]
+}

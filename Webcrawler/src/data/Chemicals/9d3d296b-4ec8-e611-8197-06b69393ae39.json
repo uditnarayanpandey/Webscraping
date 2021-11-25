@@ -1,0 +1,75 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "5675247d-4ec8-e611-8197-06b69393ae39",
+            "title": "Paraxylene",
+            "summary": "Paraxylene (1.4-dimethylbenzene) is a colorless, flammable liquid that has a sweet odor.",
+            "description": "Paraxylene (1.4-dimethylbenzene) is a colorless, flammable liquid that has a sweet odor. It is separated from the mixed xylene stream that results from the refining of petroleum.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "Paraxylene_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/paraxylene_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "37c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "paraxylene"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "3",
+            "id": "313ee29e-8cc7-e611-8197-06b69393ae39",
+            "title": "Placeholder - please replace me",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "4",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "5",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

@@ -1,0 +1,195 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "ee5dc90b-fddc-e611-819b-06b69393ae39",
+            "title": "EL30",
+            "summary": "SABICOL EL Series products are Ethylene oxide condensate of naturally derived triglyceride.",
+            "description": "SABICOL EL Series products are yellow colored liquid/paste, completely miscible in water and many organic solvents. They are nontoxic, nonirritant and they are used as emulsifier in many applications.",
+            "applications": [
+                "Artificial leather",
+                "Textile coating"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABICOL EL-Material Safety Datasheet-KSA in Arabic",
+                    "url": "/en/products/documents/sabicol-el-material-safety-datasheet-ksa-in-arabic/ar",
+                    "language": "Arabic",
+                    "region": "Global",
+                    "id": "5c5c819b-c5f1-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "Castor Oil Ethoxylates_EL30_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/castor-oil-ethoxylates_el30_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "67c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Textile"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "el30"
+        },
+        {
+            "$id": "3",
+            "id": "73f3b613-11dd-e611-819b-06b69393ae39",
+            "title": "EL40",
+            "summary": "SABICOL EL Series products are Ethylene oxide condensate of naturally derived triglyceride.",
+            "description": "SABICOL EL Series products are yellow colored liquid/paste, completely miscible in water and many organic solvents. They are nontoxic, nonirritant and they are used as emulsifier in many applications.",
+            "applications": [
+                "Soap: The product can be used for making soap, which finds an application in textile and leather industries",
+                "Textile coating"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABICOL EL-Material Safety Datasheet-KSA in Arabic",
+                    "url": "/en/products/documents/sabicol-el-material-safety-datasheet-ksa-in-arabic/ar",
+                    "language": "Arabic",
+                    "region": "Global",
+                    "id": "5c5c819b-c5f1-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "Castor Oil Ethoxylates_EL40_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/castor-oil-ethoxylates_el40_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "73c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Textile"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "el40"
+        },
+        {
+            "$id": "4",
+            "id": "8b6de00e-13dd-e611-819b-06b69393ae39",
+            "title": "EL55",
+            "summary": "SABICOL EL Series products are Ethylene oxide condensate of naturally derived triglyceride.",
+            "description": "SABICOL EL Series products are yellow colored liquid/paste, completely miscible in water and many organic solvents. They are nontoxic, nonirritant and they are used as emulsifier in many applications.",
+            "applications": [
+                "Artificial leather",
+                "Textile coating"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABICOL EL-Material Safety Datasheet-KSA in Arabic",
+                    "url": "/en/products/documents/sabicol-el-material-safety-datasheet-ksa-in-arabic/ar",
+                    "language": "Arabic",
+                    "region": "Global",
+                    "id": "5c5c819b-c5f1-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "Castor Oil Ethoxylates_EL55_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/castor-oil-ethoxylates_el55_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "76c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Textile"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "el55"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "5",
+            "id": "82b5b6e2-48ff-4a4e-85d7-1b6f69e68ff4",
+            "title": "Artificial leather",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "08b5ebf2-75e5-4e1d-9ba8-ffd0e44b873e",
+            "title": "Textile coating",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "26a9af34-3cc8-e611-8197-06b69393ae39",
+            "title": "Soap: The product can be used for making soap, which finds an application in textile and leather industries",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "8",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "12",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Textile",
+            "id": "1fffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

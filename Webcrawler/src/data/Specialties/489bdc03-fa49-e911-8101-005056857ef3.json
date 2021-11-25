@@ -1,0 +1,65 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "594cd480-a823-e911-8100-005056857ef3",
+            "title": "AMS31F",
+            "summary": "AMS31F is a breakaway support filament designed for compatibility with ULTEMTM AM9085F filament.",
+            "description": "SABIC\u2019s AMS31F is a breakaway support filament for use with ULTEM\u2122 AM9085F filament. The material maintains rigidity during printing and provides exceptional pliability during post processing to enable easier removal of structural supports at room temperature, which can reduce the time required to produce finished parts. Both AMS31F and ULTEM\u2122 AM9085F filaments are compatible with Stratasys\u00ae Fortus\u00ae Classic printers and other industrial printers.",
+            "applications": [
+                "Additive Plastic"
+            ],
+            "processingTechniques": null,
+            "documents": null,
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ams31f"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "3",
+            "id": "36ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Plastic",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "4",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "5",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

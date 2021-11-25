@@ -1,0 +1,457 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "e912cb7c-6cea-eb11-810a-005056857ef3",
+            "title": "AP2001G",
+            "summary": "NORYL\u2122 AP2001G polyol is a low molecular weight di-functional hydroxyl-terminated polyol based on polyphenylene ether (PPE).",
+            "description": "NORYL\u2122 AP2001G polyol is a low molecular weight di-functional hydroxyl-terminated polyol based on polyphenylene ether (PPE). The incorporation of NORYL AP2001G  polyol into a solid elastomer matrix may demonstrate structure-property benefits in traditional CAST polyurethane material formulations. \n\nIncorporating NORYL AP2001G polyol into these systems may:\n       - Improve toughness and reduce abrasion\n       - Increase tensile strength\n       - Improve strain modulus and elongation\n       - Maintain physical properties at elevated temperatures and after humid aging\n       - Improve resistance to alkaline, acid, water and oil\n       - Improve adhesion to steel",
+            "applications": [
+                "Tire",
+                "Footwear",
+                "Conveyor"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "AP2001G_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/ap2001g_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2c617308-6eea-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Sport/Leisure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ap2001g"
+        },
+        {
+            "$id": "3",
+            "id": "0a626dce-2086-ea11-8103-c81318e981df",
+            "title": "SA110A",
+            "summary": "NORYL SA110A resin is a low molecular weight polymer based on polyphenylene ether (PPE).",
+            "description": "NORYL\u2122 SA110A resin is a low molecular weight polymer based on polyphenylene ether (PPE). Miscibility of NORYL SA110A resin in polystyrene may allow use as a styrene endblock reinforcing resin in a variety of materials like styrene-based rubbers and styrene block copolymers. \n\nAdding NORYL SA110A resin to these systems may improve heat resistance (adhesion at elevated temperatures) while maintaining peel strength. The viscosity profile of NORYL SA110A resin makes it a good potential candidate for melt extrusion tape processes.",
+            "applications": [
+                "Additive Plastic",
+                "Additive Semiconductor Materials",
+                "Circuit Board",
+                "Composite",
+                "Electronic Components",
+                "Wire & cable"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SA110A_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sa110a_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "3ddab30c-2586-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Additive Materials",
+                "Electrical Components and Infrastructure",
+                "Composite",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sa110a"
+        },
+        {
+            "$id": "4",
+            "id": "1344aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "SA120",
+            "summary": "NORYL SA120 resin is a low molecular weight polymer based on polyphenylene ether (PPE).",
+            "description": "NORYL\u2122 SA120 is a low molecular weight polymer based on polyphenylene ether(PPE). NORYL SA120 is intended for use as an additive in a variety of materials like styrene-based rubbers and block copolymers, epoxies, phenolics, polyurethanes and unsaturated polyesters. Adding NORYL SA120 resin to these systems may improve thermal performance (glass transition temperature), adhesion at elevated temperatures, toughness, dimensional stability, chemical resistance to acids and bases, moisture absorption, and electrical properties (dielectric constant, dissipation factor).",
+            "applications": [
+                "Additive Plastic",
+                "Additive Semiconductor Materials",
+                "Circuit Board",
+                "Composite",
+                "Electronic Components",
+                "Wire & cable"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SA120_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sa120_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a99ea70a-2786-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Additive Materials",
+                "Electrical Components and Infrastructure",
+                "Composite",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sa120"
+        },
+        {
+            "$id": "5",
+            "id": "1744aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "SA90",
+            "summary": "NORYL SA90 resin is a modified low molecular weight resin with increased hydroxyl functionality.",
+            "description": "NORYL\u2122 SA90 resin is a low molecular weight bi-functional oligomer with increased hydroxyl functionality based on polyphenylene ether (PPE). It has the potential to be used as a reactive component in epoxy and cyanate ester thermosets in electronics, coatings, adhesives, and composites applications. It has outstanding solubility in toluene & methyl ethyl ketone(MEK) and a low solution viscosity. Potential application areas include enhancing the performance (e.g. thermal, dielectric, mechanical, flame retardancy, and moisture uptake properties) of epoxy resins used in electronic packaging which include PCB laminates, copper clad laminates, epoxy prepregs, and protective coatings as well as various other composites applications. NORYL SA90 resin can also be blended with thermoplastic elastomers and cured elastomers, which may support the enhancement of certain properties.",
+            "applications": [
+                "Additive Plastic",
+                "Amusement Machine",
+                "Circuit Board",
+                "Circuit Protection",
+                "Composite",
+                "Electronic Components",
+                "Electronic Material",
+                "EV Infrastructure",
+                "Fused Deposition Modeling (FDM)",
+                "LED Lighting",
+                "Adhesives",
+                "Wire & cable"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Processing",
+                    "title": "SABIC NORYL SA90 Solvent Guide",
+                    "url": "/en/products/documents/sabic-noryl-sa90-solvent-guide/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "186f2048-4c75-e911-8101-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SA90_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sa90_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "93c16554-2786-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing",
+                "Additive Materials",
+                "Adhesives",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Composite",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sa90"
+        },
+        {
+            "$id": "6",
+            "id": "1844aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "SA9000",
+            "summary": "NORYL SA9000 resin is a modified, low molecular weight resin with vinyl end-groups.",
+            "description": "NORYL\u2122 SA9000 resin is a modified, low molecular weight, bi-functional oligomer based on polyphenylene ether (PPE) with vinyl end-groups. It is well suited for use with other unsaturated monomers and resins which cure via free radical reactions. These include styrenic, allylic, acrylic, maleimide, methacrylic, and unsaturated polyesters monomers and resins. It has a low solution viscosity and outstanding solubility in toluene & methyl ethyl ketone (MEK). Key application areas are in electronic packaging which include PCB laminates, copper clad laminates, non-epoxy prepregs, and adhesives. The use of NORYL SA9000 is especially advantageous in insulating materials where very low dielectric properties and decreased moisture absorption are required.",
+            "applications": [
+                "Additive Plastic",
+                "Circuit Board",
+                "Composite",
+                "Data Transfer",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "processingTechniques": [
+                "Free Radical Cure"
+            ],
+            "documents": [
+                {
+                    "documentType": "Processing",
+                    "title": "SABIC NORYL SA9000 Solvent Guide",
+                    "url": "/en/products/documents/sabic-noryl-sa9000-solvent-guide/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "85350304-4c75-e911-8101-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SA9000_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sa9000_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2f703f8f-2786-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Additive Materials",
+                "Electronic Material Handling",
+                "Composite",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sa9000"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "7",
+            "id": "c371cb6b-b897-e711-80fc-005056857ef3",
+            "title": "Free Radical Cure",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "8",
+            "id": "d8162da8-08e9-e611-80fb-005056857ef3",
+            "title": "Tire",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "2a53fd83-3b15-e711-80fb-005056857ef3",
+            "title": "Footwear",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "68ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Conveyor",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "36ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Plastic",
+            "count": 0
+        },
+        {
+            "$id": "12",
+            "id": "37ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Semiconductor Materials",
+            "count": 0
+        },
+        {
+            "$id": "13",
+            "id": "5bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Board",
+            "count": 0
+        },
+        {
+            "$id": "14",
+            "id": "66ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Composite",
+            "count": 0
+        },
+        {
+            "$id": "15",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "43ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Amusement Machine",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "7dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "86ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "21",
+            "id": "a0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fused Deposition Modeling (FDM)",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "1f8fb7b9-09a7-45e5-acb5-1175b471ed83",
+            "title": "Adhesives",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "7cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "26",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "29",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "30",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductors",
+            "id": "06ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "31",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Materials",
+            "id": "18ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "32",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "33",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Composite",
+            "id": "2bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "34",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "id": "2fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "35",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Manufacturing",
+            "id": "10ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "36",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Adhesives",
+            "id": "1cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "37",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "38",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "39",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "40",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

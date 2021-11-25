@@ -1,0 +1,4073 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "0ba8519a-1eb1-e811-80fe-005056857ef3",
+            "title": "61000EUI",
+            "summary": "Polycarbonate / Polybutylene Terephthalate alloy,Unreinforced,Aethetics and Appearance, custom color,Impact Modified, Improved Retention of Mechanical Properties under UV Exposure ,Excellent Low Temperature Impact ,Chemical Resistance",
+            "description": "LNP COLORCOMP 61000EUI compound is based on Polycarbonate / Polybutylene Terephthalate (PC/PBT) alloy. Added features of this grade include: Impact Modified, Improved Retention of Mechanical Properties under UV Exposure and Excellent Low Temperature Impact and Chemical Resistance.",
+            "applications": [
+                "Electronic Components",
+                "Individual Equiptment"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_61000EUI_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_61000eui_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "640fd67f-c948-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "61000eui"
+        },
+        {
+            "$id": "3",
+            "id": "1af5c46d-40fe-ea11-8105-005056857ef3",
+            "title": "9X20038",
+            "summary": "Polycarbonate + ASA (PC+ASA), unreinforced, increased flow, improved release , easy processing.",
+            "description": "LNP COLORCOMP 9X20038 compound is based on Polycarbonate / Acrylonitrile styrene acrylate (PC/ASA) blend. Added features of this grade include; increased flow, improved release and easy processing.",
+            "applications": [
+                "EV/HEV Charging System"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_9X20038_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_9x20038_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210929",
+                    "id": "2a74f724-8eca-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "9x20038"
+        },
+        {
+            "$id": "4",
+            "id": "5e7f7626-a5b2-e811-80fe-005056857ef3",
+            "title": "9X99415",
+            "summary": "Polyether Block Amide resin,Unreinforced,Aethetics and Appearance, Custom color",
+            "description": "LNP COLORCOMP 9X99415 compound is based on Polyether Block Amide resin.",
+            "applications": [
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_9X99415_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_9x99415_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2ecc4343-3f17-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "9x99415"
+        },
+        {
+            "$id": "5",
+            "id": "e7555520-42ad-e811-80fe-005056857ef3",
+            "title": "A1000F",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,Unreinforced,Aethetics and Appearance, custom color,Superior Molding",
+            "description": "LNP COLORCOMP A1000F compound is based on unfilled Acrylonitrile Butadiene Styrene (ABS) resin. Added features of this grade include: Superior Molding.",
+            "applications": [
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_A1000F_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_a1000f_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "867948dd-98bb-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "a1000f"
+        },
+        {
+            "$id": "6",
+            "id": "c2b0b577-56a1-e811-80fe-005056857ef3",
+            "title": "A1000FXB",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,Unreinforced,Aethetics and Appearance, custom color, healthcare, low extractable, food contact acceptable, biocompatible, Gamma & EtO Sterilizable, Superior Molding",
+            "description": "LNP COLORCOMP A1000FXB compound is based on unfilled Acrylonitrile Butadiene Styrene (ABS) resin. Added features of this grade include: Healthcare, Biocompatible (ISO10993), Low Extractables, Gamma & EtO Sterilizable, Superior Molding.",
+            "applications": [
+                "Others",
+                "Medical Device",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_A1000FXB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_a1000fxb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "962043a6-eb1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Food & Beverage",
+                "Surgical",
+                "Consumer Packaging",
+                "Home Appliance",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "a1000fxb"
+        },
+        {
+            "$id": "7",
+            "id": "5a32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "A1000HC",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,Unreinforced,Aethetics and Appearance, custom color, healthcare,",
+            "description": "LNP COLORCOMP A1000HC compound is based on unfilled Acrylonitrile Butadiene Styrene (ABS) resin. Added features of this grade include: Healthcare",
+            "applications": [
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_A1000HC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_a1000hc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "8f2e2c79-1c1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "a1000hc"
+        },
+        {
+            "$id": "8",
+            "id": "66e659a3-45e8-e811-80ff-005056857ef3",
+            "title": "A1000PXB",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,Unreinforced,Aethetics and Appearance, custom color, healthcare, low extractable, food contact acceptable, biocompatible, Gamma & EtO Sterilizable, Exceptional Processing",
+            "description": "LNP COLORCOMP A1000PXB compound is based on unfilled Acrylonitrile Butadiene Styrene (ABS) resin. Added features of this grade include: Healthcare, Biocompatible (ISO10993), Low Extractables, Gamma & EtO Sterilizable, Exceptional Processing.",
+            "applications": [
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_A1000PXB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_a1000pxb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b181adf6-eb1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Food & Beverage",
+                "Surgical",
+                "Consumer Packaging",
+                "Home Appliance",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "a1000pxb"
+        },
+        {
+            "$id": "9",
+            "id": "db32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "AX98567H",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,Unreinforced,Aethetics and Appearance, custom color, healthcare",
+            "description": "LNP COLORCOMP AX98567H compound is based on Acrylonitrile Butadiene Styrene (ABS) resin. Added features of this grade include: Healthcare.",
+            "applications": [
+                "Medical Device",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_AX98567H_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_ax98567h_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1bb7e1f2-2d32-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ax98567h"
+        },
+        {
+            "$id": "10",
+            "id": "f833aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "D10006U",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aethetics and Appearance, custom color,UV Stabilized, Flame Retardant",
+            "description": "LNP COLORCOMP D10006U compound is based on Polycarbonate (PC) resin. Added features of this grade include: UV Stabilized, Flame Retardant.",
+            "applications": [
+                "Energy Management"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D10006U_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d10006u_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "dd374921-ef1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d10006u"
+        },
+        {
+            "$id": "11",
+            "id": "2a8a5ff1-c47d-e811-80fe-005056857ef3",
+            "title": "D10008ER",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aethetics and Appearance, custom color,Flame Retardant, Mold Release, Easy Molding",
+            "description": "LNP COLORCOMP D10008ER compound is based on Polycarbonate (PC) resin. Added features of this grade include: Flame Retardant, Mold Release, Easy Molding.",
+            "applications": [
+                "Automotive ",
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D10008ER_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d10008er_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "941c8714-9abb-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d10008er"
+        },
+        {
+            "$id": "12",
+            "id": "46fc2b38-19b1-e811-80fe-005056857ef3",
+            "title": "D10008FR",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aethetics and Appearance, custom color,Flame Retardant, Mold Release, Superior Molding",
+            "description": "LNP COLORCOMP D10008FR compound is based on Polycarbonate (PC) resin. Added features of this grade include: Flame Retardant, Mold Release, Superior Molding.",
+            "applications": [
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D10008FR_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d10008fr_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "17ba2771-cb48-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d10008fr"
+        },
+        {
+            "$id": "13",
+            "id": "46e4ae60-2ee8-e811-80ff-005056857ef3",
+            "title": "D10008P",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aethetics and Appearance, custom color,Flame Retardant, Exceptional Processing",
+            "description": "LNP COLORCOMP D10008P compound is based on Polycarbonate (PC) resin. Added features of this grade include: Flame Retardant, Exceptional Processing.",
+            "applications": [
+                "Enclosures"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D10008P_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d10008p_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1c56c0ed-a1bb-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d10008p"
+        },
+        {
+            "$id": "14",
+            "id": "ae72e39d-18b1-e811-80fe-005056857ef3",
+            "title": "D10008PR",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aethetics and Appearance, custom color,Flame Retardant, Exceptional Processing, Mold Release",
+            "description": "LNP COLORCOMP D10008PR compound is based on Polycarbonate (PC) resin. Added features of this grade include: Flame Retardant, Exceptional Processing, Mold Release.",
+            "applications": [
+                "Automotive ",
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D10008PR_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d10008pr_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "ca64e250-284f-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d10008pr"
+        },
+        {
+            "$id": "15",
+            "id": "29dbd6cd-00b1-e811-80fe-005056857ef3",
+            "title": "D10008RU",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aethetics and Appearance, custom color,Flame Retardant, Mold Release, UV Stabilized",
+            "description": "LNP COLORCOMP D10008RU compound is based on Polycarbonate (PC) resin. Added features of this grade include: Flame Retardant, Mold Release, UV Stabilized.",
+            "applications": [
+                "Automotive ",
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D10008RU_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d10008ru_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "128f548a-ec1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d10008ru"
+        },
+        {
+            "$id": "16",
+            "id": "698b3a9f-17b1-e811-80fe-005056857ef3",
+            "title": "D1000E",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aethetics and Appearance, custom color,Easy Molding",
+            "description": "LNP COLORCOMP D1000E compound is based on unfilled Polycarbonate (PC) resin. Added features of this grade include: Easy Molding.",
+            "applications": [
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D1000E_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d1000e_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "9b6d96e7-b948-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000e"
+        },
+        {
+            "$id": "17",
+            "id": "995ed389-d4aa-e811-80fe-005056857ef3",
+            "title": "D1000ER",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aethetics and Appearance, custom color,Easy Molding",
+            "description": "LNP COLORCOMP D1000ER compound is based on Polycarbonate (PC) resin. Added features of this grade include: Easy Molding.",
+            "applications": [
+                "Electronic Components",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D1000ER_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d1000er_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d7b0c8ae-2191-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000er"
+        },
+        {
+            "$id": "18",
+            "id": "dc056437-41ad-e811-80fe-005056857ef3",
+            "title": "D1000ERU",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aethetics and Appearance, custom color,Easy Molding, Mold Release, UV Stabilized",
+            "description": "LNP COLORCOMP D1000ERU compound is based on Polycarbonate (PC) resin. Added features of this grade include: Easy Molding, Mold Release, UV Stabilized.",
+            "applications": [
+                "Building Element",
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D1000ERU_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d1000eru_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "245ab18f-675d-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000eru"
+        },
+        {
+            "$id": "19",
+            "id": "f569b426-40ad-e811-80fe-005056857ef3",
+            "title": "D1000EU",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aethetics and Appearance, custom color,Easy Molding, UV Stabilized",
+            "description": "LNP COLORCOMP D1000EU compound is based on Polycarbonate (PC) resin. Added features of this grade include: Easy Molding, UV Stabilized.",
+            "applications": [
+                "Automotive ",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D1000EU_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d1000eu_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "ad7a3070-ba48-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000eu"
+        },
+        {
+            "$id": "20",
+            "id": "3f30aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "D1000EXJ",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aethetics and Appearance, custom color, healthcare, low extractable, food contact acceptable,UL rated HB",
+            "description": "LNP COLORCOMP D1000EXJ compound is based on unfilled Polycarbonate (PC) resin.\u00a0Added features of this grade\u00a0include:\u00a0Healthcare, Food Contact Compliant and UL rated HB.",
+            "applications": [
+                "Healthcare"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D1000EXJ_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d1000exj_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210830",
+                    "id": "65ea7b51-3323-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Food & Beverage",
+                "Surgical",
+                "Consumer Packaging",
+                "Home Appliance",
+                "Healthcare",
+                "Patient Testing",
+                "Healthcare Packaging"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000exj"
+        },
+        {
+            "$id": "21",
+            "id": "195c3954-4be8-e811-80ff-005056857ef3",
+            "title": "D1000F",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aethetics and Appearance, custom color,Superior Molding",
+            "description": "LNP COLORCOMP D1000F compound is based on unfilled Polycarbonate (PC) resin. Added features of this grade include: Superior Molding.",
+            "applications": [
+                "Electronic Components",
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D1000F_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d1000f_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "64e33888-985c-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000f"
+        },
+        {
+            "$id": "22",
+            "id": "fb33aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "D1000FL",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aethetics and Appearance, custom color, Low Extractable, food contact acceptable,Superior Molding, Low Extractable",
+            "description": "LNP COLORCOMP D1000FL compound is based on unfilled Polycarbonate (PC) resin. Added features of this grade include: Superior Molding, Low Extractable.",
+            "applications": [
+                "Packaging",
+                "Food Container"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D1000FL_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d1000fl_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d6ae4e44-ee1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Food & Beverage",
+                "Consumer Packaging",
+                "Home Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000fl"
+        },
+        {
+            "$id": "23",
+            "id": "901ea71b-06b1-e811-80fe-005056857ef3",
+            "title": "D1000FU",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aethetics and Appearance, custom color,Superior Molding, UV Stabilized",
+            "description": "LNP COLORCOMP D1000FU compound is based on Polycarbonate (PC) resin. Added features of this grade include: Superior Molding, UV Stabilized.",
+            "applications": [
+                "Automotive ",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D1000FU_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d1000fu_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d7e60bff-ae21-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000fu"
+        },
+        {
+            "$id": "24",
+            "id": "fc33aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "D1000P",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Asethetics and Appearance, custom color,Exceptional Processing",
+            "description": "LNP COLORCOMP D1000P compound is based on unfilled Polycarbonate (PC) resin. Added features of this grade include: Exceptional Processing.",
+            "applications": [
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Recreational Vehicle"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D1000P_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d1000p_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fc125adb-2d48-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000p"
+        },
+        {
+            "$id": "25",
+            "id": "944a51a1-2de3-e811-80ff-005056857ef3",
+            "title": "D1000RF",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aesthetics and Appearance, custom color,Mold Release, Superior Molding",
+            "description": "LNP COLORCOMP D1000RF compound is based on Polycarbonate (PC) resin. Added features of this grade include: Mold Release, Superior Molding.",
+            "applications": [
+                "Home Care",
+                "Commercial Appliance",
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D1000RF_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d1000rf_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2d462f35-2a4f-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000rf"
+        },
+        {
+            "$id": "26",
+            "id": "5ef02acf-38ad-e811-80fe-005056857ef3",
+            "title": "D1000RFU",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aesthetics and Appearance, custom color,Mold Release, UV Stabilized, Superior Molding",
+            "description": "LNP COLORCOMP D1000RFU compound is based on Polycarbonate (PC) resin. Added features of this grade include: Mold Release, UV Stabilized, Superior Molding.",
+            "applications": [
+                "Electronic Components",
+                "HVAC Underhood",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D1000RFU_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d1000rfu_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e361cfe9-f432-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000rfu"
+        },
+        {
+            "$id": "27",
+            "id": "1f8b074e-ffb0-e811-80fe-005056857ef3",
+            "title": "D1000RU",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aesthetics and Appearance, custom color,Mold Release, UV Stabilized",
+            "description": "LNP COLORCOMP D1000RU compound is based on Polycarbonate (PC) resin. Added features of this grade include: Mold Release, UV Stabilized.",
+            "applications": [
+                "Electronic Components",
+                "Oil/Gas"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D1000RU_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d1000ru_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a3fe1d2f-685d-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000ru"
+        },
+        {
+            "$id": "28",
+            "id": "532d70bf-5be8-e811-80ff-005056857ef3",
+            "title": "D1000RXP",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aesthetics and Appearance, custom color,Mold Release",
+            "description": "LNP COLORCOMP D1000RXP compound is based on Polycarbonate (PC) resin. Added features of this grade include: Mold Release.",
+            "applications": [
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_D1000RXP_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_d1000rxp_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "4e6e5f6e-364f-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d1000rxp"
+        },
+        {
+            "$id": "29",
+            "id": "e044882f-d7c5-ea11-8103-c81318e981df",
+            "title": "DX00511H",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aesthetics and Appearance, custom color, healthcare,Good Mold Release",
+            "description": "LNP COLORCOMP DX00511H compound is based on Polycarbonate (PC) resin. Added features of this grade include: Good Mold Release and Healthcare.",
+            "applications": [
+                "Medical Device",
+                "Pharmaceutical Packaging & Drug Delivery"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_DX00511H_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_dx00511h_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "5279b411-dac5-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas",
+                "MEA"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dx00511h"
+        },
+        {
+            "$id": "30",
+            "id": "3f3cccba-be06-ea11-8102-005056857ef3",
+            "title": "DX02663H",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aesthetics and Appearance, custom color, healthcare,High Flow, Good Mold Release",
+            "description": "LNP COLORCOMP DX02663H compound is based on Polycarbonate (PC) resin. Added features of this grade include: High Flow, Good Mold Release and Healthcare.",
+            "applications": [
+                "Fluid Delivery",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Pharmaceutical Manufacturing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Respiratory",
+                "Surgical Devices",
+                "Surgical Tray"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_DX02663H_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_dx02663h_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7ce47dc0-cd06-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dx02663h"
+        },
+        {
+            "$id": "31",
+            "id": "3635aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DX04401H",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aesthetics and Appearance, custom color, healthcare",
+            "description": "LNP COLORCOMP DX04401H compound is based on Polycarbonate (PC) resin. Added features of this grade include: Healthcare.",
+            "applications": [
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_DX04401H_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_dx04401h_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2db0daf5-7621-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dx04401h"
+        },
+        {
+            "$id": "32",
+            "id": "9311b74a-ea1b-ea11-8102-005056857ef3",
+            "title": "DX05464",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aesthetics and Appearance, custom color,Flame Retardant, UL-94 V0 Rating",
+            "description": "LNP COLORCOMP DX05464 compound is based on Polycarbonate (PC) resin. Added features of this grade include: Flame Retardant, UL-94 V0 Rating.",
+            "applications": [
+                "Additive Semiconductor Materials",
+                "Aerospace",
+                "Air Cabin Interiors",
+                "Aircraft Seating",
+                "Airline Service",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Battery Pack",
+                "Building Accessory",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Freezer",
+                "Fuel Cell",
+                "Furnace/Heater",
+                "Head Protection",
+                "Heavy Vehicles",
+                "Inverter",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Microwave Oven",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Overhead",
+                "Pallet",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Photovoltaic Components",
+                "Power Boat",
+                "Power Manangement",
+                "Rail",
+                "Refrigerator",
+                "Respiratory",
+                "Security/Detection",
+                "Semiconductor",
+                "Small Appliance",
+                "Surgical Devices",
+                "Vending Machine",
+                "Washing Machine",
+                "Water Treatment/Filtration",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_DX05464_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_dx05464_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7fa504b7-7031-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dx05464"
+        },
+        {
+            "$id": "33",
+            "id": "80a455fa-ada4-ea11-8103-c81318e981df",
+            "title": "DX05471-GN8A091",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aesthetics and Appearance, custom color,Glow-In-The-Dark",
+            "description": "LNP COLORCOMP DX05471-GN8A091 compound is based on Polycarbonate (PC) resin. Added features of this grade include: Glow-In-The-Dark.",
+            "applications": [
+                "Home Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_DX05471-GN8A091_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_dx05471-gn8a091_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1be9a140-38a5-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas",
+                "MEA"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Home Decoration",
+                "Sport/Leisure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dx05471-gn8a091"
+        },
+        {
+            "$id": "34",
+            "id": "4635aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DX06407",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aesthetics and Appearance, custom color,Easy Molding, Good Mold Release,",
+            "description": "LNP COLORCOMP DX06407 compound is based on Polycarbonate (PC) resin. Added features of this grade include: Easy Molding, Good Mold Release, Healthcare.",
+            "applications": [
+                "Medical Device",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_DX06407_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_dx06407_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "eb23a570-6f17-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dx06407"
+        },
+        {
+            "$id": "35",
+            "id": "4735aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DX06407H",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aesthetics and Appearance, custom color, healthcare,Easy Molding, Good Mold Release",
+            "description": "LNP COLORCOMP DX06407H compound is based on Polycarbonate (PC) resin. Added features of this grade include: Easy Molding, Good Mold Release, Healthcare",
+            "applications": [
+                "Medical Device",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_DX06407H_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_dx06407h_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "22b20673-1a1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dx06407h"
+        },
+        {
+            "$id": "36",
+            "id": "b73d8631-bd71-eb11-8108-005056857ef3",
+            "title": "DX09304C",
+            "summary": "Colorcomp, CCS",
+            "description": "LNP COLORCOMP DX09304C is an unfilled polycarbonate (PC) resin. Added features of this grade include:  easy molding, very low level of leachable ions and low outgassing.",
+            "applications": [
+                "Medical Device",
+                "Pharmaceutical Packaging & Drug Delivery"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_DX09304C_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_dx09304c_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210915",
+                    "id": "c56ab625-4b72-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electrical Devices and Displays",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dx09304c"
+        },
+        {
+            "$id": "37",
+            "id": "8735aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DX98550H",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aesthetics and Appearance, custom color, healthcare, low extractable, food contact acceptable",
+            "description": "LNP COLORCOMP DX98550H compound is based on Polycarbonate (PC) resin. Added features of this grade include: Low Extractable, Healthcare.",
+            "applications": [
+                "Lab Ware and Clinical Diagnostics",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_DX98550H_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_dx98550h_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "8f8631a6-eb61-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Food & Beverage",
+                "Surgical",
+                "Consumer Packaging",
+                "Home Appliance",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dx98550h"
+        },
+        {
+            "$id": "38",
+            "id": "8935aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DX98735H",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aesthetics and Appearance, custom color, healthcare",
+            "description": "LNP COLORCOMP DX98735H compound is based on Polycarbonate (PC) resin. Added features of this grade include: Healthcare.",
+            "applications": [
+                "Medical Device",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_DX98735H_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_dx98735h_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d4387231-1a1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dx98735h"
+        },
+        {
+            "$id": "39",
+            "id": "8b35aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DX99340H",
+            "summary": "Polycarbonate (PC) resin,Unreinforced,Aesthetics and Appearance, custom color, healthcare",
+            "description": "LNP COLORCOMP DX99340H compound is based on Polycarbonate (PC) resin. Added features of this grade include: Healthcare.",
+            "applications": [
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_DX99340H_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_dx99340h_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7cc73dba-7621-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dx99340h"
+        },
+        {
+            "$id": "40",
+            "id": "9435aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "E1000",
+            "summary": "Polyetherimide (PEI) resin,Unreinforced,Aesthetics and Appearance, custom color",
+            "description": "LNP COLORCOMP E1000 compound is based on unfilled Polyetherimide (PEI) resin.",
+            "applications": [
+                "Building Element"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_E1000_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_e1000_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "e696d2f1-8633-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "e1000"
+        },
+        {
+            "$id": "41",
+            "id": "9535aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "E1000CE",
+            "summary": "Polyetherimide (PEI) resin,Unreinforced,Aesthetics and Appearance, custom color, LNP Clean Compounding Technology,Easy Molding, UV Stabilized",
+            "description": "LNP COLORCOMP E1000CE compound is based on unfilled Polyetherimide (PEI) resin. Added features of this grade include: Easy Molding, UV Stabilized, LNP Clean Compounding Technology.",
+            "applications": [
+                "Data Management",
+                "Electronic Material Handling",
+                "Industrial Material Handling",
+                "Semiconductor",
+                "Tray"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_E1000CE_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_e1000ce_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "1aa6e982-191c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electrical Devices and Displays",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "e1000ce"
+        },
+        {
+            "$id": "42",
+            "id": "9635aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "E1000H",
+            "summary": "Polyetherimide (PEI) resin,Unreinforced,Aesthetics and Appearance, custom color, healthcare",
+            "description": "LNP COLORCOMP E1000H compound is based on unfilled Polyetherimide (PEI) resin. Added features of this grade include: Healthcare.",
+            "applications": [
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_E1000H_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_e1000h_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "d19ce774-dc32-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "e1000h"
+        },
+        {
+            "$id": "43",
+            "id": "2836aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "EX10304C",
+            "summary": "Polyetherimide (PEI) resin,Unreinforced,Aesthetics and Appearance, custom color, LNP Clean Compounding Technology",
+            "description": "LNP COLORCOMP EX10304C compound is based on unfilled Polyetherimide (PEI) resin. Added features of this grade include: LNP Clean Compounding Technology.",
+            "applications": [
+                "Data Management"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_EX10304C_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_ex10304c_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "cd6964bf-ee1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electrical Devices and Displays",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ex10304c"
+        },
+        {
+            "$id": "44",
+            "id": "3136aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "EX12304C",
+            "summary": "Polyetherimide (PEI) resin,Unreinforced,Aesthetics and Appearance, custom color, LNP Clean Compounding Technology",
+            "description": "LNP COLORCOMP EX12304C compound is based on unfilled Polyetherimide (PEI) resin. Added features of this grade include: LNP Clean Compounding Technology.",
+            "applications": [
+                "Data Management"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_EX12304C_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_ex12304c_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "b698c883-ee1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electrical Devices and Displays",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ex12304c"
+        },
+        {
+            "$id": "45",
+            "id": "3a36aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "EX14001",
+            "summary": "Polyetherimide (PEI) resin,Unreinforced,Aesthetics and Appearance, custom color,Easy Molding",
+            "description": "LNP COLORCOMP EX14001 compound is based on unfilled Polyetherimide (PEI) resin. Added features of this grade include: Easy Molding.",
+            "applications": [
+                "Lab Ware and Clinical Diagnostics"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_EX14001_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_ex14001_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "17ccfe9e-181c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ex14001"
+        },
+        {
+            "$id": "46",
+            "id": "d839aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "G1000",
+            "summary": "Polysulfone (PSU) resin,Unreinforced,Aesthetics and Appearance, custom color,Transparent",
+            "description": "LNP COLORCOMP G1000 compound is based on unfilled Polysulfone (PSU) resin. Added features of this grade include: Transparent.",
+            "applications": [
+                "Medical Device",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_G1000_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_g1000_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "6cb41eb1-3abc-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "g1000"
+        },
+        {
+            "$id": "47",
+            "id": "52365f93-cb68-e811-80fe-005056857ef3",
+            "title": "G1000L",
+            "summary": "Polysulfone (PSU) resin,Unreinforced,Aesthetics and Appearance, custom color, Low Extractable, food contact acceptable",
+            "description": "LNP COLORCOMP G1000L compound is based on unfilled Polysulfone (PSU) resin. Added features of this grade include: Low Extractables.",
+            "applications": [
+                "Others",
+                "Surgical Devices",
+                "Surgical Tray"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_G1000L_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_g1000l_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "bafd833b-4d17-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Food & Beverage",
+                "Consumer Packaging",
+                "Home Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "g1000l"
+        },
+        {
+            "$id": "48",
+            "id": "9c3168dd-65b5-ea11-8103-c81318e981df",
+            "title": "G1000LX1",
+            "summary": "Polysulfone (PSU) resin,Unreinforced,Aesthetics and Appearance, custom color, Low Extractable, food contact acceptable",
+            "description": "LNP COLORCOMP G1000LX1 compound is based on unfilled Polysulfone (PSU) resin. Added features of this grade include: Low Extractables.",
+            "applications": [
+                "Food Processor",
+                "Medical Device",
+                "Surgical Devices",
+                "Trim"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_G1000LX1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_g1000lx1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "e0c28756-10ff-ea11-8105-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Food & Beverage",
+                "Consumer Packaging",
+                "Home Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "g1000lx1"
+        },
+        {
+            "$id": "49",
+            "id": "8c3aaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "GX02708H",
+            "summary": "Polysulfone (PSU) resin,Unreinforced,Aesthetics and Appearance, custom color, healthcare",
+            "description": "LNP COLORCOMP GX02708H compound is based on Polysulfone (PSU) resin. Added features of this grade include: Healthcare.",
+            "applications": [
+                "Medical Device",
+                "Monitoring and Imaging"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_GX02708H_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_gx02708h_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "e3d0baba-1c1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gx02708h"
+        },
+        {
+            "$id": "50",
+            "id": "6d3baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "I1000",
+            "summary": "Nylon 6/12 resin,Unreinforced,Aesthetics and Appearance, custom color",
+            "description": "LNP COLORCOMP I1000 compound is based on unfilled Nylon 6/12 resin.",
+            "applications": [
+                "Automotive ",
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_I1000_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_i1000_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2d1e5116-141c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "i1000"
+        },
+        {
+            "$id": "51",
+            "id": "e63baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "J1000",
+            "summary": "Polyethersulfone (PES) resin,Unreinforced,Aesthetics and Appearance, custom color",
+            "description": "LNP COLORCOMP J1000 compound is based on unfilled Polyethersulfone (PES) resin.",
+            "applications": [
+                "Electronic Components",
+                "Oil/Gas"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_J1000_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_j1000_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "7ff9f384-8c33-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "j1000"
+        },
+        {
+            "$id": "52",
+            "id": "e73baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "J1000AE",
+            "summary": "Polyethersulfone (PES) resin,Unreinforced,Aesthetics and Appearance, custom color,Easy Molding",
+            "description": "LNP COLORCOMP J1000AE compound is based on unfilled Polyethersulfone (PES) resin. Added features of this grade include: Easy Molding.",
+            "applications": [
+                "Automotive ",
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_J1000AE_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_j1000ae_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "6de2cf22-f132-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "j1000ae"
+        },
+        {
+            "$id": "53",
+            "id": "e83baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "J1000E",
+            "summary": "Polyethersulfone (PES) resin,Unreinforced,Aesthetics and Appearance, custom color,Easy Molding",
+            "description": "LNP COLORCOMP J1000E compound is based on unfilled Polyethersulfone (PES) resin. Added features of this grade include: Easy Molding.",
+            "applications": [
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_J1000E_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_j1000e_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b543e0e9-f032-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "j1000e"
+        },
+        {
+            "$id": "54",
+            "id": "ed3baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "J1000Z-WH9G618",
+            "summary": "Polyethersulfone (PES) resin,Unreinforced,Aesthetics and Appearance, custom color,Extrusion, Customer Specific Color",
+            "description": "LNP COLORCOMP J1000-WH9G618 compound is based on Polyethersulfone (PES) resin. Added features of this grade include: Extrusion, Customer Specific Color.",
+            "applications": null,
+            "processingTechniques": [
+                "Injection Molding",
+                "Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_J1000Z-WH9G618_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_j1000z-wh9g618_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "abce865c-7621-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "j1000z-wh9g618"
+        },
+        {
+            "$id": "55",
+            "id": "5cf76cf9-ae6a-e911-8101-005056857ef3",
+            "title": "JX09403J",
+            "summary": "Polyethersulfone (PES) resin,Unreinforced,Aesthetics and Appearance, custom color, healthcare, low extractable, food contact acceptable",
+            "description": "LNP COLORCOMP JX09403J compound is based on Polyethersulfone (PES) resin. Added features of this grade include: Colorability, Healthcare, Low Extractables.",
+            "applications": [
+                "Healthcare"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_JX09403J_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_jx09403j_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "4e96b245-101c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Food & Beverage",
+                "Surgical",
+                "Consumer Packaging",
+                "Home Appliance",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "jx09403j"
+        },
+        {
+            "$id": "56",
+            "id": "8a3daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "M1000S",
+            "summary": "Polypropylene (PP) resin,Unreinforced,Aesthetics and Appearance, custom color,Heat Stabilised",
+            "description": "LNP COLORCOMP M1000S compound is based on Polypropylene (PP) resin. Added features of this grade include: Heat Stabilised.",
+            "applications": [
+                "Automotive ",
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_M1000S_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_m1000s_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1298c1dd-131c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "m1000s"
+        },
+        {
+            "$id": "57",
+            "id": "2ca29e07-e3ee-eb11-810a-005056857ef3",
+            "title": "MX05486",
+            "summary": "Polypropylene (PP), Unreinforced, Low Extractables",
+            "description": "LNP COLORCOMP MX05486 compound is based on Polypropylene (PP) resin. Added features of this grade include: Low Extractables.",
+            "applications": [
+                "Packaging"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_MX05486_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_mx05486_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210818",
+                    "id": "d805d78e-f1ee-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Food & Beverage",
+                "Consumer Packaging",
+                "Home Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mx05486"
+        },
+        {
+            "$id": "58",
+            "id": "7158bcef-c4a9-e811-80fe-005056857ef3",
+            "title": "N1000E",
+            "summary": "Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend,Unreinforced,Aesthetics and Appearance, custom color,Excellent Flow, Impact, High Heat Resistance, Low Temperature Ductility",
+            "description": "LNP COLORCOMP N1000E compound is based on unfilled Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend. Added features of this grade include: Excellent Flow, Impact, High Heat Resistance, Low Temperature Ductility.",
+            "applications": [
+                "Automotive ",
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_N1000E_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_n1000e_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b3af448a-3bbc-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "n1000e"
+        },
+        {
+            "$id": "59",
+            "id": "93fe3493-50e8-e811-80ff-005056857ef3",
+            "title": "N1000EXB",
+            "summary": "Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend,Unreinforced,Aesthetics and Appearance, custom color, healthcare, low extractable, food contact acceptable, biocompatible,Good Flow ,Excellent Impact",
+            "description": "LNP COLORCOMP N1000EXB compound is based on unfilled Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend. Added features of this grade include: Good Flow and Excellent Impact, Healthcare, Low Extractables, Biocompatible (ISO10993 or USP Class VI).",
+            "applications": [
+                "Automotive ",
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care",
+                "Healthcare"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_N1000EXB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_n1000exb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1eab6747-2832-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Food & Beverage",
+                "Surgical",
+                "Consumer Packaging",
+                "Home Appliance",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "n1000exb"
+        },
+        {
+            "$id": "60",
+            "id": "92d99267-1daf-e711-80fc-005056857ef3",
+            "title": "N1000UF",
+            "summary": "Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend,Unreinforced,Aesthetics and Appearance, custom color,UV Stabilized, Excellent Flow ,Good Impact",
+            "description": "LNP COLORCOMP N1000UF compound is based on Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend. Added features of this grade include: UV Stabilized, Excellent Flow and Good Impact.",
+            "applications": [
+                "Audio",
+                "Data Transfer",
+                "Personal Computing",
+                "Watch/Jewelry",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_N1000UF_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_n1000uf_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "02b2354a-ec1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "n1000uf"
+        },
+        {
+            "$id": "61",
+            "id": "cf3faad7-e0d8-e611-819b-06b69393ae39",
+            "title": "NX05467",
+            "summary": "Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend,Unreinforced,Aesthetics and Appearance, custom color,Non-Chlorinated, Non-Brominated Flame Retardant with UL V0, 5VB ,5VA flame rating",
+            "description": "LNP COLORCOMP NX05467 compound is based on Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend. Added features of this grade is: Non-Chlorinated, Non-Brominated Flame Retardant with UL V0, 5VB and 5VA flame rating.",
+            "applications": [
+                "Medical Facility Infrastructure"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_NX05467_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_nx05467_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b2497986-131c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "nx05467"
+        },
+        {
+            "$id": "62",
+            "id": "90c9eaa7-3c7a-ea11-8103-c81318e981df",
+            "title": "NX06514",
+            "summary": "PC+ABS, Non-Brominated & Non-Chlorinated Flame Retardant, UL V0 & 5VB flame rating, Unfilled Custom Color, improved heat resistance",
+            "description": "LNP COLORCOMP NX06514 is an unfilled Polycarbonate+ABS resin. Added feature of this material are: non-chlorinated, non-brominated flame retardant with UL V0 & 5VB flame rating, improved heat resistance, balanced flow and impact. This grade is an excellent candidate for a wide variety of applications including appliances, lighting and electrical.",
+            "applications": [
+                "Air Conditioning",
+                "Air Filtration",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Auto Aftermarket",
+                "Battery Pack",
+                "Bicycle",
+                "Building Accessory",
+                "Building Element",
+                "Circuit Protection",
+                "City",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Fluid Delivery",
+                "Food Processor",
+                "Food Transportation",
+                "Freezer",
+                "Furnace/Heater",
+                "Heavy Vehicles",
+                "Hot Water System",
+                "Individual Equiptment",
+                "Lab Ware and Clinical Diagnostics",
+                "Laundry Dryer",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Gas",
+                "Monitoring and Imaging",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "OLED",
+                "Personal Care",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Power Manangement",
+                "Refrigerator",
+                "Renal and Blood Handling",
+                "Respiratory",
+                "Security/Detection",
+                "Small Appliance",
+                "Surgical Devices",
+                "Traction Motor",
+                "Vacuum Cleaner",
+                "Washing Machine",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_NX06514_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_nx06514_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "5f8d5f8c-6c7a-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Surgical",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Bus",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling",
+                "Commercial Appliance",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "nx06514"
+        },
+        {
+            "$id": "63",
+            "id": "0642aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PX99848",
+            "summary": "Nylon 6 resin,Unreinforced,Aesthetics and Appearance, custom color,Heat Stabilized",
+            "description": "LNP COLORCOMP PX99848 compound is based on Nylon 6 resin. Added features of this grade include: Heat Stabilized.",
+            "applications": [
+                "Enclosures"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_PX99848_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_px99848_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e8b8a3f5-2c5a-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "px99848"
+        },
+        {
+            "$id": "64",
+            "id": "2b42aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "R1000",
+            "summary": "Nylon 6/6 resin,Unreinforced,Aesthetics and Appearance, custom color",
+            "description": "LNP COLORCOMP R1000 compound is based on unfilled Nylon 6/6 resin.",
+            "applications": [
+                "Medical Device"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_R1000_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_r1000_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "6d9d2221-121c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "r1000"
+        },
+        {
+            "$id": "65",
+            "id": "3242aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "R1000S",
+            "summary": "Nylon 6/6 resin,Unreinforced,Aesthetics and Appearance, custom color,Heat Stabilised",
+            "description": "LNP COLORCOMP R1000S compound is based on Nylon 6/6 resin. Added features of this grade include: Heat Stabilised.",
+            "applications": [
+                "Automotive ",
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_R1000S_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_r1000s_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "445eb583-101c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "r1000s"
+        },
+        {
+            "$id": "66",
+            "id": "3342aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "R1000SU",
+            "summary": "Nylon 6/6 resin,Unreinforced,Aesthetics and Appearance, custom color,Heat Stabilised, UV Stabilized",
+            "description": "LNP COLORCOMP R1000SU compound is based on Nylon 6/6 resin. Added features of this grade include: Heat Stabilised, UV Stabilized.",
+            "applications": [
+                "Automotive ",
+                "Commercial Appliance",
+                "Electrical",
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_R1000SU_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_r1000su_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2ecb3c4c-111c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "r1000su"
+        },
+        {
+            "$id": "67",
+            "id": "c745aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "W10009I",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Unreinforced,Aesthetics and Appearance, custom color,Flame Retardant, Impact Modified",
+            "description": "LNP COLORCOMP W10009I compound is based on Polybutylene Terephthalate (PBT) resin. Added features of this grade include: Flame Retardant, Impact Modified.",
+            "applications": [
+                "Automotive ",
+                "Home Care",
+                "Commercial Appliance"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_W10009I_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_w10009i_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e8a1e8c4-101c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "w10009i"
+        },
+        {
+            "$id": "68",
+            "id": "e44878a7-1bb1-e811-80fe-005056857ef3",
+            "title": "W1000EXP",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Unreinforced,Aesthetics and Appearance, custom color",
+            "description": "LNP COLORCOMP W1000EXP compound is based on unfilled Polybutylene Terephthalate (PBT) resin.",
+            "applications": [
+                "Automotive ",
+                "Home Care",
+                "Commercial Appliance"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_W1000EXP_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_w1000exp_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "99098057-1cb1-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_W1000EXP_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_w1000exp_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a089794c-8e5f-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "w1000exp"
+        },
+        {
+            "$id": "69",
+            "id": "e5e6ef3b-22f7-e811-80ff-005056857ef3",
+            "title": "W1000PRB",
+            "summary": "Polybutylene Terephthalate (PBT), unreinforced, Healthcare, Food Contact Compliant, Biocompatible (ISO 10993 or USP Class VI), EtO and Gamma Sterilizable, Mold Release.",
+            "description": "LNP COLORCOMP W1000PRB compound is based on Polybutylene Terephthalate (PBT) resin. Added features of this grade include: Healthcare, Food Contact Compliant, Biocompatible (ISO 10993 or USP Class VI), EtO and Gamma Sterilizable, Mold Release.",
+            "applications": [
+                "Fluid Delivery",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Respiratory"
+            ],
+            "processingTechniques": [
+                "Compounding Extrusion",
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_W1000PRB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_w1000prb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a52ba99b-fc47-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Food & Beverage",
+                "Surgical",
+                "Consumer Packaging",
+                "Home Appliance",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "w1000prb"
+        },
+        {
+            "$id": "70",
+            "id": "4e845154-326f-ea11-8103-005056857ef3",
+            "title": "W1000Z",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Unreinforced,Aesthetics and Appearance, custom color,High Viscosity suitable for Extrusion",
+            "description": "LNP COLORCOMP W1000I compound is based on Polybutylene Terephthalate (PBT) resin. Added features of this grade include: High Viscosity suitable for Extrusion.",
+            "applications": [
+                "Air Filtration",
+                "Commercial Storage/Cookware",
+                "Electronic Components",
+                "Food Processor",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Personal Care",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Servingware",
+                "Vending Machine",
+                "Water Treatment/Filtration",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Compounding Extrusion",
+                "Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_W1000Z_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_w1000z_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f77d67a8-1b70-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "w1000z"
+        },
+        {
+            "$id": "71",
+            "id": "c814c383-3439-e911-8100-005056857ef3",
+            "title": "WX09915",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Unreinforced,Aesthetics and Appearance, custom color,Flame Retardant",
+            "description": "LNP COLORCOMP WX09915 compound is based on Polybutylene Terephthalate (PBT) resin. Added features of this grade include: Flame Retardant.",
+            "applications": [
+                "Under the hood"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_WX09915_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_wx09915_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f188ce40-4317-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wx09915"
+        },
+        {
+            "$id": "72",
+            "id": "6746aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WX96084P-WT",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Unreinforced,Aesthetics and Appearance, custom color",
+            "description": "LNP COLORCOMP WX96084P compound is based on Polybutylene Terephthalate (PBT) resin. Added features of this grade include: Custom Color White.",
+            "applications": null,
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_WX96084P-WT_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_wx96084p-wt_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c6cda80c-7621-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wx96084p-wt"
+        },
+        {
+            "$id": "73",
+            "id": "6646aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WX96084-WH9A496",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Unreinforced,Aesthetics and Appearance, custom color",
+            "description": "LNP COLORCOMP WX96084-WH9A496 compound is based on Polybutylene Terephthalate (PBT) resin. Added features of this grade include: Custom Color White WH9A496.",
+            "applications": [
+                "Auto Aftermarket",
+                "Electronic Components",
+                "Enclosures"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 COLORCOMP\u2122 Compound_WX96084-WH9A496_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-colorcomp-compound_wx96084-wh9a496_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "4b43c47a-7321-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wx96084-wh9a496"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "74",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "75",
+            "id": "0cf9ad07-62b0-4021-88d3-07861c00788c",
+            "title": "Extrusion",
+            "count": 0
+        },
+        {
+            "$id": "76",
+            "id": "aa7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Compounding Extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "77",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "78",
+            "id": "b0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Individual Equiptment",
+            "count": 0
+        },
+        {
+            "$id": "79",
+            "id": "88ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV/HEV Charging System",
+            "count": 0
+        },
+        {
+            "$id": "80",
+            "id": "ffffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Devices",
+            "count": 0
+        },
+        {
+            "$id": "81",
+            "id": "15f6299b-fa92-e711-80fc-005056857ef3",
+            "title": "Others",
+            "count": 0
+        },
+        {
+            "$id": "82",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "83",
+            "id": "d5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Packaging & Drug Delivery",
+            "count": 0
+        },
+        {
+            "$id": "84",
+            "id": "c5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Monitoring and Imaging",
+            "count": 0
+        },
+        {
+            "$id": "85",
+            "id": "82ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Management",
+            "count": 0
+        },
+        {
+            "$id": "86",
+            "id": "9a7bffa6-4015-e711-80fb-005056857ef3",
+            "title": "Automotive ",
+            "count": 0
+        },
+        {
+            "$id": "87",
+            "id": "64ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "count": 0
+        },
+        {
+            "$id": "88",
+            "id": "7affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical",
+            "count": 0
+        },
+        {
+            "$id": "89",
+            "id": "d1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "90",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "91",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "92",
+            "id": "54ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Element",
+            "count": 0
+        },
+        {
+            "$id": "93",
+            "id": "3827b20d-60e1-47fb-b276-c8b04f82b1fb",
+            "title": "Healthcare",
+            "count": 0
+        },
+        {
+            "$id": "94",
+            "id": "1b00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window",
+            "count": 0
+        },
+        {
+            "$id": "95",
+            "id": "8b237266-4015-e711-80fb-005056857ef3",
+            "title": "Packaging",
+            "count": 0
+        },
+        {
+            "$id": "96",
+            "id": "95ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Container",
+            "count": 0
+        },
+        {
+            "$id": "97",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "98",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "99",
+            "id": "e3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "100",
+            "id": "e9f01aa0-0532-ea11-8102-005056857ef3",
+            "title": "Home Care",
+            "count": 0
+        },
+        {
+            "$id": "101",
+            "id": "adffee91-14d8-e611-819b-06b69393ae39",
+            "title": "HVAC Underhood",
+            "count": 0
+        },
+        {
+            "$id": "102",
+            "id": "cbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Oil/Gas",
+            "count": 0
+        },
+        {
+            "$id": "103",
+            "id": "93ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid Delivery",
+            "count": 0
+        },
+        {
+            "$id": "104",
+            "id": "b7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lab Ware and Clinical Diagnostics",
+            "count": 0
+        },
+        {
+            "$id": "105",
+            "id": "d4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Manufacturing",
+            "count": 0
+        },
+        {
+            "$id": "106",
+            "id": "e7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory",
+            "count": 0
+        },
+        {
+            "$id": "107",
+            "id": "0000ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Tray",
+            "count": 0
+        },
+        {
+            "$id": "108",
+            "id": "37ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Semiconductor Materials",
+            "count": 0
+        },
+        {
+            "$id": "109",
+            "id": "38ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aerospace",
+            "count": 0
+        },
+        {
+            "$id": "110",
+            "id": "39ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "111",
+            "id": "3fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aircraft Seating",
+            "count": 0
+        },
+        {
+            "$id": "112",
+            "id": "40ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Airline Service",
+            "count": 0
+        },
+        {
+            "$id": "113",
+            "id": "47ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "ATM/Ticket Machine",
+            "count": 0
+        },
+        {
+            "$id": "114",
+            "id": "48ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Audio",
+            "count": 0
+        },
+        {
+            "$id": "115",
+            "id": "4dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery Pack",
+            "count": 0
+        },
+        {
+            "$id": "116",
+            "id": "53ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Accessory",
+            "count": 0
+        },
+        {
+            "$id": "117",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "118",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "119",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "120",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "121",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "122",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "123",
+            "id": "86ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "124",
+            "id": "9affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Freezer",
+            "count": 0
+        },
+        {
+            "$id": "125",
+            "id": "9dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fuel Cell",
+            "count": 0
+        },
+        {
+            "$id": "126",
+            "id": "9fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Furnace/Heater",
+            "count": 0
+        },
+        {
+            "$id": "127",
+            "id": "a7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Head Protection",
+            "count": 0
+        },
+        {
+            "$id": "128",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "129",
+            "id": "b6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Inverter",
+            "count": 0
+        },
+        {
+            "$id": "130",
+            "id": "c0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "131",
+            "id": "c3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Microwave Oven",
+            "count": 0
+        },
+        {
+            "$id": "132",
+            "id": "cdffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Overhead",
+            "count": 0
+        },
+        {
+            "$id": "133",
+            "id": "ceffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pallet",
+            "count": 0
+        },
+        {
+            "$id": "134",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "135",
+            "id": "d6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photo/Video Camera",
+            "count": 0
+        },
+        {
+            "$id": "136",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        },
+        {
+            "$id": "137",
+            "id": "daffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Boat",
+            "count": 0
+        },
+        {
+            "$id": "138",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "139",
+            "id": "e0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "count": 0
+        },
+        {
+            "$id": "140",
+            "id": "e4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Refrigerator",
+            "count": 0
+        },
+        {
+            "$id": "141",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "142",
+            "id": "efffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductor",
+            "count": 0
+        },
+        {
+            "$id": "143",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "144",
+            "id": "0e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vending Machine",
+            "count": 0
+        },
+        {
+            "$id": "145",
+            "id": "1000ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Washing Machine",
+            "count": 0
+        },
+        {
+            "$id": "146",
+            "id": "1200ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Treatment/Filtration",
+            "count": 0
+        },
+        {
+            "$id": "147",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "148",
+            "id": "7cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "149",
+            "id": "b1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "150",
+            "id": "0900ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Tray",
+            "count": 0
+        },
+        {
+            "$id": "151",
+            "id": "96ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Processor",
+            "count": 0
+        },
+        {
+            "$id": "152",
+            "id": "0a00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Trim",
+            "count": 0
+        },
+        {
+            "$id": "153",
+            "id": "1100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Watch/Jewelry",
+            "count": 0
+        },
+        {
+            "$id": "154",
+            "id": "3affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Conditioning",
+            "count": 0
+        },
+        {
+            "$id": "155",
+            "id": "3bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Filtration",
+            "count": 0
+        },
+        {
+            "$id": "156",
+            "id": "49ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Aftermarket",
+            "count": 0
+        },
+        {
+            "$id": "157",
+            "id": "4fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Bicycle",
+            "count": 0
+        },
+        {
+            "$id": "158",
+            "id": "5dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "City",
+            "count": 0
+        },
+        {
+            "$id": "159",
+            "id": "7effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronics",
+            "count": 0
+        },
+        {
+            "$id": "160",
+            "id": "97ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Transportation",
+            "count": 0
+        },
+        {
+            "$id": "161",
+            "id": "abffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Hot Water System",
+            "count": 0
+        },
+        {
+            "$id": "162",
+            "id": "b9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Laundry Dryer",
+            "count": 0
+        },
+        {
+            "$id": "163",
+            "id": "baffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lawn/Garden",
+            "count": 0
+        },
+        {
+            "$id": "164",
+            "id": "c1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Gas",
+            "count": 0
+        },
+        {
+            "$id": "165",
+            "id": "c6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Motorcycle",
+            "count": 0
+        },
+        {
+            "$id": "166",
+            "id": "ccffee91-14d8-e611-819b-06b69393ae39",
+            "title": "OLED",
+            "count": 0
+        },
+        {
+            "$id": "167",
+            "id": "e6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Renal and Blood Handling",
+            "count": 0
+        },
+        {
+            "$id": "168",
+            "id": "0400ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Traction Motor",
+            "count": 0
+        },
+        {
+            "$id": "169",
+            "id": "0d00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vacuum Cleaner",
+            "count": 0
+        },
+        {
+            "$id": "170",
+            "id": "1400ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wearables",
+            "count": 0
+        },
+        {
+            "$id": "171",
+            "id": "65ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Storage/Cookware",
+            "count": 0
+        },
+        {
+            "$id": "172",
+            "id": "f1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Servingware",
+            "count": 0
+        },
+        {
+            "$id": "173",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "174",
+            "id": "280b1a21-f992-e711-80fc-005056857ef3",
+            "title": "Under the hood",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "175",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "176",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "177",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "178",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "179",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "180",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "181",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "182",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "183",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "184",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "185",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "186",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Decoration",
+            "id": "16ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "187",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare Packaging",
+            "id": "6011329c-67f2-e811-80ff-005056857ef3"
+        },
+        {
+            "$id": "188",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food & Beverage",
+            "id": "0fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "189",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "190",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Consumer Packaging",
+            "id": "1affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "191",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "192",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "193",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid and Blood Handling",
+            "id": "2effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "194",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductors",
+            "id": "06ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "195",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "196",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "id": "2fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "197",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense",
+            "id": "03ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "198",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Outdoor, Lawn and Landscape",
+            "id": "05ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "199",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Management",
+            "id": "07ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "200",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electric Vehicle",
+            "id": "09ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "201",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "202",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "203",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory and Sleep Therapy",
+            "id": "1effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "204",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "205",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Bus",
+            "id": "24ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "206",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Recreation",
+            "id": "27ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "207",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "id": "34ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "208",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Exteriors",
+            "id": "35ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

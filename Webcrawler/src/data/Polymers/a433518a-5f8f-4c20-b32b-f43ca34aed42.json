@@ -1,0 +1,1139 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "984c4f50-dd15-49f9-93ed-eeb4d666f138",
+            "title": "8102",
+            "summary": "Density 902 kg/m3, MFR(2.16 kg) 1.0 g/10 min",
+            "description": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP) 8102 is an ethylene-octene copolymers produced via solution polymerization using metallocene catalyst. It performs well in high performance LLDPE blown film applications with an excellent combination of toughness, hot tack, sealing and optical properties.",
+            "applications": [
+                "General purpose film",
+                "Lamination film"
+            ],
+            "processingTechniques": [
+                "Blown film"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8102-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8102-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a1f66410-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8102-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8102-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5e6281ec-d823-4ebe-8f5a-3c7af82c00c3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8102-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8102-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "626686dd-60c4-4216-b6ee-6ffd061d4d2f"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8102-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8102-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c40b8b96-7f48-422f-932e-9e8ca7b86f5e"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "8102\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/8102-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "8d446574-a9ad-4f19-8e97-b33c06e41f7a"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "PD_8102_00900__20170714",
+                    "url": "/en/products/documents/pd_8102_00900__20170714/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "20563ec5-60a0-4950-b477-bb9e02aa1a5e"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8102-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8102-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "dcc998cd-9ccd-45fa-a396-c8072f1b27a7"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP)_8102_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cohere-metallocene-polyolefin-plastomer-pop-_8102_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "00cb102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "1195a995-169d-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "1295a995-169d-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "5",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "1395a995-169d-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "6",
+                    "contact": "939f3ead-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "1495a995-169d-eb11-8109-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8102"
+        },
+        {
+            "$id": "7",
+            "id": "9909e49a-48eb-40cf-88f6-9e27c395083e",
+            "title": "8102L",
+            "summary": "Density 902 kg/m3, MFR(2.16 kg) 1.0 g/10 min",
+            "description": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP) 8102L is an ethylene-octene copolymers produced via solution polymerization using metallocene catalyst. It performs well in high performance LLDPE blown film applications with an excellent combination of toughness, hot tack, sealing and optical properties. It contains slip and antiblock additives.",
+            "applications": [
+                "General purpose film",
+                "Lamination film"
+            ],
+            "processingTechniques": [
+                "Blown film"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8102L-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8102l-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a4f66410-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8102L-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8102l-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "67705e23-37a4-4e20-a541-47d430a9159d"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "8102L\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/8102l-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "346b2a78-28f2-4b3f-9df3-9914e3bc4841"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8102L-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8102l-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8c2ab69c-2a43-4af5-9537-9ddb5d39a8f9"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8102L-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8102l-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "844518be-177f-43ca-976d-ab7ce61e93c0"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "PD_8102L_00900__20170714",
+                    "url": "/en/products/documents/pd_8102l_00900__20170714/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d0fecadb-bc54-4d08-85a1-e225999a3b2d"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8102L-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8102l-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6f36e0fb-7b0b-49b4-a939-f9ad0390a130"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP)_8102L_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cohere-metallocene-polyolefin-plastomer-pop-_8102l_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c4c3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [
+                {
+                    "$id": "8",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "56be11de-111d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "9",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "57be11de-111d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "10",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "58be11de-111d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "11",
+                    "contact": "939f3ead-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "59be11de-111d-eb11-8106-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8102l"
+        },
+        {
+            "$id": "12",
+            "id": "269e18da-c42b-e711-80fb-005056857ef3",
+            "title": "8170D",
+            "summary": "Density 868 kg/m3, MFR(2.16 kg) 1.0 g/10 min",
+            "description": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP) 8170D is an ethylene-octene copolymer produced via solution polymerization using metallocene catalyst. It can be used in monolayer or coextruded film to enhance heat-sealing properties, clarity, toughness, flexibility and elasticity. It has strict gel control to meet high quality film requirements.",
+            "applications": [
+                "Blown film"
+            ],
+            "processingTechniques": [
+                "Blown film"
+            ],
+            "documents": [
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8170D-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8170d-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1257ce52-fb07-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8170D-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8170d-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c672289d-fb07-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8170D-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8170d-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "285f4ef4-fb07-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8170D-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8170d-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3703520b-fc07-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8170D-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8170d-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4733ad16-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP)_8170D_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cohere-metallocene-polyolefin-plastomer-pop-_8170d_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "ce0a95df-c52b-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8170d"
+        },
+        {
+            "$id": "13",
+            "id": "7dcae776-cf2b-e711-80fb-005056857ef3",
+            "title": "8185",
+            "summary": "Density 885 kg/m3, MFR(2.16 kg) 1.0 g/10 min",
+            "description": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP) 8185 is an ethylene-octene copolymer produced via solution polymerization using metallocene catalyst. It performs well in high performance film applications with outstanding gel control, and an excellent combination of toughness, hot tack, sealing and optical properties.",
+            "applications": [
+                "Blown film"
+            ],
+            "processingTechniques": [
+                "Blown film"
+            ],
+            "documents": [
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8185-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8185-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9c8846d7-f907-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8185-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8185-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "21164d51-fa07-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8185-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8185-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "85a6257c-fa07-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8185-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8185-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "950413c7-fa07-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8185-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8185-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4a33ad16-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP)_8185_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cohere-metallocene-polyolefin-plastomer-pop-_8185_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a75095b8-d02b-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8185"
+        },
+        {
+            "$id": "14",
+            "id": "c29d56f9-d12b-e711-80fb-005056857ef3",
+            "title": "8380",
+            "summary": "Density 880 kg/m3, MFR(2.16 kg) 1.0 g/10 min",
+            "description": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP) 8380 is an ethylene-octene copolymer produced via solution polymerization using metallocene catalyst. It can be used in monolayer or coextruded film to enhance heat-sealing properties, clarity, toughness, flexibility and elasticity. It has strict gel control to meet high quality film requirements.",
+            "applications": [
+                "Stretch film",
+                "Cast film"
+            ],
+            "processingTechniques": [
+                "Cast film"
+            ],
+            "documents": [
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8380-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8380-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "026eb039-f407-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC\u00ae COHERE\u2122-8380-SDSR-Global-DE-2018-01-26",
+                    "url": "/en/products/documents/sabic-cohere-8380-sdsr-global-de-2018-01-26/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "1f7e5993-f507-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8380-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8380-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0539a540-f707-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8380-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8380-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e1a07ade-f707-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8380-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8380-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0c3143ff-f707-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8380-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8380-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4d33ad16-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP)_8380_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cohere-metallocene-polyolefin-plastomer-pop-_8380_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "12b8fc3f-d42b-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8380"
+        },
+        {
+            "$id": "15",
+            "id": "75381856-c920-410a-8027-854ef68ea1ba",
+            "title": "8402",
+            "summary": "Density 902 kg/m3, MFR(2.16 kg) 3.5 g/10 min",
+            "description": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP) 8402 grade is an ethylene-octene copolymer produced via solution polymerization using metallocene catalyst. It performs well high performance LLDPE cast film and deliver outstanding toughness optics. SABIC\u00ae COHERE\u2122 8402 provides excellent performance as cling layer in stretch wrap film.",
+            "applications": [
+                "Stretch film",
+                "General purpose film",
+                "Lamination film"
+            ],
+            "processingTechniques": [
+                "Cast film"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8402-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8402-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5033ad16-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "8402\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/8402-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "50b95a48-8a75-41c6-a660-0269ae798e7d"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8402-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8402-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "cb47441c-7898-4128-b46e-14d85d52e6eb"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8402-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8402-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "edbfa35f-d281-4794-b8f8-18d22ec68f40"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8402-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8402-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e4cf1694-c30d-48a1-91c4-40df9bbed00c"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8402-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8402-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "08032e39-2402-440f-89a6-f1053629cdcf"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP)_8402_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cohere-metallocene-polyolefin-plastomer-pop-_8402_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "bdc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [
+                {
+                    "$id": "16",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "0fe8f227-111d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "17",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "10e8f227-111d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "18",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "11e8f227-111d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "19",
+                    "contact": "939f3ead-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "12e8f227-111d-eb11-8106-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8402"
+        },
+        {
+            "$id": "20",
+            "id": "6dbe376b-d62b-e711-80fb-005056857ef3",
+            "title": "8570D",
+            "summary": "Density 868 kg/m3, MFR(2.16 kg) 5.0 g/10 min",
+            "description": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP) 8570D is an ethylene-octene copolymer produced via solution polymerization using metallocene catalyst. It can be used in monolayer or coextruded film to enhance heat-sealing properties, clarity, toughness, flexibility and elasticity. It has strict gel control to meet high quality film requirements.",
+            "applications": [
+                "Packaging",
+                "Stretch film",
+                "Cast film"
+            ],
+            "processingTechniques": [
+                "Cast film"
+            ],
+            "documents": [
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8570D-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8570d-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "66ed91ab-09e0-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SDSR_DE_00900__20170810",
+                    "url": "/en/products/documents/sdsr_de_00900__20170810/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "0c82f706-0be0-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8570D-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8570d-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "569f867b-9b11-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8570D-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8570d-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d5ed79fc-a6a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8570D-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8570d-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4fadfd1c-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-8570D-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-8570d-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3928096d-2eaf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP)_8570D_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cohere-metallocene-polyolefin-plastomer-pop-_8570d_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "89825d52-d72b-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8570d"
+        },
+        {
+            "$id": "21",
+            "id": "7ec37398-bc9e-e811-80fe-005056857ef3",
+            "title": "S100",
+            "summary": "Density 900 kg/m3, MFR(2.16 kg) 1.0 g/10 min",
+            "description": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP) S100 is an ethylene-octene copolymers produced via solution polymerization using advanced metallocene catalyst. It performs well in high performance flexible packaging applications with excellent toughness, hot tack, hot seal, optical properties and enhanced packaging integrity to reduce loss/waste.",
+            "applications": [
+                "Blown film"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "S100 MSDS",
+                    "url": "/en/products/documents/s100-msds/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3809cc61-1404-e911-8100-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "S100 FCD",
+                    "url": "/en/products/documents/s100-fcd/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0bb13999-1404-e911-8100-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S100-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s100-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b7ee5c6d-25a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S100-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s100-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "300c8503-a7a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S100-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s100-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "52adfd1c-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S100-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s100-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3c28096d-2eaf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S100-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s100-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d1b7b465-3ae5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP)_S100_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cohere-metallocene-polyolefin-plastomer-pop-_s100_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "8e1549b4-c89e-e811-80fe-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s100"
+        },
+        {
+            "$id": "22",
+            "id": "fd566deb-18e6-e811-80ff-005056857ef3",
+            "title": "S100L",
+            "summary": "Density 903 kg/m3, MFR(2.16 kg) 1.0 g/10 min",
+            "description": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP) S100L is an ethylene-octene copolymers produced via solution polymerization using advanced metallocene catalyst. It performs well in high performance flexible packaging applications with excellent toughness, hot tack, hot seal, optical properties and enhanced packaging integrity to reduce loss/waste. It contains slip and antiblock additives.",
+            "applications": [
+                "Blown film"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "S100L MSDS",
+                    "url": "/en/products/documents/s100l-msds/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "38bc1eca-1404-e911-8100-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "S100L FCD",
+                    "url": "/en/products/documents/s100l-fcd/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6851a8f1-1404-e911-8100-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S100L-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s100l-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "baee5c6d-25a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S100L-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s100l-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "330c8503-a7a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S100L-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s100l-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "55adfd1c-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S100L-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s100l-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3f28096d-2eaf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S100L-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s100l-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d4b7b465-3ae5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP)_S100L_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cohere-metallocene-polyolefin-plastomer-pop-_s100l_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b122d906-3703-e911-8100-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s100l"
+        },
+        {
+            "$id": "23",
+            "id": "22900c44-a156-e911-8101-005056857ef3",
+            "title": "S400",
+            "summary": "Density: 0.900 g/cm3; Melt Index: 3.5 g/10min",
+            "description": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP) S400 is an ethylene-octene copolymer produced via solution polymerization using metallocene catalyst. It performs well in high performance flexible packaging applications with excellent toughness, hot tack, hot seal, optical properties and shows enhanced cling force in protection film application.",
+            "applications": [
+                "Cast film"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SABIC\u00ae COHERE\u2122-S400-FCDL-Global-en-2018-11-19",
+                    "url": "/en/products/documents/sabic-sabic-cohere-s400-fcdl-global-en-2018-11-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b0f528cc-4857-e911-8101-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S400-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s400-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "14748af5-11a4-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S400-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s400-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "360c8503-a7a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S400-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s400-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "58adfd1c-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S400-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s400-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4228096d-2eaf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-COHERE\u2122 Metallocene Polyolefin Plastomer (POP)-S400-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-cohere-metallocene-polyolefin-plastomer-pop-s400-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d7b7b465-3ae5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "COHERE\u2122 Metallocene Polyolefin Plastomer (POP)_S400_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cohere-metallocene-polyolefin-plastomer-pop-_s400_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1799f5eb-a456-e911-8101-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s400"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "24",
+            "id": "ab5bc66b-f995-4184-9565-9e6eda2ed478",
+            "title": "Blown film",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "9f6aca12-29d3-4e15-8f1e-5d7b31c225de",
+            "title": "Cast film",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "26",
+            "id": "68cc0888-d309-4c0e-893e-b42f06af696f",
+            "title": "General purpose film",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "3a374905-5725-4cbe-9094-b4a64851ef26",
+            "title": "Lamination film",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "3e5994d3-cfaf-4ba8-963b-4744981ceb1c",
+            "title": "Blown film",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "3f8c116d-21f3-4e66-8143-166dc7608613",
+            "title": "Stretch film",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "141cf5b9-d21c-4d2f-af70-ee3a83a432b7",
+            "title": "Cast film",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "8b237266-4015-e711-80fb-005056857ef3",
+            "title": "Packaging",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "32",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "36",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Flexible Packaging",
+            "id": "348b58e7-45e9-e611-80fb-005056857ef3"
+        }
+    ]
+}

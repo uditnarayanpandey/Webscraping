@@ -1,0 +1,213 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "cba2074e-9a27-e911-8100-005056857ef3",
+            "title": "N220",
+            "summary": "Carbon Black",
+            "description": "SABIC\u00ae N220 is a hard particle furnace grade reinforcing carbon black used for a range of applications in rubber industry",
+            "applications": [
+                "Tire"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Carbon Black_N220_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-carbon-black_n220_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "9b10d32f-9c27-e911-8100-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": [
+                "Tire"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "n220"
+        },
+        {
+            "$id": "3",
+            "id": "fcec6f78-211a-e911-8100-005056857ef3",
+            "title": "N326",
+            "summary": "General Propose Carbon Black, Good Resistance to cut and tear can be used for variety of applications.",
+            "description": "SABIC\u2122 N326 is a furnace grade reinforcing carbon black for improved performance of rubber compound",
+            "applications": [
+                "Tire"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Carbon Black_N326_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-carbon-black_n326_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "947cde57-9d27-e911-8100-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": [
+                "Tire"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "n326"
+        },
+        {
+            "$id": "4",
+            "id": "7691bf39-e01e-e911-8100-005056857ef3",
+            "title": "N330",
+            "summary": "General Propose Carbon Black",
+            "description": "SABIC\u00ae N330 is a hard particle furnace grade reinforcing carbon black used for a range of applications in rubber industry",
+            "applications": [
+                "Tire"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Carbon Black_N330_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-carbon-black_n330_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "36b8ef62-e61e-e911-8100-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": [
+                "Tire"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "n330"
+        },
+        {
+            "$id": "5",
+            "id": "25427d94-9d27-e911-8100-005056857ef3",
+            "title": "N339",
+            "summary": "General Propose Carbon Black, Good Resistance to cut and tear can be used for variety of applications.",
+            "description": "SABIC\u00ae N339 is a hard particle furnace grade reinforcing carbon black used for a range of applications in rubber industry",
+            "applications": [
+                "Tire"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Carbon Black_N339_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-carbon-black_n339_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "2eb0b1e3-9d27-e911-8100-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": [
+                "Tire"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "n339"
+        },
+        {
+            "$id": "6",
+            "id": "8b2da204-9e27-e911-8100-005056857ef3",
+            "title": "N375",
+            "summary": "General Propose Carbon Black, Good Resistance to cut and tear can be used for variety of applications.",
+            "description": "SABIC\u00ae N375 is a hard particle furnace grade reinforcing carbon black used for a range of applications in rubber industry",
+            "applications": [
+                "Tire"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Carbon Black_N375_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-carbon-black_n375_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "e2c37c61-9e27-e911-8100-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": [
+                "Tire"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "n375"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "7",
+            "id": "d8162da8-08e9-e611-80fb-005056857ef3",
+            "title": "Tire",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "8",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "12",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Tire",
+            "id": "250302d5-81eb-e611-80fb-005056857ef3"
+        }
+    ]
+}

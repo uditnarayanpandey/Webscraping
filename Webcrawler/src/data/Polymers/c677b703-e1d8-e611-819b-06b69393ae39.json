@@ -1,0 +1,4256 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "5c30aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "176",
+            "summary": "Unreinforced, neat PBT resin for fibers. Natural Color Only, Not intended for injection molding.",
+            "description": "Unreinforced, neat PBT resin for fibers. Natural Color Only, Not intended for injection molding.",
+            "applications": [
+                "Circuit Protection",
+                "Heavy Vehicles",
+                "Pharmaceutical Manufacturing",
+                "Underhood",
+                "Water Treatment/Filtration"
+            ],
+            "processingTechniques": [
+                "Compounding Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_176_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_176_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "02b0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_176_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_176_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "6bc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Water Management",
+                "Heavy Truck",
+                "Specialty Vehicles",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "176"
+        },
+        {
+            "$id": "3",
+            "id": "8230aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "215HPR",
+            "summary": "Unreinforced PBT with mold release. FDA food contact compliant in limited colors. Effective March 2008 this grade will no longer be supported with biocompatibility data. Alternative grade VALOX HX215HP.",
+            "description": "Unreinforced PBT with mold release. FDA food contact compliant in limited colors. Effective March 2008 this grade will no longer be supported with biocompatibility data. Alternative grade VALOX HX215HP.",
+            "applications": [
+                "Commercial Storage/Cookware",
+                "Food Container",
+                "Food Processor",
+                "Food Transportation",
+                "Medical Facility Infrastructure"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_215HPR_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_215hpr_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "79c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Food & Beverage",
+                "Home Appliance",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "215hpr"
+        },
+        {
+            "$id": "4",
+            "id": "d230aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "3007",
+            "summary": "Unreinforced PBT. For flexible hinges.",
+            "description": "VALOX 3007 is an unreinforced, impact modified, non flame retardant PBT injection moulding resin. Applications: flexible hinge connectors.",
+            "applications": [
+                "Electronic Components",
+                "Security/Detection"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_3007_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_3007_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "97c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Construction",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "3007"
+        },
+        {
+            "$id": "5",
+            "id": "09d16b02-93bb-ea11-8103-c81318e981df",
+            "title": "308",
+            "summary": "PBT for compounding/fibers only. Not intended for injection molding. FDA compliant. Melt viscosity:  250C at 21.6 kgf is 1575-1950 poise. Available in Natural color (1001) only.",
+            "description": "PBT for compounding/fibers only. Not intended for injection molding. FDA compliant.Melt viscosity:  250C at 21.6 kgf is 1575-1950 poise. Available in Natural color (1001) only.",
+            "applications": [
+                "Electrical Components & Infrastructure"
+            ],
+            "processingTechniques": [
+                "Compounding Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_308_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_308_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "7544fbff-93bb-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "308"
+        },
+        {
+            "$id": "6",
+            "id": "dc30aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "310",
+            "summary": "Unreinforced, general purpose.  Typical viscosity 5000-7000.",
+            "description": "Unreinforced, general purpose.  Typical viscosity 5000-7000.",
+            "applications": [
+                "Audio",
+                "Auto Aftermarket",
+                "Circuit Protection",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "Food Container",
+                "Freezer",
+                "Gas/Electric Oven",
+                "Hygiene/Personal Care",
+                "Lawn/Garden",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Plumbing",
+                "Recreational Vehicle",
+                "Refrigerator",
+                "Semiconductor",
+                "Swimming Pool/Spa",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_310_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_310_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "75b0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_310_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_310_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f1b0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Food & Beverage",
+                "Consumer Packaging",
+                "Lighting",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Recreational Vehicle",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "310"
+        },
+        {
+            "$id": "7",
+            "id": "e230aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "311",
+            "summary": "Unreinforced, improved resistance to UV. Medium viscosity.",
+            "description": "Unreinforced, improved resistance to UV. Medium viscosity.",
+            "applications": [
+                "Cooking Range",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Horizontal Body Panel",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_311_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_311_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "7db0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "311"
+        },
+        {
+            "$id": "8",
+            "id": "e330aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "312",
+            "summary": "Unreinforced, For compounding only (not for injection molding),. Medium viscosity.",
+            "description": "Unreinforced, For compounding only (not for injection molding),  Medium viscosity.",
+            "applications": null,
+            "processingTechniques": [
+                "Compounding Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_312_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_312_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "ceb0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_312_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_312_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "9cc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "312"
+        },
+        {
+            "$id": "9",
+            "id": "e530aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "315",
+            "summary": "Unreinforced, For extrusion/compounding only (not for injection molding).  High viscosity.  Melt viscosity between 7500 and 9500 poise.",
+            "description": "Unreinforced, For extrusion/compounding only (not for injection molding).  High viscosity.   Melt viscosity between 7500 and 9500 poise.",
+            "applications": [
+                "Air Filtration",
+                "Commercial Storage/Cookware",
+                "Electronic Components",
+                "Food Processor",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Personal Care",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Servingware",
+                "Vending Machine",
+                "Water Treatment/Filtration",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Compounding Extrusion",
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_315_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_315_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "d1b0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_315_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_315_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "fdb0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_315_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_315_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "9dc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Water Management",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "315"
+        },
+        {
+            "$id": "10",
+            "id": "e830aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "325",
+            "summary": "General purpose, unreinforced, improved processing. Applications like sprinklers and nozzles, pumps, door handle, tank covers, pens, pencils etc.",
+            "description": "General purpose, unreinforced, improved processing. Applications like sprinklers and nozzles, pumps, door handle, tank covers, pens, pencils etc.",
+            "applications": [
+                "Air Conditioning",
+                "Amusement Machine",
+                "ATM/Ticket Machine",
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Circuit Protection",
+                "Cluster",
+                "Console",
+                "Cooking Range",
+                "Data Transfer",
+                "Dishwasher",
+                "Document Handling",
+                "Door Handle",
+                "Electrical",
+                "Electronic Components",
+                "Electronic Material Handling",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Exterior Mirror",
+                "Fluid Delivery",
+                "Fog Lamp",
+                "Food Transportation",
+                "Forward Lighting",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "Hygiene/Personal Care",
+                "Ignition System",
+                "Laundry Dryer",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Device",
+                "Meter Gas",
+                "Meter Water",
+                "Monitoring and Imaging",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Power Manangement",
+                "Rear/Signal Lighting",
+                "Refrigerator",
+                "Respiratory",
+                "Seating/Chair",
+                "Small Appliance",
+                "Surgical Devices",
+                "Swimming Pool/Spa",
+                "Trim",
+                "Watch/Jewelry",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Irrigation",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_325_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_325_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "83b0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_325_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_325_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "d7b0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_325_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_325_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "03b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Surgical",
+                "Home Decoration",
+                "Consumer Packaging",
+                "Personal Accessory",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Patient Testing",
+                "Automotive Under the Hood",
+                "Fluid and Blood Handling",
+                "Commercial Appliance",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "325"
+        },
+        {
+            "$id": "11",
+            "id": "eb30aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "325F",
+            "summary": "General purpose, unreinforced PBT, contains internal mold release. Compliant with food contact regulations.",
+            "description": "VALOX 325F is compliant with food contact regulations acc. to EC Reg. No. 10/2011. VALOX 325F is a general purpose, unreinforced PBT injection\nmoulding resin which contains internal mold release. Available in natural colour only (1001).",
+            "applications": [
+                "Auto Aftermarket",
+                "Carpet/Mattress/Upholstery",
+                "Commercial Storage/Cookware",
+                "Cooking Range",
+                "Electronic Components",
+                "Food Container",
+                "Food Processor",
+                "Heavy Vehicles",
+                "Hygiene/Personal Care",
+                "Laundry Dryer",
+                "Servingware",
+                "Small Appliance",
+                "Water Treatment/Filtration",
+                "Irrigation",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_325F_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_325f_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "86b0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Home Decoration",
+                "Consumer Packaging",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "325f"
+        },
+        {
+            "$id": "12",
+            "id": "ec30aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "325FC",
+            "summary": "VALOX 325FC is compliant with food contact regulations. VALOX 325FC is a general purpose, unreinforced PBT injection moulding resin which contains internal mold release. This new 325FC grade is a good processable resin that exhibits faster and more e",
+            "description": "Commercial, VALOX 325FC is compliant with food contact regulations. VALOX 325FC is a general purpose, unreinforced PBT injection moulding resin which contains internal mold release. This new 325FC grade is a good processable resin that exhibits faster and more economical cycle times.",
+            "applications": [
+                "Auto Aftermarket",
+                "Coffee Maker/Espresso Machine",
+                "Dishwasher",
+                "EV Infrastructure",
+                "Food Container",
+                "Hygiene/Personal Care",
+                "Water Treatment/Filtration",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_325FC_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_325fc_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "89b0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_325FC_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_325fc_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "dab0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Food & Beverage",
+                "Consumer Packaging",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "325fc"
+        },
+        {
+            "$id": "13",
+            "id": "f130aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "334",
+            "summary": "VALOX 334 is a PBT resin with improved flow properties. EC Reg. No. 10/2011 food contact compliant. Available in natural (1001) color only.",
+            "description": "VALOX 334 is compliant with food contact regulations acc. to EC Reg. No. 10/2011. VALOX 334 is a general purpose, unreinforced PBT injection\nmoulding resin with improved flow properties. This product is available in natural color only (1001).",
+            "applications": [
+                "Water Treatment/Filtration"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_334_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_334_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "0fb1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Water Management"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "334"
+        },
+        {
+            "$id": "14",
+            "id": "f230aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "337",
+            "summary": "Low temperature impact PBT.  Automotive applications:  underhood power distribution boxes and covers.",
+            "description": "Low temperature impact PBT.  Automotive applications:  underhood power distribution boxes and covers.",
+            "applications": [
+                "Auto Electrical",
+                "Circuit Protection",
+                "LED Lighting",
+                "Swimming Pool/Spa"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_337_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_337_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "12b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "337"
+        },
+        {
+            "$id": "15",
+            "id": "1631aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "4012G",
+            "summary": "10% glass fiber reinforced PBT with excellent mechanical properties. Applications: connectors.",
+            "description": "VALOX 4012G is a 10% glass fiber reinforced PBT injection molding resin with excellent mechanical properties. Applications: connectors. This grade is a 4012 with improved cycle time and ductility.",
+            "applications": [
+                "Electrical",
+                "Electronic Components",
+                "Laundry Dryer",
+                "Non-LED Lighting",
+                "Sensor",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_4012G_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_4012g_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "04b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "4012g"
+        },
+        {
+            "$id": "16",
+            "id": "1731aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "4022",
+            "summary": "20% GR. Improved mechanical performance versus VALOX 412. For spotlights, appliance housings and handles.",
+            "description": "VALOX 4022 is a 20% high strength glass fibre reinforced PBT injection moulding resin, with improved mechanical properties. Applications : Spotlights, appliance housings and handles.",
+            "applications": [
+                "Electronic Components",
+                "EV Infrastructure",
+                "Industrial Material Handling",
+                "Non-LED Lighting",
+                "Water Treatment/Filtration",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_4022_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_4022_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "bab0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "4022"
+        },
+        {
+            "$id": "17",
+            "id": "1931aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "4031",
+            "summary": "30% GR. Improved mechanical performance versus VALOX 420. For handles, spotlights, electric motors, etc.",
+            "description": "VALOX 4031 is a 30% high strength glass fibre reinforced PBT injection moulding resin with excellent strength, stiffness and heat resistance. Applications: appliance handles, spotlights, electric motors.",
+            "applications": [
+                "Auto Aftermarket",
+                "Circuit Protection",
+                "Electronic Components",
+                "Enclosures",
+                "EV Infrastructure",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Meter Gas",
+                "Non-LED Lighting",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_4031_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_4031_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "07b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_4031_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_4031_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "a9c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "4031"
+        },
+        {
+            "$id": "18",
+            "id": "2131aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "420",
+            "summary": "30% GR, excellent strength, stiffness and dimensional stability. High heat resistance. Appliance handles, spotlights, electric motors, connectors.",
+            "description": "30% GR, excellent strength, stiffness and dimensional stability. High heat resistance. Appliance handles, spotlights, electric motors, connectors.",
+            "applications": [
+                "Air Conditioning",
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Bumper",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Defense Vehicles",
+                "Dishwasher",
+                "Displays",
+                "Document Handling",
+                "Doors Hardware/Trim",
+                "Electrical",
+                "Electronic Components",
+                "Electronic Material",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV/HEV Motor",
+                "Exercise Equipment",
+                "Fixture Bath/Shower",
+                "Fog Lamp",
+                "Forward Lighting",
+                "Fuel Handling",
+                "Heavy Vehicles",
+                "Ignition System",
+                "Laundry Dryer",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Gas",
+                "Meter Water",
+                "Modular Panel",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Oil/Gas",
+                "Personal Care",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Plumbing",
+                "Power Manangement",
+                "Pump",
+                "Recreational Vehicle",
+                "Refrigerator",
+                "Seating/Chair",
+                "Security/Detection",
+                "Semiconductor",
+                "Sensor",
+                "Small Appliance",
+                "Steering Component",
+                "Storage/Table",
+                "Surgical Devices",
+                "Swimming Pool/Spa",
+                "Tray",
+                "Vacuum Cleaner",
+                "Water Treatment/Filtration",
+                "Weapon",
+                "Weaving Machine",
+                "Wiper Component",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Industry Brochure",
+                    "title": "Rethinking your Heat Sink Materials",
+                    "url": "/en/products/documents/rethinking-your-heat-sink-materials/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d8dbc000-9616-eb11-8106-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_420_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_420_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "45b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_420_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_420_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "48b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Fossil",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Surgical",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Textile",
+                "Lighting",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Automotive Under the Hood",
+                "Electronic Material",
+                "Commercial Appliance",
+                "Recreational Vehicle",
+                "Automotive Lighting",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "420"
+        },
+        {
+            "$id": "19",
+            "id": "2431aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "420HP",
+            "summary": "30% Glass filled PBT resin, FDA Food Contact compliant in limited colors. Effective March 2008 this grade will no longer be supported with biocompatibility information. Alternative grade VALOX HX420HP.",
+            "description": "30% Glass filled PBT resin, FDA Food Contact compliant in limited colors. Effective March 2008 this grade will no longer be supported with biocompatibility information. Alternative grade VALOX HX420HP.",
+            "applications": [
+                "Commercial Storage/Cookware",
+                "Cooking Range",
+                "FPD Handling",
+                "Gas/Electric Oven",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Refrigerator",
+                "Respiratory",
+                "Servingware",
+                "Small Appliance"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_420HP_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_420hp_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "4bb1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Food & Beverage",
+                "Respiratory and Sleep Therapy",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Healthcare",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "420hp"
+        },
+        {
+            "$id": "20",
+            "id": "3131aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "430",
+            "summary": "33 % glass reinforced, impact modified.  Connectors, etc.",
+            "description": "33 % glass reinforced, impact modified. Connectors, etc.",
+            "applications": [
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Food Processor",
+                "Gas/Electric Oven",
+                "Medical Device",
+                "Power Manangement",
+                "Recreational Vehicle",
+                "Water Treatment/Filtration",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_430_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_430_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "cfb0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_430_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_430_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "54b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Automotive Under the Hood",
+                "Recreational Vehicle",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "430"
+        },
+        {
+            "$id": "21",
+            "id": "5231aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "508",
+            "summary": "30% GR PBT+PC.  Excellent mechanical and thermal performance. Non-flame retardant. Reduced warpage characteristics. Applications same as VALOX 420.",
+            "description": "30% GR PBT+PC.  Excellent mechanical and thermal performance. Non-flame retardant. Reduced warpage characteristics. Applications same as VALOX 420.",
+            "applications": [
+                "Aircraft Seating",
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Building Accessory",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "EV Infrastructure",
+                "Forward Lighting",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "Industrial Material Handling",
+                "Infotainment/Telematic",
+                "Interior",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Device",
+                "Meter Gas",
+                "Motorcycle",
+                "Personal Care",
+                "Photo/Video Camera",
+                "Washing Machine",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_508_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_508_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "f9b0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_508_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_508_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "4fb1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_508_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_508_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "82b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Industrial Material Handling",
+                "Automotive Under the Hood",
+                "Commercial Appliance",
+                "Automotive Lighting",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "508"
+        },
+        {
+            "$id": "22",
+            "id": "ab31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "732E",
+            "summary": "30% glass/mineral reinforced, excellent thermal performance, low shrinkage and warp.  Easy flow.",
+            "description": "30% glass/mineral reinforced, excellent thermal performance, low shrinkage and warp.  Easy flow.",
+            "applications": [
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Circuit Protection",
+                "Electronic Components",
+                "Enclosures",
+                "Exterior",
+                "Forward Lighting",
+                "Medical Device"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_732E_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_732e_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "d6b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Automotive Under the Hood",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "732e"
+        },
+        {
+            "$id": "23",
+            "id": "ac31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "735",
+            "summary": "40% glass/mineral, excellent thermal performance/low shrink. Motorized heating appliances, adaptor rings, oven grills, etc.  Black/natural only.",
+            "description": "40% glass/mineral, excellent thermal performance/low shrink. Motorized heating appliances, adaptor rings, oven grills, etc.  Black/natural only.",
+            "applications": [
+                "Electronic Components",
+                "Enclosures",
+                "Exterior Mirror",
+                "Medical Device",
+                "Pump",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_735_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_735_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "32b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_735_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_735_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "92b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_735_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_735_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "d9b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "735"
+        },
+        {
+            "$id": "24",
+            "id": "ae31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "745",
+            "summary": "30% mineral reinforced polyester improved toughness and low warpage. Typical applications are telephone ringer frames and card racks.",
+            "description": "30% mineral reinforced polyester improved toughness and low warpage. Typical applications are telephone ringer frames and card racks.",
+            "applications": [
+                "Displays",
+                "Electronic Components",
+                "Enclosures",
+                "Heavy Vehicles",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Security/Detection"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_745_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_745_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "38b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_745_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_745_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "d1c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "745"
+        },
+        {
+            "$id": "25",
+            "id": "be31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "8032U",
+            "summary": "PBT+PET, VALOX, Glass, Mold Release, UV-Stabilizer, Heat Stabilized,",
+            "description": "VALOX 8032U is a 30% glass fibre reinforced, UV stabilized PBT+PET blend with excellent surface finish. Applications: appliance housings, door handles, mirror brackets.",
+            "applications": [
+                "Auto Aftermarket",
+                "Door Handle",
+                "Exterior Mirror",
+                "Exterior Trim",
+                "Fog Lamp",
+                "Meter Gas",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Vertical Body Panel",
+                "Water Treatment/Filtration"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_8032U_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_8032u_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "e5b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Lighting",
+                "Personal Recreation",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8032u"
+        },
+        {
+            "$id": "26",
+            "id": "bf31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "8032UX",
+            "summary": "PBT+PET, Valox, Glass, Mold Release, UV-Stabilizer, Heat Stabilized,",
+            "description": "VALOX 8032UX is a 30% glass fibre reinforced, UV stabilized PBT+PET blend with excellent surface finish. This grade is VALOX 8032U with improved weathering resistance. Applications: appliance housings, door handles, mirror brackets.",
+            "applications": [
+                "Electronic Components",
+                "Exterior Mirror"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_8032UX_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_8032ux_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "d8c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8032ux"
+        },
+        {
+            "$id": "27",
+            "id": "c231aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "815",
+            "summary": "15% GR PBT+ PET, excellent surface finish. Typical applications are hot air gun housing assemblies, industrial glue guns, appliance housings and handles.",
+            "description": "15% GR PBT+ PET, excellent surface finish. Typical applications are hot air gun housing assemblies, industrial glue guns, appliance housings and handles.",
+            "applications": [
+                "Amusement Machine",
+                "Auto Electrical",
+                "Dishwasher",
+                "Electronic Components",
+                "Enclosures",
+                "Food Processor",
+                "Food Transportation",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "Meter Gas",
+                "Microwave Oven",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Rear/Signal Lighting",
+                "Refrigerator",
+                "Small Appliance",
+                "Washing Machine"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_815_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_815_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "a1b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_815_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_815_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "ebb1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_815_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_815_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "d9c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Automotive Under the Hood",
+                "Commercial Appliance",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "815"
+        },
+        {
+            "$id": "28",
+            "id": "c631aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "830",
+            "summary": "30% GR PBTP, excellent surface finish. Typical applications are hot air gun housing assemblies, industrial glue guns, appliance housings and handles.",
+            "description": "30% GR PBTP, excellent surface finish. Typical applications are hot air gun housing assemblies, industrial glue guns, appliance housings and handles.",
+            "applications": [
+                "Amusement Machine",
+                "Auto Electrical",
+                "Circuit Protection",
+                "Cluster",
+                "Dishwasher",
+                "Door",
+                "Electronic Components",
+                "Enclosures",
+                "Forward Lighting",
+                "Gas/Electric Oven",
+                "Glove Box",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Non-LED Lighting",
+                "Small Appliance",
+                "Toy",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_830_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_830_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "41b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_830_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_830_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "eeb1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_830_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_830_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "dac4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Construction",
+                "Sport/Leisure",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Automotive Under the Hood",
+                "Commercial Appliance",
+                "Automotive Lighting",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "830"
+        },
+        {
+            "$id": "29",
+            "id": "1535aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DR51",
+            "summary": "15% GR polyester, excellent mechanical, thermal and electrical performance. Non-flame retardant.  Spotlights, appliance housings, handles, connectors",
+            "description": "15% GR polyester, excellent mechanical, thermal and electrical performance. Non-flame retardant.  Spotlights, appliance housings, handles, connectors",
+            "applications": [
+                "Air Cabin Interiors",
+                "Audio",
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Building Accessory",
+                "Circuit Protection",
+                "Cluster",
+                "Coffee Maker/Espresso Machine",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electrical",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "EV/HEV Battery",
+                "Furnace/Heater",
+                "Gas/Electric Oven",
+                "Hot Water System",
+                "Industrial Material Handling",
+                "Infotainment/Telematic",
+                "Lawn/Garden",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Gas",
+                "Meter Water",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Pallet",
+                "Personal Computing",
+                "Plumbing",
+                "Recreational Vehicle",
+                "Security/Detection",
+                "Small Appliance",
+                "Surgical Devices",
+                "Swimming Pool/Spa",
+                "Washing Machine",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_DR51_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_dr51_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "71b4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_DR51_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_dr51_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a9b4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_DR51_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_dr51_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "bec5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Surgical",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Industrial Material Handling",
+                "Automotive Under the Hood",
+                "Recreational Vehicle",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dr51"
+        },
+        {
+            "$id": "30",
+            "id": "cc35aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "EF3512",
+            "summary": "Wear and fatique resistant, flame retardant PBT.",
+            "description": "Wear and fatique resistant, flame retardant PBT.",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_EF3512_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_ef3512_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f0b4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ef3512"
+        },
+        {
+            "$id": "31",
+            "id": "de35aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "EH7020",
+            "summary": "MINERAL FILLED, METALLIZABLE",
+            "description": "MINERAL FILLED, METALLIZABLE",
+            "applications": [
+                "Auto Aftermarket",
+                "Data Management",
+                "Fog Lamp",
+                "Forward Lighting",
+                "Non-LED Lighting",
+                "Rear/Signal Lighting",
+                "Recreational Vehicle",
+                "Wheel Cover"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_EH7020_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_eh7020_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "28b4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_EH7020_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_eh7020_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "20b5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Recreational Vehicle",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "eh7020"
+        },
+        {
+            "$id": "32",
+            "id": "df35aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "EH7020HF",
+            "summary": "PBT+PET, Mineral, Mold Release, Antistatic",
+            "description": "VALOX EH7020HF is a mineral filled PBT/PET that offers good surface appearance, high flow and good heat performance. EH7020HF was developed for automotive bezel application that requires basecoat + top coat metalization. EH7020HF is higher flow version of EH7020.",
+            "applications": [
+                "Enclosure/Housing/Cover",
+                "Food Processor",
+                "Forward Lighting",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Personal Care",
+                "Rear/Signal Lighting",
+                "Scooter/Moped"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_EH7020HF_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_eh7020hf_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "fab4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_EH7020HF_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_eh7020hf_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "edc5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Home Appliance",
+                "Personal Recreation",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "eh7020hf"
+        },
+        {
+            "$id": "33",
+            "id": "5f3baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HX215HP",
+            "summary": "Unreinforced PBT with mold release. For medical devices and pharmaceutical applications. Healthcare management of change, biocompatible (ISO 10993 OR USP Class VI), US FDA food contact compliant, gamma, e-beam, EtO sterilizable. Available in limited colors.",
+            "description": "Unreinforced PBT with mold release. For medical devices and pharmaceutical applications. Healthcare management of change, biocompatible (ISO 10993 OR USP Class VI), US FDA food contact compliant, gamma, e-beam, EtO sterilizable. Available in limited colors.",
+            "applications": [
+                "Door",
+                "Fluid Delivery",
+                "Food Container",
+                "Medical Device",
+                "Personal Care",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Surgical Devices",
+                "Watch/Jewelry"
+            ],
+            "processingTechniques": [
+                "Compounding Extrusion",
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_HX215HP_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_hx215hp_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "c8b6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Construction",
+                "Food & Beverage",
+                "Surgical",
+                "Personal Accessory",
+                "Home Appliance",
+                "Healthcare",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hx215hp"
+        },
+        {
+            "$id": "34",
+            "id": "613baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HX260HPR",
+            "summary": "Medium flow PBT. For medical devices and pharmaceutical applications.  Healthcare management of change, biocompatible (ISO 10993 or USP Class VI), food contact compliant.  EtO and steam sterilizable.",
+            "description": "Medium flow PBT. For medical devices and pharmaceutical applications.  Healthcare management of change, biocompatible (ISO 10993 or USP Class VI), food contact compliant.  EtO and steam sterilizable.",
+            "applications": [
+                "Pharmaceutical Packaging & Drug Delivery"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_HX260HPR_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_hx260hpr_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "f3c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Pharmaceutical"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hx260hpr"
+        },
+        {
+            "$id": "35",
+            "id": "633baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HX3091HP",
+            "summary": "PBT for compounding/fibers only. Not intended for injection molding. Healthcare applications, biocompatible. US FDA food contact compliant. Available in Natural color only.",
+            "description": "PBT for compounding/fibers only. Not intended for injection molding. Healthcare applications, biocompatible. US FDA food contact compliant. Available in Natural color only.",
+            "applications": [
+                "Medical Device",
+                "Renal and Blood Handling",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Compounding Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_HX3091HP_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_hx3091hp_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "8ab8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Surgical",
+                "Healthcare",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hx3091hp"
+        },
+        {
+            "$id": "36",
+            "id": "643baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HX312C",
+            "summary": "Unreinforced PBT with release. For medical devices and pharmaceutical applications.  Healthcare management of change, biocompatible (ISO 10993 or USP Class VI), food contact compliant.  EtO and steam sterilizable.",
+            "description": "Unreinforced PBT with release. For medical devices and pharmaceutical applications.  Healthcare management of change, biocompatible (ISO 10993 or USP Class VI), food contact compliant.  EtO and steam sterilizable.",
+            "applications": [
+                "Bottles",
+                "Medical Device",
+                "Pharmaceutical Packaging & Drug Delivery"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_HX312C_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_hx312c_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "efb7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Food & Beverage",
+                "Healthcare"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hx312c"
+        },
+        {
+            "$id": "37",
+            "id": "663baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HX420HP",
+            "summary": "30% Glass Reinforced PBT resin. For medical devices and pharmaceutical applications. Healthcare management of change, biocompatible (ISO 10993 or USP Class VI), US FDA food contact compliant, gamma, e-beam, EtO sterilizable.  Available in limited colors.",
+            "description": "30% Glass Reinforced PBT resin. For medical devices and pharmaceutical applications. Healthcare management of change, biocompatible (ISO 10993 or USP Class VI), US FDA food contact compliant, gamma, e-beam, EtO sterilizable.  Available in limited colors.",
+            "applications": [
+                "Auto Aftermarket",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Respiratory",
+                "Surgical Devices",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_HX420HP_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_hx420hp_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "cfb6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_HX420HP_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_hx420hp_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "8db8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Electrical Devices and Displays",
+                "Surgical",
+                "Respiratory and Sleep Therapy",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hx420hp"
+        },
+        {
+            "$id": "38",
+            "id": "253caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "K3501",
+            "summary": "Unfilled PBT, Mold Release, Heat Stabilized, Impact Modified, Opaque, A hydrollytically stable grade designed for challenging heat/humidity environments.",
+            "description": "Unfilled PBT, Hydrollytically Stable, Heat Stabilized, Impact Modified. A hydrollytically stable grade designed for improved performance under heat/humidity environments. Targeted at automotive underhood applications requiring USCAR-2 Class III humidity/heat performance.",
+            "applications": [
+                "Auto Electrical",
+                "Electronic Components",
+                "Enclosures",
+                "Photovoltaic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_K3501_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_k3501_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "adb8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_K3501_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_k3501_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "27c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "k3501"
+        },
+        {
+            "$id": "39",
+            "id": "263caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "K4530",
+            "summary": "15% glass reinforced PBT,  Hydrolytically stable,  High  flow, Automotive connectors.",
+            "description": "15% glass reinforced PBT,  Hydrolytically stable,  High  flow, Automotive connectors.",
+            "applications": [
+                "Auto Aftermarket",
+                "Circuit Protection",
+                "Cladding",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_K4530_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_k4530_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "b0b8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_K4530_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_k4530_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "26b9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_K4530_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_k4530_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "28c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "k4530"
+        },
+        {
+            "$id": "40",
+            "id": "273caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "K4560",
+            "summary": "30% glass reinforced PBT.  Impact modified, high flow, hydrolytically stable.",
+            "description": "30% glass reinforced PBT.  Impact modified, high flow, hydrolytically stable.",
+            "applications": [
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_K4560_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_k4560_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "7cb7102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_K4560_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_k4560_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "b4b8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_K4560_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_k4560_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "29b9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "k4560"
+        },
+        {
+            "$id": "41",
+            "id": "9740aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PDR4922",
+            "summary": "GF filled PBT grade",
+            "description": "GF filled PBT grade",
+            "applications": [
+                "Electronic Components",
+                "Forward Lighting",
+                "Motorcycle",
+                "Rear/Signal Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_PDR4922_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_pdr4922_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "8cba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pdr4922"
+        },
+        {
+            "$id": "42",
+            "id": "5644aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "SHF4320",
+            "summary": "VALOX SHF4320 is a 10% glass fibre reinforced PBT injection moulding resin with excellent flow combined with good mechanical and heat properties. Applications: Automotive connectors.",
+            "description": "VALOX SHF4320 is a 10% glass fibre reinforced PBT injection moulding resin with excellent flow combined with good mechanical and heat properties. Applications: Automotive connectors.",
+            "applications": [
+                "Automotive ",
+                "Electronics"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_SHF4320_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_shf4320_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "00c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "shf4320"
+        },
+        {
+            "$id": "43",
+            "id": "5744aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "SHF4330",
+            "summary": "15% GF reinforced PBT/ASA, High Flow version",
+            "description": "15% GF reinforced PBT/ASA, High Flow version",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_SHF4330_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_shf4330_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "e5be102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "shf4330"
+        },
+        {
+            "$id": "44",
+            "id": "5844aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "SHF4340",
+            "summary": "PBT, Super High Flow, Glass, Mold Release,",
+            "description": "20% GF Super High Flow PBT",
+            "applications": [
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_SHF4340_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_shf4340_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "e8be102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "shf4340"
+        },
+        {
+            "$id": "45",
+            "id": "5b44aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "SHF436HR",
+            "summary": "PBT, Super High Flow, 30% glass reinforced,hydrolytically resistant.",
+            "description": "PBT, Super High Flow, 30% glass reinforced,hydrolytically resistant.",
+            "applications": [
+                "Data Transfer"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_SHF436HR_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_shf436hr_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "2bbe102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "shf436hr"
+        },
+        {
+            "$id": "46",
+            "id": "9dee8052-68b1-eb11-8109-005056857ef3",
+            "title": "T1N830",
+            "summary": "SABIC TRUCIRCLE\u2122,15wt% post-industrial recycled, 30% GR PBTP, excellent surface finish. Typical applications are hot air gun housing assemblies, industrial glue guns, appliance housings and handles.",
+            "description": "VALOX\u2122 RESIN T1N830 is a ETP compound, which is formulated with 15wt% post-industrial recycled plastics.\nThe grade is part of SABIC\u2019s TRUCIRCLE\u2122 portfolio and services.\nVALOX\u2122 RESIN T1N830 is a 30% GR PBTP compound with excellent surface finish. Typical applications are hot air gun housing assemblies, industrial glue guns, appliance housings and handles.",
+            "applications": [
+                "Amusement Machine",
+                "Auto Electrical",
+                "Circuit Protection",
+                "Cluster",
+                "Dishwasher",
+                "Door",
+                "Electronic Components",
+                "Enclosures",
+                "Forward Lighting",
+                "Gas/Electric Oven",
+                "Glove Box",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Non-LED Lighting",
+                "Small Appliance",
+                "Toy",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_T1N830_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_t1n830_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "4b1ba825-6cb1-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Construction",
+                "Sport/Leisure",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Automotive Under the Hood",
+                "Commercial Appliance",
+                "Automotive Lighting",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "t1n830"
+        },
+        {
+            "$id": "47",
+            "id": "2a6bb0cd-26de-eb11-810a-005056857ef3",
+            "title": "T2N815",
+            "summary": "SABIC TRUCIRCLE\u2122, 20wt% post-industrial recycled,15% GR PBT+ PET, excellent surface finish. Typical applications are hot air gun housing assemblies, industrial glue guns, appliance housings and handles.",
+            "description": "VALOX\u2122 RESIN T2N815 is a ETP compound, which is formulated with 20wt% post-industrial recycled plastics.\nThe grade is part of SABIC\u2019s TRUCIRCLE\u2122 portfolio and services.\nVALOX\u2122 RESIN T2N815 is a 15% GR PBT+ PET compound with excellent surface finish. Typical applications are hot air gun housing assemblies, industrial glue guns, appliance housings and handles.",
+            "applications": [
+                "Amusement Machine",
+                "Auto Electrical",
+                "Dishwasher",
+                "Electronic Components",
+                "Enclosures",
+                "Food Processor",
+                "Food Transportation",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "Meter Gas",
+                "Microwave Oven",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Rear/Signal Lighting",
+                "Refrigerator",
+                "Small Appliance",
+                "Washing Machine"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_T2N815_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_t2n815_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "c347bd20-2ade-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Automotive Under the Hood",
+                "Commercial Appliance",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "t2n815"
+        },
+        {
+            "$id": "48",
+            "id": "3e36f735-2bde-eb11-810a-005056857ef3",
+            "title": "T2N815UX",
+            "summary": "SABIC TRUCIRCLE\u2122, 20wt% post-industrial recycled, 15% glass reinforced PBT blend with improved surface appearance and excellent UV performance.",
+            "description": "VALOX\u2122 RESIN T2N815UX is a ETP compound, which is formulated with 20wt% post-industrial recycled plastics.\nThe grade is part of SABIC\u2019s TRUCIRCLE\u2122 portfolio and services.\nVALOX\u2122 RESIN T2N815UX is a 15% glass reinforced PBT+PET blend with improved surface appearance and excellent UV performance.",
+            "applications": [
+                "Enclosure/Housing/Cover",
+                "Energy Management",
+                "Gas/Electric Oven",
+                "Small Appliance"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_T2N815UX_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_t2n815ux_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "0e337931-2cde-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Home Appliance",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "t2n815ux"
+        },
+        {
+            "$id": "49",
+            "id": "f83eaf91-37de-eb11-810a-005056857ef3",
+            "title": "T3N8032U",
+            "summary": "SABIC TRUCIRCLE\u2122, 34wt% post-industrial recycled, PBT+PET, VALOX, Glass, Mold Release, UV-Stabilizer, Heat Stabilized,",
+            "description": "VALOX\u2122 RESIN T3N8032U is a ETP compound, which is formulated with 34wt% post-industrial recycled plastics.\nThe grade is part of SABIC\u2019s TRUCIRCLE\u2122 portfolio and services.\nVALOX\u2122 RESIN T3N8032U is a 30% glass fibre reinforced, UV stabilized PBT+PET blend with excellent surface finish. Applications: appliance housings, door handles, mirror brackets.",
+            "applications": [
+                "Auto Aftermarket",
+                "Door Handle",
+                "Exterior Mirror",
+                "Exterior Trim",
+                "Fog Lamp",
+                "Meter Gas",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Vertical Body Panel",
+                "Water Treatment/Filtration"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_T3N8032U_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_t3n8032u_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "faa9a4df-38de-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Lighting",
+                "Personal Recreation",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "t3n8032u"
+        },
+        {
+            "$id": "50",
+            "id": "76c6f369-49de-eb11-810a-005056857ef3",
+            "title": "T3N8032UX",
+            "summary": "SABIC TRUCIRCLE\u2122, 34wt% post-industrial recycled, PBT+PET, Valox, Glass, Mold Release, UV-Stabilizer, Heat Stabilized,",
+            "description": "VALOX\u2122 RESIN T3N8032UX is a ETP compound, which is formulated with 34wt% post-industrial recycled plastics.\nThe grade is part of SABIC\u2019s TRUCIRCLE\u2122 portfolio and services.\nVALOX\u2122 RESIN T3N8032UX is a 30% glass fibre reinforced, UV stabilized PBT+PET blend with excellent surface finish. This grade is VALOX T3N8032U with improved weathering resistance. Applications: appliance housings, door handles, mirror brackets.",
+            "applications": [
+                "Electronic Components",
+                "Exterior Mirror"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_T3N8032UX_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_t3n8032ux_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "bacd8034-4bde-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "t3n8032ux"
+        },
+        {
+            "$id": "51",
+            "id": "3245aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "V2000DM",
+            "summary": "PBT, Mold Release,",
+            "description": "Unreinforced, directly metallizable PBT injection molding resin with high flow better release characteristics.",
+            "applications": [
+                "Auto Aftermarket",
+                "Dishwasher",
+                "Fog Lamp",
+                "Forward Lighting",
+                "Meter Gas",
+                "Non-LED Lighting",
+                "Rear/Signal Lighting",
+                "Trim"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_V2000DM_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_v2000dm_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "9fbd102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_V2000DM_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_v2000dm_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "9ebf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_V2000DM_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_v2000dm_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "32c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Automotive Interiors",
+                "Lighting",
+                "Home Appliance",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "v2000dm"
+        },
+        {
+            "$id": "52",
+            "id": "3a45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "V3004",
+            "summary": "Unfilled PBT modified with elastomer. Targeted for flexible hinge, automotive connectors, film applications.",
+            "description": "Unfilled PBT modified with elastomer. Targeted for flexible hinge, automotive connectors, film applications.",
+            "applications": [
+                "Auto Electrical"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_V3004_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_v3004_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "35c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "v3004"
+        },
+        {
+            "$id": "53",
+            "id": "6045aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VAC3001",
+            "summary": "PBT, Mold Release, Elastomers,",
+            "description": "Unfilled PBT modified with elastomer. Targeted for flexible hinge applications.",
+            "applications": [
+                "Auto Electrical",
+                "Electrical",
+                "Medical Device",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_VAC3001_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_vac3001_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "3dc9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_VAC3001_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_vac3001_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "3ec9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Healthcare",
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vac3001"
+        },
+        {
+            "$id": "54",
+            "id": "9245aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VIC4311",
+            "summary": "PBT, 30% Glass, Impact Modified with superior epoxy adhesion. Automotive and electronic applications.",
+            "description": "VALOX VIC4311 is a 30% glass filled, impact modified PBT with excellent epoxy adhesion. Automotive underhood applications such as ignition coil housings.",
+            "applications": [
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Battery Pack",
+                "Data Transfer",
+                "Electronic Components",
+                "Enclosures",
+                "EV Infrastructure",
+                "Ignition System"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_VIC4311_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_vic4311_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "07bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_VIC4311_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_vic4311_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "cebf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vic4311"
+        },
+        {
+            "$id": "55",
+            "id": "af45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VX3101N",
+            "summary": "PBT resin with excellent flow properties, general purpose.",
+            "description": "VALOX VX3101N is an unreinforced PBT injection moulding resin, with excellent flow properties, good hydrolitical stability and chemical resistance.",
+            "applications": [
+                "Electronic Components",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_VX3101N_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_vx3101n_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "1dbf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vx3101n"
+        },
+        {
+            "$id": "56",
+            "id": "b645aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VX4910",
+            "summary": "ASA+PBT, Glass",
+            "description": "10% Glass reinforced nucleated PBT/ASA with excellent mechanical properties high dimensional stability, and low density.",
+            "applications": [
+                "Electronic Components",
+                "Monitoring and Imaging"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_VX4910_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_vx4910_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "ebbd102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vx4910"
+        },
+        {
+            "$id": "57",
+            "id": "b845aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VX4915R",
+            "summary": "ASA+PBT, Glass, Mold Release,",
+            "description": "15% Glass reinforced nucleated PBT/ASA improved release, with excellent mechanical properties high dimensional stability, and low density.",
+            "applications": [
+                "Medical Device",
+                "Structure"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_VX4915R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_vx4915r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "50c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Healthcare"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vx4915r"
+        },
+        {
+            "$id": "58",
+            "id": "b945aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VX4920",
+            "summary": "20% Glass reinforced nucleated PBT/ASA with excellent mechanical properties high dimensional stability, and low density.",
+            "description": "VALOX VX4920 is a 20% glass reinforced nucleated PBT/ASA blend with excellent mechanical properties, high dimensional stability and low density. Applications: connectors and automotive industry.",
+            "applications": [
+                "Antenna",
+                "Auto Aftermarket",
+                "Electronic Components",
+                "Enclosures",
+                "Exterior Trim",
+                "Forward Lighting",
+                "Gas/Electric Oven",
+                "Meter Gas",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_VX4920_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_vx4920_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "e4bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vx4920"
+        },
+        {
+            "$id": "59",
+            "id": "bb45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VX4930",
+            "summary": "30% Glass reinforced nucleated PBT/ASA with excellent mechanical properties high dimensional stability, and low density.",
+            "description": "VALOX VX4930 is a 30% glass reinforced nucleated PBT/ASA blend with excellent mechanical properties, high dimensional stability and low density. Applications: connectors and automotive industry.",
+            "applications": [
+                "Defense Vehicles",
+                "Enclosures",
+                "Fog Lamp",
+                "Forward Lighting",
+                "Ignition System",
+                "Personal Computing",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_VX4930_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_vx4930_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "eebd102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vx4930"
+        },
+        {
+            "$id": "60",
+            "id": "bd45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VX5011",
+            "summary": "10% glass reinforced PBT. Low warpage characteristics.",
+            "description": "VALOX VX5011 is a 10% glass fibre reinforced PBT+PC blend with low warpage characteristics.",
+            "applications": [
+                "Cluster",
+                "Displays",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Microwave Oven",
+                "Steering Component",
+                "Trim",
+                "Washing Machine",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_VX5011_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_vx5011_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "51c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vx5011"
+        },
+        {
+            "$id": "61",
+            "id": "be45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "VX5022",
+            "summary": "20% glass reinforced PBT. Low warpage characteristics.",
+            "description": "VALOX VX5022 is a 20% glass fibre reinforced PBT+PC blend with low warpage characteristics. This grade is 5021 with reduced warpage.",
+            "applications": [
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Exterior Trim",
+                "Sensor",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 Resin_VX5022_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-resin_vx5022_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "52c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vx5022"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "62",
+            "id": "aa7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Compounding Extrusion",
+            "count": 0
+        },
+        {
+            "$id": "63",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "64",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "65",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "66",
+            "id": "d4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Manufacturing",
+            "count": 0
+        },
+        {
+            "$id": "67",
+            "id": "0c00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Underhood",
+            "count": 0
+        },
+        {
+            "$id": "68",
+            "id": "1200ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Treatment/Filtration",
+            "count": 0
+        },
+        {
+            "$id": "69",
+            "id": "65ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Storage/Cookware",
+            "count": 0
+        },
+        {
+            "$id": "70",
+            "id": "95ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Container",
+            "count": 0
+        },
+        {
+            "$id": "71",
+            "id": "96ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Processor",
+            "count": 0
+        },
+        {
+            "$id": "72",
+            "id": "97ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Transportation",
+            "count": 0
+        },
+        {
+            "$id": "73",
+            "id": "c0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "74",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "75",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "76",
+            "id": "79ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components & Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "77",
+            "id": "48ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Audio",
+            "count": 0
+        },
+        {
+            "$id": "78",
+            "id": "49ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Aftermarket",
+            "count": 0
+        },
+        {
+            "$id": "79",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "80",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "81",
+            "id": "9affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Freezer",
+            "count": 0
+        },
+        {
+            "$id": "82",
+            "id": "a2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Gas/Electric Oven",
+            "count": 0
+        },
+        {
+            "$id": "83",
+            "id": "aeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Hygiene/Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "84",
+            "id": "baffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lawn/Garden",
+            "count": 0
+        },
+        {
+            "$id": "85",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "86",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "87",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "88",
+            "id": "d9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Plumbing",
+            "count": 0
+        },
+        {
+            "$id": "89",
+            "id": "e3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "90",
+            "id": "e4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Refrigerator",
+            "count": 0
+        },
+        {
+            "$id": "91",
+            "id": "efffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductor",
+            "count": 0
+        },
+        {
+            "$id": "92",
+            "id": "0100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Swimming Pool/Spa",
+            "count": 0
+        },
+        {
+            "$id": "93",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "94",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "95",
+            "id": "69ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cooking Range",
+            "count": 0
+        },
+        {
+            "$id": "96",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "97",
+            "id": "aaffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Horizontal Body Panel",
+            "count": 0
+        },
+        {
+            "$id": "98",
+            "id": "3bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Filtration",
+            "count": 0
+        },
+        {
+            "$id": "99",
+            "id": "b7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lab Ware and Clinical Diagnostics",
+            "count": 0
+        },
+        {
+            "$id": "100",
+            "id": "d1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "101",
+            "id": "d5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Packaging & Drug Delivery",
+            "count": 0
+        },
+        {
+            "$id": "102",
+            "id": "f1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Servingware",
+            "count": 0
+        },
+        {
+            "$id": "103",
+            "id": "0e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vending Machine",
+            "count": 0
+        },
+        {
+            "$id": "104",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "105",
+            "id": "3affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Conditioning",
+            "count": 0
+        },
+        {
+            "$id": "106",
+            "id": "43ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Amusement Machine",
+            "count": 0
+        },
+        {
+            "$id": "107",
+            "id": "47ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "ATM/Ticket Machine",
+            "count": 0
+        },
+        {
+            "$id": "108",
+            "id": "4affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Electrical",
+            "count": 0
+        },
+        {
+            "$id": "109",
+            "id": "60ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cluster",
+            "count": 0
+        },
+        {
+            "$id": "110",
+            "id": "67ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Console",
+            "count": 0
+        },
+        {
+            "$id": "111",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "112",
+            "id": "6fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Dishwasher",
+            "count": 0
+        },
+        {
+            "$id": "113",
+            "id": "73ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Door Handle",
+            "count": 0
+        },
+        {
+            "$id": "114",
+            "id": "7affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical",
+            "count": 0
+        },
+        {
+            "$id": "115",
+            "id": "7cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "116",
+            "id": "7effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronics",
+            "count": 0
+        },
+        {
+            "$id": "117",
+            "id": "82ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Management",
+            "count": 0
+        },
+        {
+            "$id": "118",
+            "id": "86ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "119",
+            "id": "8dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Mirror",
+            "count": 0
+        },
+        {
+            "$id": "120",
+            "id": "93ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid Delivery",
+            "count": 0
+        },
+        {
+            "$id": "121",
+            "id": "94ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fog Lamp",
+            "count": 0
+        },
+        {
+            "$id": "122",
+            "id": "98ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Forward Lighting",
+            "count": 0
+        },
+        {
+            "$id": "123",
+            "id": "afffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Ignition System",
+            "count": 0
+        },
+        {
+            "$id": "124",
+            "id": "b9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Laundry Dryer",
+            "count": 0
+        },
+        {
+            "$id": "125",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "126",
+            "id": "c1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Gas",
+            "count": 0
+        },
+        {
+            "$id": "127",
+            "id": "c2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Water",
+            "count": 0
+        },
+        {
+            "$id": "128",
+            "id": "c5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Monitoring and Imaging",
+            "count": 0
+        },
+        {
+            "$id": "129",
+            "id": "c6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Motorcycle",
+            "count": 0
+        },
+        {
+            "$id": "130",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "131",
+            "id": "e2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rear/Signal Lighting",
+            "count": 0
+        },
+        {
+            "$id": "132",
+            "id": "e7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory",
+            "count": 0
+        },
+        {
+            "$id": "133",
+            "id": "edffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Seating/Chair",
+            "count": 0
+        },
+        {
+            "$id": "134",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "135",
+            "id": "ffffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Devices",
+            "count": 0
+        },
+        {
+            "$id": "136",
+            "id": "0a00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Trim",
+            "count": 0
+        },
+        {
+            "$id": "137",
+            "id": "1100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Watch/Jewelry",
+            "count": 0
+        },
+        {
+            "$id": "138",
+            "id": "32431af9-01d4-4107-9322-793fbea45634",
+            "title": "Irrigation",
+            "count": 0
+        },
+        {
+            "$id": "139",
+            "id": "59ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Carpet/Mattress/Upholstery",
+            "count": 0
+        },
+        {
+            "$id": "140",
+            "id": "63ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Coffee Maker/Espresso Machine",
+            "count": 0
+        },
+        {
+            "$id": "141",
+            "id": "f0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sensor",
+            "count": 0
+        },
+        {
+            "$id": "142",
+            "id": "b1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "143",
+            "id": "58ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Bumper",
+            "count": 0
+        },
+        {
+            "$id": "144",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "145",
+            "id": "6dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "146",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "147",
+            "id": "75ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Doors Hardware/Trim",
+            "count": 0
+        },
+        {
+            "$id": "148",
+            "id": "7dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "count": 0
+        },
+        {
+            "$id": "149",
+            "id": "8affee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV/HEV Motor",
+            "count": 0
+        },
+        {
+            "$id": "150",
+            "id": "8bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exercise Equipment",
+            "count": 0
+        },
+        {
+            "$id": "151",
+            "id": "92ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fixture Bath/Shower",
+            "count": 0
+        },
+        {
+            "$id": "152",
+            "id": "9effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fuel Handling",
+            "count": 0
+        },
+        {
+            "$id": "153",
+            "id": "c4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Modular Panel",
+            "count": 0
+        },
+        {
+            "$id": "154",
+            "id": "cbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Oil/Gas",
+            "count": 0
+        },
+        {
+            "$id": "155",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        },
+        {
+            "$id": "156",
+            "id": "dcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pump",
+            "count": 0
+        },
+        {
+            "$id": "157",
+            "id": "f9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Steering Component",
+            "count": 0
+        },
+        {
+            "$id": "158",
+            "id": "faffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Storage/Table",
+            "count": 0
+        },
+        {
+            "$id": "159",
+            "id": "0900ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Tray",
+            "count": 0
+        },
+        {
+            "$id": "160",
+            "id": "0d00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vacuum Cleaner",
+            "count": 0
+        },
+        {
+            "$id": "161",
+            "id": "1300ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Weapon",
+            "count": 0
+        },
+        {
+            "$id": "162",
+            "id": "1500ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Weaving Machine",
+            "count": 0
+        },
+        {
+            "$id": "163",
+            "id": "1c00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiper Component",
+            "count": 0
+        },
+        {
+            "$id": "164",
+            "id": "99ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "FPD Handling",
+            "count": 0
+        },
+        {
+            "$id": "165",
+            "id": "3fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aircraft Seating",
+            "count": 0
+        },
+        {
+            "$id": "166",
+            "id": "53ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Accessory",
+            "count": 0
+        },
+        {
+            "$id": "167",
+            "id": "b2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Infotainment/Telematic",
+            "count": 0
+        },
+        {
+            "$id": "168",
+            "id": "b5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior",
+            "count": 0
+        },
+        {
+            "$id": "169",
+            "id": "d6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photo/Video Camera",
+            "count": 0
+        },
+        {
+            "$id": "170",
+            "id": "1000ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Washing Machine",
+            "count": 0
+        },
+        {
+            "$id": "171",
+            "id": "90ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior",
+            "count": 0
+        },
+        {
+            "$id": "172",
+            "id": "8fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Trim",
+            "count": 0
+        },
+        {
+            "$id": "173",
+            "id": "0f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vertical Body Panel",
+            "count": 0
+        },
+        {
+            "$id": "174",
+            "id": "c3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Microwave Oven",
+            "count": 0
+        },
+        {
+            "$id": "175",
+            "id": "74ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Door",
+            "count": 0
+        },
+        {
+            "$id": "176",
+            "id": "a5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Glove Box",
+            "count": 0
+        },
+        {
+            "$id": "177",
+            "id": "0300ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Toy",
+            "count": 0
+        },
+        {
+            "$id": "178",
+            "id": "39ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "179",
+            "id": "87ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV/HEV Battery",
+            "count": 0
+        },
+        {
+            "$id": "180",
+            "id": "9fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Furnace/Heater",
+            "count": 0
+        },
+        {
+            "$id": "181",
+            "id": "abffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Hot Water System",
+            "count": 0
+        },
+        {
+            "$id": "182",
+            "id": "ceffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pallet",
+            "count": 0
+        },
+        {
+            "$id": "183",
+            "id": "1400ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wearables",
+            "count": 0
+        },
+        {
+            "$id": "184",
+            "id": "9a7bffa6-4015-e711-80fb-005056857ef3",
+            "title": "Automotive ",
+            "count": 0
+        },
+        {
+            "$id": "185",
+            "id": "1600ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wheel Cover",
+            "count": 0
+        },
+        {
+            "$id": "186",
+            "id": "ebffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Scooter/Moped",
+            "count": 0
+        },
+        {
+            "$id": "187",
+            "id": "e6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Renal and Blood Handling",
+            "count": 0
+        },
+        {
+            "$id": "188",
+            "id": "51ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Bottles",
+            "count": 0
+        },
+        {
+            "$id": "189",
+            "id": "5effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cladding",
+            "count": 0
+        },
+        {
+            "$id": "190",
+            "id": "4dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery Pack",
+            "count": 0
+        },
+        {
+            "$id": "191",
+            "id": "fcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Structure",
+            "count": 0
+        },
+        {
+            "$id": "192",
+            "id": "45ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Antenna",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "193",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "194",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "195",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "196",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "197",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical",
+            "id": "04ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "198",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Management",
+            "id": "07ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "199",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Heavy Truck",
+            "id": "0affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "200",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "201",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "202",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food & Beverage",
+            "id": "0fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "203",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "204",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "id": "34ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "205",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "206",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Outdoor, Lawn and Landscape",
+            "id": "05ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "207",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "208",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Consumer Packaging",
+            "id": "1affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "209",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "210",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "211",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "212",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "id": "31ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "213",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Exteriors",
+            "id": "35ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "214",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "215",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "216",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense",
+            "id": "03ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "217",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "218",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "219",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Decoration",
+            "id": "16ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "220",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "221",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory and Sleep Therapy",
+            "id": "1effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "222",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Recreation",
+            "id": "27ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "223",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Under the Hood",
+            "id": "2cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "224",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid and Blood Handling",
+            "id": "2effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "225",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Lighting",
+            "id": "33ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "226",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "id": "2affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "227",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fossil",
+            "id": "08ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "228",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "229",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Textile",
+            "id": "1fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "230",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "id": "2fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "231",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Aerospace",
+            "id": "62f520a6-82bc-40d1-8716-dfe4e90dbf65"
+        },
+        {
+            "$id": "232",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electric Vehicle",
+            "id": "09ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

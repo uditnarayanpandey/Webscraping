@@ -1,0 +1,2513 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "1e40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1006",
+            "summary": "Hot Rolled Coil",
+            "description": "Hot Rolled Coil",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_1006_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_1006_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "44974cbe-b143-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1006"
+        },
+        {
+            "$id": "3",
+            "id": "2140f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1008",
+            "summary": "Hot Rolled Coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Hot Rolled Coil",
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_1008_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_1008_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "71cd0e4d-b243-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1008"
+        },
+        {
+            "$id": "4",
+            "id": "2440f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1014",
+            "summary": "Hot Rolled Coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Hot Rolled Coil",
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_1014_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_1014_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "019fa9cc-b343-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1014"
+        },
+        {
+            "$id": "5",
+            "id": "2740f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1018",
+            "summary": "Hot rolled coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Hot Rolled Coil",
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_1018_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_1018_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "5d291737-b443-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1018"
+        },
+        {
+            "$id": "6",
+            "id": "2a40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1045",
+            "summary": "Hot rolled coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Hot Rolled Coil",
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_1045_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_1045_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "46983697-b443-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1045"
+        },
+        {
+            "$id": "7",
+            "id": "2d40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1055",
+            "summary": "Hot rolled coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Hot Rolled Coil",
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_1055_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_1055_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "0a7d43d4-b443-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1055"
+        },
+        {
+            "$id": "8",
+            "id": "3040f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "12",
+            "summary": "Hot rolled steel",
+            "description": "Hot rolled drawing and deep drawing steel",
+            "applications": [
+                "Water heater",
+                "Stamping and cold forming"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_12_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_12_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "b5729a65-b543-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "12"
+        },
+        {
+            "$id": "9",
+            "id": "3340f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "13",
+            "summary": "Hot rolled drawing and deep drawing steel",
+            "description": "Hot rolled drawing and deep drawing steel",
+            "applications": [
+                "Water heater",
+                "Stamping and cold forming"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_13_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_13_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "0dcc5c3f-b643-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "13"
+        },
+        {
+            "$id": "10",
+            "id": "3640f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "36",
+            "summary": "Heavy thickness Hot rolled HSLA with improved formability",
+            "description": "Heavy thickness Hot rolled HSLA with improved formability",
+            "applications": [
+                "Automotive ",
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_36_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_36_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "c4be2d67-b843-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "36"
+        },
+        {
+            "$id": "11",
+            "id": "3940f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "40",
+            "summary": "Hot rolled HSLA with improved formability",
+            "description": "Hot rolled HSLA with improved formability",
+            "applications": [
+                "Automotive ",
+                "General Machinery"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_40_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_40_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "4c27310e-b943-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "40"
+        },
+        {
+            "$id": "12",
+            "id": "3c40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "420MC",
+            "summary": "Hot rolled HSLA steel coils",
+            "description": "Hot rolled HSLA steel coils",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_420MC_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_420mc_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "f576b798-b943-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "420mc"
+        },
+        {
+            "$id": "13",
+            "id": "3f40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "490",
+            "summary": "Hot rolled medium and high strength steel",
+            "description": "Hot rolled medium and high strength steel",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_490_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_490_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "91bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "490"
+        },
+        {
+            "$id": "14",
+            "id": "4240f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "50",
+            "summary": "Hot rolled HSLA with improved formability.",
+            "description": "Hot rolled HSLA with improved formability.",
+            "applications": [
+                "Automotive ",
+                "General Machinery"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_50_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_50_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "8cc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "50"
+        },
+        {
+            "$id": "15",
+            "id": "4540f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "500MC",
+            "summary": "Hot rolled HSLA steel coils.",
+            "description": "Hot rolled HSLA steel coils.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_500MC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_500mc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e6c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "500mc"
+        },
+        {
+            "$id": "16",
+            "id": "4840f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "55",
+            "summary": "Hot rolled HSLA with improved formability.",
+            "description": "Hot rolled HSLA with improved formability.",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_55_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_55_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "9abf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "55"
+        },
+        {
+            "$id": "17",
+            "id": "4b40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "570",
+            "summary": "Hot rolled medium and high strength steel.",
+            "description": "Hot rolled medium and high strength steel.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_570_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_570_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e8c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "570"
+        },
+        {
+            "$id": "18",
+            "id": "4e40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "60",
+            "summary": "Hot rolled HSLA high strength steel coils.",
+            "description": "Hot rolled HSLA high strength steel coils.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_60_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_60_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e9c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "60"
+        },
+        {
+            "$id": "19",
+            "id": "5140f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "65",
+            "summary": "Hot rolled coil.",
+            "description": "Hot rolled coil.",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_65_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_65_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "95c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "65"
+        },
+        {
+            "$id": "20",
+            "id": "5a40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "C45",
+            "summary": "Hot rolled high carbon steel coils.",
+            "description": "Hot rolled high carbon steel coils.",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_C45_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_c45_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a6bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c45"
+        },
+        {
+            "$id": "21",
+            "id": "5d40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Carb",
+            "summary": "Hot rolled medium carbon steel.",
+            "description": "Hot rolled medium carbon steel.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_Carb_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_carb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "edc9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "carb"
+        },
+        {
+            "$id": "22",
+            "id": "6040f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "CQ",
+            "summary": "Hot rolled low strength steel coil.",
+            "description": "Hot rolled low strength steel coil.",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_CQ_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_cq_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a1c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cq"
+        },
+        {
+            "$id": "23",
+            "id": "6840f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "DD11",
+            "summary": "Hot rolled drawing and deep drawing steel.",
+            "description": "Hot rolled drawing and deep drawing steel.",
+            "applications": [
+                "Water heater"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_DD11_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_dd11_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a7c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dd11"
+        },
+        {
+            "$id": "24",
+            "id": "9840f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "G",
+            "summary": "Hot rolled coil HSLA for pressure vessel.",
+            "description": "Hot rolled coil HSLA for pressure vessel.",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_G_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_g_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "cec1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "g"
+        },
+        {
+            "$id": "25",
+            "id": "9b40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr 33",
+            "summary": "Hot rolled HSLA with improved formability.",
+            "description": "Hot rolled HSLA with improved formability.",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_Gr 33_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_gr-33_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "cfbf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr-33"
+        },
+        {
+            "$id": "26",
+            "id": "9e40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr C",
+            "summary": "Hot rolled coil HSLA for pressure vessel.",
+            "description": "Hot rolled coil HSLA for pressure vessel.",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_Gr C_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_gr-c_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d2bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr-c"
+        },
+        {
+            "$id": "27",
+            "id": "a140f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr2",
+            "summary": "Hot rolled steel for piling pipes.",
+            "description": "Hot rolled steel for piling pipes.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_Gr2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_gr2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d5bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr2"
+        },
+        {
+            "$id": "28",
+            "id": "a440f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr33",
+            "summary": "Heavy thickness Hot rolled HSLA with improved formability.",
+            "description": "Heavy thickness Hot rolled HSLA with improved formability.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_Gr33_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_gr33_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d7c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr33"
+        },
+        {
+            "$id": "29",
+            "id": "a740f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr43EE",
+            "summary": "Hot rolled microalloyed steel coil.",
+            "description": "Hot rolled microalloyed steel coil.",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_Gr43EE_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_gr43ee_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "00ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr43ee"
+        },
+        {
+            "$id": "30",
+            "id": "a840f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr50",
+            "summary": "Hot rolled HSLA high strength steel.",
+            "description": "Hot rolled HSLA high strength steel.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_Gr50_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_gr50_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "01ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr50"
+        },
+        {
+            "$id": "31",
+            "id": "ab40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr55",
+            "summary": "Hot rolled coil",
+            "description": "Hot rolled coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_Gr55_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_gr55_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "dac1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr55"
+        },
+        {
+            "$id": "32",
+            "id": "ae40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr58",
+            "summary": "Hot rolled fine grained steel.",
+            "description": "Hot rolled fine grained steel.",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_Gr58_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_gr58_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "18c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr58"
+        },
+        {
+            "$id": "33",
+            "id": "b140f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr60",
+            "summary": "Hot rolled coil",
+            "description": "Hot rolled coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_Gr60_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_gr60_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e3bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr60"
+        },
+        {
+            "$id": "34",
+            "id": "b440f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr70",
+            "summary": "Hot rolled fine grained steel.",
+            "description": "Hot rolled fine grained steel.",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_Gr70_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_gr70_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e6bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr70"
+        },
+        {
+            "$id": "35",
+            "id": "b740f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "GrA",
+            "summary": "Hot rolled coil",
+            "description": "Hot rolled coil",
+            "applications": [
+                "Hot Rolled Coil",
+                "Pressure Vessel"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_GrA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_gra_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "04ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gra"
+        },
+        {
+            "$id": "36",
+            "id": "ba40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "GrB",
+            "summary": "Hot rolled HSLA steel coils",
+            "description": "Hot rolled HSLA steel coils",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_GrB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_grb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "05ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "grb"
+        },
+        {
+            "$id": "37",
+            "id": "c140f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "GrD",
+            "summary": "Hot rolled steel for low and medium strength.",
+            "description": "Hot rolled steel for low and medium strength.",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_GrD_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_grd_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "ecc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "grd"
+        },
+        {
+            "$id": "38",
+            "id": "c840f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "H40",
+            "summary": "Hot rolled High strength, micr-alloyed steel.",
+            "description": "Hot rolled High strength, micr-alloyed steel.",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_H40_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_h40_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "09ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "h40"
+        },
+        {
+            "$id": "39",
+            "id": "ca40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "J55",
+            "summary": "Hot rolled High strength, micr-alloyed steel.",
+            "description": "Hot rolled High strength, micr-alloyed steel.",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_J55_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_j55_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f5bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "j55"
+        },
+        {
+            "$id": "40",
+            "id": "cc40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "K55",
+            "summary": "Hot rolled High strength, micr-alloyed steel.",
+            "description": "Hot rolled High strength, micr-alloyed steel.",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_K55_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_k55_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "30c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "k55"
+        },
+        {
+            "$id": "41",
+            "id": "ce40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "L245",
+            "summary": "Hot rolled High strength, micr-alloyed steel.",
+            "description": "Hot rolled High strength, micr-alloyed steel.",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_L245_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_l245_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0bca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l245"
+        },
+        {
+            "$id": "42",
+            "id": "d040f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "L290",
+            "summary": "Hot rolled High strength, micr-alloyed steel.",
+            "description": "Hot rolled High strength, micr-alloyed steel.",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_L290_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_l290_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0cca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l290"
+        },
+        {
+            "$id": "43",
+            "id": "d240f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "L360",
+            "summary": "Hot rolled High strength, micr-alloyed steel.",
+            "description": "Hot rolled High strength, micr-alloyed steel.",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_L360_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_l360_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "febf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l360"
+        },
+        {
+            "$id": "44",
+            "id": "d440f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "L415",
+            "summary": "Hot rolled High strength, micr-alloyed steel.",
+            "description": "Hot rolled High strength, micr-alloyed steel.",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_L415_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_l415_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f8c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l415"
+        },
+        {
+            "$id": "45",
+            "id": "d640f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "L450",
+            "summary": "Hot rolled High strength, micro alloyed steel.",
+            "description": "Hot rolled High strength, micro alloyed steel.",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_L450_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_l450_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "36c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l450"
+        },
+        {
+            "$id": "46",
+            "id": "d840f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "L485",
+            "summary": "Hot rolled High strength, micro-alloyed steel.",
+            "description": "Hot rolled High strength, micro-alloyed steel.",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_L485_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_l485_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0eca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l485"
+        },
+        {
+            "$id": "47",
+            "id": "dd40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P235GH",
+            "summary": "Hot rolled coil",
+            "description": "Hot rolled coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_P235GH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_p235gh_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0fca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p235gh"
+        },
+        {
+            "$id": "48",
+            "id": "e040f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P245NB",
+            "summary": "Hot rolled coil",
+            "description": "Hot rolled coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_P245NB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_p245nb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0bc0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p245nb"
+        },
+        {
+            "$id": "49",
+            "id": "e340f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P265GH",
+            "summary": "Hot rolled coil",
+            "description": "Hot rolled coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_P265GH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_p265gh_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "10ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p265gh"
+        },
+        {
+            "$id": "50",
+            "id": "e640f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P265NB",
+            "summary": "Hot rolled coil",
+            "description": "Hot rolled coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_P265NB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_p265nb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "11ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p265nb"
+        },
+        {
+            "$id": "51",
+            "id": "e940f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P355GH",
+            "summary": "Hot rolled coil",
+            "description": "Hot rolled coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_P355GH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_p355gh_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "42c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p355gh"
+        },
+        {
+            "$id": "52",
+            "id": "ec40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S235",
+            "summary": "Hot rolled low and medium carbon steel coils.",
+            "description": "Hot rolled low and medium carbon steel coils.",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_S235_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_s235_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "13ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s235"
+        },
+        {
+            "$id": "53",
+            "id": "f240f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S275",
+            "summary": "Hot rolled low and medium carbon steel coils.",
+            "description": "Hot rolled low and medium carbon steel coils.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_S275_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_s275_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "10c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s275"
+        },
+        {
+            "$id": "54",
+            "id": "fb40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S355",
+            "summary": "Hot rolled low and medium carbon steel coils.",
+            "description": "Hot rolled low and medium carbon steel coils.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_S355_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_s355_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "16ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s355"
+        },
+        {
+            "$id": "55",
+            "id": "fe40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S355MC",
+            "summary": "Hot rolled HSLA steel coils.",
+            "description": "Hot rolled HSLA steel coils.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_S355MC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_s355mc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "17ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s355mc"
+        },
+        {
+            "$id": "56",
+            "id": "0141f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S460N",
+            "summary": "Hot rolled low and medium carbon steel coils.",
+            "description": "Hot rolled low and medium carbon steel coils.",
+            "applications": [
+                "Hot Rolled Coil",
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_S460N_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_s460n_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "18ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s460n"
+        },
+        {
+            "$id": "57",
+            "id": "0441f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SG255",
+            "summary": "Hot rolled fine grained steel.",
+            "description": "Hot rolled fine grained steel.",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SG255_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_sg255_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "26c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sg255"
+        },
+        {
+            "$id": "58",
+            "id": "0741f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SG295",
+            "summary": "Hot rolled fine grained steel.",
+            "description": "Hot rolled fine grained steel.",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SG295_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_sg295_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "5bc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sg295"
+        },
+        {
+            "$id": "59",
+            "id": "1341f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SGV410",
+            "summary": "Hot rolled coils",
+            "description": "Hot rolled coils",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SGV410_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_sgv410_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "25c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sgv410"
+        },
+        {
+            "$id": "60",
+            "id": "1541f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SLA235A",
+            "summary": "Hot rolle fine grained steel.",
+            "description": "Hot rolle fine grained steel.",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SLA235A_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_sla235a_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "69c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sla235a"
+        },
+        {
+            "$id": "61",
+            "id": "1741f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SM400",
+            "summary": "Hot rolled medium and high strength steel.",
+            "description": "Hot rolled medium and high strength steel.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SM400_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_sm400_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1cca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sm400"
+        },
+        {
+            "$id": "62",
+            "id": "1a41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPA-H",
+            "summary": "Hot rolled coils for weather resistance.",
+            "description": "Hot rolled coils for weather resistance.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SPA-H_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_spa-h_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1dca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spa-h"
+        },
+        {
+            "$id": "63",
+            "id": "2341f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHC",
+            "summary": "Hot rolled mild steel coil.",
+            "description": "Hot rolled mild steel coil.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SPHC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_sphc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "34c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sphc"
+        },
+        {
+            "$id": "64",
+            "id": "2641f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHD",
+            "summary": "Hot rolled mild steel coil",
+            "description": "Hot rolled mild steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SPHD_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_sphd_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "75c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sphd"
+        },
+        {
+            "$id": "65",
+            "id": "2941f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHE",
+            "summary": "Hot rolled mild steel coil",
+            "description": "Hot rolled mild steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SPHE_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_sphe_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "3ec0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sphe"
+        },
+        {
+            "$id": "66",
+            "id": "2c41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHT1",
+            "summary": "Hot rolled mild steel coil",
+            "description": "Hot rolled mild steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SPHT1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_spht1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "3dc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spht1"
+        },
+        {
+            "$id": "67",
+            "id": "2f41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHT2",
+            "summary": "Hot rolled mild steel coil",
+            "description": "Hot rolled mild steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SPHT2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_spht2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "44c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spht2"
+        },
+        {
+            "$id": "68",
+            "id": "3241f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHT3",
+            "summary": "Hot rolled mild steel coil",
+            "description": "Hot rolled mild steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SPHT3_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_spht3_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "47c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spht3"
+        },
+        {
+            "$id": "69",
+            "id": "3541f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPV235",
+            "summary": "Hot rolle fine grained steel",
+            "description": "Hot rolle fine grained steel",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SPV235_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_spv235_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "24ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spv235"
+        },
+        {
+            "$id": "70",
+            "id": "4041f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SS330",
+            "summary": "Hot rolled medium and high strength steel.",
+            "description": "Hot rolled medium and high strength steel.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SS330_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_ss330_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "27ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ss330"
+        },
+        {
+            "$id": "71",
+            "id": "4641f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SS400",
+            "summary": "Hot rolled medium and high strength steel.",
+            "description": "Hot rolled medium and high strength steel.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SS400_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_ss400_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "8ac1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ss400"
+        },
+        {
+            "$id": "72",
+            "id": "4941f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SS490",
+            "summary": "Hot rolled medium and high strength steel.",
+            "description": "Hot rolled medium and high strength steel.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_SS490_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_ss490_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "4ec2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ss490"
+        },
+        {
+            "$id": "73",
+            "id": "5b41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St 37",
+            "summary": "Hot rolled low and medium carbon steel coils.",
+            "description": "Hot rolled low and medium carbon steel coils.",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_St 37_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_st-37_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2eca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st-37"
+        },
+        {
+            "$id": "74",
+            "id": "4c41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St 44",
+            "summary": "Hot rolled low and medium carbon steel coils.",
+            "description": "Hot rolled low and medium carbon steel coils.",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_St 44_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_st-44_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "90c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st-44"
+        },
+        {
+            "$id": "75",
+            "id": "4f41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St 52",
+            "summary": "Hot rolled low and medium carbon steel coils.",
+            "description": "Hot rolled low and medium carbon steel coils.",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_St 52_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_st-52_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "5ec0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st-52"
+        },
+        {
+            "$id": "76",
+            "id": "5241f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St 60",
+            "summary": "Hot rolled low and medium carbon steel coils.",
+            "description": "Hot rolled low and medium carbon steel coils.",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_St 60_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_st-60_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "54c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st-60"
+        },
+        {
+            "$id": "77",
+            "id": "6041f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Stl",
+            "summary": "Hot rolled medium carbon steel",
+            "description": "Hot rolled medium carbon steel",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_Stl_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_stl_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "6dc0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "stl"
+        },
+        {
+            "$id": "78",
+            "id": "6341f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Str",
+            "summary": "Hot rolled medium carbon steel",
+            "description": "Hot rolled medium carbon steel",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_Str_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_str_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "30ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "str"
+        },
+        {
+            "$id": "79",
+            "id": "6841f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "X42  to X80",
+            "summary": "-",
+            "description": "Flat metals - Hot Rolled Coil",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRC_X42  to X80_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrc_x42-to-x80_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "cc72ccef-b143-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x42-to-x80"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "80",
+            "id": "9a7bffa6-4015-e711-80fb-005056857ef3",
+            "title": "Automotive ",
+            "count": 0
+        },
+        {
+            "$id": "81",
+            "id": "6b4c8c2a-b543-e811-80fd-005056857ef3",
+            "title": "Building and Construction",
+            "count": 0
+        },
+        {
+            "$id": "82",
+            "id": "dfb988c5-b843-e811-80fd-005056857ef3",
+            "title": "General Machinery",
+            "count": 0
+        },
+        {
+            "$id": "83",
+            "id": "c8098da2-ae43-e811-80fd-005056857ef3",
+            "title": "Hot Rolled Coil",
+            "count": 0
+        },
+        {
+            "$id": "84",
+            "id": "2df63855-b0f2-e611-80fb-005056857ef3",
+            "title": "Pipe",
+            "count": 0
+        },
+        {
+            "$id": "85",
+            "id": "f2e132c4-6e44-e811-80fd-005056857ef3",
+            "title": "Pressure Vessel",
+            "count": 0
+        },
+        {
+            "$id": "86",
+            "id": "405f6020-b543-e811-80fd-005056857ef3",
+            "title": "Stamping and cold forming",
+            "count": 0
+        },
+        {
+            "$id": "87",
+            "id": "ab2b9513-b543-e811-80fd-005056857ef3",
+            "title": "Water heater",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "88",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "89",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "90",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "91",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

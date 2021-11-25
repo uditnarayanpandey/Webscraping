@@ -1,0 +1,4498 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "f430aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "3412ECR",
+            "summary": "20% glass fiber filled, 7 MFR PC, MVR of 7. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 and 5VA rated. Available in natural and opaque colors.",
+            "description": "LEXAN\u2122 3412ECR resin is a 20% glass fiber filled, 7 MFR polycarbonate, MVR of 7. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 and 5VA rated. Available in natural and opaque colors.",
+            "applications": [
+                "Amusement Machine",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Auto Aftermarket",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "Industrial Material Handling",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Water",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Rail Cabin Interiors",
+                "Security/Detection",
+                "Small Appliance",
+                "Vending Machine",
+                "Wearables",
+                "Window",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_3412ECR_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_3412ecr_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "8cb0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_3412ECR_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_3412ecr_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "15b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_3412ECR_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_3412ecr_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "9fc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Rail",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Commercial Appliance",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "3412ecr"
+        },
+        {
+            "$id": "3",
+            "id": "f630aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "3412R",
+            "summary": "20% glass fiber filled, 4.3 MFR PC, MVR of 6. Mold release. Flame retardant, UL94 V0 and 5VA rated. Available in natural and opaque colors.",
+            "description": "LEXAN\u2122 3412R resin is a 20% glass fiber filled, 4.3 MFR polycarbonate, MVR of 6. Mold release. Flame retardant, UL94 V0 and 5VA rated. Available in natural and opaque colors.",
+            "applications": [
+                "Aerospace",
+                "Air Cabin Interiors",
+                "Aircraft Exteriors",
+                "Amusement Machine",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Auto Aftermarket",
+                "Building Accessory",
+                "Building Element",
+                "Circuit Protection",
+                "Coffee Maker/Espresso Machine",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Door Handle",
+                "Electrical Components & Infrastructure",
+                "Electrical",
+                "Electronic Components",
+                "Electronic Material Handling",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Exercise Equipment",
+                "Fixture Bath/Shower",
+                "Food Processor",
+                "Heavy Vehicles",
+                "Hot Water System",
+                "Lab Ware and Clinical Diagnostics",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Water",
+                "Monitoring and Imaging",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Photo/Video Camera",
+                "Photovoltaic Components",
+                "Power Boat",
+                "Power Manangement",
+                "Pump",
+                "Rail Cabin Interiors",
+                "Respiratory",
+                "Scooter/Moped",
+                "Security/Detection",
+                "Semiconductor",
+                "Small Appliance",
+                "Storage/Table",
+                "Surgical Devices",
+                "Swimming Pool/Spa",
+                "Thermoplastic",
+                "Traffic Management",
+                "Trim",
+                "Vacuum Cleaner",
+                "Vending Machine",
+                "Washing Machine",
+                "Watch/Jewelry",
+                "Water Treatment/Filtration",
+                "Weaving Machine",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Irrigation"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_3412R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_3412r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "a0c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Surgical",
+                "Rail",
+                "Home Decoration",
+                "Additive Materials",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Respiratory and Sleep Therapy",
+                "Textile",
+                "Lighting",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Patient Testing",
+                "Commercial Appliance",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "3412r"
+        },
+        {
+            "$id": "4",
+            "id": "f930aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "3413HF",
+            "summary": "30% glass fiber filled, 8 MFR PC. Mold release. Flame retardant, UL94 V1 and V0 rated. Available in natural and opaque colors.",
+            "description": "LEXAN\u2122 3413HF resin is a 30% glass fiber filled, 8 MFR polycarbonate. Mold release. Flame retardant, UL94 V1 and V0 rated. Available in natural and opaque colors.",
+            "applications": [
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Pharmaceutical Packaging & Drug Delivery"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_3413HF_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_3413hf_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "92b0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "3413hf"
+        },
+        {
+            "$id": "5",
+            "id": "fa30aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "3413R",
+            "summary": "30% glass fiber filled, 5 MFR PC. Mold release. Flame retardant, UL94 V1 and V0 rated. Available in natural and opaque colors.",
+            "description": "LEXAN\u2122 3413R resin is a 30% glass fiber filled, 5 MFR polycarbonate. Mold release. Flame retardant, UL94 V1 and V0 rated. Available in natural and opaque colors.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Audio",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "Lawn/Garden",
+                "Medical Device",
+                "Meter Water",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Pharmaceutical Manufacturing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Power Boat",
+                "Small Appliance",
+                "Surgical Devices",
+                "Watch/Jewelry",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_3413R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_3413r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "95b0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_3413R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_3413r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "1bb1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Surgical",
+                "Personal Accessory",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "3413r"
+        },
+        {
+            "$id": "6",
+            "id": "4831aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "500R",
+            "summary": "10% glass fiber filled PC, MFR of 8. Mold release. Flame retardant, UL94 V0 and 5VA rated. UL746C f2 rated. Available in natural and opaque colors.",
+            "description": "LEXAN\u2122 500R resin is a 10% glass fiber filled polycarbonate, MFR of 8. Mold release. Flame retardant, UL94 V0 and 5VA rated. UL746C f2 rated. Combination of modulus, impact strength and flame retardancy. Available in natural and opaque colors.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Air Conditioning",
+                "Air Filtration",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Building Accessory",
+                "Circuit Protection",
+                "Coffee Maker/Espresso Machine",
+                "Data Management",
+                "Data Transfer",
+                "Defense Vehicles",
+                "Dishwasher",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Exterior Mirror",
+                "Fixture Bath/Shower",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "HVAC Underhood",
+                "Hygiene/Personal Care",
+                "Individual Equiptment",
+                "Interior Rail Components",
+                "Inverter",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Medical Device",
+                "Meter Gas",
+                "Meter Water",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Photovoltaic Components",
+                "Power Manangement",
+                "Pump",
+                "Refrigerator",
+                "Respiratory",
+                "Security/Detection",
+                "Semiconductor",
+                "Small Appliance",
+                "Swimming Pool/Spa",
+                "Tray",
+                "Vacuum Cleaner",
+                "Vending Machine",
+                "Washing Machine",
+                "Watch/Jewelry",
+                "Water Treatment/Filtration",
+                "Wearables",
+                "Window",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_500R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_500r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "40b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Rail",
+                "Consumer Packaging",
+                "Personal Accessory",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Automotive Under the Hood",
+                "Commercial Appliance",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "500r"
+        },
+        {
+            "$id": "7",
+            "id": "4d31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "503R",
+            "summary": "10% glass fiber filled PC. UV stabilized. Mold release. Flame retardant, UL94 V0 and 5VA rated. UL746C f1 rated. Available in natural and opaque colors.",
+            "description": "LEXAN\u2122 503R resin is a 10% glass fiber filled polycarbonate. UV stabilized. Mold release. Flame retardant, UL94 V0 and 5VA rated. UL746C f1 rated. Combination of modulus, impact strength and flame retardancy. Available in natural and opaque colors.",
+            "applications": [
+                "Air Cabin Interiors",
+                "ATM/Ticket Machine",
+                "Auto Aftermarket",
+                "Building Accessory",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Humidity Control",
+                "Individual Equiptment",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Gas",
+                "Non-LED Lighting",
+                "Oil/Gas",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Power Manangement",
+                "Pump",
+                "Refrigerator",
+                "Security/Detection",
+                "Small Appliance",
+                "Toy",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_503R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_503r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "49b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Water Management",
+                "Fossil",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance",
+                "Nuclear",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "503r"
+        },
+        {
+            "$id": "8",
+            "id": "4f31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "505R",
+            "summary": "10% glass fiber filled, 7 MFR PC, MVR of 7. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 and 5VA rated. Available in natural and opaque colors.",
+            "description": "LEXAN\u2122 505R resin is a 10% glass fiber filled, 7 MFR polycarbonate, MVR of 7. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 and 5VA rated. Combination of modulus, impact strength and flame retardancy. Available in natural and opaque colors.",
+            "applications": [
+                "Circuit Protection",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "Energy Management",
+                "Lab Ware and Clinical Diagnostics",
+                "Travel Suitcase",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_505R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_505r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210916",
+                    "id": "76b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_505R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_505r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210916",
+                    "id": "79b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_505R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_505r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210916",
+                    "id": "bac4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Sport/Leisure",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "505r"
+        },
+        {
+            "$id": "9",
+            "id": "5031aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "505RU",
+            "summary": "Non-Cl/Br FR, 10% glass-filled PC, UV resistant, UL94 V0@1.5mm",
+            "description": "LEXAN 505RU Polycarbonate (PC) is an injection moldable non-chlorinated and non-brominated flame retardant grade that is 10% glass fiber filled. It It is UV stabilized and has a UL94 V0@1.5mm rating and is available in various opaque color options. This is an alternative to LEXAN  503R, 503R, 503RS.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Battery Cell",
+                "Circuit Protection",
+                "Data Transfer",
+                "Displays",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Power Boat",
+                "Power Manangement",
+                "Small Appliance",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_505RU_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_505ru_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210824",
+                    "id": "7cb1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_505RU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_505ru_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210824",
+                    "id": "bbc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Lighting",
+                "Energy Storage",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "505ru"
+        },
+        {
+            "$id": "10",
+            "id": "3f4b395e-eb62-e711-80fb-005056857ef3",
+            "title": "515RU",
+            "summary": "Non-Cl/Br FR, 10% glass-filled PC, UV resistant, UL94 V0@1.5mm",
+            "description": "LEXAN 515RU Polycarbonate (PC) is an injection moldable non-chlorinated and non-brominated flame retardant grade that is 10% glass fiber filled. It is UV stabilized and has a UL94 V0@1.5mm rating and is available in various opaque color options. This is an alternative to LEXAN  503R, 503R, 503RS, 505RU, 513RS.",
+            "applications": [
+                "Energy Management"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_515RU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_515ru_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "b684cfd7-ee62-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "515ru"
+        },
+        {
+            "$id": "11",
+            "id": "f131aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "905",
+            "summary": "Non-Cl/Br FR, unfilled PC, MVR (300\u00b0C/1.2kg) 29, UL94 V0@1.1mm",
+            "description": "LEXAN 905 Polycarbonate (PC) is an injection moldable non-chlorinated and non-brominated, unfilled flame retardant grade with high flow. It has an MVR of 29 (300\u00b0C/1.2kg) and a UL94 V0@1.1mm, 5VA at 2.8mm rating and is available in various opaque color options.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Audio",
+                "Battery Cell",
+                "Circuit Protection",
+                "Data Transfer",
+                "Displays",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "EV Infrastructure",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Power Manangement",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_905_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_905_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "e1c4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_905_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_905_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "8d978fe8-e11a-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Energy Storage",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "905"
+        },
+        {
+            "$id": "12",
+            "id": "f331aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "905AU",
+            "summary": "Non-Cl/Br FR, unfilled PC, UV resistant, clear, MVR (300\u00b0C/1.2kg) 29, UL94 V0@1.1mm",
+            "description": "LEXAN 905AU Polycarbonate (PC) is an injection moldable non-chlorinated and non-brominated, unfilled, transparent flame retardant grade with high flow. It is UV stabilized and  has an MVR of 29 (300\u00b0C/1.2kg) and a UL94 V0@2.5mm rating and is available in a variety of colors.",
+            "applications": [
+                "Humidity Control",
+                "Power Manangement",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_905AU_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_905au_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "1043e143-8bfb-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "905au"
+        },
+        {
+            "$id": "13",
+            "id": "fc31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "915AU",
+            "summary": "Non-Cl/Br FR, unfilled PC, UV resistant, clear, MVR (300\u00b0C/1.2kg) 21, UL94 V0@3mm",
+            "description": "LEXAN 915AU Polycarbonate (PC) is an injection moldable non-chlorinated and non-brominated, unfilled, transparent flame retardant grade with high flow. It is UV stabilized and  has an MVR of 21 (300\u00b0C/1.2kg) and a UL94 V0@3mm,  and is available in a variety of colors.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Data Transfer",
+                "Displays",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Food Container",
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_915AU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_915au_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "56b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_915AU_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_915au_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "d2b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Food & Beverage",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "915au"
+        },
+        {
+            "$id": "14",
+            "id": "fe31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "915R",
+            "summary": "18 MFR PC, MVR of 18. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. Available in opaque colors.",
+            "description": "LEXAN\u2122 915R resin is a 18 MFR polycarbonate, MVR of 18. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. Available in opaque colors.",
+            "applications": [
+                "Aerospace",
+                "Aircraft Seating",
+                "Auto Aftermarket",
+                "Circuit Protection",
+                "Cooking Range",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Power Manangement",
+                "Rail",
+                "Recreational Vehicle",
+                "Scooter/Moped",
+                "Security/Detection",
+                "Small Appliance",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_915R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_915r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "d5b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_915R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_915r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "0db2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_915R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_915r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "e7c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Rail",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Patient Testing",
+                "Recreational Vehicle",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "915r"
+        },
+        {
+            "$id": "15",
+            "id": "c891b6b2-8088-eb11-8108-005056857ef3",
+            "title": "915RU",
+            "summary": "18 MFR PC, MVR of 18. UV stabilized. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. UL746C f1 rated. Available in opaque colors.",
+            "description": "LEXAN\u2122 915RU resin is a 18 MFR polycarbonate, MVR of 18. UV stabilized. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. UL746C f1 rated. Available in opaque colors.",
+            "applications": [
+                "Audio",
+                "Circuit Protection",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Humidity Control",
+                "LED Lighting",
+                "Medical Facility Infrastructure",
+                "Monitoring and Imaging",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Power Manangement",
+                "Security/Detection",
+                "Small Appliance",
+                "Swimming Pool/Spa",
+                "Washing Machine",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_915RU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_915ru_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "41d0641f-8988-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Patient Testing",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "915ru"
+        },
+        {
+            "$id": "16",
+            "id": "0032aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "916R",
+            "summary": "Non-Cl/Br FR, unfilled PC, release, MVR (300\u00b0C/1.2kg) 18, UL94 V0@.8mm",
+            "description": "LEXAN 916R Polycarbonate (PC) is an injection moldable non-chlorinated and non-brominated, unfilled flame retardant grade with medium/high flow and good release. It has an MVR of 18 (300\u00b0C/1.2kg) and a UL94 V0@.8mm, and is available in various opaque color options.",
+            "applications": [
+                "Circuit Protection",
+                "Electronic Components",
+                "Enclosures",
+                "Non-LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_916R_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_916r_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "5cb1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "916r"
+        },
+        {
+            "$id": "17",
+            "id": "0132aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "920",
+            "summary": "15 MFR PC, MVR of 21. Mold release. Flame retardant, UL94 V0 rated. UL746C f1 rated. Available in opaque colors.",
+            "description": "LEXAN\u2122 920 resin is a 15 MFR polycarbonate, MVR of 21. Mold release. Flame retardant, UL94 V0 rated. UL746C f1 rated. Available in opaque colors.",
+            "applications": [
+                "Audio",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Freezer",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "Laundry Dryer",
+                "LED Lighting",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Power Manangement",
+                "Renal and Blood Handling",
+                "Respiratory",
+                "Small Appliance",
+                "Smart/ID Card",
+                "Vending Machine",
+                "Washing Machine",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_920_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_920_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "10b2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Personal Accessory",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "920"
+        },
+        {
+            "$id": "18",
+            "id": "0232aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "920A",
+            "summary": "15 MFR PC. Mold release. Flame retardant, UL94 V0 rated. Available in transparent and translucent colors.",
+            "description": "LEXAN\u2122 920A resin is a 15 MFR polycarbonate. Mold release. Flame retardant, UL94 V0 rated. Available in transparent and translucent colors.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Aircraft Seating",
+                "Amusement Machine",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Battery Pack",
+                "Building Accessory",
+                "Building Element",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Freezer",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Power Manangement",
+                "Refrigerator",
+                "Renal and Blood Handling",
+                "Seating/Chair",
+                "Security/Detection",
+                "Small Appliance",
+                "Vacuum Cleaner",
+                "Washing Machine",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_920A_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_920a_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "16b2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Home Decoration",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Fluid and Blood Handling",
+                "Commercial Appliance",
+                "Medical Facility Infrastructure",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "920a"
+        },
+        {
+            "$id": "19",
+            "id": "0632aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "923A",
+            "summary": "15 MFR PC. UV stabilized. Mold release. Flame retardant, UL94 V0 rated. UL746C f1 rated. Available in transparent and translucent colors.",
+            "description": "LEXAN\u2122 923A resin is a 15 MFR polycarbonate. UV stabilized. Mold release. Flame retardant, UL94 V0 rated. UL746C f1 rated. Available in transparent and translucent colors.",
+            "applications": [
+                "Air Conditioning",
+                "Aircraft Seating",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Auto Aftermarket",
+                "Battery Pack",
+                "Building Accessory",
+                "Cooking Range",
+                "Data Management",
+                "Data Transfer",
+                "Dishwasher",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Gas/Electric Oven",
+                "Individual Equiptment",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Security/Detection",
+                "Smart/ID Card",
+                "Surgical Devices",
+                "Swimming Pool/Spa",
+                "Washing Machine",
+                "Water Treatment/Filtration",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_923A_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_923a_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "ebc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Surgical",
+                "Personal Accessory",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Commercial Appliance",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "923a"
+        },
+        {
+            "$id": "20",
+            "id": "0a32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "925",
+            "summary": "14 MFR PC, MVR of 13. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. Available in opaque colors.",
+            "description": "LEXAN\u2122 925 resin is a 14 MFR polycarbonate, MVR of 13. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. Available in opaque colors.",
+            "applications": [
+                "Additive Semiconductor Materials",
+                "Amusement Machine",
+                "ATM/Ticket Machine",
+                "Building Element",
+                "Circuit Protection",
+                "Cooking Range",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "EV Infrastructure",
+                "Gas/Electric Oven",
+                "LED Lighting",
+                "Medical Device",
+                "Meter Gas",
+                "Meter Water",
+                "Microwave Oven",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Plumbing",
+                "Power Manangement",
+                "Pump",
+                "Rail Seating",
+                "Rail Window Glazing",
+                "Small Appliance",
+                "Sunglasses",
+                "Vacuum Cleaner",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_925_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_925_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "68b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_925_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_925_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "e1b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_925_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_925_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "1cb2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Ophthalmics",
+                "Rail",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "925"
+        },
+        {
+            "$id": "21",
+            "id": "0b32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "925A",
+            "summary": "13 MFR PC, MVR of 13. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. Available in transparent and translucent colors.",
+            "description": "LEXAN\u2122 925A resin is a 13 MFR polycarbonate, MVR of 13. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. Available in transparent and translucent colors.",
+            "applications": [
+                "Air Cabin Interiors",
+                "ATM/Ticket Machine",
+                "Auto Aftermarket",
+                "Circuit Protection",
+                "Cooking Range",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "EV Infrastructure",
+                "LED Lighting",
+                "Monitoring and Imaging",
+                "Oil/Gas",
+                "Personal Computing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Photo/Video Camera",
+                "Pump",
+                "Security/Detection",
+                "Small Appliance",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_925A_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_925a_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "6bb1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_925A_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_925a_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "1fb2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_925A_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_925a_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "ecc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Water Management",
+                "Fossil",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Commercial Appliance",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "925a"
+        },
+        {
+            "$id": "22",
+            "id": "0c32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "925AU",
+            "summary": "13 MFR PC, MVR of 13. UV stabilized. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. UL746C f1 rated. Available in transparent and translucent colors.",
+            "description": "LEXAN\u2122 925AU resin is a 13 MFR polycarbonate, MVR of 13. UV stabilized. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. UL746C f1 rated. Available in transparent and translucent colors.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Furnace/Heater",
+                "Heavy Vehicles",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Monitoring and Imaging",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Power Manangement",
+                "Refrigerator",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_925AU_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_925au_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "6eb1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_925AU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_925au_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "22b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_925AU_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_925au_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "edc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Patient Testing",
+                "Commercial Appliance",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "925au"
+        },
+        {
+            "$id": "23",
+            "id": "0d32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "925U",
+            "summary": "14 MFR PC, MVR of 14. UV stabilized. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. UL746C f1 rated. Available in opaque colors.",
+            "description": "LEXAN\u2122 925U resin is a 14 MFR polycarbonate, MVR of 14. UV stabilized. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. UL746C f1 rated. Available in opaque colors.",
+            "applications": [
+                "Air Cabin Interiors",
+                "ATM/Ticket Machine",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Freezer",
+                "Game Player",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Medical Facility Infrastructure",
+                "Meter Water",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Power Manangement",
+                "Rail Seating",
+                "Recreational Vehicle",
+                "Security/Detection",
+                "Smart/ID Card",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_925U_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_925u_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "71b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_925U_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_925u_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "e4b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_925U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_925u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "e7b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Rail",
+                "Personal Accessory",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Commercial Appliance",
+                "Recreational Vehicle",
+                "Medical Facility Infrastructure",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "925u"
+        },
+        {
+            "$id": "24",
+            "id": "1132aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "940",
+            "summary": "10 MFR PC. Mold release. Flame retardant, UL94 V0 rated. UL746C f1 rated. Available in opaque colors.",
+            "description": "LEXAN\u2122 940 resin is a 10 MFR polycarbonate. Mold release. Flame retardant, UL94 V0 rated. UL746C f1 rated. Available in opaque colors.",
+            "applications": [
+                "Aerospace",
+                "Air Cabin Interiors",
+                "Air Filtration",
+                "Aircraft Seating",
+                "Airline Service",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Auto Aftermarket",
+                "Building Accessory",
+                "Circuit Protection",
+                "Cooking Range",
+                "Data Management",
+                "Data Transfer",
+                "Dishwasher",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Freezer",
+                "Furnace/Heater",
+                "Head Protection",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Device",
+                "Meter Gas",
+                "Meter Water",
+                "Microwave Oven",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Power Manangement",
+                "Rail Cabin Interiors",
+                "Seating/Chair",
+                "Security/Detection",
+                "Semiconductor",
+                "Small Appliance",
+                "Toy",
+                "Vacuum Cleaner",
+                "Washing Machine",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_940_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_940_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "28b2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Ophthalmics",
+                "Rail",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Lighting",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Commercial Appliance",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "940"
+        },
+        {
+            "$id": "25",
+            "id": "1232aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "940A",
+            "summary": "10 MFR PC. Mold release. Flame retardant, UL94 V0 rated. Available in transparent and translucent colors.",
+            "description": "LEXAN\u2122 940A resin is a 10 MFR polycarbonate. Mold release. Flame retardant, UL94 V0 rated. Available in transparent and translucent colors.",
+            "applications": [
+                "Additive Semiconductor Materials",
+                "Aerospace",
+                "Air Cabin Interiors",
+                "Aircraft Seating",
+                "Airline Service",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Battery Pack",
+                "Building Accessory",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Freezer",
+                "Fuel Cell",
+                "Furnace/Heater",
+                "Head Protection",
+                "Heavy Vehicles",
+                "Inverter",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Microwave Oven",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Overhead",
+                "Pallet",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Photovoltaic Components",
+                "Power Boat",
+                "Power Manangement",
+                "Rail",
+                "Refrigerator",
+                "Respiratory",
+                "Security/Detection",
+                "Semiconductor",
+                "Small Appliance",
+                "Surgical Devices",
+                "Vending Machine",
+                "Washing Machine",
+                "Water Treatment/Filtration",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_940A_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_940a_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "eab1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Water Management",
+                "Electric Vehicle",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Surgical",
+                "Ophthalmics",
+                "Rail",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Energy Storage",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Commercial Appliance",
+                "Medical Facility Infrastructure",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "940a"
+        },
+        {
+            "$id": "26",
+            "id": "1432aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "943",
+            "summary": "10 MFR PC. UV stabilized. Mold release. Flame retardant, UL94 V0 rated. UL746C f1 rated. Available in opaque colors.",
+            "description": "LEXAN\u2122 943 resin is a 10 MFR polycarbonate. UV stabilized. Mold release. Flame retardant, UL94 V0 rated. UL746C f1 rated. Available in opaque colors.",
+            "applications": [
+                "Air Cabin Interiors",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Battery Pack",
+                "Building Accessory",
+                "Circuit Protection",
+                "Data Transfer",
+                "Dishwasher",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Freezer",
+                "Interior",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Facility Infrastructure",
+                "Meter Water",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Photovoltaic Components",
+                "Power Manangement",
+                "Rail Cabin Interiors",
+                "Respiratory",
+                "Security/Detection",
+                "Small Appliance",
+                "Washing Machine",
+                "Watch/Jewelry",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_943_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_943_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "2db2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Electric Vehicle",
+                "Heavy Truck",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Rail",
+                "Personal Accessory",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Commercial Appliance",
+                "Medical Facility Infrastructure",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "943"
+        },
+        {
+            "$id": "27",
+            "id": "1532aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "943A",
+            "summary": "10 MFR PC. UV stabilized. Mold release. Flame retardant, UL94 V0 rated. UL746C f1 rated. Available in transparent and translucent colors.",
+            "description": "LEXAN\u2122 943A resin is a 10 MFR polycarbonate. UV stabilized. Mold release. Flame retardant, UL94 V0 rated. UL746C f1 rated. Available in transparent and translucent colors.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Aircraft Seating",
+                "Amusement Machine",
+                "ATM/Ticket Machine",
+                "Auto Aftermarket",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Display",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Exterior Rail Components",
+                "Freezer",
+                "Heavy Vehicles",
+                "Individual Equiptment",
+                "Laundry Dryer",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Long Distance Coach",
+                "Monitoring and Imaging",
+                "Motorcycle",
+                "Neighborhood Electric Vehicle",
+                "Non-LED Lighting",
+                "OLED",
+                "Overhead",
+                "Personal Computing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Photo/Video Camera",
+                "Photovoltaic Components",
+                "Power Manangement",
+                "Pump",
+                "Rail Cabin Interiors",
+                "Rail Window Glazing",
+                "Rail",
+                "Refrigerator",
+                "Security/Detection",
+                "Small Appliance",
+                "Vacuum Cleaner",
+                "Vending Machine",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_943A_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_943a_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f1c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Pharmaceutical",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Rail",
+                "Home Decoration",
+                "Lighting",
+                "Home Appliance",
+                "Bus",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Patient Testing",
+                "Commercial Appliance",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "943a"
+        },
+        {
+            "$id": "28",
+            "id": "1a32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "945",
+            "summary": "10 MFR PC, MVR of 10. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 and 5VA rated. Available in opaque colors.",
+            "description": "LEXAN\u2122 945 resin is a 10 MFR polycarbonate, MVR of 10. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 and 5VA rated. Available in opaque colors.",
+            "applications": [
+                "Air Conditioning",
+                "Aircraft Seating",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Battery Pack",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Fluid Delivery",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "Humidity Control",
+                "Individual Equiptment",
+                "LED Lighting",
+                "Medical Device",
+                "Microwave Oven",
+                "Monitoring and Imaging",
+                "Navigation Unit",
+                "Non-LED Lighting",
+                "OLED",
+                "Personal Computing",
+                "Pharmaceutical Manufacturing",
+                "Photo/Video Camera",
+                "Photovoltaic Components",
+                "Power Manangement",
+                "Rail",
+                "Respiratory",
+                "Security/Detection",
+                "Small Appliance",
+                "Swimming Pool/Spa",
+                "Vacuum Cleaner",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_945_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_945_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "00b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_945_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_945_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "30b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_945_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_945_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "f3c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Pharmaceutical",
+                "Outdoor, Lawn and Landscape",
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Rail",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Automotive Under the Hood",
+                "Fluid and Blood Handling",
+                "Commercial Appliance",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "945"
+        },
+        {
+            "$id": "29",
+            "id": "1b32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "945A",
+            "summary": "Non-Hal FR, unfilled PC, clear, MVR (300\u00b0C/1.2kg) 10, UL94 V0@3.0mm",
+            "description": "LEXAN 945A Polycarbonate (PC) is an injection moldable non-halogenated, unfilled transparent flame retardant grade with medium flow. It has an MVR of 10 (300\u00b0C/1.2kg) and a UL94 V0@3.0mm, and is available in various color options.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Audio",
+                "Auto Aftermarket",
+                "Battery Pack",
+                "Cooking Range",
+                "Data Management",
+                "Data Transfer",
+                "Dishwasher",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Power Manangement",
+                "Security/Detection",
+                "Small Appliance",
+                "Surgical Devices",
+                "Water Treatment/Filtration",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_945A_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_945a_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "33b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_945A_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_945a_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "f4c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Surgical",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Commercial Appliance",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "945a"
+        },
+        {
+            "$id": "30",
+            "id": "1d32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "945AU",
+            "summary": "10 MFR PC, MVR of 10. UV stabilized. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. UL746C f1 rated. Available in transparent and translucent colors.",
+            "description": "LEXAN\u2122 945AU resin is a 10 MFR polycarbonate, MVR of 10. UV stabilized. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. UL746C f1 rated. Available in transparent and translucent colors.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Audio",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Hygiene/Personal Care",
+                "LED Lighting",
+                "Photovoltaic Components",
+                "Power Manangement",
+                "Rail Cabin Interiors",
+                "Security/Detection",
+                "Small Appliance",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_945AU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_945au_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "84b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_945AU_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_945au_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "03b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_945AU_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_945au_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f5c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Rail",
+                "Consumer Packaging",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "945au"
+        },
+        {
+            "$id": "31",
+            "id": "1e32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "945U",
+            "summary": "10 MFR PC, MVR of 10. UV stabilized. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. UL746C f1 rated. Available in opaque colors.",
+            "description": "LEXAN\u2122 945U resin is a 10 MFR polycarbonate, MVR of 10. UV stabilized. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. UL746C f1 rated. Available in opaque colors.",
+            "applications": [
+                "Audio",
+                "Circuit Protection",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Humidity Control",
+                "LED Lighting",
+                "Medical Facility Infrastructure",
+                "Monitoring and Imaging",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Power Manangement",
+                "Security/Detection",
+                "Small Appliance",
+                "Swimming Pool/Spa",
+                "Washing Machine",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_945U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_945u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "87b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_945U_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_945u_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "36b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_945U_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_945u_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "f6c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Patient Testing",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "945u"
+        },
+        {
+            "$id": "32",
+            "id": "2232aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "950",
+            "summary": "6 MFR PC, MVR of 7. Mold release. Flame retardant, UL94 V0 and 5VA rated. UL746C f1 rated. Available in opaque colors.",
+            "description": "LEXAN\u2122 950 resin is a 6 MFR polycarbonate, MVR of 7. Mold release. Flame retardant, UL94 V0 and 5VA rated. UL746C f1 rated. Available in opaque colors.",
+            "applications": [
+                "Air Conditioning",
+                "Audio",
+                "Circuit Protection",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Food Processor",
+                "LED Lighting",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Personal Computing",
+                "Power Manangement",
+                "Pump",
+                "Refrigerator",
+                "Respiratory",
+                "Security/Detection",
+                "Small Appliance",
+                "Swimming Pool/Spa",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_950_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_950_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f7c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "950"
+        },
+        {
+            "$id": "33",
+            "id": "2632aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "953A",
+            "summary": "7 MFR PC. UV stabilized. Mold release. Flame retardant, UL94 V0 rated. UL746C f1 rated. Available in transparent and translucent colors.",
+            "description": "LEXAN\u2122 953A resin is a 7 MFR polycarbonate. UV stabilized. Mold release. Flame retardant, UL94 V0 rated. UL746C f1 rated. Available in transparent and translucent colors.",
+            "applications": [
+                "Aerospace",
+                "Air Cabin Interiors",
+                "Aircraft Exteriors",
+                "Aircraft Seating",
+                "ATM/Ticket Machine",
+                "Battery Pack",
+                "Display",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Freezer",
+                "Heavy Vehicles",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Power Manangement",
+                "Renal and Blood Handling",
+                "Small Appliance",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_953A_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_953a_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "93b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Home Decoration",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Fluid and Blood Handling",
+                "Commercial Appliance",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "953a"
+        },
+        {
+            "$id": "34",
+            "id": "2732aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "955",
+            "summary": "7 MFR PC, MVR of 7. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 and 5VA rated. Available in opaque colors.",
+            "description": "LEXAN\u2122 955 resin is a 7 MFR polycarbonate, MVR of 7. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 and 5VA rated. Available in opaque colors.",
+            "applications": [
+                "Electronic Components",
+                "Enclosures",
+                "Energy Management",
+                "LED Lighting",
+                "Medical Device",
+                "Personal Computing",
+                "Power Manangement",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_955_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_955_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "96b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_955_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_955_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "0fb2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_955_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_955_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f8c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "955"
+        },
+        {
+            "$id": "35",
+            "id": "2932aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "955AU",
+            "summary": "Non-Hal FR, unfilled PC, clear, UV resistant, MVR (300\u00b0C/1.2kg) 7, UL94 V0@3.0mm",
+            "description": "LEXAN 955AU Polycarbonate (PC) is an injection moldable non-halogenated, unfilled transparent flame retardant grade with high viscosity. It is UV stabilized and has an MVR of 7(300\u00b0C/1.2kg) and a UL94 V0@3mm, and is available in various color options.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Data Management",
+                "Medical Device"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_955AU_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_955au_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "45b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_955AU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_955au_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "fac4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "955au"
+        },
+        {
+            "$id": "36",
+            "id": "3332aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "9915A",
+            "summary": "6.3 MFR PC, MVR of 7. UV stabilized. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. Available in transparent and translucent colors.",
+            "description": "LEXAN\u2122 9915A resin is a 6.3 MFR polycarbonate, MVR of 7. UV stabilized. Mold release. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. Available in transparent and translucent colors.",
+            "applications": [
+                "Data Management",
+                "Document Handling",
+                "Enclosures",
+                "Energy Management",
+                "Industrial Material Handling",
+                "LED Lighting",
+                "Meter Gas",
+                "Non-LED Lighting",
+                "Security/Detection"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_9915A_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_9915a_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "17b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_9915A_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_9915a_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "fcc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "9915a"
+        },
+        {
+            "$id": "37",
+            "id": "e932aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "BFL2010",
+            "summary": "Non-Cl/Br flame retardant, 10% glass-filled PC, UL94 V0@1.5mm",
+            "description": "LEXAN BFL2010 Polycarbonate (PC) is an injection moldable non-chlorinated/brominated flame retardant grade that is 10% glass fiber filled and has improved flow. It has a UL94 V0@1.5mm rating and is available in various opaque color options.",
+            "applications": [
+                "Building Accessory",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "LED Lighting",
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_BFL2010_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_bfl2010_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "21b2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "bfl2010"
+        },
+        {
+            "$id": "38",
+            "id": "ea32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "BFL2015",
+            "summary": "Non-Cl/Br flame retardant, 15% glass-filled PC, UL94 V0@1.5mm",
+            "description": "LEXAN BFL2015 Polycarbonate (PC) is an injection moldable non-chlorinated/brominated flame retardant grade that is 15% glass fiber filled and has improved flow. It has a UL94 V0@1.5mm rating and is available in various opaque color options.",
+            "applications": [
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "LED Lighting",
+                "Personal Computing",
+                "Plumbing",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_BFL2015_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_bfl2015_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "24b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_BFL2015_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_bfl2015_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "9db2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "bfl2015"
+        },
+        {
+            "$id": "39",
+            "id": "0133aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "BPL1000",
+            "summary": "25 MFR PC, MVR of 23. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. High flow with good impact performance. Available in opaque colors.",
+            "description": "LEXAN\u2122 BPL1000 resin is a 25 MFR polycarbonate, MVR of 23. Non-chlorinated, non-brominated flame retardant, UL94 V0 rated. High flow with good impact performance. Suitable for thin wall applications. Available in opaque colors.",
+            "applications": [
+                "Battery Cell",
+                "Data Management",
+                "Data Transfer",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Heavy Vehicles",
+                "LED Lighting",
+                "Medical Device",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Power Manangement",
+                "Small Appliance",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_BPL1000_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_bpl1000_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "d3b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_BPL1000_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_bpl1000_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "d6b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_BPL1000_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_bpl1000_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "2ac5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Lighting",
+                "Energy Storage",
+                "Home Appliance",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "bpl1000"
+        },
+        {
+            "$id": "40",
+            "id": "0a33aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "BY2710X",
+            "summary": "Non-Cl/Br FR, unfilled PC, MVR (300\u00b0C/1.2kg) 15, UL94 V0@1.5mm",
+            "description": "LEXAN BY2710X Polycarbonate (PC) is an injection moldable non-chlorinated/brominated, unfilled, flame retardant grade with good flow and impact performance. It has an MVR of 15 (300\u00b0C/1.2kg), UL94 V0@1.5mm, is available in various opaque color options.",
+            "applications": [
+                "Data Transfer",
+                "Displays",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Navigation Unit",
+                "Personal Computing",
+                "Power Manangement",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_BY2710X_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_by2710x_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "d9b2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "by2710x"
+        },
+        {
+            "$id": "41",
+            "id": "e238aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FL905",
+            "summary": "5% glass fiber filled, 3.2 MFR foamable PC, MVR of 3. Non-chlorinated and non-brominated flame retardant, UL94 V0 rated. Injection moldable.",
+            "description": "LEXAN\u2122 FL905 resin is a 5% glass fiber filled, 3.2 MFR foamable polycarbonate, MVR of 3. Non-chlorinated and non-brominated flame retardant, UL94 V0 rated. Injection moldable.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_FL905_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_fl905_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "21b5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_FL905_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_fl905_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "52152a4b-0b1b-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_FL905_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_fl905_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "37918757-0b1b-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fl905"
+        },
+        {
+            "$id": "42",
+            "id": "e338aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FL910",
+            "summary": "10% glass fiber filled foamable PC. Flame retardant, UL94 V0 and 5VA rated. High flexural strength and modulus. Injection moldable.",
+            "description": "LEXAN\u2122 FL910 resin is a 10% glass fiber filled foamable polycarbonate. Flame retardant, UL94 V0 and 5VA rated. High flexural strength and modulus. Injection moldable.",
+            "applications": [
+                "Data Transfer",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Renal and Blood Handling"
+            ],
+            "processingTechniques": [
+                "Structural Foam Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_FL910_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_fl910_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f4b5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fl910"
+        },
+        {
+            "$id": "43",
+            "id": "5c3daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX7169",
+            "summary": "Non-Cl/Br FR PC, MVR (300\u00b0C/1.2kg) 22, UL94 V0@0.9mm, light reflective, LED",
+            "description": "LEXAN LUX7169 is an injection moldable polycarbonate (PC). It contains non-brominated, non-chlorinated flame retardant systems with UL-94 V0@0.9mm rating. It is designed for high light reflectance and shielding applications with good weathering capability.",
+            "applications": [
+                "Enclosures",
+                "Heavy Vehicles",
+                "LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_LUX7169_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_lux7169_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "03ba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_LUX7169_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_lux7169_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "60660853-62e3-e911-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Specialty Vehicles",
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux7169"
+        },
+        {
+            "$id": "44",
+            "id": "5d3daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX7189",
+            "summary": "Non-Cl/Br FR PC, MVR (300\u00b0C/1.2kg) 23, UL94 V0@1.5mm, light reflective, UV, LED",
+            "description": "LEXAN LUX7189 is an injection moldable polycarbonate (PC) with an MVR (300\u00b0C/1.2kg) 23. It contains non-brominated, non-chlorinated flame retardant systems with UL-94 V0@1.5mm rating. It is designed for high light reflectance and shielding applications with good UV weathering capability.",
+            "applications": [
+                "Displays",
+                "LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_LUX7189_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_lux7189_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "70c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux7189"
+        },
+        {
+            "$id": "45",
+            "id": "683daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX9230T",
+            "summary": "Non-Cl/Br FR PC, MVR (300\u00b0C/1.2kg) 13, UL94 V0@3.05mm, transparent, UV, LED",
+            "description": "LEXAN LUX9230T is an injection moldable polycarbonate (PC) with an MVR (300\u00b0C/1.2kg) 13. It contains non-brominated, non-chlorinated flame retardant systems with UL-94 V0@3.05mm rating. This is a transparent grade with high optical clarity and impact resistance. LUX9230T is available in transparent and tinted color options.",
+            "applications": [
+                "EV Infrastructure",
+                "LED Lighting",
+                "Non-LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_LUX9230T_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_lux9230t_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "82b9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux9230t"
+        },
+        {
+            "$id": "46",
+            "id": "693daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX9610",
+            "summary": "7 MFR PC, MVR of 7. UV stabilized. Non-brominated and non-chlorinated flame retardant, UL94 V0 rated. UL746C f2 rated. Transparent grade. High optical clarity.",
+            "description": "LEXAN\u2122 LUX9610 resin is a 7 MFR polycarbonate, MVR of 7. UV stabilized. Non-brominated and non-chlorinated flame retardant, UL94 V0 rated. UL746C f2 rated. Transparent grade. High optical clarity with impact resistance. Injection moldable.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Amusement Machine",
+                "ATM/Ticket Machine",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Enclosures",
+                "Heavy Vehicles",
+                "Individual Equiptment",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Power Manangement",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_LUX9610_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_lux9610_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "85b9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_LUX9610_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_lux9610_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "1cba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_LUX9610_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_lux9610_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "78c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux9610"
+        },
+        {
+            "$id": "47",
+            "id": "6b3daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX9612G",
+            "summary": "7 MFR PC, MVR of 7. UV stabilized. Non-brominated and non-chlorinated flame retardant, UL94 V0 rated. UL746C f2 rated. Light diffusion effect. Good color stability under heat exposure.",
+            "description": "LEXAN\u2122 LUX9612G resin is a 7 MFR polycarbonate, MVR of 7. UV stabilized. Non-brominated and non-chlorinated flame retardant, UL94 V0 rated. UL746C f2 rated. Light diffusion effect. Good color stability under heat exposure. Injection moldable.",
+            "applications": [
+                "Algae",
+                "Electronic Components",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Wearables",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_LUX9612G_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_lux9612g_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "7fb8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_LUX9612G_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_lux9612g_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "8bb9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Bio Energy",
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux9612g"
+        },
+        {
+            "$id": "48",
+            "id": "6d3daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LUX9616G",
+            "summary": "Non-Cl/Br FR PC, MVR (300\u00b0C/1.2kg) 7, UL94 V0@1.5mm, diffusive, UV, LED",
+            "description": "LEXAN LUX9616G is an injection moldable polycarbonate (PC) with an MVR (300\u00b0C/1.2kg) 7. It contains non-brominated, non-chlorinated flame retardant systems with UL-94 V0@1.5mm rating. This UV stabilized grade has a diffusion effect and thin wall FR performance providing good color stability under heat exposure.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_LUX9616G_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_lux9616g_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "22ba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_LUX9616G_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_lux9616g_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "79c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lux9616g"
+        },
+        {
+            "$id": "49",
+            "id": "383eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "ML1655R",
+            "summary": "10 MFR PC. Mold release. Flame retardant, UL94 V0 rated. Unfilled, medium viscosity utility grade. Available only in black color.",
+            "description": "LEXAN\u2122 ML1655R resin is a 10 MFR polycarbonate. Mold release. Flame retardant, UL94 V0 rated. Unfilled, medium viscosity utility grade. Available only in black color.",
+            "applications": [
+                "Data Transfer",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Individual Equiptment",
+                "Security/Detection",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_ML1655R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_ml1655r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "a1c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ml1655r"
+        },
+        {
+            "$id": "50",
+            "id": "433eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "ML3019",
+            "summary": "Non-Cl/Br flame retardant, 10% glass-filled PC, UL94 V0@1.5mm",
+            "description": "LEXAN ML3019 Polycarbonate (PC) is an injection moldable non-chlorinated/brominated flame retardant grade that is 10% glass fiber filled. It  has a UL94 V0@1.5mm rating.",
+            "applications": [
+                "Circuit Protection",
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resins_ML3019_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resins_ml3019_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "14ba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ml3019"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "51",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "52",
+            "id": "b07d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Structural Foam Molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "53",
+            "id": "43ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Amusement Machine",
+            "count": 0
+        },
+        {
+            "$id": "54",
+            "id": "47ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "ATM/Ticket Machine",
+            "count": 0
+        },
+        {
+            "$id": "55",
+            "id": "48ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Audio",
+            "count": 0
+        },
+        {
+            "$id": "56",
+            "id": "49ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Aftermarket",
+            "count": 0
+        },
+        {
+            "$id": "57",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "58",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "59",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "60",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "61",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "62",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "63",
+            "id": "7effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronics",
+            "count": 0
+        },
+        {
+            "$id": "64",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "65",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "66",
+            "id": "82ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Management",
+            "count": 0
+        },
+        {
+            "$id": "67",
+            "id": "a2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Gas/Electric Oven",
+            "count": 0
+        },
+        {
+            "$id": "68",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "69",
+            "id": "b1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "70",
+            "id": "b7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lab Ware and Clinical Diagnostics",
+            "count": 0
+        },
+        {
+            "$id": "71",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "72",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "73",
+            "id": "c0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "74",
+            "id": "c2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Water",
+            "count": 0
+        },
+        {
+            "$id": "75",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "76",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "77",
+            "id": "d6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photo/Video Camera",
+            "count": 0
+        },
+        {
+            "$id": "78",
+            "id": "ddffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "79",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "80",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "81",
+            "id": "0e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vending Machine",
+            "count": 0
+        },
+        {
+            "$id": "82",
+            "id": "1400ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wearables",
+            "count": 0
+        },
+        {
+            "$id": "83",
+            "id": "1b00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window",
+            "count": 0
+        },
+        {
+            "$id": "84",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "85",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "86",
+            "id": "38ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aerospace",
+            "count": 0
+        },
+        {
+            "$id": "87",
+            "id": "39ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "88",
+            "id": "3effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aircraft Exteriors",
+            "count": 0
+        },
+        {
+            "$id": "89",
+            "id": "53ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Accessory",
+            "count": 0
+        },
+        {
+            "$id": "90",
+            "id": "54ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Element",
+            "count": 0
+        },
+        {
+            "$id": "91",
+            "id": "63ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Coffee Maker/Espresso Machine",
+            "count": 0
+        },
+        {
+            "$id": "92",
+            "id": "73ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Door Handle",
+            "count": 0
+        },
+        {
+            "$id": "93",
+            "id": "79ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components & Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "94",
+            "id": "7affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical",
+            "count": 0
+        },
+        {
+            "$id": "95",
+            "id": "7cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "96",
+            "id": "8bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exercise Equipment",
+            "count": 0
+        },
+        {
+            "$id": "97",
+            "id": "92ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fixture Bath/Shower",
+            "count": 0
+        },
+        {
+            "$id": "98",
+            "id": "96ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Processor",
+            "count": 0
+        },
+        {
+            "$id": "99",
+            "id": "abffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Hot Water System",
+            "count": 0
+        },
+        {
+            "$id": "100",
+            "id": "baffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lawn/Garden",
+            "count": 0
+        },
+        {
+            "$id": "101",
+            "id": "c5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Monitoring and Imaging",
+            "count": 0
+        },
+        {
+            "$id": "102",
+            "id": "c6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Motorcycle",
+            "count": 0
+        },
+        {
+            "$id": "103",
+            "id": "d5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Packaging & Drug Delivery",
+            "count": 0
+        },
+        {
+            "$id": "104",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        },
+        {
+            "$id": "105",
+            "id": "daffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Boat",
+            "count": 0
+        },
+        {
+            "$id": "106",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "107",
+            "id": "dcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pump",
+            "count": 0
+        },
+        {
+            "$id": "108",
+            "id": "e7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory",
+            "count": 0
+        },
+        {
+            "$id": "109",
+            "id": "ebffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Scooter/Moped",
+            "count": 0
+        },
+        {
+            "$id": "110",
+            "id": "efffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductor",
+            "count": 0
+        },
+        {
+            "$id": "111",
+            "id": "faffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Storage/Table",
+            "count": 0
+        },
+        {
+            "$id": "112",
+            "id": "ffffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Devices",
+            "count": 0
+        },
+        {
+            "$id": "113",
+            "id": "0100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Swimming Pool/Spa",
+            "count": 0
+        },
+        {
+            "$id": "114",
+            "id": "0200ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Thermoplastic",
+            "count": 0
+        },
+        {
+            "$id": "115",
+            "id": "0500ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Traffic Management",
+            "count": 0
+        },
+        {
+            "$id": "116",
+            "id": "0a00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Trim",
+            "count": 0
+        },
+        {
+            "$id": "117",
+            "id": "0d00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vacuum Cleaner",
+            "count": 0
+        },
+        {
+            "$id": "118",
+            "id": "1000ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Washing Machine",
+            "count": 0
+        },
+        {
+            "$id": "119",
+            "id": "1100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Watch/Jewelry",
+            "count": 0
+        },
+        {
+            "$id": "120",
+            "id": "1200ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Treatment/Filtration",
+            "count": 0
+        },
+        {
+            "$id": "121",
+            "id": "1500ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Weaving Machine",
+            "count": 0
+        },
+        {
+            "$id": "122",
+            "id": "32431af9-01d4-4107-9322-793fbea45634",
+            "title": "Irrigation",
+            "count": 0
+        },
+        {
+            "$id": "123",
+            "id": "86ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "124",
+            "id": "d4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Manufacturing",
+            "count": 0
+        },
+        {
+            "$id": "125",
+            "id": "3affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Conditioning",
+            "count": 0
+        },
+        {
+            "$id": "126",
+            "id": "3bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Filtration",
+            "count": 0
+        },
+        {
+            "$id": "127",
+            "id": "4affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Electrical",
+            "count": 0
+        },
+        {
+            "$id": "128",
+            "id": "6dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "129",
+            "id": "6fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Dishwasher",
+            "count": 0
+        },
+        {
+            "$id": "130",
+            "id": "8dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Mirror",
+            "count": 0
+        },
+        {
+            "$id": "131",
+            "id": "adffee91-14d8-e611-819b-06b69393ae39",
+            "title": "HVAC Underhood",
+            "count": 0
+        },
+        {
+            "$id": "132",
+            "id": "aeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Hygiene/Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "133",
+            "id": "b0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Individual Equiptment",
+            "count": 0
+        },
+        {
+            "$id": "134",
+            "id": "b4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior Rail Components",
+            "count": 0
+        },
+        {
+            "$id": "135",
+            "id": "b6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Inverter",
+            "count": 0
+        },
+        {
+            "$id": "136",
+            "id": "c1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Gas",
+            "count": 0
+        },
+        {
+            "$id": "137",
+            "id": "e4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Refrigerator",
+            "count": 0
+        },
+        {
+            "$id": "138",
+            "id": "0900ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Tray",
+            "count": 0
+        },
+        {
+            "$id": "139",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "140",
+            "id": "acffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Humidity Control",
+            "count": 0
+        },
+        {
+            "$id": "141",
+            "id": "cbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Oil/Gas",
+            "count": 0
+        },
+        {
+            "$id": "142",
+            "id": "0300ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Toy",
+            "count": 0
+        },
+        {
+            "$id": "143",
+            "id": "0800ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Travel Suitcase",
+            "count": 0
+        },
+        {
+            "$id": "144",
+            "id": "4cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery Cell",
+            "count": 0
+        },
+        {
+            "$id": "145",
+            "id": "95ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Container",
+            "count": 0
+        },
+        {
+            "$id": "146",
+            "id": "3fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aircraft Seating",
+            "count": 0
+        },
+        {
+            "$id": "147",
+            "id": "69ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cooking Range",
+            "count": 0
+        },
+        {
+            "$id": "148",
+            "id": "e0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "count": 0
+        },
+        {
+            "$id": "149",
+            "id": "e3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "150",
+            "id": "9affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Freezer",
+            "count": 0
+        },
+        {
+            "$id": "151",
+            "id": "b9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Laundry Dryer",
+            "count": 0
+        },
+        {
+            "$id": "152",
+            "id": "e6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Renal and Blood Handling",
+            "count": 0
+        },
+        {
+            "$id": "153",
+            "id": "f6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Smart/ID Card",
+            "count": 0
+        },
+        {
+            "$id": "154",
+            "id": "4dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery Pack",
+            "count": 0
+        },
+        {
+            "$id": "155",
+            "id": "edffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Seating/Chair",
+            "count": 0
+        },
+        {
+            "$id": "156",
+            "id": "37ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Semiconductor Materials",
+            "count": 0
+        },
+        {
+            "$id": "157",
+            "id": "c3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Microwave Oven",
+            "count": 0
+        },
+        {
+            "$id": "158",
+            "id": "d9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Plumbing",
+            "count": 0
+        },
+        {
+            "$id": "159",
+            "id": "deffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail Seating",
+            "count": 0
+        },
+        {
+            "$id": "160",
+            "id": "dfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail Window Glazing",
+            "count": 0
+        },
+        {
+            "$id": "161",
+            "id": "fdffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sunglasses",
+            "count": 0
+        },
+        {
+            "$id": "162",
+            "id": "9fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Furnace/Heater",
+            "count": 0
+        },
+        {
+            "$id": "163",
+            "id": "a1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Game Player",
+            "count": 0
+        },
+        {
+            "$id": "164",
+            "id": "40ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Airline Service",
+            "count": 0
+        },
+        {
+            "$id": "165",
+            "id": "a7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Head Protection",
+            "count": 0
+        },
+        {
+            "$id": "166",
+            "id": "9dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fuel Cell",
+            "count": 0
+        },
+        {
+            "$id": "167",
+            "id": "cdffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Overhead",
+            "count": 0
+        },
+        {
+            "$id": "168",
+            "id": "ceffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pallet",
+            "count": 0
+        },
+        {
+            "$id": "169",
+            "id": "b5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior",
+            "count": 0
+        },
+        {
+            "$id": "170",
+            "id": "70ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Display",
+            "count": 0
+        },
+        {
+            "$id": "171",
+            "id": "8effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Rail Components",
+            "count": 0
+        },
+        {
+            "$id": "172",
+            "id": "beffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Long Distance Coach",
+            "count": 0
+        },
+        {
+            "$id": "173",
+            "id": "c9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Neighborhood Electric Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "174",
+            "id": "ccffee91-14d8-e611-819b-06b69393ae39",
+            "title": "OLED",
+            "count": 0
+        },
+        {
+            "$id": "175",
+            "id": "93ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid Delivery",
+            "count": 0
+        },
+        {
+            "$id": "176",
+            "id": "c8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Navigation Unit",
+            "count": 0
+        },
+        {
+            "$id": "177",
+            "id": "41ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Algae",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "178",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "179",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "180",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "181",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "182",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense",
+            "id": "03ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "183",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Management",
+            "id": "07ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "184",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "185",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "186",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "187",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "id": "13ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "188",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "189",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "190",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "191",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "192",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "193",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "id": "2affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "194",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "195",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "id": "34ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "196",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Exteriors",
+            "id": "35ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "197",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical",
+            "id": "04ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "198",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Outdoor, Lawn and Landscape",
+            "id": "05ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "199",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "200",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "201",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Decoration",
+            "id": "16ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "202",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Materials",
+            "id": "18ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "203",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "204",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "205",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory and Sleep Therapy",
+            "id": "1effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "206",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Textile",
+            "id": "1fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "207",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "208",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Recreation",
+            "id": "27ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "209",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Aerospace",
+            "id": "62f520a6-82bc-40d1-8716-dfe4e90dbf65"
+        },
+        {
+            "$id": "210",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electric Vehicle",
+            "id": "09ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "211",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Consumer Packaging",
+            "id": "1affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "212",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Under the Hood",
+            "id": "2cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "213",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fossil",
+            "id": "08ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "214",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Nuclear",
+            "id": "32ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "215",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Storage",
+            "id": "21ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "216",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food & Beverage",
+            "id": "0fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "217",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "id": "31ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "218",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid and Blood Handling",
+            "id": "2effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "219",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductors",
+            "id": "06ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "220",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Ophthalmics",
+            "id": "12ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "221",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Heavy Truck",
+            "id": "0affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "222",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Bus",
+            "id": "24ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "223",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Bio Energy",
+            "id": "14ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

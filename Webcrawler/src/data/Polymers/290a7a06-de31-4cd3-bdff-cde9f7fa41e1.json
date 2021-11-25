@@ -1,0 +1,496 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "ef7c8507-d4fa-4682-892e-17e2c0c83816",
+            "title": "9421",
+            "summary": ".",
+            "description": "This random copolymer has a high molecular weight with special designed properties required for high demanding pressure pipes. It is highly heat\nstabilized and especially formulated for extraction resistance. This grade with long service life is typically used for the manufacturing of cold and hot water pipes\nand fittings for transport of drinking water. This grade is designed to fulfill the requirements in EN ISO 15874, ISO 3213, and DIN 8078.",
+            "applications": [
+                "Ground floor heating",
+                "Hot-cold water supply"
+            ],
+            "processingTechniques": [
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen P-9421-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2a3b10ce-03a5-4179-9bba-19982c1dc9dc"
+                },
+                {
+                    "documentType": "Drinkingwater contact declaration",
+                    "title": "9421\\00900-Drinkingwater contact declaration",
+                    "url": "/en/products/documents/9421-00900-drinkingwater-contact-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "401d432d-9f4d-471f-8631-5ead569e32de"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen P-9421-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9038fb42-7904-4439-a12f-6eebed5376bd"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "9421\\00900-Phthalates declaration",
+                    "url": "/en/products/documents/9421-00900-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5bda35f9-ec69-42f4-bfa9-7c0fc4dc4e16"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen P-9421-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "011a43a8-e377-4bc4-af0e-7d62e2d33253"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen P-9421-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e413d04b-30d5-475f-9523-9472f5970db3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-Vestolen P-9421-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e974930e-94a1-4a1a-8260-ab9ed6b05fd4"
+                },
+                {
+                    "documentType": "Datasheet ASTM",
+                    "title": "9421/00900/Pipe extrusion (normal)-Datasheet ASTM",
+                    "url": "/en/products/documents/9421-00900-pipe-extrusion-normal-datasheet-astm/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a3c958a7-254d-4907-ac10-cb9395117695"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "9421\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/9421-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "5ec23e71-79bd-4c35-8599-e5ea17ceb2e3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen P_9421_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-p_9421_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "41ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "9421"
+        },
+        {
+            "$id": "3",
+            "id": "7fcf2f11-3308-4cd8-af04-f52762f105e2",
+            "title": "9421 66408 Green",
+            "summary": ".",
+            "description": "This random copolymer has a high molecular weight with properties required for high demandingpressure pipes. It is highly heat stabilised and especially formulated for extraction resistance. This grade with long service life is used for the manufacturing of cold and hot water pipes and fittings for transport of drinking water. This grade fulfills the requirements in EN ISO 15874, ISO 3213, DIN 8078 and DIN 8077. It also complies with German regulations for materials in contact with water intended for human consumption (BGA requirements and KTW recommendations). Health, Safety and Food Contact regulations:Material Safety Data Sheets (MSDS) and Product Safety declarations are available on our Internet site http://www.SABIC-europe.comThe product mentioned herein is in particular not tested and therefore not validated for use in pharmaceutical/ medical applications.IMDS 80775790",
+            "applications": [
+                "Ground floor heating",
+                "Hot-cold water supply"
+            ],
+            "processingTechniques": [
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen P-9421 66408 Green-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-66408-green-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "7c113476-c981-47e4-97c8-0760eecadcfc"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen P-9421 66408 Green-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-66408-green-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "83185d70-3430-4f8d-a8fa-0c1acc70b58b"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "9421\\66408-Material Safety Datasheet",
+                    "url": "/en/products/documents/9421-66408-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "beb3e387-29ad-4698-9257-208460d7ef93"
+                },
+                {
+                    "documentType": "Datasheet ASTM",
+                    "title": "9421/66408/Pipe extrusion (normal)-Datasheet ASTM",
+                    "url": "/en/products/documents/9421-66408-pipe-extrusion-normal-datasheet-astm/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6aff6343-9c6c-47ae-9c10-27d25091538b"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen P-9421 66408 Green-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-66408-green-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9697fd57-f108-4258-a5aa-7fcaa4907077"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-Vestolen P-9421 66408 Green-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-66408-green-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b20ae82b-6f8a-4595-b8f9-a19d8e306615"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "9421\\66408-Phthalates declaration",
+                    "url": "/en/products/documents/9421-66408-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ff440e59-e8e6-43b1-b749-b7804e81fa15"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen P-9421 66408 Green-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-66408-green-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "fef852bd-b6c2-4edd-aafa-c85fcd708c57"
+                },
+                {
+                    "documentType": "Drinkingwater contact declaration",
+                    "title": "9421\\66408-Drinkingwater contact declaration",
+                    "url": "/en/products/documents/9421-66408-drinkingwater-contact-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3f4f1390-ec0c-4a95-afd5-e2dfd5e79765"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen P_9421 66408 Green_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-p_9421-66408-green_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "aec3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "9421-66408-green"
+        },
+        {
+            "$id": "4",
+            "id": "17eaf3fd-2b6a-43c9-9141-610d2df2d492",
+            "title": "9421 66409 Green",
+            "summary": "*",
+            "description": "This random copolymer has a high molecular weight with properties required for high demandingpressure pipes. It is highly heat stabilised and especially formulated for extraction resistance. This grade with long service life is used for the manufacturing of cold and hot water pipes and fittings for transport of drinking water. This grade fulfills the requirements in EN ISO 15874, ISO 3213, DIN 8078 and DIN 8077. It also complies with German regulations for materials in contact with water intended for human consumption (BGA requirements and KTW recommendations). Health, Safety and Food Contact regulations:Material Safety Data Sheets (MSDS) and Product Safety declarations are available on our Internet site http://www.SABIC-europe.comThe product mentioned herein is in particular not tested and therefore not validated for use in pharmaceutical/ medical applications.IMDS 80775790",
+            "applications": [
+                "Ground floor heating",
+                "Hot-cold water supply"
+            ],
+            "processingTechniques": [
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "9421\\66409-Material Safety Datasheet",
+                    "url": "/en/products/documents/9421-66409-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "8081757f-a69f-4351-a7c5-1bb6ca839f2c"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "9421\\66409-Phthalates declaration",
+                    "url": "/en/products/documents/9421-66409-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "27f8eb9c-feab-4b2e-b02d-2d0355053dd7"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen P-9421 66409 Green-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-66409-green-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "00b70288-30c6-4787-9f5d-3acbeea6287c"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen P-9421 66409 Green-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-66409-green-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "604afb4c-4729-4b07-b2ca-3fab007a17ee"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen P-9421 66409 Green-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-66409-green-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "eea268f3-9a7b-4926-a6ff-8c6989c1b846"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-Vestolen P-9421 66409 Green-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-66409-green-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d7dd04e1-50b3-4ce9-9f8e-8d655247341d"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen P-9421 66409 Green-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-66409-green-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "99f2a4f0-9f65-4afc-b7b5-bc7b628ef97e"
+                },
+                {
+                    "documentType": "Drinkingwater contact declaration",
+                    "title": "9421\\66409-Drinkingwater contact declaration",
+                    "url": "/en/products/documents/9421-66409-drinkingwater-contact-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "094c5ba9-e594-410f-b7ee-e94f871f5640"
+                },
+                {
+                    "documentType": "Datasheet ASTM",
+                    "title": "9421/66409/Pipe extrusion (normal)-Datasheet ASTM",
+                    "url": "/en/products/documents/9421-66409-pipe-extrusion-normal-datasheet-astm/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ce352c8b-0677-4fd7-b911-f8f18f9d8eb2"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": false,
+            "visibility": "Public",
+            "urlTitle": "9421-66409-green"
+        },
+        {
+            "$id": "5",
+            "id": "58cf1ddb-194a-4763-9082-c78c8b2855fd",
+            "title": "9421 67727 Grey",
+            "summary": "This random copolymer has a high molecular weight with special designed properties required for high demanding pressure pipes.",
+            "description": "This random copolymer has a high molecular weight with properties required for high demandingpressure pipes. It is highly heat stabilised and especially formulated for extraction resistance. This grade with long service life is used for the manufacturing of cold and hot water pipes and fittings for transport of drinking water. This grade fulfills the requirements in EN ISO 15874, ISO 3213, DIN 8078 and DIN 8077. It also complies with German regulations for materials in contact with water intended for human consumption (BGA requirements and KTW recommendations). Health, Safety and Food Contact regulations:Material Safety Data Sheets (MSDS) and Product Safety declarations are available on our Internet site http://www.SABIC-europe.comThe product mentioned herein is in particular not tested and therefore not validated for use in pharmaceutical/ medical applications.IMDS 80775790",
+            "applications": [
+                "Ground floor heating",
+                "Hot-cold water supply"
+            ],
+            "processingTechniques": [
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Datasheet ASTM",
+                    "title": "9421/67727/Pipe extrusion (normal)-Datasheet ASTM",
+                    "url": "/en/products/documents/9421-67727-pipe-extrusion-normal-datasheet-astm/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c53a66ad-e908-4d68-946a-1af9c87d2ef2"
+                },
+                {
+                    "documentType": "Drinkingwater contact declaration",
+                    "title": "9421\\67727-Drinkingwater contact declaration",
+                    "url": "/en/products/documents/9421-67727-drinkingwater-contact-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8587b24d-7463-4969-ac23-41049b539578"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen P-9421 67727 Grey-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-67727-grey-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "dbcbf499-be0c-4da0-9452-5b19a9829444"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "9421\\67727-Material Safety Datasheet",
+                    "url": "/en/products/documents/9421-67727-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "a1184817-95d7-45ba-a9d4-8df393ea03d6"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "9421\\67727-Phthalates declaration",
+                    "url": "/en/products/documents/9421-67727-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "775c91eb-3039-4d61-9789-999acf3e6d74"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen P-9421 67727 Grey-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-67727-grey-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b81cbc45-849b-4397-82bf-c31ba8d20481"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen P-9421 67727 Grey-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-67727-grey-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0f4422fb-af93-4efc-bcaf-ded41ddb5dc4"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-Vestolen P-9421 67727 Grey-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-67727-grey-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0fdd214f-94ea-4459-8feb-e0e6b04f7bc1"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen P-9421 67727 Grey-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-p-9421-67727-grey-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a001a11f-c1ba-48ed-8485-f182167ccf39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen P_9421 67727 Grey_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-p_9421-67727-grey_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "77c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "9421-67727-grey"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "6",
+            "id": "68450aab-b9b8-4b9b-be53-91d72734e67d",
+            "title": "Pipe extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "7",
+            "id": "d59d0d92-d3e9-445f-8251-0b06c927efac",
+            "title": "Ground floor heating",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "787b20d6-bc28-4e6b-8a83-260fb9afd182",
+            "title": "Hot-cold water supply",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "9",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "12",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "13",
+            "industry": "1679dc71-a5d2-4e3b-bd90-ef43d09fe4d9",
+            "title": "IndustrySegment",
+            "id": "f25a6df1-91f0-43a8-9b69-520be613d22d"
+        }
+    ]
+}

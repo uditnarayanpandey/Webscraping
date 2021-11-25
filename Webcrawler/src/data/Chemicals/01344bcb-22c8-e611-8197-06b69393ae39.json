@@ -1,0 +1,264 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "a73d3edf-22c8-e611-8197-06b69393ae39",
+            "title": "SABIC\u00ae Diethylene Glycol",
+            "summary": "Diethylene Glycol (Dihyroxy diethyl ether) is a colorless, virtually odorless, viscous liquid.",
+            "description": "Diethylene Glycol (Dihyroxy diethyl ether) is a colorless, virtually odorless, viscous liquid. Compared to MEG, it has a higher boiling point, viscosity and specific gravity. DEG is characterized by great solvent power, extreme hygroscopicity and low vapor loss.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-Diethylene Glycol-SDS-Global-en-2021-05-17",
+                    "url": "/en/products/documents/sabic-diethylene-glycol-sds-global-en-2021-05-17/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b12003cb-1bb7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-Diethylene Glycol-SDS-Asia-China-en-2021-05-18",
+                    "url": "/en/products/documents/sabic-diethylene-glycol-sds-asia-china-en-2021-05-18/en",
+                    "language": "English",
+                    "country": "290a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "5e32e644-ceb7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Diethylene glycol - SABIC - Asia GHS Label - Singapore SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/diethylene-glycol-sabic-asia-ghs-label-singapore-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "country": "2c0a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "e02c9070-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Diethylene glycol - SABIC - Asia GHS SDS  - China Sabic China",
+                    "url": "/en/products/documents/diethylene-glycol-sabic-asia-ghs-sds-china-sabic-china/en",
+                    "language": "English",
+                    "country": "290a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "e22c9070-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Diethylene glycol - SABIC - Asia GHS SDS - South Korea SABIC Singapore",
+                    "url": "/en/products/documents/diethylene-glycol-sabic-asia-ghs-sds-south-korea-sabic-singapore/en",
+                    "language": "English",
+                    "country": "2d0a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "e82c9070-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Diethylene glycol - SABIC - Europe GHS SDS - Ireland SABIC Petrochemicals BV - Import",
+                    "url": "/en/products/documents/diethylene-glycol-sabic-europe-ghs-sds-ireland-sabic-petrochemicals-bv-import/en",
+                    "language": "English",
+                    "country": "430a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Europe",
+                    "id": "bf3e9576-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Diethylene glycol - SABIC - Global GHS SDS - Saudi Arabia SABIC Corporate Headquarters",
+                    "url": "/en/products/documents/diethylene-glycol-sabic-global-ghs-sds-saudi-arabia-sabic-corporate-headquarters/en",
+                    "language": "English",
+                    "country": "360a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Global",
+                    "id": "538f3a83-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Diethylene glycol - SABIC - Global GHS SDS - United Nations (UN) SABIC Corporate Headquarters",
+                    "url": "/en/products/documents/diethylene-glycol-sabic-global-ghs-sds-united-nations-un-sabic-corporate-headquarters/en",
+                    "language": "English",
+                    "country": "370a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Global",
+                    "id": "568f3a83-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Diethylene glycol - SABIC - North America GHS SDS - United States of America SABIC USA",
+                    "url": "/en/products/documents/diethylene-glycol-sabic-north-america-ghs-sds-united-states-of-america-sabic-usa/en",
+                    "language": "English",
+                    "country": "380a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Americas",
+                    "id": "588f3a83-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Asia GHS Label - Singapore SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/sabic-asia-ghs-label-singapore-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "id": "9dee7564-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Asia GHS SDS  - China Sabic China",
+                    "url": "/en/products/documents/sabic-asia-ghs-sds-china-sabic-china/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "id": "a3ee7564-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Asia GHS SDS - Singapore SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/sabic-asia-ghs-sds-singapore-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "id": "a9ee7564-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Asia GHS SDS - South Korea SABIC Singapore",
+                    "url": "/en/products/documents/sabic-asia-ghs-sds-south-korea-sabic-singapore/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "id": "adee7564-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Europe GHS SDS - Ireland SABIC Petrochemicals BV - Import",
+                    "url": "/en/products/documents/sabic-europe-ghs-sds-ireland-sabic-petrochemicals-bv-import/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "id": "a01e7a6a-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Europe GHS SDS - United Kingdom SABIC Petrochemicals BV - Import",
+                    "url": "/en/products/documents/sabic-europe-ghs-sds-united-kingdom-sabic-petrochemicals-bv-import/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "id": "26c57470-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Global GHS SDS - Saudi Arabia SABIC Corporate Headquarters",
+                    "url": "/en/products/documents/sabic-global-ghs-sds-saudi-arabia-sabic-corporate-headquarters/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0c088c76-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Global GHS SDS - United Nations (UN) SABIC Corporate Headquarters",
+                    "url": "/en/products/documents/sabic-global-ghs-sds-united-nations-un-sabic-corporate-headquarters/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0e088c76-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - North America GHS SDS - United States of America SABIC USA",
+                    "url": "/en/products/documents/sabic-north-america-ghs-sds-united-states-of-america-sabic-usa/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "id": "10088c76-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Diethylene Glycol_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-diethylene-glycol_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7baf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "ebf1be0a-5862-e811-80fe-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "6028118a-68b9-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "aaa5a8f4-9981-e711-80fc-005056857ef3",
+                    "contactRoles": [
+                        "949d4a7a-cf37-4938-98e4-4dbd59741ee6"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "6128118a-68b9-eb11-8109-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-diethylene-glycol"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "5",
+            "id": "313ee29e-8cc7-e611-8197-06b69393ae39",
+            "title": "Placeholder - please replace me",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "6",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

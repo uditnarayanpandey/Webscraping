@@ -1,0 +1,745 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "2435aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DTK22",
+            "summary": "Polycarbonate (PC),Minerals,Thermally Conductive,Electrically Insulative",
+            "description": "LNP KONDUIT DTK22 compound is based on Polycarbonate (PC) resin containing minerals. Added features of this grade include: Thermally Conductive and Electrically Insulative.",
+            "applications": [
+                "Photo/Video Camera",
+                "Wearables",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_DTK22_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_dtk22_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e9ac6467-f11f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Servomotor",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dtk22"
+        },
+        {
+            "$id": "3",
+            "id": "3d40aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "OTF2B",
+            "summary": "Polyphenylene Sulfide,10% Glass Fiber,55% Proprietary Thermal Fillers,Thermally Conductive",
+            "description": "LNP KONDUIT OTF2B compound is based on Polyphenylene Sulfide (PPS) resin containing 10% glass fiber and 55% proprietary thermal fillers. Added features of this grade include: Thermally Conductive.",
+            "applications": [
+                "Data Transfer",
+                "Electronic Components",
+                "Medical Device"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_OTF2B_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_otf2b_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "5f4f313b-2132-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Servomotor",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "otf2b"
+        },
+        {
+            "$id": "4",
+            "id": "4140aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "OX10324",
+            "summary": "Polyphenylene Sulfide,Glass Fiber,Proprietary Thermal filler,Thermally Conductive and Non-Brominated, Non-Chlorinated Flame Retardant",
+            "description": "LNP KONDUIT OX10324 compound is based on Polyphenylene Sulfide (PPS) resin containing glass fiber and proprietary thermal filler. Added features of this grade include: Thermally Conductive and Non-Brominated, Non-Chlorinated Flame Retardant.",
+            "applications": [
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "LED Lighting",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_OX10324_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_ox10324_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210827",
+                    "id": "d19ceb66-a94d-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Servomotor",
+                "Electronic Material Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ox10324"
+        },
+        {
+            "$id": "5",
+            "id": "4240aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "OX11314",
+            "summary": "Polyphenylene Sulfide,Mineral,Glass Fiber,Thermally Conductive, Electrically Insulative and Non-Brominated, Non-Chlorinated Flame Retardant",
+            "description": "LNP KONDUIT OX11314 compound is based on Polyphenylene Sulfide (PPS) resin containing mineral and glass fiber. Added features of this grade include: Thermally Conductive, Electrically Insulative and Non-Brominated, Non-Chlorinated Flame Retardant.",
+            "applications": [
+                "Electronic Components",
+                "LED Lighting",
+                "Medical Device",
+                "Non-LED Lighting",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_OX11314_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_ox11314_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "4ebb102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_OX11314_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_ox11314_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "13bc102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Servomotor",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ox11314"
+        },
+        {
+            "$id": "6",
+            "id": "4340aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "OX11315",
+            "summary": "Polyphenylene Sulfide,proprietary thermal filler,Thermally Conductive, Electrically Insulative and Non-Brominated, Non-Chlorinated Flame Retardant",
+            "description": "LNP KONDUIT OX11315 compound is based on Polyphenylene Sulfide (PPS) resin containing proprietary thermal filler. Added features of this grade include: Thermally Conductive, Electrically Insulative and Non-Brominated, Non-Chlorinated Flame Retardant.",
+            "applications": [
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Swimming Pool/Spa"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_OX11315_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_ox11315_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210827",
+                    "id": "54a18b84-f048-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Servomotor",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ox11315"
+        },
+        {
+            "$id": "7",
+            "id": "5741aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PX10323",
+            "summary": "Polyamide 6 (Nylon 6),Glass Fiber,Proprietary Thermal Filler,Thermally Conductive",
+            "description": "LNP KONDUIT PX10323 compound is based on Nylon 6 resin containing glass fiber and proprietary thermal filler. Added features of this grade include: Thermally Conductive.",
+            "applications": [
+                "LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_PX10323_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_px10323_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210827",
+                    "id": "f9bc102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_PX10323_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_px10323_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210827",
+                    "id": "54c8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Servomotor",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "px10323"
+        },
+        {
+            "$id": "8",
+            "id": "31491ade-4447-ea11-8102-005056857ef3",
+            "title": "PX10323H",
+            "summary": "Polyamide 6 (Nylon 6),Glass Fiber,Thermally Conductive,Healthcare",
+            "description": "LNP KONDUIT PX10323H compound is based on Nylon 6 resin containing glass fiber. Added features of this grade include: Thermally Conductive and Healthcare.",
+            "applications": [
+                "LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_PX10323H_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_px10323h_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a36efb9c-4747-ea11-8102-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_PX10323H_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_px10323h_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "ff9fe8a5-4747-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "px10323h"
+        },
+        {
+            "$id": "9",
+            "id": "5e41aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PX11311",
+            "summary": "Polyamide 6 (Nylon 6),Mineral,Glass Fiber,Thermally Conductive, Electrically Insulative and Non-Brominated, Non-Chlorinated Flame Retardant",
+            "description": "LNP KONDUIT PX11311 compound is based on Nylon 6 resin containing mineral and glass fiber. Added features of this grade include: Thermally Conductive, Electrically Insulative and Non-Brominated, Non-Chlorinated Flame Retardant.",
+            "applications": [
+                "Electronic Components",
+                "LED Lighting",
+                "Medical Device",
+                "Personal Computing",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_PX11311_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_px11311_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "39bc102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Servomotor",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "px11311"
+        },
+        {
+            "$id": "10",
+            "id": "5f41aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PX11311U",
+            "summary": "Polyamide 6 (Nylon 6),Mineral,Glass Fiber,Thermally Conductive, Electrically Insulative, Improved UV Stability and Non-Brominated, Non-Chlorinated Flame Retardant",
+            "description": "LNP KONDUIT PX11311U compound is based on Nylon 6 resin containing mineral and glass fiber. Added features of this grade include: Thermally Conductive, Electrically Insulative, Improved UV Stability and Non-Brominated, Non-Chlorinated Flame Retardant.",
+            "applications": [
+                "LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_PX11311U_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_px11311u_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "50b1202b-f11f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Servomotor",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "px11311u"
+        },
+        {
+            "$id": "11",
+            "id": "6041aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PX11313",
+            "summary": "Polyamide 6 (Nylon 6),Mineral,Glass fiber,Thermally Conductive, Electrically Insulative and Non-Brominated, Non-Chlorinated Flame Retardant",
+            "description": "LNP KONDUIT PX11313 compound is based on Nylon 6 resin containing mineral and glass fiber. Added features of this grade include: Thermally Conductive, Electrically Insulative and Non-Brominated, Non-Chlorinated Flame Retardant.",
+            "applications": [
+                "Data Management",
+                "Electronic Components",
+                "Heavy Vehicles",
+                "LED Lighting",
+                "Photovoltaic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_PX11313_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_px11313_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a65b2423-2aab-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Servomotor",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "px11313"
+        },
+        {
+            "$id": "12",
+            "id": "6b41aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PX13012",
+            "summary": "Polyamide 6 (Nylon 6),proprietary thermal filler,Thermally Conductive, Electrically Insulative and Non-Brominated, Non-Chlorinated Flame Retardant",
+            "description": "LNP KONDUIT PX13012 compound is based on Nylon 6 resin containing proprietary thermal filler. Added features of this grade include: Thermally Conductive, Electrically Insulative and Non-Brominated, Non-Chlorinated Flame Retardant.",
+            "applications": [
+                "LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_PX13012_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_px13012_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210827",
+                    "id": "6e9f8fa9-f01f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Servomotor",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "px13012"
+        },
+        {
+            "$id": "13",
+            "id": "6c41aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PX13322",
+            "summary": "Polyamide 6 (Nylon 6),Mineral,Glass Fiber,Thermally Conductive, Electrically Insulative and Non-Brominated, Non-Chlorinated Flame Retardant",
+            "description": "LNP KONDUIT PX13322 compound is based on Nylon 6 resin containing mineral and glass fiber. Added features of this grade include: Thermally Conductive, Electrically Insulative and Non-Brominated, Non-Chlorinated Flame Retardant.",
+            "applications": [
+                "Electronic Components",
+                "LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 KONDUIT\u2122 Compound_PX13322_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-konduit-compound_px13322_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "61e49ee8-f01f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Servomotor",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "px13322"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "14",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "15",
+            "id": "d6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photo/Video Camera",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "1400ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wearables",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "21",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "0100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Swimming Pool/Spa",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "30",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "34",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "35",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "36",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "37",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "38",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Servomotor",
+            "id": "23ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "39",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "id": "2fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "40",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "41",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare Packaging",
+            "id": "6011329c-67f2-e811-80ff-005056857ef3"
+        },
+        {
+            "$id": "42",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "43",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "44",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

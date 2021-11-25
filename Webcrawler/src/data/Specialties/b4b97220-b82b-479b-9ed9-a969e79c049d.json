@@ -1,0 +1,922 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "ab32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "AS002",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,10% Stainless Steel Fiber,Electrically Conductive, EMI/RFI shielding",
+            "description": "LNP FARADEX AS002 compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing 10% stainless steel fiber. Added features of this grade include: Electrically Conductive, EMI/RFI shielding.",
+            "applications": [
+                "Electronic Components",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_AS002_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_as002_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0895e243-2e48-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "as002"
+        },
+        {
+            "$id": "3",
+            "id": "ad32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "AS003",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,15% stainless steel fiber,Electrically Conductive, EMI/RFI shielding",
+            "description": "LNP FARADEX AS003 compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing 15% stainless steel fiber. Added features of this grade include: Electrically Conductive, EMI/RFI shielding.",
+            "applications": [
+                "Lab Ware and Clinical Diagnostics"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_AS003_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_as003_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e64a3456-154c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "as003"
+        },
+        {
+            "$id": "4",
+            "id": "af32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "AS004",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,20% Stainless Steel Fiber,Electrically Conductive, EMI/RFI shielding",
+            "description": "LNP FARADEX AS004 compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing 20% stainless steel fiber. Added features of this grade include: Electrically Conductive, EMI/RFI shielding.",
+            "applications": [
+                "Enclosures"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_AS004_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_as004_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "054c9860-221c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "as004"
+        },
+        {
+            "$id": "5",
+            "id": "d932aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "AX88130",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,Stainless Steel Fiber,Electrically Conductive, EMI/RFI shielding",
+            "description": "LNP FARADEX AX88130 compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing stainless steel fiber. Added features of this grade include: Electrically Conductive, EMI/RFI shielding.",
+            "applications": [
+                "Data Transfer",
+                "Electronic Components",
+                "Toy",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_AX88130_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_ax88130_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "264950aa-6622-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ax88130"
+        },
+        {
+            "$id": "6",
+            "id": "1935aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DS0026I",
+            "summary": "Polycarbonate (PC) resin ,10% Stainless Steel Fiber,High Impact, Flame Retardant, Non-Brominated & Non-Chlorinated Flame Retardant, Electrically Conductive, EMI/RFI shielding",
+            "description": "LNP FARADEX DS0026I compound is based on Polycarbonate (PC) resin containing 10% stainless steel fiber. Added features of this grade include: High Impact, Flame Retardant, Non-Brominated & Non-Chlorinated Flame Retardant, Electrically Conductive, EMI/RFI shielding.",
+            "applications": [
+                "Building Accessory"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_DS0026I_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_ds0026i_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "99c9ee3d-f01f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ds0026i"
+        },
+        {
+            "$id": "7",
+            "id": "1c35aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DS0036I",
+            "summary": "Polycarbonate (PC) resin ,15% Stainless Steel Fiber,Electrically Conductive, EMI/RFI shielding, High Impact, Non-Brominated & Non-Chlorinated Flame Retardant",
+            "description": "LNP FARADEX DS0036I compound is based on Polycarbonate (PC) resin containing 15% stainless steel fiber. Added features of this grade include: Electrically Conductive, EMI/RFI shielding, High Impact, Non-Brominated & Non-Chlorinated Flame Retardant.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Cooking Range",
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Monitoring and Imaging",
+                "Personal Computing",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_DS0036I_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_ds0036i_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "acb4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_DS0036I_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_ds0036i_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "bfc5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ds0036i"
+        },
+        {
+            "$id": "8",
+            "id": "1e35aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DS0036IP",
+            "summary": "Polycarbonate (PC) resin ,15% Stainless Steel Fiber,Electrically Conductive, EMI/RFI shielding, High Impact, Non-Brominated & Non-Chlorinated Flame Retardant",
+            "description": "LNP FARADEX DS0036IP compound is based on Polycarbonate (PC) resin containing 15% stainless steel fiber. Added features of this grade include: Electrically Conductive, EMI/RFI shielding, High Impact, Non-Brominated & Non-Chlorinated Flame Retardant.",
+            "applications": [
+                "Conveyor",
+                "Data Transfer",
+                "Electronic Components",
+                "Enclosures",
+                "Individual Equiptment",
+                "Lab Ware and Clinical Diagnostics",
+                "Personal Computing",
+                "Power Manangement",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_DS0036IP_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_ds0036ip_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "71bb70d6-654e-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ds0036ip"
+        },
+        {
+            "$id": "9",
+            "id": "1336aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "ES003E",
+            "summary": "Polyetherimide (PEI) resin ,15% Stainless Steel Fiber,Electrically Conductive, EMI/RFI shielding, Easy Molding",
+            "description": "LNP FARADEX ES003E compound is based on Polyetherimide (PEI) resin containing 15% stainless steel fiber. Added features of this grade include: Electrically Conductive, EMI/RFI shielding, Easy Molding.",
+            "applications": [
+                "Data Transfer",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_ES003E_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_es003e_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210813",
+                    "id": "e0dea11d-221c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "es003e"
+        },
+        {
+            "$id": "10",
+            "id": "fb3eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MS003",
+            "summary": "Polypropylene (PP) resin ,15% Stainless Steel Fiber,Electrically Conductive, EMI/RFI shielding",
+            "description": "LNP FARADEX MS003 compound is based on Polypropylene (PP) resin containing 15% stainless steel fiber. Added features of this grade include: Electrically Conductive, EMI/RFI shielding.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_MS003_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_ms003_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0040e0fe-184c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ms003"
+        },
+        {
+            "$id": "11",
+            "id": "ba3faad7-e0d8-e611-819b-06b69393ae39",
+            "title": "NS003",
+            "summary": "Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend,15% Stainless Steel Fiber,Electrically Conductive, EMI/RFI shielding",
+            "description": "LNP FARADEX NS003 compound is based on Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend containing 15% stainless steel fiber. Added features of this grade include: Electrically Conductive, EMI/RFI shielding.",
+            "applications": [
+                "Cluster",
+                "Data Management",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Medical Device",
+                "Semiconductor"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_NS003_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_ns003_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "07eb11d7-1a4c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ns003"
+        },
+        {
+            "$id": "12",
+            "id": "bb3faad7-e0d8-e611-819b-06b69393ae39",
+            "title": "NS0031",
+            "summary": "Polycarbonate / Acrylonitrile Butadiene blend,15% stainless steel fiber,EMI/RFI shielding, Electrically Conductive, Non-Brominated and Non-Chlorinated Flame Retardant",
+            "description": "LNP FARADEX NS0031 compound is based on Polycarbonate / Acrylonitrile Butadiene Styrene (PC/ABS) blend containing 15% stainless steel fiber. Added features of this grade include: EMI/RFI shielding, Electrically Conductive, Non-Brominated and Non-Chlorinated Flame Retardant.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "Personal Computing",
+                "Security/Detection",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_NS0031_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_ns0031_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "20516782-3f02-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ns0031"
+        },
+        {
+            "$id": "13",
+            "id": "d33faad7-e0d8-e611-819b-06b69393ae39",
+            "title": "NX07344",
+            "summary": "Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend,stainless steel fiber,glass fiber,EMI/RFI shielding, Electrically Conductive, Non-Brominated and Non-Chlorinated Flame Retardant",
+            "description": "LNP FARADEX NX07344 compound is based on Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend containing stainless steel fiber and glass fiber. Added features of this grade include: EMI/RFI shielding, Electrically Conductive, Non-Brominated and Non-Chlorinated Flame Retardant.",
+            "applications": [
+                "Data Management",
+                "Displays",
+                "Document Handling",
+                "Enclosures",
+                "Personal Care",
+                "Personal Computing",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_NX07344_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_nx07344_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d8c935da-ef1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "nx07344"
+        },
+        {
+            "$id": "14",
+            "id": "5946aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WX08014",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Stainless Steel Fiber,EMI/RFI shielding, Electrically Conductive, Flame Retardant",
+            "description": "LNP FARADEX WX08014 compound is based on Polybutylene Terephthalate (PBT) resin containing stainless steel fiber. Added features of this grade include: EMI/RFI shielding, Electrically Conductive, Flame Retardant.",
+            "applications": [
+                "Enclosures"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_WX08014_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_wx08014_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a4737e88-1e1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wx08014"
+        },
+        {
+            "$id": "15",
+            "id": "6446aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WX94736",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Stainless Steel Fiber,EMI/RFI shielding, Electrically Conductive",
+            "description": "LNP FARADEX WX94736 compound is based on Polybutylene Terephthalate (PBT) resin containing stainless steel fiber. Added features of this grade include: EMI/RFI shielding, Electrically Conductive.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_WX94736_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_wx94736_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "77554b20-211c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wx94736"
+        },
+        {
+            "$id": "16",
+            "id": "7a47aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "ZX93134",
+            "summary": "Polyphenylene Ether/Polystyrene blend,Stainless Steel Fiber,Glass Fiber,Electrically Conductive, EMI/RFI shielding",
+            "description": "LNP FARADEX ZX93134 compound is based on Polyphenylene Ether / Polystyrene (PPE/PS) blend containing stainless steel fiber and glass fiber. Added features of this grade include: Electrically Conductive, EMI/RFI shielding.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 FARADEX\u2122 Compound_ZX93134_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-faradex-compound_zx93134_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7be9bed4-211c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Semiconductors",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "zx93134"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "17",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "18",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "b7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lab Ware and Clinical Diagnostics",
+            "count": 0
+        },
+        {
+            "$id": "21",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "0300ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Toy",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "53ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Accessory",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "39ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "69ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cooking Range",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "7effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronics",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "c5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Monitoring and Imaging",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "68ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Conveyor",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "b0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Individual Equiptment",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "1b00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "60ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cluster",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "efffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductor",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "47ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "ATM/Ticket Machine",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "42",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "43",
+            "id": "d1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Care",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "44",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "45",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "46",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "47",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "48",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rigid Packaging",
+            "id": "c34e23fb-45e9-e611-80fb-005056857ef3"
+        },
+        {
+            "$id": "49",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductors",
+            "id": "06ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "50",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "51",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "id": "2affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "52",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "id": "2fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "53",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "54",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

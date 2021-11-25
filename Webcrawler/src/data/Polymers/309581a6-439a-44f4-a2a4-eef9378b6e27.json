@@ -1,0 +1,1464 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "b1cab3c7-061b-4686-b708-e5367781a1eb",
+            "title": "5061",
+            "summary": "Density 950 kg/m3, MFR(5 kg) 0.4 g/10 min",
+            "description": "SABIC\u00ae Vestolen A 5061 is a natural bimodal high density polyethylene (HDPE) resin. \nTypical applications include semi-finished goods like sheets as well as non-pressure pipe applications such as cable conduits. \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Sheet",
+                "Irrigation",
+                "Cable ducts"
+            ],
+            "processingTechniques": [
+                "Extrusion",
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen A-5061-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5061-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3395c368-a0be-4364-aa49-1a988f4a6ab2"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-Vestolen A-5061-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5061-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "83969f35-b909-473e-bfc8-226ddadb1656"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen A-5061-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5061-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a81c3a5c-a2e4-4ae9-80f1-3cd7d3d4cfd7"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen A-5061-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5061-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "286c5d2f-8295-4798-9fb6-b30644328499"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "5061\\00900-Phthalates declaration",
+                    "url": "/en/products/documents/5061-00900-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4135020e-cfe8-48a2-be4f-b769af48a988"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "5061\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/5061-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "c744c811-901b-4fd1-80d8-be535303bab7"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen A-5061-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5061-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a163e42a-8c24-471b-be25-c0e1a6395ce2"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen A_5061_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-a_5061_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "faca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "5061"
+        },
+        {
+            "$id": "3",
+            "id": "79a8a723-03dd-4173-8200-32dddec72337",
+            "title": "5061R 10000 Black",
+            "summary": "Density 958 kg/m3, MFR(5 kg) 0.36 g/10 min",
+            "description": "SABIC\u00ae Vestolen A 5061R 10000 (black) is a grade, which has a high densityand a bimodal distribution of the molecular mass. An universal grade for pipe extrusion which, due to a keen combination of properties, is typically used for drinking water and waste water piping. \nThis material meets (inter)national standards for use in drinking water and wastewater piping. \nMRS class ISO 12162 MPa = 8.0 (PE 80). \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Potable water supply",
+                "Gas supply",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Stripe coextrusion",
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-Vestolen A-5061R 10000 Black-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5061r-10000-black-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f7e80ffd-b8e4-4abc-a75a-0a5d639b5264"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen A-5061R 10000 Black-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5061r-10000-black-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "72b58da2-6e47-40dd-879f-15fd39d39839"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "5061R\\10000-Material Safety Datasheet",
+                    "url": "/en/products/documents/5061r-10000-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "f3d5c2ad-6205-4455-96dd-1f3c700aab0e"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen A-5061R 10000 Black-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5061r-10000-black-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "780c74cb-c713-4f72-acb4-29938c1a6974"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen A-5061R 10000 Black-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5061r-10000-black-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "44ca798a-9eae-4515-9b77-2ded87a49c2d"
+                },
+                {
+                    "documentType": "Construction approval",
+                    "title": "DIBt A5061R 10000 [2013-10)-Construction approval",
+                    "url": "/en/products/documents/dibt-a5061r-10000-2013-10-construction-approval/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "e4430d98-16d0-4671-8864-5bb092275002"
+                },
+                {
+                    "documentType": "Drinkingwater contact declaration",
+                    "title": "5061R\\10000-Drinkingwater contact declaration",
+                    "url": "/en/products/documents/5061r-10000-drinkingwater-contact-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6c81d033-e610-4479-b60f-9231902a12ff"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "5061R\\10000-Phthalates declaration",
+                    "url": "/en/products/documents/5061r-10000-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "caf76483-5dbe-4328-a5b0-9b4ddb03cc06"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen A-5061R 10000 Black-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5061r-10000-black-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8382ace1-7553-4c40-81c1-c7ab181ff962"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen A_5061R 10000 Black_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-a_5061r-10000-black_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fbc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "5061r-10000-black"
+        },
+        {
+            "$id": "4",
+            "id": "ddd41271-5653-4482-8ec3-a339faa179f3",
+            "title": "5061R 65308 Blue",
+            "summary": "Density 956 kg/m3, MFR(5 kg) 0.65 g/10 min",
+            "description": "SABIC\u00ae Vestolen A 5061R 65308 (blue) is a high density polyethylene (HDPE). With its colour similar to RAL 5012 it is typically used for coextrusion of blue identification stripes on potable water pipes out of SABIC\u00ae Vestolen A 5061R black. It is stabilized against UV- and thermal degradation. \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Potable water supply",
+                "Gas supply",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Stripe coextrusion",
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "5061R\\65308-Phthalates declaration",
+                    "url": "/en/products/documents/5061r-65308-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "dbe9a76c-4f71-4645-b19b-8995f88f2c57"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen A-5061R 65308 Blue-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5061r-65308-blue-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6f4ba46d-e96c-4f17-a935-945c7ddffad6"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen A-5061R 65308 Blue-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5061r-65308-blue-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8c5fcf1f-aa28-4acc-86f2-a44682f9089f"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen A-5061R 65308 Blue-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5061r-65308-blue-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a37030f2-0ec8-44a6-b16a-c14f288da61d"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen A-5061R 65308 Blue-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5061r-65308-blue-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8b4487b1-9785-4344-b405-e2798ae4bcf0"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "5061R\\65308-Material Safety Datasheet",
+                    "url": "/en/products/documents/5061r-65308-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "fc6d7402-ea2f-4953-a8f2-f02af67f7a91"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen A_5061R 65308 Blue_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-a_5061r-65308-blue_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c9c3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "5061r-65308-blue"
+        },
+        {
+            "$id": "5",
+            "id": "3610fc1e-e114-44fa-aeb4-a707c02da3f9",
+            "title": "5640C 10000 Black",
+            "summary": "Density 956 kg/m3, MFR(5 kg) 1.8 g/10 min",
+            "description": "SABIC\u00ae Vestolen A 5640C 10000 is a grade which has a high density and a bimodal distribution of the molecular mass. It offers a good processability and high stress cracking resistance (ESCR).\nSABIC\u00ae Vestolen A 5640C 10000 is typically used for the coating of steel pipes as part of a three-layer PE system.\n\nThe product is not intended for and must not be used in any pharmaceutical/medical application.",
+            "applications": [
+                "Potable water supply",
+                "Gas supply",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Steel Pipe Coating"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "5640C\\10000-Material Safety Datasheet",
+                    "url": "/en/products/documents/5640c-10000-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "81dee021-94ad-e711-80fc-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen A-5640C 10000 Black-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5640c-10000-black-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d15c3dcf-eba8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen A-5640C 10000 Black-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-5640c-10000-black-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b0638761-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen A_5640C 10000 Black_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-a_5640c-10000-black_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c4ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "5640c-10000-black"
+        },
+        {
+            "$id": "6",
+            "id": "c92f366e-87e7-4bac-87f6-173984616362",
+            "title": "6060",
+            "summary": "Density 950 kg/m3, MFR(5 kg) 0.3 g/10 min",
+            "description": "Description.\nSABIC\u00ae Vestolen A 6060 is a natural bimodal high density polyethylene (HDPE) resin. \nTypical applications include semi-finished goods like sheets as well as non-pressure pipe applications such as cable conduits. \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Potable water supply",
+                "Chemical & industrial systems"
+            ],
+            "processingTechniques": [
+                "Extrusion",
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen A-6060-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5e16e58b-c2d9-45e7-a1d0-0e3f136fed3c"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen A-6060-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "79afc5b9-8b82-4f08-9a05-0f44132f9310"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen A-6060-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "316c65ab-e1d0-43d0-8345-16f288ae1923"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "6060\\00900-Phthalates declaration",
+                    "url": "/en/products/documents/6060-00900-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "53db00ff-4560-4b14-a2a9-4ac637fa2f49"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "6060\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/6060-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "904cc0ef-ca9b-4110-9230-58e328e37023"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen A-6060-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b8820e6a-b049-4190-b16e-aaca3b8db222"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-Vestolen A-6060-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6ccf7787-d9fe-4b14-8aa9-deaa855b2eb5"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen A_6060_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-a_6060_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a1c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "6060"
+        },
+        {
+            "$id": "7",
+            "id": "0592d0ec-842d-4891-8e74-1c3a787c64a6",
+            "title": "6060R 10000 Black",
+            "summary": "Density 959 kg/m3, MFR(5 kg) 0.3 g/10 min",
+            "description": "SABIC\u00ae Vestolen A 6060R 10000 (black) is a grade which has a high density and a bimodal distribution of the molecular mass. Due to its profile of properties this material is typically used for gas, drinking water and waste water piping. This material meets (inter)national standards for use in gas, drinking water and waste water piping. \nMRS class ISO 12162 MPa = 10.0 (PE 100). \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Potable water supply",
+                "Wire & cable",
+                "Gas supply",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Stripe coextrusion",
+                "Pipe extrusion",
+                "Wire & Cable extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "6060R\\10000-Material Safety Datasheet",
+                    "url": "/en/products/documents/6060r-10000-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "dba267e8-fe07-4e06-8cf4-2c80232fd7f9"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen A-6060R 10000 Black-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060r-10000-black-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1880169e-1e8b-42fb-b21c-3f93a461f0e7"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-Vestolen A-6060R 10000 Black-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060r-10000-black-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9ebd0a6b-284a-4f46-bee4-78545d2da2cd"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "6060R\\10000-Phthalates declaration",
+                    "url": "/en/products/documents/6060r-10000-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9ae68697-df75-444a-af74-9547d71c1e8e"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen A-6060R 10000 Black-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060r-10000-black-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "eb131f0f-fed2-4c9c-a655-9acb1cc637b0"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen A-6060R 10000 Black-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060r-10000-black-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "351a9d0a-df51-4dca-89d5-9d548239853f"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen A-6060R 10000 Black-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060r-10000-black-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "48cd4249-0f76-48fd-9e89-b17758b82233"
+                },
+                {
+                    "documentType": "Drinkingwater contact declaration",
+                    "title": "6060R\\10000-Drinkingwater contact declaration",
+                    "url": "/en/products/documents/6060r-10000-drinkingwater-contact-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8d02600e-a7e0-43d9-910c-ce39cac61220"
+                },
+                {
+                    "documentType": "Construction approval",
+                    "title": "DIBt A6060R 10000 [2013-10]-Construction approval",
+                    "url": "/en/products/documents/dibt-a6060r-10000-2013-10-construction-approval/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2981fa8c-b2d2-47cd-8ec5-dd917b213b63"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen A_6060R 10000 Black_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-a_6060r-10000-black_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b0c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "6060r-10000-black"
+        },
+        {
+            "$id": "8",
+            "id": "7abeb052-139b-4792-b2a0-3ac908d8ce07",
+            "title": "6060R 65307 Blue",
+            "summary": "Density 950 kg/m3, MFR(5 kg) 0.35 g/10 min",
+            "description": "SABIC\u00ae Vestolen A 6060R 65307(blue) is a grade wich has a high densityand a bimodal distribution of the molecular mass. Due to its profile of properties this material is typicallyused fordrinking water piping.This materialmeets (inter)national standards for use indrinking water piping. \nMRS class ISO 12162 MPa = 10.0 (PE 100). \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Potable water supply",
+                "Wire & cable",
+                "Gas supply",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Stripe coextrusion",
+                "Pipe extrusion",
+                "Wire & Cable extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen A-6060R 65307 Blue-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060r-65307-blue-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9ebe97b0-ae56-49d5-9470-20e9fa6ea044"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-Vestolen A-6060R 65307 Blue-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060r-65307-blue-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "21526103-9f18-4c71-ab09-27ebda59d978"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "6060R\\65307-Phthalates declaration",
+                    "url": "/en/products/documents/6060r-65307-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d47c814e-070e-4301-b253-374a90f30fa7"
+                },
+                {
+                    "documentType": "Drinkingwater contact declaration",
+                    "title": "6060R\\65307-Drinkingwater contact declaration",
+                    "url": "/en/products/documents/6060r-65307-drinkingwater-contact-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3be841c2-b2df-4f08-ac65-3885b2bf7464"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "6060R\\65307-Material Safety Datasheet",
+                    "url": "/en/products/documents/6060r-65307-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "3e0ac657-9166-405e-addf-71273ee1bff3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen A-6060R 65307 Blue-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060r-65307-blue-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "714529e8-dd81-456d-8a56-8b9508b4790c"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen A-6060R 65307 Blue-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060r-65307-blue-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "bcfcb34b-d2ab-4f25-a78b-c750b0c03b55"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen A-6060R 65307 Blue-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060r-65307-blue-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "26c0f1a5-0a9a-4cc9-bfe2-f2f3b83e62f1"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen A_6060R 65307 Blue_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-a_6060r-65307-blue_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7befaec7-1c37-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "6060r-65307-blue"
+        },
+        {
+            "$id": "9",
+            "id": "cf3e42a8-007c-4152-9129-0dd763882f8d",
+            "title": "6060S 62434 Orange Yellow",
+            "summary": "Density 954 kg/m3, MFR(5 kg) 0.34 g/10 min",
+            "description": "SABIC\u00ae Vestolen A 6060S 62434 (orange-yellow) is a high density polyethylene (HDPE). With its colour similar to RAL 1033 it is typically used for coextrusion of orange-yellow identification stripes on gas pipes out of SABIC\u00ae Vestolen A 6060R black. It is stabilized against UV- and thermal degradation. \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Potable water supply",
+                "Wire & cable",
+                "Gas supply",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Stripe coextrusion",
+                "Pipe extrusion",
+                "Wire & Cable extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen A-6060S 62434 Orange Yellow-BSED-Global-en-2021-05-06",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060s-62434-orange-yellow-bsed-global-en-2021-05-06/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3e0a6f47-80ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen A-6060S 62434 Orange Yellow-EOLD-Global-en-2021-05-05",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060s-62434-orange-yellow-eold-global-en-2021-05-05/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9181ac98-837d-42d1-bb78-01446c9cad81"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen A-6060S 62434 Orange Yellow-REAH-Global-en-2021-07-15",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060s-62434-orange-yellow-reah-global-en-2021-07-15/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5be711ab-de53-4ebf-ad7f-3185ea79a911"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen A-6060S 62434 Orange Yellow-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060s-62434-orange-yellow-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a5785bd2-fe69-42bc-9cd9-a4e759eef363"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "6060R\\62434-Material Safety Datasheet",
+                    "url": "/en/products/documents/6060r-62434-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "d7a349a7-0a67-436d-b4e2-adc65df997c5"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen A_6060S 62434 Orange Yellow_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-a_6060s-62434-orange-yellow_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "07dbac10-1937-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "6060s-62434-orange-yellow"
+        },
+        {
+            "$id": "10",
+            "id": "e0caa9f2-723d-48a6-858e-fd53e5f0732f",
+            "title": "6060S 63363 Brown",
+            "summary": "Density 957 kg/m3, MFR(5 kg) 0.4 g/10 min",
+            "description": "SABIC\u00ae Vestolen A 6060S 63363 (brown) is a high density polyethylene (HDPE). With its colour similar to RAL 8023 it is typically used for coextrusion of brown identification stripes on sewage pipes out of SABIC\u00ae Vestolen A 6060R black. It is stabilized against UV- and thermal degradation. \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Potable water supply",
+                "Wire & cable",
+                "Gas supply",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Stripe coextrusion",
+                "Pipe extrusion",
+                "Wire & Cable extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen A-6060S 63363 Brown-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060s-63363-brown-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "bdaeecf1-5abf-4a34-8dab-19e515fba8a9"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen A-6060S 63363 Brown-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060s-63363-brown-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "7737cdaa-076d-4d9b-bc7f-448c7e8589c4"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen A-6060S 63363 Brown-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060s-63363-brown-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "17967a6f-04a2-4ad2-abee-5bf6ac1f26f8"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen A-6060S 63363 Brown-BSED-Global-en-2021-05-06",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060s-63363-brown-bsed-global-en-2021-05-06/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e9e0bd27-52e7-4152-a769-81c322b2c8a1"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "6060R\\63363-Material Safety Datasheet",
+                    "url": "/en/products/documents/6060r-63363-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "6b6dd9ef-02fb-4d8f-95c8-cfb39446d06d"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "6060R\\63363-Phthalates declaration",
+                    "url": "/en/products/documents/6060r-63363-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "af6730da-5799-4f4e-adbf-d2e6993e581f"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen A_6060S 63363 Brown_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-a_6060s-63363-brown_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fe7ecc89-1a37-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "6060s-63363-brown"
+        },
+        {
+            "$id": "11",
+            "id": "f7f23e0f-916c-4d3f-a509-288451cf019e",
+            "title": "6060S 65306 Blue",
+            "summary": "Density 950 kg/m3, MFR(5 kg) 0.34 g/10 min",
+            "description": "SABIC\u00ae Vestolen A 6060S 65306 (blue) is a high density polyethylene (HDPE). With its colour similar to RAL 5005 it is typically used for coextrusion of blue identification stripes on potable water pipes out of SABIC\u00ae Vestolen A 6060R black. It is stabilized against UV- and thermal degradation. \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Potable water supply",
+                "Wire & cable",
+                "Gas supply",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Stripe coextrusion",
+                "Pipe extrusion",
+                "Wire & Cable extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "6060R\\65306-Food Contact Declaration",
+                    "url": "/en/products/documents/6060r-65306-food-contact-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "bbc49cea-5384-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SABIC\u00ae Vestolen A-6060S 65306 Blue-BSED-Global-en-2021-05-06",
+                    "url": "/en/products/documents/sabic-sabic-vestolen-a-6060s-65306-blue-bsed-global-en-2021-05-06/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4bcb7933-81ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen A-6060S 65306 Blue-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060s-65306-blue-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8ddb49b2-9b95-478a-9d43-651495b696a4"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "6060R\\65306-Material Safety Datasheet",
+                    "url": "/en/products/documents/6060r-65306-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "fd6c6286-cc59-4355-9d7d-b25518468b5e"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen A-6060S 65306 Blue-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060s-65306-blue-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ba50d9c1-4509-4778-a0e8-b2f7cf72f8e3"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "6060R\\65306-Phthalates declaration",
+                    "url": "/en/products/documents/6060r-65306-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "127ab6a4-3382-4874-90d3-ca02d04e9255"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "6060R\\65306-BSE declaration",
+                    "url": "/en/products/documents/6060r-65306-bse-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5ab3bbc1-e811-4dba-b58e-ee445627c93c"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen A-6060S 65306 Blue-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-6060s-65306-blue-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a503fa56-c9b1-4fec-92fa-f09ca8649a75"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen A_6060S 65306 Blue_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-a_6060s-65306-blue_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e6ae57cd-1937-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "6060s-65306-blue"
+        },
+        {
+            "$id": "12",
+            "id": "21f96fff-e4d5-4999-a2d0-2d83e221247e",
+            "title": "RELY 5922R 10000 Black",
+            "summary": "Density 959 kg/m3, MFR(5 kg) 0.2 g/10 min",
+            "description": "SABIC\u00ae Vestolen A RELY 5922R 10000 is a grade which has a high density and a bimodal distribution of the molecular mass. \nDue to its resistance against slow crack growth (SCG) the material SABIC\u00ae Vestolen A RELY 5922R 10000 is considered as PE100-RC and may be used for no dig applications. \nMoreover it may be used for the production of thick walled (large diameter and low SDR) pipes for infrastructure and industrial application due to its low sagging characteristics and it shows favorable processing behavior. \nThis material meets (inter)national standards for use in gas, drinking water and waste water piping.MRS class ISO 12162 MPa = 10.0 (PE 100). \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Potable water supply",
+                "Gas supply",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Drinkingwater contact declaration",
+                    "title": "RELY 5922R\\10000-Drinkingwater contact declaration",
+                    "url": "/en/products/documents/rely-5922r-10000-drinkingwater-contact-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "326a000f-e95f-43f9-b778-1b37fc8ee2da"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-Vestolen A-RELY 5922R 10000 Black-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5922r-10000-black-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2f56673a-2df0-4207-8894-221f2a62b985"
+                },
+                {
+                    "documentType": "Toy declaration",
+                    "title": "RELY 5922R\\10000-Toy declaration",
+                    "url": "/en/products/documents/rely-5922r-10000-toy-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f7fafce9-966f-425f-b535-334762989ada"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen A-RELY 5922R 10000 Black-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5922r-10000-black-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c93cc15a-91e1-4b35-94c9-3b2d767e6c5f"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "RELY 5922R\\10000-Material Safety Datasheet",
+                    "url": "/en/products/documents/rely-5922r-10000-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "994a18ea-30c8-4b0b-903c-6674512ffcce"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen A-RELY 5922R 10000 Black-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5922r-10000-black-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6431b353-c5c5-478e-bc82-9ab3ee8e8fc9"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "RELY 5922R\\10000-Phthalates declaration",
+                    "url": "/en/products/documents/rely-5922r-10000-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c5307fb8-ca48-41f5-b0ac-ab217d15d9e7"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen A-RELY 5922R 10000 Black-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5922r-10000-black-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f0a422b2-62ed-4d48-a20d-c515a5cecda7"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen A-RELY 5922R 10000 Black-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5922r-10000-black-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ad48f26c-4ec8-4272-8fcd-eb697f54e05e"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen A_RELY 5922R 10000 Black_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-a_rely-5922r-10000-black_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e3c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "rely-5922r-10000-black"
+        },
+        {
+            "$id": "13",
+            "id": "b9456b03-c5eb-462e-9d76-89ba2cdb7aa3",
+            "title": "Rely 5923R 10000 Black",
+            "summary": "Density 959 kg/m3, MFR(5 kg) 0.2 g/10 min",
+            "description": "SABIC\u00ae Vestolen A RELY 5923R 10000 is a grade which has a high density and a bimodal distribution of the molecular mass. \nDue to its profile of properties this material is typically used for gas and drinking water piping. \nThis material meets (inter)national standards for use in gas, drinking water and waste water piping. \nMRS class ISO 12162 MPa = 10.0 (PE 100). \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Potable water supply",
+                "Gas supply",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-Vestolen A-Rely 5923R 10000 Black-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5923r-10000-black-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5e672383-75ad-4bc2-8fa9-2af09cbd2ad7"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen A-Rely 5923R 10000 Black-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5923r-10000-black-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "96d0805b-bd53-48f6-9426-3e94726928af"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen A-Rely 5923R 10000 Black-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5923r-10000-black-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "696fb125-f521-43d3-883f-5a8a3e7e4229"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen A-Rely 5923R 10000 Black-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5923r-10000-black-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6cb5755c-7e75-40c5-841b-67f5fdd4f2a1"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "Rely 5923R\\10000-Material Safety Datasheet",
+                    "url": "/en/products/documents/rely-5923r-10000-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "42dc124b-273c-49fc-a476-7f76de0d0091"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "Rely 5923R\\10000-Phthalates declaration",
+                    "url": "/en/products/documents/rely-5923r-10000-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "45857bc2-36f7-4d8e-99df-99a648d044d8"
+                },
+                {
+                    "documentType": "Drinkingwater contact declaration",
+                    "title": "Rely 5923R\\10000-Drinkingwater contact declaration",
+                    "url": "/en/products/documents/rely-5923r-10000-drinkingwater-contact-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a615f386-6112-4cfe-915d-9ca614c73ba2"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen A-Rely 5923R 10000 Black-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5923r-10000-black-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a5f4495c-598a-4ff0-bc23-f70a4799bc42"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen A_Rely 5923R 10000 Black_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-a_rely-5923r-10000-black_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fcc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "rely-5923r-10000-black"
+        },
+        {
+            "$id": "14",
+            "id": "61213d5f-92c7-439d-b9e7-6c6005dd06ad",
+            "title": "RELY 5924R 10000 Black",
+            "summary": "Density 959 kg/m3, MFR(5 kg) 0.23 g/10 min",
+            "description": "SABIC\u00ae Vestolen A RELY 5924R 10000 is a grade which has a high density and a bimodal distribution of the molecular mass. \nDue to the low sag characteristics of this material it may be used for the production of thick walled (large diameter and low SDR) pipes for infrastructure and industrial applications and shows favorable processing behaviour. \nThis material meets (inter)national standards for use in gas, drinking water and waste water piping. \nMRS class ISO 12162 MPa = 10.0 (PE 100). \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Potable water supply",
+                "Gas supply",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Construction approval",
+                    "title": "DIBt Rely 5924R 10000 (2013-07)-Construction approval",
+                    "url": "/en/products/documents/dibt-rely-5924r-10000-2013-07-construction-approval/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "373a6b10-5eba-45ee-a1fa-055229d70a79"
+                },
+                {
+                    "documentType": "Drinkingwater contact declaration",
+                    "title": "RELY 5924R\\10000-Drinkingwater contact declaration",
+                    "url": "/en/products/documents/rely-5924r-10000-drinkingwater-contact-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c99b6bc2-0088-4046-8c28-5b03b6f46d12"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "RELY 5924R\\10000-Phthalates declaration",
+                    "url": "/en/products/documents/rely-5924r-10000-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1a1a7be5-3acc-4d8d-9339-7a1d135a9004"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-Vestolen A-RELY 5924R 10000 Black-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5924r-10000-black-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6cb0de7a-1c76-44be-bee2-7ef1e8e14721"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-Vestolen A-RELY 5924R 10000 Black-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5924r-10000-black-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "7200fc77-d561-4730-918a-9acf6b0b20a1"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-Vestolen A-RELY 5924R 10000 Black-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5924r-10000-black-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0023b91a-c510-4cfe-80d7-c4735f2424a6"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-Vestolen A-RELY 5924R 10000 Black-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5924r-10000-black-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5f1bf080-ee28-43a0-83c7-cceaac7b3293"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "RELY 5924R\\10000-Material Safety Datasheet",
+                    "url": "/en/products/documents/rely-5924r-10000-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "77d24f34-336a-46aa-bd0e-ccf9393e1a35"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-Vestolen A-RELY 5924R 10000 Black-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-vestolen-a-rely-5924r-10000-black-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "58f9264e-2c9b-431b-8006-d7a5b43dee21"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen A_RELY 5924R 10000 Black_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-a_rely-5924r-10000-black_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "96ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "rely-5924r-10000-black"
+        },
+        {
+            "$id": "15",
+            "id": "f8a682d3-51cf-eb11-810a-005056857ef3",
+            "title": "RELY 5944HT 10000 Black",
+            "summary": "Density 959 kg/m3, MFR(5 kg) 0.2 g/10 min",
+            "description": "SABIC\u00ae Vestolen A RELY 5944HT 10000 is a grade which has a high density and a bimodal distribution of the molecular mass.\nDue to its heat ageing stability SABIC\u00ae Vestolen A RELY 5944HT 10000 is typically used for industrial pipes and other applications where increased thermal load can be expected, such as high voltage cable ducts.\nBecause of its resistance against slow crack growth (SCG) the material SABIC\u00ae Vestolen A RELY 5944HT 10000 is considered as PE100-RC and may be used for no dig applications.\nThe material shows favorable processing behavior and due to its low sagging characteristics it is typically used for the production of thick walled (large diameter and low SDR) pipes.\nMRS class ISO 12162 MPa = 10.0 (PE 100). \n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Potable water supply",
+                "Gas supply",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Vestolen A_RELY 5944HT 10000 Black_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-vestolen-a_rely-5944ht-10000-black_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211001",
+                    "id": "04810483-52cf-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "rely-5944ht-10000-black"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "16",
+            "id": "0cf9ad07-62b0-4021-88d3-07861c00788c",
+            "title": "Extrusion",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "68450aab-b9b8-4b9b-be53-91d72734e67d",
+            "title": "Pipe extrusion",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "b18d3bec-9594-49ff-b757-55c22ecc157f",
+            "title": "Stripe coextrusion",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "7b648511-faef-4191-bff1-63a6deb10b8f",
+            "title": "Steel Pipe Coating",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "39a82182-8650-48d5-95ee-93a07f6bf049",
+            "title": "Wire & Cable extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "21",
+            "id": "07c64c9c-bba2-4a0f-b1c5-5424d49c327e",
+            "title": "Sheet",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "32431af9-01d4-4107-9322-793fbea45634",
+            "title": "Irrigation",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "8c87e5af-f829-4002-a13a-cca944478803",
+            "title": "Cable ducts",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "db55c716-d25f-4a98-95bf-0a300448766a",
+            "title": "Potable water supply",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "0b756085-b42a-4fee-a559-dad8f20e42b2",
+            "title": "Gas supply",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "55982401-1b76-4c37-a0ca-f6b40dd7e910",
+            "title": "Sewage",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "222e2188-7d4a-4eb6-b1af-0aa320c0c9cd",
+            "title": "Chemical & industrial systems",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "29",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Middle East and Africa",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "33",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rigid Packaging",
+            "id": "c34e23fb-45e9-e611-80fb-005056857ef3"
+        },
+        {
+            "$id": "34",
+            "industry": "1679dc71-a5d2-4e3b-bd90-ef43d09fe4d9",
+            "title": "IndustrySegment",
+            "id": "f25a6df1-91f0-43a8-9b69-520be613d22d"
+        }
+    ]
+}

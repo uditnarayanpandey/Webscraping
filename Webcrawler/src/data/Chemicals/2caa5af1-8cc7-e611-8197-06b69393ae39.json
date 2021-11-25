@@ -1,0 +1,177 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "7d5a7198-8fc7-e611-8197-06b69393ae39",
+            "title": "DEA 99",
+            "summary": "DEA 99 is a clear hygroscopic liquid with a mild ammonical odor at above room temperature.",
+            "description": "DEA 99 is a clear hygroscopic liquid with a mild ammonical odor at above room temperature. At room temperature, it is a white crystalline solid.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-DEA 99-SDS-Global-en-2021-05-17",
+                    "url": "/en/products/documents/sabic-dea-99-sds-global-en-2021-05-17/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "70fb3923-1bb7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-DEA 99-SDS-Asia-China-en-2021-05-18",
+                    "url": "/en/products/documents/sabic-dea-99-sds-asia-china-en-2021-05-18/en",
+                    "language": "English",
+                    "country": "290a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "3a7b2668-cdb7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Diethanolamine_DEA 99_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-diethanolamine_dea-99_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "86af102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "af7dbe9d-66c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a9178b5c-48be-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "aaa5a8f4-9981-e711-80fc-005056857ef3",
+                    "contactRoles": [
+                        "949d4a7a-cf37-4938-98e4-4dbd59741ee6"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "aa178b5c-48be-eb11-8109-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dea-99"
+        },
+        {
+            "$id": "5",
+            "id": "608b941c-1895-eb11-8109-005056857ef3",
+            "title": "SABIC \u00ae Diethanolamine (DEA 990)",
+            "summary": "DEA 990 is a clear hygroscopic liquid with a mild ammoniacal odor at above room Temperature. At room temperature it is a white crystalline solid.",
+            "description": "DEA 990 is a clear hygroscopic liquid with a mild ammoniacal odor at above room Temperature. At room temperature it is a white crystalline solid.",
+            "applications": [
+                "Gas Sweetening"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC \u00ae Diethanolamine DEA 990-SDS-Global-en",
+                    "url": "/en/products/documents/sabic-diethanolamine-dea-990-sds-global-en/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a2ec3d6e-abcd-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC \u00ae Diethanolamine (DEA 990)_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-diethanolamine-dea-990-_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c3d3e932-1b95-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic-\u00ae-diethanolamine-(dea-990)"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "6",
+            "id": "313ee29e-8cc7-e611-8197-06b69393ae39",
+            "title": "Placeholder - please replace me",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "6f3b0e4d-11be-eb11-8109-005056857ef3",
+            "title": "Gas Sweetening",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "8",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

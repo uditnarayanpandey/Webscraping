@@ -1,0 +1,109 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "c3323552-1f95-eb11-8109-005056857ef3",
+            "title": "SABIC \u00ae Diethylenetriamine (DETA)",
+            "summary": "Diethylenetriamine is the next to the lowest molecular weight product containing two primary and one secondary nitrogen. Clear and colorless with an ammonia-like odor, DETA is a single- component product.",
+            "description": "Diethylenetriamine is the next to the lowest molecular weight product containing two primary and one secondary nitrogen. Clear and colorless with an ammonia-like odor, DETA is a single- component product.",
+            "applications": [
+                "Surfactants",
+                "Corrosion Inhibitors"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC \u00ae Diethylenetriamine (DETA)-SDS-Global-en",
+                    "url": "/en/products/documents/sabic-diethylenetriamine-deta-sds-global-en/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "14d2cbba-adcd-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC \u00ae Diethylenetriamine (DETA)_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-diethylenetriamine-deta-_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f0220147-2095-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "af7dbe9d-66c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "fac312e0-adcd-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic-\u00ae-diethylenetriamine-(deta)"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "4",
+            "id": "e5f997d2-10be-eb11-8109-005056857ef3",
+            "title": "Surfactants",
+            "count": 0
+        },
+        {
+            "$id": "5",
+            "id": "62de6d1a-11be-eb11-8109-005056857ef3",
+            "title": "Corrosion Inhibitors",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "6",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

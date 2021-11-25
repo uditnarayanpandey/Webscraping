@@ -1,0 +1,2948 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "e130aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "310SE0",
+            "summary": "FR PBT, unreinforced, thin wall, UL94V0@0.71mm/5VA@3.0mm",
+            "description": "VALOX 310SE0 is an unreinforced, flame retardant Polybutylene Terephthalate (PBT) injection moldable grade with excellent chemical resistance. It has a UL94V0@0.71mm and 5VA@3.0mm flame rating. This is a good candidate for thin wall applications in the electrical industry including bobbins, keyboards, switches and appliance housings.",
+            "applications": [
+                "Auto Electrical",
+                "Building Accessory",
+                "Circuit Protection",
+                "Coffee Maker/Espresso Machine",
+                "Cooking Range",
+                "Data Management",
+                "Data Transfer",
+                "Dishwasher",
+                "Displays",
+                "Document Handling",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "EV/HEV Battery",
+                "Freezer",
+                "Furnace/Heater",
+                "Gas/Electric Oven",
+                "Hygiene/Personal Care",
+                "Industrial Material Handling",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Medical Device",
+                "Meter Gas",
+                "Microwave Oven",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Personal Care",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Power Manangement",
+                "Respiratory",
+                "Seating/Chair",
+                "Semiconductor",
+                "Small Appliance",
+                "Washing Machine",
+                "Water Treatment/Filtration",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_310SE0_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_310se0_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "7ab0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_310SE0_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_310se0_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "fab0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_310SE0_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_310se0_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "9bc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Water Management",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Home Decoration",
+                "Consumer Packaging",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "310se0"
+        },
+        {
+            "$id": "3",
+            "id": "0331aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "357",
+            "summary": "FR PBT/PC, unreinforced, Impact, UL94V0@0.63mm/5VA@3.0mm",
+            "description": "VALOX 357 is an unreinforced, impact modified flame retardant Polybutylene Terephthalate/Polycarbonate (PBT/PC) injection moldable grade. It has excellent chemical resistance and a UL94V0@0.63mm and 5VA@3.0mm flame rating. This is a good candidate for applications in the electrical industry including bobbins, switches, and enclosures.",
+            "applications": [
+                "Air Conditioning",
+                "Amusement Machine",
+                "Audio",
+                "Auto Electrical",
+                "Building Accessory",
+                "Circuit Protection",
+                "Cooking Range",
+                "Data Transfer",
+                "Defense Vehicles",
+                "Dishwasher",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "EV/HEV Charging System",
+                "Fluid Delivery",
+                "Food Processor",
+                "Freezer",
+                "Fuel Cell",
+                "Gas/Electric Oven",
+                "Golf Cart",
+                "Heavy Vehicles",
+                "Industrial Material Handling",
+                "Inverter",
+                "Lab Ware and Clinical Diagnostics",
+                "Laundry Dryer",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Non-LED Lighting",
+                "Oil/Gas",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Power Manangement",
+                "Pump",
+                "Recreational Vehicle",
+                "Refrigerator",
+                "Respiratory",
+                "Seating/Chair",
+                "Semiconductor",
+                "Small Appliance",
+                "Surgical Devices",
+                "Swimming Pool/Spa",
+                "Window",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_357_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_357_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f5b0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_357_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_357_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "1eb1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Fossil",
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Surgical",
+                "Home Decoration",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Energy Storage",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Automotive Under the Hood",
+                "Fluid and Blood Handling",
+                "Commercial Appliance",
+                "Recreational Vehicle",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "357"
+        },
+        {
+            "$id": "4",
+            "id": "0431aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "357M",
+            "summary": "VALOX Resin 357: PBT + PC alloy. UL94 V-0 @0.78mm. Impact modified",
+            "description": "LIMITED USE, No New Customers / Applications as of Jan. 2010:\n\nPBT+PC alloy with impact modifier and FR package for electrical markets. Extrusion Grade, Flame retardant, Impact Modified, Mold Release, Opaque, UL Grade,",
+            "applications": [
+                "Circuit Protection",
+                "Data Transfer",
+                "Electronic Components",
+                "Enclosures",
+                "Vacuum Cleaner",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_357M_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_357m_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "c04ad9d6-4aec-ea11-8105-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Home Appliance",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "357m"
+        },
+        {
+            "$id": "5",
+            "id": "0631aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "357U",
+            "summary": "FR PBT/PC, unreinforced, UV, Impact, UL94V0@0.64mm/5VA@3.0mm",
+            "description": "VALOX 357U is an unreinforced, UV stabilized, impact modified flame retardant Polybutylene Terephthalate/Polycarbonate (PBT) injection moldable grade. It has excellent chemical resistance and a UL94V0@0.64mm and 5VA@3.0mm flame rating. This is a good candidate for applications in the electrical industry including bobbins, switches, and enclosures.",
+            "applications": [
+                "Air Conditioning",
+                "Air Filtration",
+                "Amusement Machine",
+                "Audio",
+                "Building Accessory",
+                "Commercial Storage/Cookware",
+                "Cooking Range",
+                "Data Transfer",
+                "Display",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Fluid Delivery",
+                "Freezer",
+                "Furnace/Heater",
+                "Heavy Vehicles",
+                "Hot Water System",
+                "Industrial Material Handling",
+                "Lab Ware and Clinical Diagnostics",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Plumbing",
+                "Power Manangement",
+                "Refrigerator",
+                "Renal and Blood Handling",
+                "Small Appliance",
+                "Surgical Devices",
+                "Swimming Pool/Spa",
+                "Traffic Management",
+                "Wearables",
+                "Window",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_357U_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_357u_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a3b0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_357U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_357u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "24b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Surgical",
+                "Home Decoration",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Fluid and Blood Handling",
+                "Commercial Appliance",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "357u"
+        },
+        {
+            "$id": "6",
+            "id": "0731aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "357X",
+            "summary": "FR PBT/PC, unreinforced, Impact, UL94V0@0.75mm/5VA@2.5mm",
+            "description": "VALOX 357X is an unreinforced, impact modified flame retardant Polybutylene Terephthalate/Polycarbonate (PBT/PC) injection moldable  grade. It has excellent chemical resistance and a UL94V0@0.75mm and 5VA@2.5mm flame rating. This is a good candidate for applications in the electrical industry including bobbins, switches, and enclosures.",
+            "applications": [
+                "Auto Electrical",
+                "Circuit Protection",
+                "Coffee Maker/Espresso Machine",
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Electronic Material Handling",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "EV/HEV Charging System",
+                "Gear/Bearing/Slider",
+                "Medical Device",
+                "Meter Gas",
+                "Meter Water",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Power Manangement",
+                "Water Treatment/Filtration",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_357X_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_357x_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "27b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Home Appliance",
+                "Servomotor",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "357x"
+        },
+        {
+            "$id": "7",
+            "id": "0831aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "357XU",
+            "summary": "FR PBT/PC, unreinforced, Impact, UL94V0@0.75mm/5VA@2.5mm",
+            "description": "VALOX 357XU is an unreinforced, UV stabilized, impact modified flame retardant Polybutylene Terephthalate/Polycarbonate (PBT) injection moldable grade. It has excellent chemical resistance and a UL94V0@0.75mm and 5VA@2.5mm flame rating. This is a good candidate for applications in the electrical industry including bobbins, switches, and enclosures.",
+            "applications": [
+                "Electronic Components",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Exterior Trim",
+                "Heavy Vehicles",
+                "Laundry Dryer",
+                "Plumbing",
+                "Power Manangement",
+                "Refrigerator",
+                "Renal and Blood Handling",
+                "Water Treatment/Filtration",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_357XU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_357xu_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "2ab1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Fluid and Blood Handling",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "357xu"
+        },
+        {
+            "$id": "8",
+            "id": "0c31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "362",
+            "summary": "Unreinforced, flame retardant PBT. Excellent electrical properties. V0-1.5mm.",
+            "description": "VALOX 362 is a flame retarded, unreinforced PBT injection moulding resin with excellent electrical properties. Applications: Relay sockets, switches. Unreinforced PBTP, UL94 V-0 rated. Non-blooming flame retardant. Excellent electrical properties. High tracking index. Relay sockets, switches, etc.",
+            "applications": [
+                "Circuit Protection",
+                "Electronic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_362_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_362_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "a6c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "362"
+        },
+        {
+            "$id": "9",
+            "id": "0d31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "364",
+            "summary": "FR PBT/PC, unreinforced, Impact, UL94V0@1.47mm/5VA@3.0mm",
+            "description": "VALOX 364 is an unreinforced, impact modified flame retardant Polybutylene Terephthalate/Polycarbonate (PBT/PC) injection moldable flame grade. It has excellent chemical resistance and a UL94V0@1.47mm and 5VA@3.0mm flame rating. This is a good candidate for outdoor applications in telecommunications enclosures.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Audio",
+                "Auto Electrical",
+                "Cooking Range",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "Energy Management",
+                "Fluid Delivery",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Respiratory",
+                "Small Appliance",
+                "Surgical Devices",
+                "Wearables",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_364_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_364_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "a9b0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_364_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_364_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a7c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Surgical",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Automotive Under the Hood",
+                "Fluid and Blood Handling",
+                "Commercial Appliance",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "364"
+        },
+        {
+            "$id": "10",
+            "id": "0e31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "365",
+            "summary": "Unreinforced, opaque, provides chemical resistance and dimensional stability, UL94V-0 rated at 0.031\".",
+            "description": "Unreinforced, opaque, provides chemical resistance and dimensional stability, UL94V-0 rated at 0.031\".",
+            "applications": [
+                "Circuit Protection",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Heavy Vehicles",
+                "Medical Device",
+                "Personal Computing",
+                "Surgical Devices",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_365_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_365_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "2db1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Surgical",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "365"
+        },
+        {
+            "$id": "11",
+            "id": "1031aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "3706",
+            "summary": "FR PBT/PC, unreinforced, impact, UL94V0@1.5mm, 5VA@2.49mm",
+            "description": "VALOX 3706 is an unreinforced impact modified flame retardant Polybutylene Terephthalate/Polycarbonate (PBT/PC) injection moldable grade. It has excellent chemical resistance and a UL94V0@1.5mm and 5VA@2.49mm flame rating. This is a good candidate for outdoor enclosures.",
+            "applications": [
+                "Audio",
+                "Battery Pack",
+                "Building Accessory",
+                "Circuit Protection",
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Lab Ware and Clinical Diagnostics",
+                "Lawn/Garden",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Photovoltaic Components",
+                "Recreational Vehicle",
+                "Security/Detection",
+                "Small Appliance",
+                "Vacuum Cleaner",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_3706_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_3706_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "afb0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Recreational Vehicle"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "3706"
+        },
+        {
+            "$id": "12",
+            "id": "2831aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "420SE0",
+            "summary": "FR PBT, 30% glass filled, UL94V0@0.71mm/5VA@2.0mm",
+            "description": "VALOX 420SE0 is a 30% glass filled, flame retardant Polybutylene Terephthalate (PBT) injection moldable grade with excellent chemical resistance. It has a UL94V0@0.71mm and 5VA@2.0mm flame rating. This is a good candidate for a variety of applications in the electrical industry including commutators, cooling fan components, connectors, bobbins, and switches.",
+            "applications": [
+                "Coil bobbin",
+                "Air Cabin Interiors",
+                "Air Conditioning",
+                "All-Terrain Vehicle",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Building Accessory",
+                "Circuit Protection",
+                "Cladding",
+                "Cladding/Roof",
+                "Coffee Maker/Espresso Machine",
+                "Commercial Storage/Cookware",
+                "Cooking Range",
+                "Data Management",
+                "Data Transfer",
+                "Dishwasher",
+                "Displays",
+                "Document Handling",
+                "Doors Hardware/Trim",
+                "Electrical",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "EV/HEV Invertor/Convertor",
+                "EV/HEV Motor",
+                "Exterior Mirror",
+                "Food Processor",
+                "Forward Lighting",
+                "Gas/Electric Oven",
+                "Gear/Bearing/Slider",
+                "Heavy Vehicles",
+                "HVAC Underhood",
+                "Ignition System",
+                "Industrial Material Handling",
+                "Lab Ware and Clinical Diagnostics",
+                "Laundry Dryer",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Gas",
+                "Meter Water",
+                "Monitoring and Imaging",
+                "Motorcycle",
+                "Navigation Unit",
+                "Non-LED Lighting",
+                "Personal Care",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Pipe/Fitting",
+                "Plumbing",
+                "Power Boat",
+                "Power Manangement",
+                "Pump",
+                "Recreational Vehicle",
+                "Refrigerator",
+                "Security/Detection",
+                "Sensor",
+                "Small Appliance",
+                "Toy",
+                "Tray",
+                "Vacuum Cleaner",
+                "Water Treatment/Filtration",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Product Brochure",
+                    "title": "Valox Resins for Coil Bobbins",
+                    "url": "/en/products/documents/valox-resins-for-coil-bobbins/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1c4bd421-c454-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_420SE0_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_420se0_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "ccb0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_420SE0_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_420se0_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "19b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_420SE0_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_420se0_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "abc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Sport/Leisure",
+                "Lighting",
+                "Home Appliance",
+                "Servomotor",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Automotive Under the Hood",
+                "Commercial Appliance",
+                "Recreational Vehicle",
+                "Automotive Lighting",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "420se0"
+        },
+        {
+            "$id": "13",
+            "id": "3831aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "4512",
+            "summary": "PBT+PC, PFPE, Glass Fiber, Impact Modifier, Mold Release, Flame Retardant, Heat Stabilized,",
+            "description": "10% GF FR PBT/PC Blend",
+            "applications": [
+                "Electronic Components",
+                "Non-LED Lighting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_4512_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_4512_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "b1c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "4512"
+        },
+        {
+            "$id": "14",
+            "id": "3a31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "4521",
+            "summary": "FR PBT, 20% glass filled, high flow, UL94V0@0.75mm, 5VA@2.0mm",
+            "description": "VALOX 4521 is a 20% glass filled, high flow, flame retardant Polybutylene Terephthalate (PBT) injection moldable grade. It has excellent chemical resistance and a UL94V0@0.75 flame rating and 5VA@2.0mm.",
+            "applications": [
+                "Building Accessory",
+                "Circuit Protection",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "Heavy Vehicles",
+                "LED Lighting",
+                "Medical Device",
+                "Meter Gas",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_4521_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_4521_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "dbb0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_4521_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_4521_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "2bb1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_4521_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_4521_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "63b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "4521"
+        },
+        {
+            "$id": "15",
+            "id": "3d31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "457",
+            "summary": "6.5% GR PBT, UL94 V-0/5V.",
+            "description": "VALOX 457 Polybutylene Terephthalate (PBT) resin is a 6.5% glass fiber reinforced, injection moldable grade. This brominated flame retardant PBT has a UL V0 and 5VA rating . VALOX 457 resin is a general purpose resin that is an excellent candidate for a wide variety of electrical component applications.",
+            "applications": [
+                "Auto Aftermarket",
+                "Building Accessory",
+                "Circuit Protection",
+                "Data Transfer",
+                "Displays",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Furnace/Heater",
+                "Humidity Control",
+                "Industrial Material Handling",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Pharmaceutical Manufacturing",
+                "Photovoltaic Components",
+                "Recreational Vehicle",
+                "Small Appliance",
+                "Surgical Tray",
+                "Washing Machine",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_457_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_457_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "deb0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_457_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_457_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "31b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Surgical",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Recreational Vehicle",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "457"
+        },
+        {
+            "$id": "16",
+            "id": "3e31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "4631",
+            "summary": "FR PBT, 30% glass filled, UL94V0@0.75mm, electrical, mechanical",
+            "description": "VALOX 4631 is a 30% glass filled,  flame retardant Polybutylene Terephthalate (PBT) injection moldable grade. It has good electrical and mechanical properties and a UL94V0@0.75 flame rating.",
+            "applications": [
+                "Circuit Protection",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "HVAC Underhood",
+                "Personal Computing",
+                "Pump",
+                "Vending Machine",
+                "Washing Machine",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_4631_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_4631_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "e1b0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "4631"
+        },
+        {
+            "$id": "17",
+            "id": "6131aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "553",
+            "summary": "FR PBT/PC, 30% glass filled, UL94V0@0.86/5VA@2.3",
+            "description": "VALOX 553 is a 30% glass filled flame retardant Polybutylene Terephthalate/Polycarbonate (PBT/PC) injection moldable grade. It has excellent chemical resistance and a UL94V0@0.86mm and 5VA@2.3mm flame rating. This is a good candidate for applications needing reduced shrinkage/warpage including appliance handles, spotlights, electric motors, and pump housings",
+            "applications": [
+                "Air Conditioning",
+                "Auto Electrical",
+                "Battery Pack",
+                "Battery System",
+                "Building Accessory",
+                "Circuit Protection",
+                "Cladding/Roof",
+                "Coffee Maker/Espresso Machine",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "EV/HEV Battery",
+                "EV/HEV Charging System",
+                "Exterior Trim",
+                "Fuel Cell",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "Hot Water System",
+                "Inverter",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Gas",
+                "Non-LED Lighting",
+                "OLED",
+                "Personal Care",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Power Manangement",
+                "Pump",
+                "Rail",
+                "Security/Detection",
+                "Semiconductor",
+                "Trim",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_553_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_553_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "02b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_553_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_553_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "8eb1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_553_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_553_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "bfc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Water Management",
+                "Electric Vehicle",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Rail",
+                "Lighting",
+                "Energy Storage",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Automotive Under the Hood",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "553"
+        },
+        {
+            "$id": "18",
+            "id": "6431aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "553U",
+            "summary": "FR PBT/PC, 30% glass filled, UV, UL94V0@0.86/5VA@2.31",
+            "description": "VALOX 553U is a 30% glass filled, UV stabilized flame retardant Polybutylene Terephthalate/Polycarbonate (PBT/PC) injection moldable grade. It has excellent chemical resistance and a UL94V0@0.86mm and 5VA@2.31mm flame rating. This is a good candidate for applications needing reduced shrinkage/warpage including appliance handles, spotlights, electric motors, and pump housings",
+            "applications": [
+                "Auto Electrical",
+                "Building Accessory",
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "Meter Water",
+                "Non-LED Lighting",
+                "Oil/Gas",
+                "Photovoltaic Components",
+                "Recreational Vehicle",
+                "Small Appliance",
+                "Water Treatment/Filtration",
+                "Weaving Machine"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_553U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_553u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "c0c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Fossil",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Textile",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood",
+                "Recreational Vehicle"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "553u"
+        },
+        {
+            "$id": "19",
+            "id": "b431aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "771",
+            "summary": "FR PBT, 35% mineral/glass filled, UL94V0@0.75mm/5VA@2.0mm",
+            "description": "VALOX 771 is a 35% mineral/glass filled,  flame retardant Polybutylene Terephthalate (PBT) injection moldable grade. It has excellent chemical resistance and a UL94V0@0.75 flame rating and 5VA@2.0mm. This grade also has a CTI of 0 and is a good candidate for applications that may see electrical arcing.",
+            "applications": [
+                "Circuit Protection",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Freezer",
+                "Meter Gas",
+                "Refrigerator",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_771_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_771_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "98b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_771_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_771_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "e2b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Home Appliance",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "771"
+        },
+        {
+            "$id": "20",
+            "id": "b631aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "780",
+            "summary": "40% gl/min, UL94 V-0 rated. Nonblooming flame retardant.  Circuit breaker handles/housings, motor coil housings.",
+            "description": "VALOX 780 Polybutylene Terephthalate/Polyethylene Terephthalate (PBT/PET) resin is mineral and  glass fiber reinforced , reduced blooming effect, injection moldable grade. This brominated flame retardant PBT/PET has a UL V0 rating . VALOX 780 resin is a general purpose resin that is an excellent candidate for a wide variety of applications including circuit and motor coil housings.",
+            "applications": [
+                "Auto Aftermarket",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Interior",
+                "Non-LED Lighting",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_780_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_780_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "3bb1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "780"
+        },
+        {
+            "$id": "21",
+            "id": "d231aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "855",
+            "summary": "FR PBT/PET, 15% glass filled, aesthetics, UL94V0@1.5mm",
+            "description": "VALOX 855 is a 15% glass filled, flame retardant Polybutylene Terephthalate/Polyethylene Terephthalate (PBT/PET) injection moldable grade. It has excellent chemical resistance and a UL94V0@1.5mm flame rating.  With its improved aesthetics compared to standard PBT, it is an excellent candidate for a wide variety of applications including steam irons, appliance components, and lighting parts.",
+            "applications": [
+                "Air Conditioning",
+                "Battery Cell",
+                "Coffee Maker/Espresso Machine",
+                "Cooking Range",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "LED Lighting",
+                "Medical Device",
+                "Meter Gas",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Semiconductor",
+                "Servingware",
+                "Small Appliance",
+                "Surgical Devices",
+                "Wearables",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_855_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_855_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "f1b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_855_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_855_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f4b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_855_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_855_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "dcc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Surgical",
+                "Lighting",
+                "Energy Storage",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "855"
+        },
+        {
+            "$id": "22",
+            "id": "d931aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "865",
+            "summary": "FR PBT/PET, 30% glass filled, aesthetics, UL94V0@1.5mm/5VA@3.0",
+            "description": "VALOX 865 is a 30% glass filled, flame retardant Polybutylene Terephthalate/Polyethylene Terephthalate (PBT/PET) injection moldable flatme retardant grade. It has excellent chemical resistance and a UL94V0@1.5mm and 5VA@3.0mm flame rating.  This grade also has improved aesthetics compared to standard PBT and is an excellent candidate for a wide variety of applications including steam irons, appliance, and lighting parts.",
+            "applications": [
+                "Auto Electrical",
+                "Electronic Components",
+                "Enclosures",
+                "Meter Water",
+                "Non-LED Lighting",
+                "Small Appliance",
+                "Vacuum Cleaner"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_865_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_865_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "47b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_865_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_865_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "c0b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_865_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_865_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f7b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "865"
+        },
+        {
+            "$id": "23",
+            "id": "1135aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DR48",
+            "summary": "FR PBT, 17% glass filled, UL94V0@0.90mm/5VA@3.0mm",
+            "description": "VALOX DR48 is a 17% glass filled, flame retardant Polybutyleneterephthalate (PBT) injection moldable grade with excellent chemical resistance. It has a UL94V0@0.90mm and 5VA@3.0mm flame rating. This is a good candidate for a variety of applications in the electrical industry including connectors, bobbins, and switches.",
+            "applications": [
+                "Air Conditioning",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Building Accessory",
+                "Circuit Protection",
+                "Coffee Maker/Espresso Machine",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electrical",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "EV/HEV Battery",
+                "Food Container",
+                "Food Processor",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "Industrial Material Handling",
+                "Interior Rail Components",
+                "Laundry Dryer",
+                "LED Lighting",
+                "Medical Device",
+                "Microwave Oven",
+                "Monitoring and Imaging",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Power Manangement",
+                "Recreational Vehicle",
+                "Respiratory",
+                "Semiconductor",
+                "Small Appliance",
+                "Surgical Devices",
+                "Swimming Pool/Spa",
+                "Washing Machine",
+                "Water Treatment/Filtration",
+                "Wheel Cover",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_DR48_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_dr48_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "a9b3102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_DR48_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_dr48_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "a3b4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_DR48_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_dr48_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "bcc5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Surgical",
+                "Rail",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Automotive Under the Hood",
+                "Commercial Appliance",
+                "Recreational Vehicle",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dr48"
+        },
+        {
+            "$id": "24",
+            "id": "4045aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "V3504",
+            "summary": "FR PBT, unreinforced, thin wall, UL94V0@0.38mm/5VA@3.0mm",
+            "description": "VALOX V3504 is an unreinforced, flame retardant Polybutylene Terephthalate (PBT) injection moldable grade with excellent chemical resistance. It has a UL94V0@0.38mm and 5VA@3.0mm flame rating. This is a good candidate for thin wall applications in the electrical industry including bobbins, keyboards, switches and appliance housings.",
+            "applications": [
+                "Circuit Protection",
+                "Enclosures",
+                "Photovoltaic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_V3504_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_v3504_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a8bd102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "v3504"
+        },
+        {
+            "$id": "25",
+            "id": "4245aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "V3900WX",
+            "summary": "FR PBT/PC, unreinforced, UV, Impact, UL94V0@1.5mm/5VA@3.0mm",
+            "description": "VALOX V3900WX is an unreinforced, UV stabilized, weatherable, impact modified flame retardant Polybutylene Terephthalate/Polycarbonate (PBT) injection moldable grade. It has excellent chemical resistance and a UL94V0@1.5mm and 5VA@3.0mm flame rating. This is an excellent candidate for a wide variety of applications including outdoor enclosures requiring UL746C F1 weatherability performance.",
+            "applications": [
+                "Amusement Machine",
+                "ATM/Ticket Machine",
+                "Auto Electrical",
+                "Battery Cell",
+                "Battery Pack",
+                "Building Accessory",
+                "Circuit Protection",
+                "City",
+                "Cluster",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "EV/HEV Charging System",
+                "Fluid Delivery",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "Industrial Material Handling",
+                "Inverter",
+                "Laser Sintering",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Water",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Oil/Gas",
+                "Personal Computing",
+                "Pharmaceutical Manufacturing",
+                "Photovoltaic Components",
+                "Power Manangement",
+                "Rail Window Glazing",
+                "Respiratory",
+                "Security/Detection",
+                "Small Appliance",
+                "Surgical Devices",
+                "Water Treatment/Filtration",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_V3900WX_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_v3900wx_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "abbd102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_V3900WX_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_v3900wx_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "a4bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_V3900WX_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_v3900wx_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "37c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Pharmaceutical",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Fossil",
+                "Electric Vehicle",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Additive Manufacturing",
+                "Surgical",
+                "Rail",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Energy Storage",
+                "Home Appliance",
+                "Bus",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Automotive Under the Hood",
+                "Fluid and Blood Handling",
+                "Commercial Appliance",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "v3900wx"
+        },
+        {
+            "$id": "26",
+            "id": "4d45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "V4760",
+            "summary": "FR PBT, 30% glass filled, high flow, UL94V0@0.28mm/5VA@1.5mm",
+            "description": "VALOX V4760 is a 30% glass filled, high flow flame retardant Polybutylene Terephthalate (PBT) injection moldable grade with excellent chemical resistance. It has a UL94V0@0.28mm and 5VA@1.5mm flame rating. This is a good candidate for a variety of thin wall applications in the electrical industry including connectors, bobbins, and switches.",
+            "applications": [
+                "Coil bobbin",
+                "Circuit Protection",
+                "Electronic Components",
+                "Refrigerator"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Product Brochure",
+                    "title": "Valox Resins for Coil Bobbins",
+                    "url": "/en/products/documents/valox-resins-for-coil-bobbins/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1c4bd421-c454-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_V4760_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_v4760_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "aebd102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Home Appliance",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "v4760"
+        },
+        {
+            "$id": "27",
+            "id": "4e45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "V4860HR",
+            "summary": "FR PBT, 30% glass filled, hydro-stable, UL94V0@0.80mm",
+            "description": "VALOX V4860HR is a 30% glass filled, impact modified, hydrolytically stable flame retardant Polybutylene Terephthalate (PBT) injection moldable grade. It has excellent chemical resistance and a UL94V0@0.80 flame rating.  This is a good candidate for a variety of applications needing a hydrostable FR PBT solution.",
+            "applications": [
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Building Element",
+                "Electronic Components",
+                "Enclosures",
+                "Ignition System",
+                "Lawn/Garden",
+                "Non-LED Lighting",
+                "Photo/Video Camera",
+                "Photovoltaic Components",
+                "Power Manangement"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_V4860HR_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_v4860hr_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "b0bd102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_V4860HR_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_v4860hr_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "d4be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VALOX\u2122 FR Resins_V4860HR_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/valox-fr-resins_v4860hr_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "a7bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "v4860hr"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "28",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "29",
+            "id": "4affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Electrical",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "53ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Accessory",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "63ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Coffee Maker/Espresso Machine",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "69ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cooking Range",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "6fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Dishwasher",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "75ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Doors Hardware/Trim",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "7effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronics",
+            "count": 0
+        },
+        {
+            "$id": "42",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "43",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "44",
+            "id": "82ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Management",
+            "count": 0
+        },
+        {
+            "$id": "45",
+            "id": "86ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "46",
+            "id": "87ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV/HEV Battery",
+            "count": 0
+        },
+        {
+            "$id": "47",
+            "id": "9affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Freezer",
+            "count": 0
+        },
+        {
+            "$id": "48",
+            "id": "9fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Furnace/Heater",
+            "count": 0
+        },
+        {
+            "$id": "49",
+            "id": "a2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Gas/Electric Oven",
+            "count": 0
+        },
+        {
+            "$id": "50",
+            "id": "aeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Hygiene/Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "51",
+            "id": "b1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "52",
+            "id": "b7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lab Ware and Clinical Diagnostics",
+            "count": 0
+        },
+        {
+            "$id": "53",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "54",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "55",
+            "id": "c1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Gas",
+            "count": 0
+        },
+        {
+            "$id": "56",
+            "id": "c3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Microwave Oven",
+            "count": 0
+        },
+        {
+            "$id": "57",
+            "id": "c6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Motorcycle",
+            "count": 0
+        },
+        {
+            "$id": "58",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "59",
+            "id": "d1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "60",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "61",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        },
+        {
+            "$id": "62",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "63",
+            "id": "e7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory",
+            "count": 0
+        },
+        {
+            "$id": "64",
+            "id": "edffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Seating/Chair",
+            "count": 0
+        },
+        {
+            "$id": "65",
+            "id": "efffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductor",
+            "count": 0
+        },
+        {
+            "$id": "66",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "67",
+            "id": "1000ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Washing Machine",
+            "count": 0
+        },
+        {
+            "$id": "68",
+            "id": "1200ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Treatment/Filtration",
+            "count": 0
+        },
+        {
+            "$id": "69",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "70",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "71",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "72",
+            "id": "3affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Conditioning",
+            "count": 0
+        },
+        {
+            "$id": "73",
+            "id": "43ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Amusement Machine",
+            "count": 0
+        },
+        {
+            "$id": "74",
+            "id": "48ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Audio",
+            "count": 0
+        },
+        {
+            "$id": "75",
+            "id": "6dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "76",
+            "id": "88ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV/HEV Charging System",
+            "count": 0
+        },
+        {
+            "$id": "77",
+            "id": "93ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid Delivery",
+            "count": 0
+        },
+        {
+            "$id": "78",
+            "id": "96ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Processor",
+            "count": 0
+        },
+        {
+            "$id": "79",
+            "id": "9dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fuel Cell",
+            "count": 0
+        },
+        {
+            "$id": "80",
+            "id": "a6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Golf Cart",
+            "count": 0
+        },
+        {
+            "$id": "81",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "82",
+            "id": "b6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Inverter",
+            "count": 0
+        },
+        {
+            "$id": "83",
+            "id": "b9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Laundry Dryer",
+            "count": 0
+        },
+        {
+            "$id": "84",
+            "id": "c0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "85",
+            "id": "cbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Oil/Gas",
+            "count": 0
+        },
+        {
+            "$id": "86",
+            "id": "dcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pump",
+            "count": 0
+        },
+        {
+            "$id": "87",
+            "id": "e3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "88",
+            "id": "e4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Refrigerator",
+            "count": 0
+        },
+        {
+            "$id": "89",
+            "id": "ffffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Devices",
+            "count": 0
+        },
+        {
+            "$id": "90",
+            "id": "0100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Swimming Pool/Spa",
+            "count": 0
+        },
+        {
+            "$id": "91",
+            "id": "1b00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window",
+            "count": 0
+        },
+        {
+            "$id": "92",
+            "id": "0d00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vacuum Cleaner",
+            "count": 0
+        },
+        {
+            "$id": "93",
+            "id": "3bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Filtration",
+            "count": 0
+        },
+        {
+            "$id": "94",
+            "id": "65ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Storage/Cookware",
+            "count": 0
+        },
+        {
+            "$id": "95",
+            "id": "70ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Display",
+            "count": 0
+        },
+        {
+            "$id": "96",
+            "id": "abffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Hot Water System",
+            "count": 0
+        },
+        {
+            "$id": "97",
+            "id": "baffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lawn/Garden",
+            "count": 0
+        },
+        {
+            "$id": "98",
+            "id": "c5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Monitoring and Imaging",
+            "count": 0
+        },
+        {
+            "$id": "99",
+            "id": "d9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Plumbing",
+            "count": 0
+        },
+        {
+            "$id": "100",
+            "id": "e6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Renal and Blood Handling",
+            "count": 0
+        },
+        {
+            "$id": "101",
+            "id": "0500ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Traffic Management",
+            "count": 0
+        },
+        {
+            "$id": "102",
+            "id": "1400ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wearables",
+            "count": 0
+        },
+        {
+            "$id": "103",
+            "id": "7cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "104",
+            "id": "a3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Gear/Bearing/Slider",
+            "count": 0
+        },
+        {
+            "$id": "105",
+            "id": "c2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Water",
+            "count": 0
+        },
+        {
+            "$id": "106",
+            "id": "8fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Trim",
+            "count": 0
+        },
+        {
+            "$id": "107",
+            "id": "47ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "ATM/Ticket Machine",
+            "count": 0
+        },
+        {
+            "$id": "108",
+            "id": "d5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Packaging & Drug Delivery",
+            "count": 0
+        },
+        {
+            "$id": "109",
+            "id": "4dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery Pack",
+            "count": 0
+        },
+        {
+            "$id": "110",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "111",
+            "id": "07b4d1ca-c34a-e711-80fb-005056857ef3",
+            "title": "Coil bobbin",
+            "count": 0
+        },
+        {
+            "$id": "112",
+            "id": "39ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "113",
+            "id": "42ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "All-Terrain Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "114",
+            "id": "49ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Aftermarket",
+            "count": 0
+        },
+        {
+            "$id": "115",
+            "id": "5effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cladding",
+            "count": 0
+        },
+        {
+            "$id": "116",
+            "id": "5fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cladding/Roof",
+            "count": 0
+        },
+        {
+            "$id": "117",
+            "id": "7affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical",
+            "count": 0
+        },
+        {
+            "$id": "118",
+            "id": "89ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV/HEV Invertor/Convertor",
+            "count": 0
+        },
+        {
+            "$id": "119",
+            "id": "8affee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV/HEV Motor",
+            "count": 0
+        },
+        {
+            "$id": "120",
+            "id": "8dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Mirror",
+            "count": 0
+        },
+        {
+            "$id": "121",
+            "id": "98ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Forward Lighting",
+            "count": 0
+        },
+        {
+            "$id": "122",
+            "id": "adffee91-14d8-e611-819b-06b69393ae39",
+            "title": "HVAC Underhood",
+            "count": 0
+        },
+        {
+            "$id": "123",
+            "id": "afffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Ignition System",
+            "count": 0
+        },
+        {
+            "$id": "124",
+            "id": "c8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Navigation Unit",
+            "count": 0
+        },
+        {
+            "$id": "125",
+            "id": "d8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pipe/Fitting",
+            "count": 0
+        },
+        {
+            "$id": "126",
+            "id": "daffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Boat",
+            "count": 0
+        },
+        {
+            "$id": "127",
+            "id": "f0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sensor",
+            "count": 0
+        },
+        {
+            "$id": "128",
+            "id": "0300ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Toy",
+            "count": 0
+        },
+        {
+            "$id": "129",
+            "id": "0900ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Tray",
+            "count": 0
+        },
+        {
+            "$id": "130",
+            "id": "acffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Humidity Control",
+            "count": 0
+        },
+        {
+            "$id": "131",
+            "id": "d4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Manufacturing",
+            "count": 0
+        },
+        {
+            "$id": "132",
+            "id": "0000ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Tray",
+            "count": 0
+        },
+        {
+            "$id": "133",
+            "id": "0e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vending Machine",
+            "count": 0
+        },
+        {
+            "$id": "134",
+            "id": "4effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery System",
+            "count": 0
+        },
+        {
+            "$id": "135",
+            "id": "ccffee91-14d8-e611-819b-06b69393ae39",
+            "title": "OLED",
+            "count": 0
+        },
+        {
+            "$id": "136",
+            "id": "e0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "count": 0
+        },
+        {
+            "$id": "137",
+            "id": "0a00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Trim",
+            "count": 0
+        },
+        {
+            "$id": "138",
+            "id": "1500ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Weaving Machine",
+            "count": 0
+        },
+        {
+            "$id": "139",
+            "id": "b5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior",
+            "count": 0
+        },
+        {
+            "$id": "140",
+            "id": "4cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery Cell",
+            "count": 0
+        },
+        {
+            "$id": "141",
+            "id": "f1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Servingware",
+            "count": 0
+        },
+        {
+            "$id": "142",
+            "id": "95ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Container",
+            "count": 0
+        },
+        {
+            "$id": "143",
+            "id": "b4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior Rail Components",
+            "count": 0
+        },
+        {
+            "$id": "144",
+            "id": "1600ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wheel Cover",
+            "count": 0
+        },
+        {
+            "$id": "145",
+            "id": "5dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "City",
+            "count": 0
+        },
+        {
+            "$id": "146",
+            "id": "60ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cluster",
+            "count": 0
+        },
+        {
+            "$id": "147",
+            "id": "b8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Laser Sintering",
+            "count": 0
+        },
+        {
+            "$id": "148",
+            "id": "dfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail Window Glazing",
+            "count": 0
+        },
+        {
+            "$id": "149",
+            "id": "54ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Element",
+            "count": 0
+        },
+        {
+            "$id": "150",
+            "id": "d6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photo/Video Camera",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "151",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "152",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "153",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "154",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "155",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense",
+            "id": "03ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "156",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Management",
+            "id": "07ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "157",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "158",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "159",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "160",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Decoration",
+            "id": "16ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "161",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Consumer Packaging",
+            "id": "1affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "162",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory and Sleep Therapy",
+            "id": "1effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "163",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "164",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "165",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "166",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "167",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Recreation",
+            "id": "27ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "168",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "169",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "id": "2affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "170",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Under the Hood",
+            "id": "2cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "171",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Outdoor, Lawn and Landscape",
+            "id": "05ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "172",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fossil",
+            "id": "08ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "173",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electric Vehicle",
+            "id": "09ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "174",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "175",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "176",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Storage",
+            "id": "21ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "177",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid and Blood Handling",
+            "id": "2effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "178",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "179",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "id": "31ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "180",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "id": "34ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "181",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food & Beverage",
+            "id": "0fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "182",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "183",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Servomotor",
+            "id": "23ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "184",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Exteriors",
+            "id": "35ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "185",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical",
+            "id": "04ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "186",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "187",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Lighting",
+            "id": "33ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "188",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Aerospace",
+            "id": "62f520a6-82bc-40d1-8716-dfe4e90dbf65"
+        },
+        {
+            "$id": "189",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "id": "13ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "190",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Textile",
+            "id": "1fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "191",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Heavy Truck",
+            "id": "0affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "192",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Manufacturing",
+            "id": "10ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "193",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Bus",
+            "id": "24ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "1344b20a-35c5-e711-80fd-005056857ef3",
+            "title": "AMHI240F",
+            "summary": "LEXAN\u2122 EXL AMHI240F filament is a high impact polycarbonate product available in black and white colors.",
+            "description": "LEXAN\u2122 EXL AMHI240F filament is a high impact polycarbonate product available in black and white colors. It provides high impact strength and improved ductility over standard polycarbonate at room temperature and extreme low temperatures.",
+            "applications": [
+                "Additive Plastic"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 EXL Filament_AMHI240F_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-exl-filament_amhi240f_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d7fa162d-6dc8-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "amhi240f"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "3",
+            "id": "36ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Plastic",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "4",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "5",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "7",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Manufacturing",
+            "id": "10ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

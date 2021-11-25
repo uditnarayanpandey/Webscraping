@@ -1,0 +1,1650 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "3437358d-b7a7-e911-8102-005056857ef3",
+            "title": "C05075DF",
+            "summary": "Density 868 kg/m3, MFR(2.16 kg) 0.5 g/10 min",
+            "description": "FORTIFY\u2122 Polyolefin Elastomer (POE) C05075DF is an ethylene octene copolymer produced by solution polymerization using metallocene catalyst. This product is available as free flowing pellets. \nFORTIFY\u2122 Polyolefin Elastomer (POE) C05075DF is a grade typically used in foam application. This grade is designed as a low density and high performance copolymer\nmodifier to provide superior resilience and compression set properties.",
+            "applications": [
+                "Wire & cable",
+                "Impact modification"
+            ],
+            "processingTechniques": [
+                "Extrusion compounding",
+                "Wire & Cable extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SABIC\u00ae FORTIFY\u2122-C05075DF-REAH-Global-en-2020-01-03",
+                    "url": "/en/products/documents/sabic-sabic-fortify-c05075df-reah-global-en-2020-01-03/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2e9888b2-1856-ea11-8103-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SABIC\u00ae FORTIFY\u2122-C05075DF-FCDL-Global-en-2020-01-03",
+                    "url": "/en/products/documents/sabic-sabic-fortify-c05075df-fcdl-global-en-2020-01-03/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9a5e0249-1956-ea11-8103-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C05075DF_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c05075df_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "188d3b1d-bba7-e911-8102-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C05075DF_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c05075df_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "599d4b64-1956-ea11-8103-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C05075DF_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c05075df_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c2a8fe50-225d-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Sport/Leisure",
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c05075df"
+        },
+        {
+            "$id": "3",
+            "id": "77a88632-0ff7-e611-80fb-005056857ef3",
+            "title": "C0570",
+            "summary": "Density 868 kg/m3, MFR(2.16 kg) 0.5 g/10 min",
+            "description": "FORTIFY\u2122 Polyolefin Elastomer (POE) C0570 is an ethylene octene copolymer produced by solution polymerization using metallocene catalyst. This product is available as free flowing pellets.\nFORTIFY\u2122 Polyolefin Elastomer (POE) C0570 is designed as a low density and high performance copolymer modifier to provide superior impact properties and flow characteristics.",
+            "applications": [
+                "Wire & cable",
+                "Impact modification"
+            ],
+            "processingTechniques": [
+                "Compounding Extrusion",
+                "Wire & Cable extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C0570-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c0570-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4e7d6474-6426-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C0570-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c0570-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "45fc8694-6526-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C0570-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c0570-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f5e01369-1916-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC FORTIFY\u2122-C0570-SDS-GLOBAL-DE-2016-10-07",
+                    "url": "/en/products/documents/sabic-fortify-c0570-sds-global-de-2016-10-07/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "f2517f16-7d7f-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C0570-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c0570-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "fc500b23-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C0570-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c0570-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "de8cbe6b-3ae5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C0570_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c0570_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "54af102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Automotive Exteriors"
+            ],
+            "contacts": [
+                {
+                    "$id": "4",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "5763372e-a738-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "5",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "5863372e-a738-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "6",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "5963372e-a738-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "7",
+                    "contact": "939f3ead-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "5a63372e-a738-eb11-8106-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c0570"
+        },
+        {
+            "$id": "8",
+            "id": "cca17beb-a73e-4b13-a003-3b75d6beec7b",
+            "title": "C0570D",
+            "summary": "Density 868 kg/m3, MFR(2.16 kg) 0.5 g/10 min",
+            "description": "FORTIFY\u2122 Polyolefin Elastomer (POE) C0570D is an ethylene octene copolymer produced by solution polymerization using metallocene catalyst. This product is available as free flowing pellets. \nFORTIFY\u2122 Polyolefin Elastomer (POE) C0570D is designed as a low density and high performance copolymer modifier to provide superior impact properties and flow characteristics.",
+            "applications": [
+                "Wire & cable",
+                "Impact modification"
+            ],
+            "processingTechniques": [
+                "Extrusion compounding",
+                "Wire & Cable extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C0570D-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c0570d-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ff500b23-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C0570D-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c0570d-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e7d54ab0-c78b-429b-8e50-16d483041d9f"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C0570D-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c0570d-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6791fe6f-1383-4310-944b-9d164913e0a7"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C0570D-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c0570d-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "73d562e9-f08a-44d5-bd9a-9fb6e353f2b0"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C0570D-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c0570d-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3babfc14-066c-4957-875d-b4bef046a336"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "C0570D\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/c0570d-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "4fb23e34-290b-4561-9fc7-c28909baaa3c"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C0570D_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c0570d_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "14c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c0570d"
+        },
+        {
+            "$id": "9",
+            "id": "29bcdb89-77c1-4dbe-babb-f4e42c946314",
+            "title": "C1055D",
+            "summary": "Density 857 kg/m3, MFR(2.16 kg) 1.0 g/10 min",
+            "description": "SABIC\u00ae FORTIFY\u2122 C1055D is an ethylene octene copolymer. This product is available as free flowing pellets. \nSABIC\u00ae FORTIFY\u2122 C1055D is designed as a low density and high performance copolymer modifier to provide superior impact properties and flow characteristics.",
+            "applications": [
+                "Foam",
+                "Exterior application",
+                "Interior application",
+                "Wire & cable",
+                "Impact modification"
+            ],
+            "processingTechniques": [
+                "Extrusion compounding",
+                "Injection compression molding",
+                "Wire & Cable extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1055D-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1055d-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "02510b23-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1055D-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1055d-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5a2f73df-5518-4c56-b69d-53847b382024"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "C1055D\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/c1055d-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "1f73ba70-f122-4905-a5b3-5c76615c274e"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1055D-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1055d-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0a54e914-1882-40b2-ac45-6d3225bd51fa"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1055D-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1055d-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ed772a63-b8b5-4d21-9cc3-9cfa3a9f60c6"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1055D-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1055d-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "cb21713b-6d6c-439b-96c8-df423da900f6"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C1055D_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c1055d_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "08c3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c1055d"
+        },
+        {
+            "$id": "10",
+            "id": "aa36754f-28f7-e611-80fb-005056857ef3",
+            "title": "C1070",
+            "summary": "Density 868 kg/m3, MFR(2.16 kg) 1.0 g/10 min",
+            "description": "FORTIFY\u2122 Polyolefin Elastomer (POE) C1070 is an ethylene octene copolymer produced by solution polymerization using metallocene catalyst. This product is available as free flowing pellets. \nFORTIFY\u2122 Polyolefin Elastomer (POE) C1070 is designed as a low density and high performance copolymer modifier to provide superior impact properties and flow characteristics.\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Wire & cable",
+                "Impact modification"
+            ],
+            "processingTechniques": [
+                "Compounding Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae Fortify C1070-Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-fortify-c1070-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f923b16a-2bf7-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1070-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1070-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "72d23557-7c29-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1070-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1070-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "33508b31-1b16-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1070-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1070-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "bc473510-a7a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1070-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1070-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a9cc0f29-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1070-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1070-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e78cbe6b-3ae5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C1070_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c1070_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "40af102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Automotive Exteriors"
+            ],
+            "contacts": [
+                {
+                    "$id": "11",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "42f33101-4836-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "12",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "43f33101-4836-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "13",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "44f33101-4836-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "14",
+                    "contact": "939f3ead-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "45f33101-4836-eb11-8106-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c1070"
+        },
+        {
+            "$id": "15",
+            "id": "ca886a27-e3ad-494d-9baf-20c9f99927d1",
+            "title": "C1070D",
+            "summary": "Density 868 kg/m3, MFR(2.16 kg) 1.0 g/10 min",
+            "description": "FORTIFY\u2122 Polyolefin Elastomer (POE) C1070D is an ethylene octene copolymer produced by solution polymerization using metallocene catalyst. This product is available as free flowing pellets. \nFORTIFY\u2122 Polyolefin Elastomer (POE) C1070D is designed as a low density and high performance copolymer modifier to provide superior impact properties and flow characteristics.",
+            "applications": [
+                "Foam",
+                "Exterior application",
+                "Interior application",
+                "Wire & cable",
+                "Under the bonnet application",
+                "Impact modification"
+            ],
+            "processingTechniques": [
+                "Extrusion compounding",
+                "Injection compression molding",
+                "Wire & Cable extrusion",
+                "Automotive injection molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1070D-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1070d-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "accc0f29-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "C1070D\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/c1070d-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "31d420e3-bf28-43cf-930b-0c278cafae22"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "PD_C1070D_00900__20170714",
+                    "url": "/en/products/documents/pd_c1070d_00900__20170714/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8d1f58d1-62df-4be2-8c95-15926447ba1c"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1070D-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1070d-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b564146d-7f3b-4049-bc65-1a97be353496"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1070D-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1070d-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "06872528-9362-4e78-af77-497f81d7919b"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1070D-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1070d-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "330c076c-7bf1-48f7-906b-4e50f75997fd"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1070D-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1070d-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e25338a6-ece8-403f-abe1-bb78969e43d0"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C1070D_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c1070d_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "4aca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c1070d"
+        },
+        {
+            "$id": "16",
+            "id": "c93385ee-7742-4aaa-a9e9-06d84af6f6d8",
+            "title": "C1085",
+            "summary": "Density 885 kg/m3, MFR(2.16 kg) 1.0 g/10 min",
+            "description": "FORTIFY\u2122 Polyolefin Elastomer (POE) C1085 is an ethylene octene copolymer produced by solution polymerization using metallocene catalyst. This product is available as free flowing pellets. \nFORTIFY\u2122 Polyolefin Elastomer (POE) C1085 is designed as a low density and high performance copolymer modifier to provide superior impact properties and flow characteristics.",
+            "applications": [
+                "Wire & cable",
+                "Impact modification"
+            ],
+            "processingTechniques": [
+                "Extrusion compounding",
+                "Wire & Cable extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1085-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1085-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b2cc0f29-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1085-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1085-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0df6316a-8b29-4121-ae8b-6b7ddbee2a83"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "PD_C1085_00900__20170714",
+                    "url": "/en/products/documents/pd_c1085_00900__20170714/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8da5318f-d525-4f8c-a62d-90be8e9e385d"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1085-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1085-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "7dd1798c-e168-44a5-8808-99fab5c7f321"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1085-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1085-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a80ca05d-827f-4054-a9c7-abb958d02665"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "C1085\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/c1085-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "3f9642da-cd89-4929-8638-abcfdca6aa12"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C1085-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c1085-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0b1c0fb3-86c5-44bf-8f34-c7e9e1789da8"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C1085_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c1085_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7fc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c1085"
+        },
+        {
+            "$id": "17",
+            "id": "32347734-0cdd-e811-80ff-005056857ef3",
+            "title": "C11075DF",
+            "summary": "Density 868 kg/m3, MFR(2.16 kg) 1.0 g/10 min",
+            "description": "FORTIFY\u2122 Polyolefin Elastomer (POE) C11075DF\nEthylene octene copolymer produced by solution polymerization using metallocene catalyst for foaming\nFORTIFY\u2122 Polyolefin Elastomer (POE) C11075DF is a grade typically used in foam application. This grade is designed as a low density and high performance copolymer modifier to provide superior resilience and compression set properties.",
+            "applications": [
+                "Footwear",
+                "Packaging",
+                "Automotive ",
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC\u00ae FORTIFY\u2122 C11075DF",
+                    "url": "/en/products/documents/sabic-fortify-c11075df/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "18f1473c-d9e7-e811-80ff-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SABIC\u00ae FORTIFY-C11075DF-SDS-Europe-en-2018-11-06",
+                    "url": "/en/products/documents/sabic-sabic-fortify-c11075df-sds-europe-en-2018-11-06/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "id": "ca8ed285-dbe7-e811-80ff-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SABIC\u00ae FORTIFY-C11075DF-SDS-Americas-en-2018-11-06",
+                    "url": "/en/products/documents/sabic-sabic-fortify-c11075df-sds-americas-en-2018-11-06/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "id": "d7bd88c4-dbe7-e811-80ff-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SABIC\u00ae FORTIFY-C11075DF-SDS-MEA-en-2018-11-06",
+                    "url": "/en/products/documents/sabic-sabic-fortify-c11075df-sds-mea-en-2018-11-06/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "id": "aa28b30a-dce7-e811-80ff-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SABIC\u00ae FORTIFY-C11075DF-SDS-Asia-en-2018-11-06",
+                    "url": "/en/products/documents/sabic-sabic-fortify-c11075df-sds-asia-en-2018-11-06/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "id": "12f342aa-dce7-e811-80ff-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SABIC\u00ae FORTIFY-C11075DF-GASD-Global-en-2018-11-06",
+                    "url": "/en/products/documents/sabic-sabic-fortify-c11075df-gasd-global-en-2018-11-06/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f7aa23de-dce7-e811-80ff-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SABIC\u00ae FORTIFY-C11075DF-FCDL-Global-en-2018-11-06",
+                    "url": "/en/products/documents/sabic-sabic-fortify-c11075df-fcdl-global-en-2018-11-06/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d44a2b24-dde7-e811-80ff-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SABIC\u00ae FORTIFY-C11075DF-EOLD-Global-en-2018-11-06",
+                    "url": "/en/products/documents/sabic-sabic-fortify-c11075df-eold-global-en-2018-11-06/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "47fe936d-dde7-e811-80ff-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C11075DF-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c11075df-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4ed88473-25a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C11075DF-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c11075df-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c6473510-a7a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C11075DF-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c11075df-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "555e392f-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C11075DF-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c11075df-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "edbdd279-2eaf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C11075DF-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c11075df-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1ef06672-3ae5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C11075DF_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c11075df_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "338cda3d-d614-e911-8100-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Foam Packaging",
+                "Insulations",
+                "Automotive Interiors",
+                "Construction",
+                "Sport/Leisure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c11075df"
+        },
+        {
+            "$id": "18",
+            "id": "e5e20553-0924-e711-80fb-005056857ef3",
+            "title": "C13060",
+            "summary": "Density 863 kg/m3, MFR(2.16 kg) 13 g/10 min",
+            "description": "FORTIFY\u2122 Polyolefin Elastomer (POE) C13060 is an ethylene octene copolymer produced by solution polymerization using metallocene catalyst. This product is available as free flowing pellets.\nFORTIFY\u2122 Polyolefin Elastomer (POE) C13060 is designed as alow density and high performance copolymer modifier to provide superior impact properties and flow characteristics.",
+            "applications": [
+                "Wire & cable",
+                "Impact modification"
+            ],
+            "processingTechniques": [
+                "Extrusion compounding",
+                "Wire & Cable extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae FortifyC13060-Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-fortifyc13060-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "36ad7332-0d24-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C13060-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c13060-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "16b2875c-6ce0-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C13060-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c13060-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3af91c15-071e-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C13060-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c13060-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c9473510-a7a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C13060-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c13060-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "585e392f-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C13060-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c13060-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "921d7480-2eaf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C13060_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c13060_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "109120a3-0c24-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c13060"
+        },
+        {
+            "$id": "19",
+            "id": "b5f6efd8-f818-41b1-8b0a-28b8a9efaf24",
+            "title": "C13060D",
+            "summary": "Density 863 kg/m3, MFR(2.16 kg) 13 g/10 min",
+            "description": "FORTIFY\u2122 Polyolefin Elastomer (POE) C13060D is an ethylene octene copolymer produced by solution polymerization using metallocene catalyst. This product is available as free flowing pellets.\nFORTIFY\u2122 Polyolefin Elastomer (POE) C13060D is designed as alow density and high performance copolymer modifier to provide superior impact properties and flow characteristics.",
+            "applications": [
+                "Wire & cable",
+                "Impact modification"
+            ],
+            "processingTechniques": [
+                "Extrusion compounding",
+                "Wire & Cable extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C13060D-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c13060d-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5b5e392f-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C13060D-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c13060d-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "216c768f-d1cc-4bc1-8d6c-02c8aba87377"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "C13060D\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/c13060d-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "4431752e-e7a4-48da-a755-1bebf8eebfe8"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C13060D-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c13060d-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a377ea35-3359-4530-b9b6-4cbc406e78e2"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C13060D-REAH-Global-en-2021-07-15",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c13060d-reah-global-en-2021-07-15/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d7ec25c3-18fb-4fbf-8109-964e160387a7"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C13060D-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c13060d-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1731f619-5156-43f0-846b-b914ad733bed"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C13060D_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c13060d_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c8c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c13060d"
+        },
+        {
+            "$id": "20",
+            "id": "7d7f0ce5-c7d7-4c81-bf9c-92dbd83a04e7",
+            "title": "C30070D",
+            "summary": "Density 868 kg/m3, MFR(2.16 kg) 30 g/10 min",
+            "description": "FORTIFY\u2122 Polyolefin Elastomer (POE) C30070D is an ethylene octene copolymer produced by solution polymerization using metallocene catalyst. This product is available as free flowing pellets.\nFORTIFY\u2122 Polyolefin Elastomer (POE) C30070D is designed as a high performance copolymer modifier to provide superior toughness, softness and opticalproperties. It also provides excellent flow properties.",
+            "applications": [
+                "Wire & cable",
+                "Impact modification"
+            ],
+            "processingTechniques": [
+                "Extrusion compounding",
+                "Wire & Cable extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C30070D-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c30070d-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5e5e392f-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C30070D-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c30070d-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "351b8aca-b0e7-4ed0-8ce6-247b74d97e51"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C30070D-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c30070d-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a8e55d82-f677-43c9-b666-4adac65c9046"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C30070D-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c30070d-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0daebb19-a3b1-4ee7-b69e-70c51dc175fb"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "C30070D\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/c30070d-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "0e3a485c-e526-4357-b5fb-7c52eb467dc6"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C30070D-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c30070d-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8b25732a-a4fb-4b2b-a8fd-c5b17d762009"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C30070D_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c30070d_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b5c3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c30070d"
+        },
+        {
+            "$id": "21",
+            "id": "34f507a3-6fee-4909-abe3-e13640183532",
+            "title": "C3080",
+            "summary": "Density 880 kg/m3, MFR(2.16 kg) 3.0 g/10 min",
+            "description": "FORTIFY\u2122 Polyolefin Elastomer (POE) C3080 is an ethylene octene copolymer produced by solution polymerization using metallocene catalyst. This product is available as free flowing pellets. \nFORTIFY\u2122 Polyolefin Elastomer (POE) C3080 is designed as a high performance copolymer modifier to provide superior toughness, softness and optical properties. It provides excellent flow properties too.",
+            "applications": [
+                "Wire & cable",
+                "Impact modification"
+            ],
+            "processingTechniques": [
+                "Extrusion compounding",
+                "Wire & Cable extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C3080-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c3080-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "675e392f-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C3080-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c3080-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9570c000-e0b4-4645-80e5-2962d2db9457"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C3080-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c3080-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1b475b94-0177-4d0b-8820-37ce3a0e9709"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C3080-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c3080-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "10b59b3a-01cf-45e8-9df1-5865f685980d"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C3080-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c3080-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8df3ee30-df24-4358-9e2d-bc37e16afa97"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "C3080\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/c3080-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "d48d9e85-85a1-4689-9b6f-ca2744e83dc9"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C3080_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c3080_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f8ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c3080"
+        },
+        {
+            "$id": "22",
+            "id": "694bcdbf-46fe-e611-80fb-005056857ef3",
+            "title": "C5070",
+            "summary": "Density 868 kg/m3, MFR(2.16 kg) 5.0 g/10 min",
+            "description": "FORTIFY\u2122 Polyolefin Elastomer (POE) C5070 is an ethylene octene copolymer produced by solution polymerization using metallocene catalyst. This product is available as free flowing pellets.\nFORTIFY\u2122 Polyolefin Elastomer (POE) C5070 is designed as a low density and high performance copolymer modifier to provide superior impact properties and flow characteristics.",
+            "applications": [
+                "Impact modification"
+            ],
+            "processingTechniques": [
+                "Compounding Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae Fortify C5070-Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-fortify-c5070-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c6a9a597-4bfe-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C5070-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c5070-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b4b0b5fb-7c29-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C5070-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c5070-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d820dfbb-061e-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C5070-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c5070-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "82fc5716-a7a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C5070-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c5070-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "696dfe35-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C5070-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c5070-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "12000879-3ae5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C5070_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c5070_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fdc0ebf3-4afe-e611-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Automotive Exteriors"
+            ],
+            "contacts": [
+                {
+                    "$id": "23",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "3ffb39e3-4836-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "24",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "40fb39e3-4836-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "25",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "41fb39e3-4836-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "26",
+                    "contact": "939f3ead-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "42fb39e3-4836-eb11-8106-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c5070"
+        },
+        {
+            "$id": "27",
+            "id": "851bb90e-8e8e-43ba-95e1-ad05032d22ec",
+            "title": "C5070D",
+            "summary": "Density 868 kg/m3, MFR(2.16 kg) 5.0 g/10 min",
+            "description": "FORTIFY\u2122 Polyolefin Elastomer (POE) C5070D is an ethylene octene copolymer produced by solution polymerization using metallocene catalyst. This product is available as free flowing pellets.\nFORTIFY\u2122 Polyolefin Elastomer (POE) C5070D is designed as a low density and high performance copolymer modifier to provide superior impact properties and flow characteristics.",
+            "applications": [
+                "Foam",
+                "Exterior application",
+                "Interior application",
+                "Wire & cable",
+                "Under the bonnet application",
+                "Impact modification"
+            ],
+            "processingTechniques": [
+                "Extrusion compounding",
+                "Injection compression molding",
+                "Wire & Cable extrusion",
+                "Automotive injection molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C5070D-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c5070d-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6c6dfe35-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "PD_C5070D_00900__20170714",
+                    "url": "/en/products/documents/pd_c5070d_00900__20170714/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d159c4ed-4f5d-4655-833e-256c824a73f7"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C5070D-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c5070d-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4c00412b-6738-48f4-b9a0-71d39919a889"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C5070D-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c5070d-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "fb5de5bc-4420-4aff-9f68-a24e8cf571bf"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C5070D-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c5070d-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ded69ace-46d0-4fca-928f-cf6f1ed989cb"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-FORTIFY\u2122 Polyolefin Elastomer (POE)-C5070D-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-fortify-polyolefin-elastomer-poe-c5070d-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c135a430-e6fe-4114-a23b-dc1f556bf0e7"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "C5070D\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/c5070d-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "b226ed6a-4e2c-4af9-ad63-edac411c5d6e"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FORTIFY\u2122 Polyolefin Elastomer (POE)_C5070D_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/fortify-polyolefin-elastomer-poe-_c5070d_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "3dc3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c5070d"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "28",
+            "id": "8a5d1378-670a-4b5e-88f4-727bc45a6b1d",
+            "title": "Extrusion compounding",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "39a82182-8650-48d5-95ee-93a07f6bf049",
+            "title": "Wire & Cable extrusion",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "aa7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Compounding Extrusion",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "9c4ed770-aa04-4347-b6fd-8ebc65c2c5f8",
+            "title": "Injection compression molding",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "ac7b517f-bda6-4d78-8e55-c448cc28c600",
+            "title": "Automotive injection molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "33",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "0e7441b2-c530-4281-b422-d449cc1affa1",
+            "title": "Impact modification",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "d9dcd341-8780-4940-b2a7-028d86ff728e",
+            "title": "Foam",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "dce44882-562e-4a8a-8fb5-5911934829ee",
+            "title": "Exterior application",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "72d8f838-a1b4-4c24-a83a-8bd6e7786afa",
+            "title": "Interior application",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "cbf6fd1a-324c-4e77-891a-cad06675db65",
+            "title": "Under the bonnet application",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "2a53fd83-3b15-e711-80fb-005056857ef3",
+            "title": "Footwear",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "8b237266-4015-e711-80fb-005056857ef3",
+            "title": "Packaging",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "9a7bffa6-4015-e711-80fb-005056857ef3",
+            "title": "Automotive ",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "42",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "43",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "44",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "45",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "46",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "47",
+            "industry": "1679dc71-a5d2-4e3b-bd90-ef43d09fe4d9",
+            "title": "IndustrySegment",
+            "id": "f25a6df1-91f0-43a8-9b69-520be613d22d"
+        },
+        {
+            "$id": "48",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "49",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Exteriors",
+            "id": "35ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "50",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Foam Packaging",
+            "id": "27f9afdd-45e9-e611-80fb-005056857ef3"
+        },
+        {
+            "$id": "51",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Insulations",
+            "id": "f806c36d-2815-e711-80fb-005056857ef3"
+        },
+        {
+            "$id": "52",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

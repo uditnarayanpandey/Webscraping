@@ -1,0 +1,1474 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "d645aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCA105",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCA105 resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL VW-1 requirements, 105C end use temperature rating, and heat deformation performance as defined by UL 1581.  FLEX NORYL WCA105 resin is intended for evaluation in wire insulation applications in dark colors. It has a Shore D Hardness reading of 56 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity. Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Data Transfer",
+                "Electronic Components",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCA105_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wca105_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f3bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wca105"
+        },
+        {
+            "$id": "3",
+            "id": "d845aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCA871A",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCA871A resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL VW-1 requirements, 105C end use temperature rating, and heat deformation performance as defined by UL 1581.  FLEX NORYL WCA871A resin is intended for evaluation in wire insulation and cable jacket applications in light colors. It has a Shore A Hardness reading of 84 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity. Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Wireless Communications",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCA871A_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wca871a_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f4bd102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCA871A_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wca871a_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "f6bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCA871A_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wca871a_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "5ac9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wca871a"
+        },
+        {
+            "$id": "4",
+            "id": "d945aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCA875",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCA875 resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL VW-1 requirements, 105C end use temperature rating, and heat deformation performance as defined by UL 1581.  FLEX NORYL WCA875 resin is intended for evaluation in wire insulation applications in dark colors. It has a Shore A Hardness reading of 87 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity. Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Data Transfer",
+                "Medical Device",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCA875_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wca875_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "f7bd102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCA875_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wca875_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "46bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCA875_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wca875_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "5bc9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wca875"
+        },
+        {
+            "$id": "5",
+            "id": "da45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCA901",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCA901 resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL VW-1 requirements, 105C end use temperature rating, and heat deformation performance as defined by UL 1581.  FLEX NORYL WCA901 resin is intended for evaluation in wire and cable applications.   It has a Shore A Hardness reading of 91 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity. Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": null,
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wca901"
+        },
+        {
+            "$id": "6",
+            "id": "db45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCA955",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCA955 resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL VW-1 requirements, 105C end use temperature rating, and heat deformation performance as defined by UL 1581.  FLEX NORYL WCA955 resin is intended for evaluation in wire insulation, especially internal wire applications in dark colors. It has a Shore A Hardness reading of 95 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity. Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor and is also suitable for coating AWG26 and AWG28 copper conductor.",
+            "applications": [
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCA955_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wca955_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "f9bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCA955_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wca955_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "9ea5f68b-a2ce-e911-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wca955"
+        },
+        {
+            "$id": "7",
+            "id": "dd45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCD795",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD795 resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL 1581 VW-1 requirements.  FLEX NORYL WCD795 resin is intended for evaluation in AC cable jacket applications that require UL62 SVE and NISPE configurations at 90C or 105C temperature rating and black color.  It has a Shore A Hardness reading of 79 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Personal Computing",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD795_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd795_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "fdbd102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD795_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd795_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "5c981a44-45cf-e911-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd795"
+        },
+        {
+            "$id": "8",
+            "id": "df45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCD801A",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD801A resin is a flexible, non-reinforced, migration improved, extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL VW-1 requirements, 80C end use temperature rating, and heat deformation performance as defined by UL 1581.  FLEX NORYL WCD801A resin is intended for evaluation in wire insulation and cable jacket applications in dark colors.  It has a Shore A Hardness reading of 80 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Enclosure/Housing/Cover",
+                "Freezer",
+                "Heavy Vehicles",
+                "Personal Computing",
+                "Wireless Communications",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD801A_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd801a_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "03be102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Home Appliance",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd801a"
+        },
+        {
+            "$id": "9",
+            "id": "e045aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCD801AU",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD801AU resin is a flexible, non-reinforced, UV stabilized extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL VW-1 requirements, 80C end use temperature rating, and heat deformation performance as defined by UL 1581.  FLEX NORYL WCD801AU resin is intended for evaluation in wire insulation and cable jacket applications in light colors. It has a Shore A Hardness reading of 82 and exhibits superior thermal stability, very low water absorption, good electric properties,  low specific gravity, and good color stability after UV weathering per ASTM D4459.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD801AU_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd801au_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "5fc9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD801AU_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd801au_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "e5729df1-3ecf-e911-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd801au"
+        },
+        {
+            "$id": "10",
+            "id": "e145aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCD815U",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD815U resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This UV stabilized material contains non-halogenated flame retardant and performance capable of meeting UL 1581 VW-1 requirements.  FLEX NORYL WCD815U resin is intended for evaluation in AC cable jacket applications that require UL62 at 90C temperature rating and light color.  It has a Shore A Hardness reading of 81 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD815U_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd815u_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "4cbf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD815U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd815u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "ba56e890-45cf-e911-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd815u"
+        },
+        {
+            "$id": "11",
+            "id": "e345aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCD835",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD835 resin is a flexible, non-reinforced, low odor, migration improved, extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL VW-1 requirements, 80C end use temperature rating, and heat deformation performance as defined by UL 1581.  FLEX NORYL WCD835 resin is intended for evaluation in wire insulation and cable jacket applications in dark colors. It has a Shore A Hardness reading of 83 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD835_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd835_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "06c0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD835_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd835_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "09c0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD835_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd835_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "60c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd835"
+        },
+        {
+            "$id": "12",
+            "id": "e445aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCD841U",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD841U resin is a flexible, non-reinforced, UV stabilized extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL VW-1 requirements, 80C end use temperature rating, and heat deformation performance as defined by UL 1581.  FLEX NORYL WCD841U resin is intended for evaluation in wire insulation and cable jacket applications in light colors. It has a Shore A Hardness reading of 84 and exhibits superior thermal stability, very low water absorption, good electric properties,  low specific gravity, and good color stability after UV weathering per ASTM D4459.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Wireless Communications",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD841U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd841u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "53bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD841U_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd841u_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "0cc0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD841U_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd841u_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "61c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd841u"
+        },
+        {
+            "$id": "13",
+            "id": "e645aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCD855",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD855 resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL 1581 VW-1 requirements.  FLEX NORYL WCD855 resin is intended for evaluation in AC cable jacket applications that require UL62 at 90C or 105C temperature rating and black color.  It has a Shore A Hardness reading of 85 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Personal Computing",
+                "Power Manangement",
+                "Wire Coatings",
+                "Wireless Communications",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD855_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd855_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "06be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD855_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd855_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "179960d4-45cf-e911-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Coatings"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd855"
+        },
+        {
+            "$id": "14",
+            "id": "e945aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCD883A",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD883A resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting EN 50265-2-1 requirements.  FLEX NORYL WCD883A resin was developed for evaluation in AC cable jacket applications such as HD 21.14 flexible cables that require EU VDE and dark color.  It has a Shore A Hardness reading of 88 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Power Manangement",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD883A_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd883a_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "12c0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD883A_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd883a_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "c317b898-46cf-e911-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd883a"
+        },
+        {
+            "$id": "15",
+            "id": "17af3b71-639f-e711-80fc-005056857ef3",
+            "title": "WCD883CU",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD883CU resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This UV stabilized material contains non-halogenated flame retardant and performance capable of meeting EN 50265-2-1 requirements.  FLEX NORYL WCD883CU resin was developed for evaluation in AC cable jacket applications such as HD 21.14 flexible cables that require EU VDE and light color.  It has a Shore A Hardness reading of 88 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Energy Management",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD883CU_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd883cu_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "8533cce0-659f-e711-80fc-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd883cu"
+        },
+        {
+            "$id": "16",
+            "id": "ec45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCD891A",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD891A resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL VW-1 requirements, 80C end use temperature rating, and heat deformation performance as defined by UL 1581.  FLEX NORYL WCD891A resin is intended for evaluation in wire insulation and cable jacket applications in dark colors. It has a Shore A Hardness reading of 89 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Data Transfer",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Laser Sintering",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD891A_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd891a_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "5bbf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Additive Manufacturing",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd891a"
+        },
+        {
+            "$id": "17",
+            "id": "ed45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCD891B",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD891B resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL VW-1 requirements, 80C end use temperature rating, and heat deformation performance as defined by UL 1581.  FLEX NORYL WCD891B resin is intended for evaluation in wire and cable applications in dark colors. It has a Shore A Hardness reading of 89 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Enclosure/Housing/Cover",
+                "Wire Coatings",
+                "Wireless Communications",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD891B_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd891b_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "12be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD891B_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd891b_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "1bc0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD891B_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd891b_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "67c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Coatings",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd891b"
+        },
+        {
+            "$id": "18",
+            "id": "ee45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCD895",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD895 resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL 1581 VW-1 requirement and 80C end use temperature rating as defined by UL 1581.  FLEX NORYL WCD895 resin is intended for evaluation wire and cable jacketing applications. It has a Shore A Hardness reading of 89 and exhibits superior thermal stability, very low water absorption, robust tensile strength, tensile elongation, and low specific gravity.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Heavy Vehicles",
+                "Power Manangement",
+                "Wireless Communications",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD895_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd895_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "15be102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd895"
+        },
+        {
+            "$id": "19",
+            "id": "ef45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCD915",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD915 resin is a flexible, UV stabilized, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting UL 1581 VW-1 requirement and 90C or 105C end use temperature rating as defined by UL 62 TPE category.  FLEX NORYL WCD915 resin is intended for evaluation in wire and cable applications such as cable insulation materials.  It has a Shore A Hardness reading of 91 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD915_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd915_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "5ebf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD915_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd915_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "4ae7daeb-46cf-e911-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd915"
+        },
+        {
+            "$id": "20",
+            "id": "f145aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCD933",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD933 resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting EN 50265-2-1 requirement.  FLEX NORYL WCD795 resin is intended for evaluation in AC cable insulation applications such as HD 21.14 flexible cables. It has a Shore A Hardness reading of 93 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Energy Management",
+                "Heavy Vehicles",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD933_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd933_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "61bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD933_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd933_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "21c0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD933_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd933_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "6ac9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Specialty Vehicles",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd933"
+        },
+        {
+            "$id": "21",
+            "id": "f245aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCD944",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCD944 resin is a flexible, non-reinforced extrudable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and performance capable of meeting EN 50265-2-1 requirement and is IEC 60754 compliant. FLEX NORYL WCD944 resin is intended for evaluation in wire and cable applications such as optical fiber cable jacketing.  It has a Shore A Hardness reading of 95 and exhibits superior thermal stability, very low water absorption, good electric properties, and low specific gravity.  Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCD944_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcd944_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "18be102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcd944"
+        },
+        {
+            "$id": "22",
+            "id": "f645aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCP761",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCP761 resin is a high flow, flexible, non-reinforced injection moldable blend of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE).  This material contains non-halogenated flame retardant and carries a UL94 flame rating of V0 at 6mm.  FLEX NORYL WCP761 resin is intended for evaluation in over-molding applications such as plugs, strain reliefs, and connectors.  It has a Shore A Hardness reading of 78 and exhibits low specific gravity, very low water absorption, and dimensional stability.",
+            "applications": [
+                "Electronic Components",
+                "Power Manangement",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCP761_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcp761_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "1bbe102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCP761_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcp761_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "1ebe102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcp761"
+        },
+        {
+            "$id": "23",
+            "id": "fa45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCP841",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCP841 resin is flexible, non-reinforced injection moldable blend of polyphenylene ether (PPE) + thermoplastic elastomer (TPE).  This material contains non-halogenated flame retardant and carries a UL94 flame rating of V0 at 6mm.  FLEX NORYL WCP841 resin is intended for evaluation in over-molding applications such as plugs, strain reliefs, and connectors.  It has a Shore A Hardness reading of 84 and exhibits low specific gravity, very low water absorption, and dimensional stability.",
+            "applications": [
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCP841_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcp841_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "27c0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCP841_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcp841_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "2df59a29-e4cf-e911-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcp841"
+        },
+        {
+            "$id": "24",
+            "id": "fc45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCP921",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCP921 resin is a high flow, flexible, non-reinforced injection moldable blend of Polyphenylene Ether (PPE) + Styrene Ethylene Butylene Styrene (SEBS) + Polyolefin. This material contains non-halogenated flame retardant and carries a UL94 flame rating of V0 at 6mm.  FLEX NORYL WCP921 resin is intended for evaluation in over-molding applications such as plugs, strain reliefs, and connectors.  It has a Shore A Hardness reading of 88 and exhibits low specific gravity, very low water absorption, and dimensional stability.",
+            "applications": [
+                "Electronic Components",
+                "Energy Management",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCP921_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcp921_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "26be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCP921_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcp921_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "6abf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCP921_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcp921_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "2ac0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcp921"
+        },
+        {
+            "$id": "25",
+            "id": "fd45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCP921A",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCP921A resin is a flexible, non-reinforced injection moldable blend of Polyphenylene Ether (PPE) + Styrene Ethylene Butylene Styrene (SEBS) + Polyolefin. This material contains non-halogenated flame retardant and carries a UL94 flame rating of V0 at 6mm.  FLEX NORYL WCP921A resin is intended for evaluation in over-molding applications such as plugs, strain reliefs, and connectors.  It has a Shore A Hardness reading of 92 and exhibits low specific gravity, very low water absorption, and dimensional stability.",
+            "applications": [
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCP921A_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcp921a_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "6dc9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCP921A_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcp921a_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "6ec9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcp921a"
+        },
+        {
+            "$id": "26",
+            "id": "fe45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCV063",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, CHEMICAL RESISTANCE, Low Creep Sensitivity, Low Warpage, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCV063 resin is a flexible, non-reinforced extrusion grade of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE)  with a Shore D Hardness rating of 63.  FLEX NORYL WCV063 resin was developed for evaluation in automotive wire + cable applications requiring ISO6722 Class A or B.   It exhibits ultra-thin wall capability, good scratch abrasion and pinch resistance, high dimensional stability, low shrinkage and warpage, very low water absorption, chemical resistance, and good dielectric strength. Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Airbag",
+                "Auto Electrical",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCV063_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcv063_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "29be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCV063_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcv063_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "30c0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCV063_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcv063_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "6fc9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcv063"
+        },
+        {
+            "$id": "27",
+            "id": "0046aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "WCV072",
+            "summary": "Polyphenylene Ether + TPE (PPE+TPE), FLEXIBLE, NON-HALOGENATED, FLAME RETARDANT, GOOD PROCESSABILITY, THIN WALL, Hydrolytic Stability, Low Creep Sensitivity, NON HALOGENATED, DUCTILE, NON-BROMINATED, NON-CHLORINATED",
+            "description": "FLEX NORYL\u2122 WCV072 resin is a flexible, non-reinforced extrusion grade of Polyphenylene Ether (PPE) + Thermoplastic Elastomer (TPE) with a Shore D Hardness rating of 72.  FLEX NORYL WCV072 resin was developed for evaluation in automotive wire + cable applications requiring ISO6722 Class A or B.   It exhibits ultra-thin wall capability, good scratch abrasion and pinch resistance, high dimensional stability, low shrinkage and warpage, very low water absorption, chemical resistance, and good dielectric strength. Processing is typically conducted on standard extrusion equipment, and UL 1581 testing is conducted on 2.0mm wire with 0.12mm X 20 stranded copper conductor.",
+            "applications": [
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Wire Coating Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCV072_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcv072_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "2fbe102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCV072_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcv072_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "73bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "FLEX NORYL\u2122 Resin_WCV072_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/flex-noryl-resin_wcv072_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "33c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "wcv072"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "28",
+            "id": "b17d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Wire Coating Extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "29",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "9affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Freezer",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "1d00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wire Coatings",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "82ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Management",
+            "count": 0
+        },
+        {
+            "$id": "42",
+            "id": "b8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Laser Sintering",
+            "count": 0
+        },
+        {
+            "$id": "43",
+            "id": "47ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "ATM/Ticket Machine",
+            "count": 0
+        },
+        {
+            "$id": "44",
+            "id": "3dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Airbag",
+            "count": 0
+        },
+        {
+            "$id": "45",
+            "id": "4affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Electrical",
+            "count": 0
+        },
+        {
+            "$id": "46",
+            "id": "49ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Aftermarket",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "47",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "48",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "49",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "50",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "51",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "52",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "53",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "54",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "55",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Coatings",
+            "id": "2dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "56",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Manufacturing",
+            "id": "10ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "57",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "58",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electric Vehicle",
+            "id": "09ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "59",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "60",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Under the Hood",
+            "id": "2cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "61",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Exteriors",
+            "id": "35ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

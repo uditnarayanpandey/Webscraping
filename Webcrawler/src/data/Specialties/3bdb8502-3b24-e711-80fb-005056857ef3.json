@@ -1,0 +1,549 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "97dc0cc1-8b54-e911-8101-005056857ef3",
+            "title": "6C004XXAR1",
+            "summary": "LNP THERMOCOMP 6C004XXAR1 compound is based on Polycarbonate / Polybutylene Terephthalate (PC/PBT) resin containing 20% carbon fiber for Large Format Additive Manufacturing (LFAM) applications. Added features of this grade include: Improved Chemical Resistance, Lower Warp and Good Surface Finish.",
+            "description": "LNP THERMOCOMP 6C004XXAR1 compound is based on Polycarbonate / Polybutylene Terephthalate (PC/PBT) resin containing 20% carbon fiber for Large Format Additive Manufacturing (LFAM) applications. Added features of this grade include: Improved Chemical Resistance, Lower Warp and Good Surface Finish.",
+            "applications": [
+                "PANELS FOR AUTOMOBILES"
+            ],
+            "processingTechniques": [
+                "Large Format Additive Manufacturing"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOCOMP\u2122 AM Compound_6C004XXAR1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermocomp-am-compound_6c004xxar1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "79187ca7-97c6-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "6c004xxar1"
+        },
+        {
+            "$id": "3",
+            "id": "076e5714-642e-e711-80fb-005056857ef3",
+            "title": "AC004XXAR1",
+            "summary": "LNP THERMOCOMP AC004XXAR1 compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing 20% carbon fiber for Large Format Additive Manufacturing (LFAM) applications. Added features of this grade include: Higher Stiffness vs. glass fiber, Easy Processing, Low warp and Good Print Surface quality, making them a good candidate material for a broad range of applications and tooling, including thermoforming and vacuum-forming.",
+            "description": "LNP THERMOCOMP AC004XXAR1 compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing 20% carbon fiber for Large Format Additive Manufacturing (LFAM) applications. Added features of this grade include: Higher Stiffness vs. glass fiber, Easy Processing, Low warp and Good Print Surface quality, making them a good candidate material for a broad range of applications and tooling, including thermoforming and vacuum-forming.",
+            "applications": [
+                "Additive Plastic"
+            ],
+            "processingTechniques": [
+                "Large Format Additive Manufacturing"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOCOMP\u2122 AM Compound_AC004XXAR1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermocomp-am-compound_ac004xxar1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2ea16123-9dc6-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ac004xxar1"
+        },
+        {
+            "$id": "4",
+            "id": "be9c1527-f61e-e711-80fb-005056857ef3",
+            "title": "AF004XXAR1",
+            "summary": "LNP THERMOCOMP AF004XXAR1 compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing 20% glass fiber for Large Format Additive Manufacturing (LFAM) applications. Added features of this grade include: Easy Processing, Low Warp and Good Print Surface quality, making them a good candidate material for a broad range of applications and tooling, including thermoforming and vacuum-forming.",
+            "description": "LNP THERMOCOMP AF004XXAR1 compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing 20% glass fiber for Large Format Additive Manufacturing (LFAM) applications. Added features of this grade include: Easy Processing, Low Warp and Good Print Surface quality, making them a good candidate material for a broad range of applications and tooling, including thermoforming and vacuum-forming.",
+            "applications": [
+                "Additive Plastic"
+            ],
+            "processingTechniques": [
+                "Large Format Additive Manufacturing"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOCOMP\u2122 AM Compound_AF004XXAR1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermocomp-am-compound_af004xxar1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "35f420c9-9cc6-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "af004xxar1"
+        },
+        {
+            "$id": "5",
+            "id": "beccdd05-6722-ea11-8102-005056857ef3",
+            "title": "DC004XXA11",
+            "summary": "LNP THERMOCOMP AM DC004XXA11is a compound based on High Heat PC copolymer resin containing 20% carbon fiber for Large Format Additive manufacturing (LFAM) applications.",
+            "description": "LNP THERMOCOMP AM DC004XXA11is a compound based on High Heat PC copolymer resin containing 20% carbon fiber for Large Format Additive manufacturing (LFAM) applications, including mid-temperature autoclaving tooling.  This compound can offer higher temperature performance than standard PC and avoid some of the processing challenges associated with high temperature materials.",
+            "applications": [
+                "LFAM",
+                "PANELS FOR AUTOMOBILES"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOCOMP\u2122 AM Compound_DC004XXA11_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermocomp-am-compound_dc004xxa11_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f02fb313-bd72-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dc004xxa11"
+        },
+        {
+            "$id": "6",
+            "id": "3c4a5f22-642e-e711-80fb-005056857ef3",
+            "title": "DC004XXAR1",
+            "summary": "LNP THERMOCOMP DC004XXAR1 compound is based on Polycarbonate (PC) resin containing 20% carbon fiber for Large Format Additive Manufacturing (LFAM) applications. Added features of this grade include: Higher Stiffness vs. glass fiber, Higher Strength, Higher Temperature Performance and Higher Throughput compared to ABS and PPE, as well as Excellent Ductility and Smooth Surface Finish.",
+            "description": "LNP THERMOCOMP DC004XXAR1 compound is based on Polycarbonate (PC) resin containing 20% carbon fiber for Large Format Additive Manufacturing (LFAM) applications. Added features of this grade include: Higher Stiffness vs. glass fiber, Higher Strength, Higher Temperature Performance and Higher Throughput compared to ABS and PPE, as well as Excellent Ductility and Smooth Surface Finish.",
+            "applications": [
+                "PANELS FOR AUTOMOBILES"
+            ],
+            "processingTechniques": [
+                "Large Format Additive Manufacturing"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOCOMP\u2122 AM Compound_DC004XXAR1_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermocomp-am-compound_dc004xxar1_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "d0a1d8f2-082f-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dc004xxar1"
+        },
+        {
+            "$id": "7",
+            "id": "0e7d9da4-522e-e711-80fb-005056857ef3",
+            "title": "DF004XXAR1",
+            "summary": "LNP THERMOCOMP DF004XXAR1 compound is based on Polycarbonate (PC) resin containing 20% glass fiber for Large Format Additive Manufacturing (LFAM) applications. Added features of this grade include: Higher Strength, Higher Temperature Performance and Higher Throughput compared to ABS and PPE, as well as Excellent Ductility and Smooth Surface Finish.",
+            "description": "LNP THERMOCOMP DF004XXAR1 compound is based on Polycarbonate (PC) resin containing 20% glass fiber for Large Format Additive Manufacturing (LFAM) applications. Added features of this grade include: Higher Strength, Higher Temperature Performance and Higher Throughput compared to ABS and PPE, as well as Excellent Ductility and Smooth Surface Finish.",
+            "applications": [
+                "Additive Plastic"
+            ],
+            "processingTechniques": [
+                "Large Format Additive Manufacturing"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOCOMP\u2122 AM Compound_DF004XXAR1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermocomp-am-compound_df004xxar1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "28f070bf-98c6-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "df004xxar1"
+        },
+        {
+            "$id": "8",
+            "id": "fe431600-4f4b-e911-8101-005056857ef3",
+            "title": "EC004EXAR1",
+            "summary": "LNP THERMOCOMP EC004EXAR1 compound is based on Polyetherimide (PEI) resin containing 20% carbon fiber designed to provide a Wider Process Window and Easier Flow for Large Format Additive Manufacturing (LFAM) applications needing High heat performance. PEI compounds, based on SABIC's inherently flame-retardant ULTEM\u2122 resins, provide Low Thermal Expansion, High Temperature Performance, Excellent Strength-to-Weight Ratio, High Modulus and Low Creep",
+            "description": "LNP THERMOCOMP EC004EXAR1 compound is based on Polyetherimide (PEI) resin containing 20% carbon fiber designed to provide a Wider Process Window and Easier Flow for Large Format Additive Manufacturing (LFAM) applications needing High heat performance. PEI compounds, based on SABIC's inherently flame-retardant ULTEM\u2122 resins, provide Low Thermal Expansion, High Temperature Performance, Excellent Strength-to-Weight Ratio, High Modulus and Low Creep.",
+            "applications": [
+                "LFAM"
+            ],
+            "processingTechniques": [
+                "Large Format Additive Manufacturing"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOCOMP\u2122 AM Compound_EC004EXAR1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermocomp-am-compound_ec004exar1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "6b650969-98c6-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ec004exar1"
+        },
+        {
+            "$id": "9",
+            "id": "f9779d44-642e-e711-80fb-005056857ef3",
+            "title": "EC004XXAR1",
+            "summary": "LNP THERMOCOMP EC004XXAR1 is a compound based on Polyetherimide (PEI) resin containing 20% carbon fiber for Large Format Additive manufacturing (LFAM) applications needing higher stiffness vs glass fiber. PEI compounds, based on SABIC's inherently flame-retardant ULTEM\u2122 resins, provide low thermal expansion, high temperature performance, excellent strength-to-weight ratio, high modulus and low creep.",
+            "description": "LNP THERMOCOMP EC004XXAR1 is a compound based on Polyetherimide (PEI) resin containing 20% carbon fiber for Large Format Additive manufacturing (LFAM) applications needing higher stiffness vs glass fiber. PEI compounds, based on SABIC's inherently flame-retardant ULTEM\u2122 resins, provide low thermal expansion, high temperature performance, excellent strength-to-weight ratio, high modulus and low creep.",
+            "applications": [
+                "LFAM"
+            ],
+            "processingTechniques": [
+                "Large Format Additive Manufacturing"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOCOMP\u2122 AM Compound_EC004XXAR1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermocomp-am-compound_ec004xxar1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "5d3251c3-9bc6-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ec004xxar1"
+        },
+        {
+            "$id": "10",
+            "id": "a2f410f6-a0cb-e711-80fd-005056857ef3",
+            "title": "EF004XXAR1",
+            "summary": "LNP THERMOCOMP EF004XXAR1 is a compound based on Polyetherimide (PEI) resin containing 20% glass fiber for Large Format Additive manufacturing (LFAM) applications.\u00a0PEI compounds, based on SABIC's inherently flame-retardant ULTEM\u2122 resins, provide low thermal expansion, high temperature performance, excellent strength-to-weight ratio, high modulus and low creep.",
+            "description": "LNP THERMOCOMP EF004XXAR1 is a compound based on Polyetherimide (PEI) resin containing 20% glass fiber for Large Format Additive manufacturing (LFAM) applications.\u00a0PEI compounds, based on SABIC's inherently flame-retardant ULTEM\u2122 resins, provide low thermal expansion, high temperature performance, excellent strength-to-weight ratio, high modulus and low creep.",
+            "applications": [
+                "LFAM",
+                "Additive Plastic"
+            ],
+            "processingTechniques": [
+                "Large Format Additive Manufacturing"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOCOMP\u2122 AM Compound_EF004XXAR1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermocomp-am-compound_ef004xxar1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fbfaf06c-9bc6-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ef004xxar1"
+        },
+        {
+            "$id": "11",
+            "id": "18e6f8cd-b4f4-e811-80ff-005056857ef3",
+            "title": "EZ006EXAR1",
+            "summary": "LNP THERMOCOMP EZ006EXAR1is a compound based on Polyetherimide (PEI) resin containing 30% milled glass fiber for Large Format Additive manufacturing (LFAM) applications requiring better dimensional stability and low thermal expansion. PEI compounds, based on SABIC's inherently flame-retardant ULTEM\u2122 resins, offer high temperature performance, excellent strength-to-weight ratio, high modulus and low creep.",
+            "description": "LNP THERMOCOMP EZ006EXAR1is a compound based on Polyetherimide (PEI) resin containing 30% milled glass fiber for Large Format Additive manufacturing (LFAM) applications requiring better dimensional stability and low thermal expansion. PEI compounds, based on SABIC's inherently flame-retardant ULTEM\u2122 resins, offer high temperature performance, excellent strength-to-weight ratio, high modulus and low creep.",
+            "applications": [
+                "LFAM",
+                "Additive Plastic"
+            ],
+            "processingTechniques": [
+                "Large Format Additive Manufacturing"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOCOMP\u2122 AM Compound_EZ006EXAR1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermocomp-am-compound_ez006exar1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "bb86bd1d-9bc6-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ez006exar1"
+        },
+        {
+            "$id": "12",
+            "id": "e3d0f26a-ad56-eb11-8106-005056857ef3",
+            "title": "JC004XXAR1",
+            "summary": "LNP THERMOCOMP AM JC004XXAR1 is a compound based on PESU (Polyethersulfone) resin containing 20% carbon fiber for Large Format Additive manufacturing (LFAM) applications needing an inherent FR, reinforcement, and a high heat amorphous solution.",
+            "description": "LNP THERMOCOMP AM JC004XXAR1 is a compound based on PESU (Polyethersulfone) resin containing 20% carbon fiber for Large Format Additive manufacturing (LFAM) applications needing an inherent FR, reinforcement, and a high heat amorphous solution.",
+            "applications": [
+                "LFAM"
+            ],
+            "processingTechniques": [
+                "Large Format Additive Manufacturing"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOCOMP\u2122 AM Compound_JC004XXAR1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermocomp-am-compound_jc004xxar1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "27004a06-4b57-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "jc004xxar1"
+        },
+        {
+            "$id": "13",
+            "id": "3a4a9835-642e-e711-80fb-005056857ef3",
+            "title": "ZC004XXAR1",
+            "summary": "LNP THERMOCOMP ZC004XXAR1 compound is based on Polyphenylene Ether / Polystyrene (PPE/PS) blend containing 20% carbon fiber for Large Format Additive Manufacturing (LFAM) applications. Added features of this grade include: Higher Stiffness vs. glass fiber, Lower Thermal Expansion, Improved Hydrolytic Stability, Higher strength to Weight Ratio, Higher Temperature Performance and improved processing vs. ABS based grades.",
+            "description": "LNP THERMOCOMP ZC004XXAR1 compound is based on Polyphenylene Ether / Polystyrene (PPE/PS) blend containing 20% carbon fiber for Large Format Additive Manufacturing (LFAM) applications. Added features of this grade include: Higher Stiffness vs. glass fiber, Lower Thermal Expansion, Improved Hydrolytic Stability, Higher strength to Weight Ratio, Higher Temperature Performance and improved processing vs. ABS based grades.",
+            "applications": [
+                "LFAM",
+                "Additive Plastic"
+            ],
+            "processingTechniques": [
+                "Large Format Additive Manufacturing"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOCOMP\u2122 AM Compound_ZC004XXAR1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermocomp-am-compound_zc004xxar1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a94afee5-9ac6-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "zc004xxar1"
+        },
+        {
+            "$id": "14",
+            "id": "9d20eee8-632e-e711-80fb-005056857ef3",
+            "title": "ZF004XXAR1",
+            "summary": "LNP THERMOCOMP ZF004XXAR1 compound is based on Polyphenylene Ether / Polystyrene (PPE/PS) blend containing 20% glass fiber for Large Format Additive Manufacturing (LFAM) applications. Added features of this grade include: Lower Thermal Expansion, Improved Hydrolytic Stability, Higher Strength to Weight Ratio and Higher Temperature Performance vs. ABS.",
+            "description": "LNP THERMOCOMP ZF004XXAR1 compound is based on Polyphenylene Ether / Polystyrene (PPE/PS) blend containing 20% glass fiber for Large Format Additive Manufacturing (LFAM) applications. Added features of this grade include: Lower Thermal Expansion, Improved Hydrolytic Stability, Higher Strength to Weight Ratio and Higher Temperature Performance vs. ABS.",
+            "applications": [
+                "LFAM",
+                "Additive Plastic"
+            ],
+            "processingTechniques": [
+                "Large Format Additive Manufacturing"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 THERMOCOMP\u2122 AM Compound_ZF004XXAR1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-thermocomp-am-compound_zf004xxar1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "63ad1894-99c6-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "zf004xxar1"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "15",
+            "id": "d500b466-039e-e711-80fc-005056857ef3",
+            "title": "Large Format Additive Manufacturing",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "16",
+            "id": "f4278cec-6fc7-e611-8197-06b69393ae39",
+            "title": "PANELS FOR AUTOMOBILES",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "36ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Plastic",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "4e6b8246-c359-e811-80fd-005056857ef3",
+            "title": "LFAM",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "19",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "21",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "23",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Manufacturing",
+            "id": "10ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

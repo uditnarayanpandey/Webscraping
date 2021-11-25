@@ -1,0 +1,1332 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "f83aaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HP1",
+            "summary": "MVR (300\u00b0C/1.2kg) 25, biocompatible, sterilizable PC, medical devices",
+            "description": "LEXAN HP1 is a high flow polycarbonate (PC) with an MVR (300\u00b0C/1.2kg) of 25. This is a biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO and steam sterilizable, contains mold release and adheres to our healthcare management of change policy.",
+            "applications": [
+                "Data Transfer",
+                "Displays",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Fluid Delivery",
+                "Fused Deposition Modeling (FDM)",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Monitoring and Imaging",
+                "Pharmaceutical Manufacturing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Renal and Blood Handling",
+                "Respiratory",
+                "Surgical Devices",
+                "Surgical Tray",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP1_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp1_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "21b8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Additive Manufacturing",
+                "Surgical",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hp1"
+        },
+        {
+            "$id": "3",
+            "id": "f93aaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HP1HF",
+            "summary": "39 MFR PC, MVR of 36. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications.  EtO sterilizable. Subject to SABIC healthcare management of change process.",
+            "description": "LEXAN\u2122 HP1HF resin is a 39 MFR polycarbonate, MVR of 36. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO sterilizable. Subject to SABIC healthcare management of change process.",
+            "applications": [
+                "Fluid Delivery",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Surgical Devices",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP1HF_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp1hf_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "6fb6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP1HF_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp1hf_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "24b8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Electrical Devices and Displays",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hp1hf"
+        },
+        {
+            "$id": "4",
+            "id": "d2312bc0-12ca-e711-80fd-005056857ef3",
+            "title": "HP1HFEU",
+            "summary": "MVR (300\u00b0C/1.2kg) 33, biocompatible, sterilizable PC, medical devices, release",
+            "description": "LEXAN\u2122 HP1HFEU resin is a 36 MFR polycarbonate, MVR of 33. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical\ndevices and pharmaceutical applications. It is EtO and steam sterilizable. Subject to SABIC healthcare management of change process. Available in Europe only.",
+            "applications": [
+                "Fluid Delivery",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Surgical Devices",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP1HFEU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp1hfeu_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "34f7dc40-14ca-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Surgical",
+                "Home Appliance",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hp1hfeu"
+        },
+        {
+            "$id": "5",
+            "id": "fb3aaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HP1R",
+            "summary": "25 MFR PC, MVR of 23. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications.  EtO and steam sterilizable. Subject to SABIC healthcare management of change process.",
+            "description": "LEXAN\u2122 HP1R resin is a 25 MFR polycarbonate, MVR of 23. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO and steam sterilizable. Subject to SABIC healthcare management of change process.",
+            "applications": [
+                "Bottles",
+                "Data Transfer",
+                "Fluid Delivery",
+                "Food Container",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Renal and Blood Handling",
+                "Respiratory",
+                "Small Appliance",
+                "Surgical Devices",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP1R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp1r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "72b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP1R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp1r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "d2c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Electrical Devices and Displays",
+                "Food & Beverage",
+                "Surgical",
+                "Respiratory and Sleep Therapy",
+                "Home Appliance",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hp1r"
+        },
+        {
+            "$id": "6",
+            "id": "fc3aaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HP1REU",
+            "summary": "MVR (300\u00b0C/1.2kg) 26, biocompatible, sterilizable PC, medical devices, release",
+            "description": "LEXAN HP1REU is a high flow polycarbonate (PC) with an MVR (300\u00b0C/1.2kg) of 26. This is a biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO and steam sterilizable, contains mold release and adheres to our healthcare management of change policy. Available in Europe only.",
+            "applications": [
+                "Medical Device",
+                "Personal Care",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP1REU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp1reu_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "2bb8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Surgical",
+                "Home Appliance",
+                "Healthcare"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hp1reu"
+        },
+        {
+            "$id": "7",
+            "id": "fd3aaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HP2",
+            "summary": "18 MFR PC, MVR of 16. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications.  EtO and steam sterilizable. Subject to SABIC healthcare management of change process.",
+            "description": "LEXAN\u2122 HP2 resin is a 18 MFR polycarbonate, MVR of 16. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO and steam sterilizable. Subject to SABIC healthcare management of change process.",
+            "applications": [
+                "Data Transfer",
+                "Document Handling",
+                "Enclosure/Housing/Cover",
+                "Fluid Delivery",
+                "Fused Deposition Modeling (FDM)",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Renal and Blood Handling",
+                "Respiratory",
+                "Servingware",
+                "Surgical Devices",
+                "Adhesives"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP2_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp2_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "81b7102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP2_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp2_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "84b7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Electrical Devices and Displays",
+                "Food & Beverage",
+                "Additive Manufacturing",
+                "Surgical",
+                "Adhesives",
+                "Respiratory and Sleep Therapy",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hp2"
+        },
+        {
+            "$id": "8",
+            "id": "023baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HP2NR",
+            "summary": "MVR (300\u00b0C/1.2kg) 16 , biocompatible, sterilizable PC, medical devices, no release",
+            "description": "LEXAN HP2NR is a medium flow polycarbonate (PC) with an MVR (300\u00b0C/1.2kg) of 16. This is a biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO and steam sterilizable, contains no mold release and adheres to our healthcare management of change policy.",
+            "applications": [
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Renal and Blood Handling",
+                "Respiratory"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP2NR_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp2nr_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "87b7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Respiratory and Sleep Therapy",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hp2nr"
+        },
+        {
+            "$id": "9",
+            "id": "043baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HP2REU",
+            "summary": "MVR (300\u00b0C/1.2kg) 21, biocompatible, sterilizable PC, medical devices, release",
+            "description": "LEXAN HP2REU is a high flow polycarbonate (PC) with an MVR (300\u00b0C/1.2kg) of 21. This is a biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO and steam sterilizable, contains mold release and adheres to our healthcare management of change policy. Available in Europe only.",
+            "applications": [
+                "Building/Construction Sheet",
+                "Enclosures",
+                "Fluid Delivery",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Monitoring and Imaging",
+                "Pharmaceutical Manufacturing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Renal and Blood Handling",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP2REU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp2reu_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "d4c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Construction",
+                "Surgical",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hp2reu"
+        },
+        {
+            "$id": "10",
+            "id": "083baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HP3REU",
+            "summary": "MVR (300\u00b0C/1.2kg) 12, biocompatible, sterilizable PC, medical devices, release",
+            "description": "LEXAN HP3REU is a medium flow polycarbonate (PC) with an MVR (300\u00b0C/1.2kg) of 12. This is a biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO and steam sterilizable, contains mold release and adheres to our healthcare management of change policy. Available in Europe only.",
+            "applications": [
+                "Displays",
+                "Fluid Delivery",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Renal and Blood Handling",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP3REU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp3reu_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "7ab6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hp3reu"
+        },
+        {
+            "$id": "11",
+            "id": "0d3baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HP4R",
+            "summary": "11 MFR PC, MVR of 10. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications.  EtO and steam sterilizable. Subject to SABIC healthcare management of change process.",
+            "description": "LEXAN\u2122 HP4R resin is a 11 MFR polycarbonate, MVR of 10. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO and steam sterilizable. Subject to SABIC healthcare management of change process.",
+            "applications": [
+                "Fluid Delivery",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Renal and Blood Handling",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP4R_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp4r_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "82b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP4R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp4r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "d7c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hp4r"
+        },
+        {
+            "$id": "12",
+            "id": "0e3baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HP4REU",
+            "summary": "MVR (300\u00b0C/1.2kg) 9, biocompatible, sterilizable PC, medical devices, release",
+            "description": "LEXAN HP4REU is a medium flow polycarbonate (PC) with an MVR (300\u00b0C/1.2kg) of 9. This is a biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO and steam sterilizable, contains mold release and adheres to our healthcare management of change policy. Available only in Europe.",
+            "applications": [
+                "Fluid Delivery",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Renal and Blood Handling"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP4REU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp4reu_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "3db8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hp4reu"
+        },
+        {
+            "$id": "13",
+            "id": "103baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HP6NR",
+            "summary": "7 MFR PC, MVR of 7. Contains no mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. EtO and steam sterilizable. Subject to SABIC healthcare management of change process.",
+            "description": "LEXAN\u2122 HP6NR resin is a 7 MFR polycarbonate, MVR of 7. Contains no mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. EtO and steam sterilizable. Subject to SABIC healthcare management of change process.",
+            "applications": [
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Surgical Devices",
+                "Surgical Tray"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HP6NR_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hp6nr_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "d9c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hp6nr"
+        },
+        {
+            "$id": "14",
+            "id": "273baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HPS1",
+            "summary": "25 MFR PC, MVR of 23. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications.  EtO, steam, e-beam and gamma sterilizable. Subject to SABIC healthcare management of change process.",
+            "description": "LEXAN\u2122 HPS1 resin is a 25 MFR polycarbonate, MVR of 23. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO, steam, e-beam and gamma sterilizable. Subject to SABIC healthcare management of change process.",
+            "applications": [
+                "Data Transfer",
+                "Enclosures",
+                "Fluid Delivery",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Monitoring and Imaging",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Renal and Blood Handling",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HPS1_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hps1_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "97b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HPS1_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hps1_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "4cb8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Electrical Devices and Displays",
+                "Surgical",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hps1"
+        },
+        {
+            "$id": "15",
+            "id": "283baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HPS1R",
+            "summary": "MVR (300\u00b0C/1.2kg) 23 , biocompatible, sterilizable PC, medical devices, release",
+            "description": "LEXAN HPS1R is a high flow polycarbonate (PC) with an MVR (300\u00b0C/1.2kg) of 23. This is a biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is gamma and e-beam sterilizable, contains a higher amount of mold release than HPS1 and adheres to our healthcare management of change policy.",
+            "applications": [
+                "Electronic Components",
+                "Fluid Delivery",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Pharmaceutical Manufacturing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Respiratory",
+                "Surgical Devices",
+                "Surgical Tray"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HPS1R_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hps1r_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "9ab6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Surgical",
+                "Respiratory and Sleep Therapy",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hps1r"
+        },
+        {
+            "$id": "16",
+            "id": "2a3baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HPS2",
+            "summary": "18 MFR PC, MVR of 16. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications.  EtO, steam, e-beam and gamma sterilizable. Subject to SABIC healthcare management of change process.",
+            "description": "LEXAN\u2122 HPS2 resin is a 18 MFR polycarbonate, MVR of 16. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO, steam, e-beam and gamma sterilizable. Subject to SABIC healthcare management of change process.",
+            "applications": [
+                "Fluid Delivery",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Renal and Blood Handling",
+                "Surgical Devices",
+                "Surgical Tray"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HPS2_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hps2_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "e1c6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HPS2_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hps2_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "e2c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hps2"
+        },
+        {
+            "$id": "17",
+            "id": "2c3baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HPS2REU",
+            "summary": "MVR (300\u00b0C/1.2kg) 17 , biocompatible, sterilizable PC, medical devices, release",
+            "description": "LEXAN HPS2REU is a high flow polycarbonate (PC) with an MVR (300\u00b0C/1.2kg) of 17. This is a biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is gamma and e-beam sterilizable, contains mold release and adheres to our healthcare management of change policy. Available in Europe only.",
+            "applications": [
+                "Renal and Blood Handling"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HPS2REU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hps2reu_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "e4c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Healthcare",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hps2reu"
+        },
+        {
+            "$id": "18",
+            "id": "2e3baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HPS4",
+            "summary": "11 MFR PC, MVR of 10. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications.  EtO, steam, e-beam and gamma sterilizable. Subject to SABIC healthcare management of change process.",
+            "description": "LEXAN\u2122 HPS4 resin is a 11 MFR polycarbonate, MVR of 10. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO, steam, e-beam and gamma sterilizable. Subject to SABIC healthcare management of change process.",
+            "applications": [
+                "Data Transfer",
+                "Medical Device",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Renal and Blood Handling",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HPS4_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hps4_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "b0b7102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HPS4_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hps4_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "57b8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Electrical Devices and Displays",
+                "Surgical",
+                "Healthcare",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hps4"
+        },
+        {
+            "$id": "19",
+            "id": "303baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HPS6",
+            "summary": "7 MFR PC, MVR of 6. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications.  EtO, steam, e-beam and gamma sterilizable. Subject to SABIC healthcare management of change process.",
+            "description": "LEXAN\u2122 HPS6 resin is a 7 MFR polycarbonate, MVR of 6. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO, steam, e-beam and gamma sterilizable. Subject to SABIC healthcare management of change process.",
+            "applications": [
+                "Enclosures",
+                "Fluid Delivery",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Pharmaceutical Manufacturing",
+                "Renal and Blood Handling",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HPS6_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hps6_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "9fb6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Surgical",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hps6"
+        },
+        {
+            "$id": "20",
+            "id": "323baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HPS7",
+            "summary": "5 MFR PC, MVR of 5. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications.  EtO, steam, e-beam and gamma sterilizable. Subject to SABIC healthcare management of change process.",
+            "description": "LEXAN\u2122 HPS7 resin is a 5 MFR polycarbonate, MVR of 5. Mold release. Biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is EtO, steam, e-beam and gamma sterilizable. Subject to SABIC healthcare management of change process.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Fluid Delivery",
+                "Medical Device",
+                "Oil/Gas",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HPS7_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hps7_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "a1b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HPS7_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hps7_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "b3b7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Fossil",
+                "Surgical",
+                "Healthcare",
+                "Fluid and Blood Handling",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hps7"
+        },
+        {
+            "$id": "21",
+            "id": "343baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HPS9NEU",
+            "summary": "MVR (300\u00b0C/1.2kg) 2, biocompatible, sterilizable, blow molded PC, medical devices",
+            "description": "LEXAN HPS9NEU is a blow moldable polycarbonate (PC) with an MVR (300\u00b0C/1.2kg) of 2. This is a biocompatible (ISO10993 or USP Class VI) grade for medical devices and pharmaceutical applications. It is gamma and e-beam sterilizable, and adheres to our healthcare management of change policy. Available in Europe only.",
+            "applications": [
+                "Pharmaceutical Packaging & Drug Delivery"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 Healthcare Resin_HPS9NEU_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-healthcare-resin_hps9neu_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "e8c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Healthcare"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hps9neu"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "22",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "23",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "93ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid Delivery",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "a0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fused Deposition Modeling (FDM)",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "b7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lab Ware and Clinical Diagnostics",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "c0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "c5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Monitoring and Imaging",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "d4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Manufacturing",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "d5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Packaging & Drug Delivery",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "e6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Renal and Blood Handling",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "e7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "ffffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Devices",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "0000ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Tray",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "42",
+            "id": "51ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Bottles",
+            "count": 0
+        },
+        {
+            "$id": "43",
+            "id": "95ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Container",
+            "count": 0
+        },
+        {
+            "$id": "44",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "45",
+            "id": "d1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "46",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "47",
+            "id": "f1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Servingware",
+            "count": 0
+        },
+        {
+            "$id": "48",
+            "id": "1f8fb7b9-09a7-45e5-acb5-1175b471ed83",
+            "title": "Adhesives",
+            "count": 0
+        },
+        {
+            "$id": "49",
+            "id": "55ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building/Construction Sheet",
+            "count": 0
+        },
+        {
+            "$id": "50",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "51",
+            "id": "47ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "ATM/Ticket Machine",
+            "count": 0
+        },
+        {
+            "$id": "52",
+            "id": "cbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Oil/Gas",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "53",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "54",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "55",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "56",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "57",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical",
+            "id": "04ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "58",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "59",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "60",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Manufacturing",
+            "id": "10ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "61",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "62",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory and Sleep Therapy",
+            "id": "1effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "63",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "64",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "65",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "66",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "67",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid and Blood Handling",
+            "id": "2effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "68",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "id": "34ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "69",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "70",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food & Beverage",
+            "id": "0fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "71",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Adhesives",
+            "id": "1cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "72",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "73",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fossil",
+            "id": "08ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "74",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

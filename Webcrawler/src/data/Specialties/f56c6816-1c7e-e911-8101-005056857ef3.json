@@ -1,0 +1,1537 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "a40e0655-bf48-ea11-8102-005056857ef3",
+            "title": "CRX1414",
+            "summary": "PC copolymer, excellent chemical resistance, high ductility, medium flow",
+            "description": "LNP ELCRES CRX1414 is an amorphous Polycarbonate (PC) copolymer resin that offers medium flow, high ductility in combination with excellent chemical resistance. This grade is available for custom coloring and may be an excellent candidate for a wide variety of applications that need improved chemical resistance.",
+            "applications": [
+                "Healthcare"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_CRX1414_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_crx1414_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2c5ffbd0-e948-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Personal and Professional Hygiene",
+                "Electrical Devices and Displays",
+                "Surgical",
+                "Personal Accessory",
+                "Respiratory and Sleep Therapy",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "crx1414"
+        },
+        {
+            "$id": "3",
+            "id": "05fef1ab-0048-ea11-8102-005056857ef3",
+            "title": "CRX5421",
+            "summary": "PC copolymer/PBT opaque blend, excellent chemical resistance, high ductility, medium flow.",
+            "description": "LNP ELCRES CRX5421 is a semi-crystalline Polycarbonate (PC) copolymer/Polybutylene Terephthalate (PBT) opaque blend. This resin offers medium flow, high ductility in combination with excellent chemical resistance. This grade is available for custom coloring and may be an excellent candidate for a wide variety of applications that need improved chemical resistance.",
+            "applications": [
+                "Healthcare"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_CRX5421_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_crx5421_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "cf9bae6e-ea48-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "crx5421"
+        },
+        {
+            "$id": "4",
+            "id": "ec49ef0e-e948-ea11-8102-005056857ef3",
+            "title": "CRX9411",
+            "summary": "PC copolymer, excellent chemical resistance, high ductility, medium flow, flame retardant",
+            "description": "LNP ELCRES CRX9411 is an amorphous Polycarbonate (PC) copolymer resin that offers medium flow, UL V0 rating @ 1.6 mm for all colors, and high ductility in combination with excellent chemical resistance. This grade is available for custom coloring and may be an excellent candidate for a wide variety of applications that need improved chemical resistance.",
+            "applications": [
+                "Healthcare"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_CRX9411_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_crx9411_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "34b29e0b-ea48-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Personal and Professional Hygiene",
+                "Surgical",
+                "Personal Accessory",
+                "Respiratory and Sleep Therapy",
+                "Home Appliance",
+                "Healthcare",
+                "Patient Testing",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "crx9411"
+        },
+        {
+            "$id": "5",
+            "id": "07ea249e-22cf-eb11-810a-005056857ef3",
+            "title": "CRX9411W",
+            "summary": "PC copolymer, healthcare, excellent chemical resistance, high ductility, medium flow",
+            "description": "LNP ELCRES CRX9411W is an amorphous PC copolymer resin that offers medium flow, UL V0 rating @ 1.6 mm for all colors, and high ductility in combination with excellent chemical resistance. CRX9411W is available for custom coloring and may be an excellent candidate for a wide variety of applications that need improved chemical resistance. This grade is subjected to SABIC healthcare management of change policy and formulation lock.",
+            "applications": [
+                "Healthcare"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_CRX9411W_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_crx9411w_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "5d51cff3-3acf-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "crx9411w"
+        },
+        {
+            "$id": "6",
+            "id": "9d65a1c6-60ec-ea11-8105-005056857ef3",
+            "title": "CRX9421",
+            "summary": "PC copolymer/PBT opaque blend, excellent chemical resistance, high ductility, medium flow, flame retardant.",
+            "description": "LNP ELCRES CRX9421 is a semi-crystalline Polycarbonate (PC) copolymer/Polybutylene Terephthalate (PBT) opaque blend. This grade offers medium flow, UL V0 rating @ 1.5 mm, and high ductility in combination with excellent chemical resistance. It is available for custom coloring and may be an excellent candidate for a wide variety of applications that need improved chemical resistance.",
+            "applications": [
+                "Healthcare"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_CRX9421_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_crx9421_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "001b135b-69ec-ea11-8105-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "crx9421"
+        },
+        {
+            "$id": "7",
+            "id": "599c0bd7-beff-eb11-810a-005056857ef3",
+            "title": "DMX1234",
+            "summary": "Polycarbonate (PC), PC Copolymer, Transparent, UV-Stabilized",
+            "description": "LNP ELCRES DMX1234 is a UV stabilized standard flow Polycarbonate (PC) copolymer resin. Available in both transparent and custom colours, this grade is a good candidate for 5G related devices. Added features of this grade include: Improved Scratch Resistance and Improved Dielectric Performance (lower Df).",
+            "applications": [
+                "Mobile Phone",
+                "Battery System",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Interior",
+                "Personal Computing",
+                "Wearables"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_DMX1234_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_dmx1234_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211012",
+                    "id": "88837c54-c8ff-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dmx1234"
+        },
+        {
+            "$id": "8",
+            "id": "7ec950f7-c801-ea11-8102-005056857ef3",
+            "title": "DMX1435D",
+            "summary": "Polycarbonate (PC), PC Copolymer, UV Stabilized, improved scratch resistance",
+            "description": "LNP ELCRES DMX1435D is a UV stabilized standard flow Polycarbonate (PC) copolymer resin with diffusion effect and improved scratch resistance. This grade is a good candidate for consumer electronics, mobility interiors and other adjacent applications, which need lower scratch and diffusive effects performance.",
+            "applications": [
+                "Air Conditioning",
+                "Audio",
+                "Auto Aftermarket",
+                "Building Accessory",
+                "City",
+                "Cluster",
+                "Electronic Components",
+                "Enclosures",
+                "Fluid Delivery",
+                "Medical Device",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_DMX1435D_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_dmx1435d_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210817",
+                    "id": "b1af5638-3991-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Bus",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dmx1435d"
+        },
+        {
+            "$id": "9",
+            "id": "0d3a3d85-a93a-eb11-8106-005056857ef3",
+            "title": "EXL1213T",
+            "summary": "PC copolymer, low temperature ductility, high flow, excellent processability, good chemical resistance",
+            "description": "LNP ELCRES EXL1213T is a transparent injection molding grade based on Polycarbonate (PC) siloxane copolymer resin. This grade offers extreme low temperature ductility in combination with high flow characteristics, excellent processability and good chemical resistance. It is a general purpose product available in transparent and opaque colors and is an excellent candidate for a broad range of applications.",
+            "applications": [
+                "Circuit Protection",
+                "Data Transfer",
+                "Displays",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "EV Infrastructure",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Personal Care",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Power Manangement",
+                "Vacuum Cleaner",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_EXL1213T_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_exl1213t_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "5d8b81fb-b43a-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "exl1213t"
+        },
+        {
+            "$id": "10",
+            "id": "be1cf5ca-92d7-ea11-8105-005056857ef3",
+            "title": "EXL7414",
+            "summary": "PC Copolymer, UL94 V0 at 0.6mm, low temperature ductility, excellent processability",
+            "description": "LNP ELCRES EXL7414 is based on Polycarbonate (PC) siloxane copolymer resin. It is a medium flow, non-chlorinated, non-brominated flame retardant opaque grade. It offers excellent low temperature ductility (-40C), extremely thin wall flame retardant capability with UL94 V0 at 0.6mm, and in combination with excellent processability and release with opportunities for shorter cycle times compared to standard Polycarbonate. It is available in wide range of opaque colors and is an excellent candidate for a wide variety of applications such as the battery cover of fast-charging mobile phones that need to be compliant with IEC62368-1.",
+            "applications": [
+                "Aerospace",
+                "Air Conditioning",
+                "Audio",
+                "Building/Construction Sheet",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Engine Cooling System",
+                "EV Infrastructure",
+                "Freezer",
+                "Heavy Vehicles",
+                "Infrastructure",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Respiratory",
+                "Security/Detection",
+                "Small Appliance",
+                "Swimming Pool/Spa",
+                "Vacuum Cleaner",
+                "Watch/Jewelry",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_EXL7414_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_exl7414_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "4d4f3dd6-2ce0-ea11-8105-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Personal Accessory",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "exl7414"
+        },
+        {
+            "$id": "11",
+            "id": "26c40771-959f-e811-80fe-005056857ef3",
+            "title": "EXL9034",
+            "summary": "PC copolymer, excellent\u00a0low temperature ductility, flame\u00a0retardancy\u00a0(V0/5VA),  F1 rating, good\u00a0processability, UV stabilized,",
+            "description": "LNP ELCRES EXL9034 is based on Polycarbonate (PC) siloxane copolymer resin with\u00a0excellent\u00a0low temperature ductility, robust flame\u00a0retardancy\u00a0(V0/5VA), good\u00a0processability and\u00a0electrical tracking resistance. It is UV stabilized with F1 rating and is a good candidate for applications like\u00a0photovoltaic\u00a0connectors.",
+            "applications": [
+                "Air Conditioning",
+                "Electronic Components",
+                "Non-LED Lighting",
+                "Photovoltaic Components",
+                "Rail Cabin Interiors"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_EXL9034_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_exl9034_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f1177c86-ef1f-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Ophthalmics",
+                "Rail",
+                "Home Decoration",
+                "Lighting",
+                "Energy Storage",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Recreational Vehicle",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "exl9034"
+        },
+        {
+            "$id": "12",
+            "id": "1b8bbb14-9a12-eb11-8106-005056857ef3",
+            "title": "EXL9334",
+            "summary": "PC Copolymer, UV Stabilized, UL94V0 @1.5mm flame retardancy, Opaque,  medium flow",
+            "description": "LNP ELCRES EXL9334 is based on Polycarbonate (PC) siloxane copolymer resin. It is a UV stabilized, medium flow opaque material suitable for injection molding (IM) and sheet extrusion applications. This grade offers UL94 V0 @ 1.5mm flame retardancy based on non-bromine, non-chlorine FR systems, extreme low temperature ductility (-40\u00b0C) characteristics and excellent processability with opportunities for shorter IM cycle times compared to standard PC. It is available in a wide range of opaque colors and may be an excellent candidate for a wide range of applications.",
+            "applications": [
+                "Aerospace",
+                "Air Cabin Interiors",
+                "Aircraft Seating",
+                "Audio",
+                "Battery Cell",
+                "Body Protection",
+                "Building Accessory",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Fuel Cell",
+                "Industrial Material Handling",
+                "LED Lighting",
+                "Medical Device",
+                "Modular Panel",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Power Manangement",
+                "Rail Cabin Interiors",
+                "Recreational Vehicle",
+                "Refrigerator",
+                "Respiratory",
+                "Small Appliance",
+                "Swimming Pool/Spa",
+                "Wearables",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Sheet extrusion",
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_EXL9334_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_exl9334_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "15c1e5bb-a012-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Ophthalmics",
+                "Rail",
+                "Home Decoration",
+                "Lighting",
+                "Energy Storage",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Recreational Vehicle",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "exl9334"
+        },
+        {
+            "$id": "13",
+            "id": "379381a1-e809-ea11-8102-005056857ef3",
+            "title": "HPC17",
+            "summary": "High Heat PC Copolymer, healthcare, transparent",
+            "description": "LNP ELCRES HPC17 is based on high heat Polycarbonate (PC) copolymer resin with Vicat of 170\u00b0C, specially targeted for healthcare applications and is subject to Healthcare Management of Change, Biocompatible according to ISO 10993 or USP Class VI. This grade is optimized to reduce tendency of yellowing of transparent resins within a broad processing window. It is available in limited colors.",
+            "applications": [
+                "Healthcare"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_HPC17_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_hpc17_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2c1ff2de-e453-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hpc17"
+        },
+        {
+            "$id": "14",
+            "id": "8e6b953c-8627-ea11-8102-005056857ef3",
+            "title": "ML0111",
+            "summary": "PC copolymer, high flow, high impact resistance performance, colorable",
+            "description": "LNP ELCRES ML0111 is based on Polycarbonate (PC) siloxane copolymer resin with high flow, high impact resistance performance and colorable. This is an injection molding (IM) grade and especially suitable for IMT/IML process.",
+            "applications": [
+                "Electronic Components",
+                "Electronics",
+                "Enclosures",
+                "Industrial Material Handling",
+                "Monitoring and Imaging",
+                "Power Manangement",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_ML0111_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_ml0111_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0d220e60-3991-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ml0111"
+        },
+        {
+            "$id": "15",
+            "id": "481a1db0-933a-ea11-8102-005056857ef3",
+            "title": "ML4412",
+            "summary": "PC copolymer, 20% glass fiber, medium flow, impact modified",
+            "description": "LNP ELCRES ML4412 is based on Polycarbonate (PC) siloxane copolymer resin containing 20% glass fiber, medium flow, impact modified injection moldable grade. This grade is available in opaque colors only and is an excellent candidate for a broad range of applications that require a combination of stiffness and ductility.",
+            "applications": [
+                "Mobile Phone"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_ML4412_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_ml4412_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0886bdba-694d-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ml4412"
+        },
+        {
+            "$id": "16",
+            "id": "f84a4a27-8112-eb11-8106-005056857ef3",
+            "title": "SLX2271AML",
+            "summary": "PC Copolymer, antimicrobial, good weatherability, scratch resistance.",
+            "description": "LNP ELCRES SLX2271AML is based on Polycarbonate (PC) siloxane copolymer resin. It is an antimicrobial compound available in transparent and tinted colors. Added features of this grade include: Good Weatherability and Scratch Resistance.",
+            "applications": [
+                "All-Terrain Vehicle",
+                "Antenna",
+                "Battery Pack",
+                "Circuit Protection",
+                "City",
+                "Cowl Vent Grille",
+                "Displays",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Exterior Trim",
+                "Exterior",
+                "Front Grille",
+                "Heavy Vehicles",
+                "Interior",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Meter Water",
+                "Non-LED Lighting",
+                "Oil/Gas",
+                "Personal Computing",
+                "Plumbing",
+                "Power Boat",
+                "Recreational Vehicle",
+                "Small Appliance",
+                "Smart/ID Card",
+                "Spoiler",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_SLX2271AML_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_slx2271aml_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "91f65576-8412-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Personal and Professional Hygiene",
+                "Healthcare Packaging",
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Home Appliance",
+                "Personal Recreation"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "slx2271aml"
+        },
+        {
+            "$id": "17",
+            "id": "6c51746e-d953-eb11-8106-005056857ef3",
+            "title": "XD2131",
+            "summary": "Medium flow, low temperature ductile, PC siloxane copolymer. Excellent processability.",
+            "description": "ELCRES XD2131 is a polycarbonate (PC) copolymer resin with excellent low temperature (-40C) ductility in combination with excellent processability and shorter injection molding cycle time compared to standard PC. ELCRES XD2131 resin is a product available in wide range of opaque colors and an excellent candidate for a wide variety of applications such as consumer electronics (CE) and adjacent applications.",
+            "applications": [
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_XD2131_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_xd2131_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "243f4cdb-dd53-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Ophthalmics",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xd2131"
+        },
+        {
+            "$id": "18",
+            "id": "8e25d3e7-d553-eb11-8106-005056857ef3",
+            "title": "XD2322",
+            "summary": "PC Copolymer, UV-Stabilizer, Flame retardant, Opaque, High Flow",
+            "description": "ELCRES XD2322 polycarbonate (PC) copolymer resin is a UV stabilized opaque grade. This resin offers UL94 V0@1.5mm flame retardancy based on non-bromine, non-chlorine FR system, excellent low temperature ductility characteristics and processability. ELCRES XD2322 resin is an excellent candidate for a wide range of applications such as electronic vehicles (EV) and 5G devices.",
+            "applications": [
+                "Electronic Components",
+                "Electronics",
+                "EV Infrastructure",
+                "Photovoltaic Components"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 ELCRES\u2122_XD2322_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-elcres-_xd2322_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fa42a894-d853-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Ophthalmics",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xd2322"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "19",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "45765adb-85e8-47b6-97d9-0658ef6bb336",
+            "title": "Sheet extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "21",
+            "id": "3827b20d-60e1-47fb-b276-c8b04f82b1fb",
+            "title": "Healthcare",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "9ddbbf3b-7d6c-e711-80fb-005056857ef3",
+            "title": "Mobile Phone",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "4effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery System",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "b5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "1400ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wearables",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "3affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Conditioning",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "48ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Audio",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "49ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Aftermarket",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "53ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Accessory",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "5dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "City",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "60ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cluster",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "93ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid Delivery",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "c6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Motorcycle",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "42",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "43",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "44",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "45",
+            "id": "7effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronics",
+            "count": 0
+        },
+        {
+            "$id": "46",
+            "id": "86ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "47",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "48",
+            "id": "d1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "49",
+            "id": "d6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photo/Video Camera",
+            "count": 0
+        },
+        {
+            "$id": "50",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "51",
+            "id": "0d00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vacuum Cleaner",
+            "count": 0
+        },
+        {
+            "$id": "52",
+            "id": "38ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aerospace",
+            "count": 0
+        },
+        {
+            "$id": "53",
+            "id": "55ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building/Construction Sheet",
+            "count": 0
+        },
+        {
+            "$id": "54",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "55",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "56",
+            "id": "82ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Management",
+            "count": 0
+        },
+        {
+            "$id": "57",
+            "id": "84ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Engine Cooling System",
+            "count": 0
+        },
+        {
+            "$id": "58",
+            "id": "9affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Freezer",
+            "count": 0
+        },
+        {
+            "$id": "59",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "60",
+            "id": "b3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "61",
+            "id": "baffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lawn/Garden",
+            "count": 0
+        },
+        {
+            "$id": "62",
+            "id": "e7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory",
+            "count": 0
+        },
+        {
+            "$id": "63",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "64",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "65",
+            "id": "0100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Swimming Pool/Spa",
+            "count": 0
+        },
+        {
+            "$id": "66",
+            "id": "1100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Watch/Jewelry",
+            "count": 0
+        },
+        {
+            "$id": "67",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "68",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        },
+        {
+            "$id": "69",
+            "id": "ddffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "70",
+            "id": "39ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "71",
+            "id": "3fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aircraft Seating",
+            "count": 0
+        },
+        {
+            "$id": "72",
+            "id": "4cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery Cell",
+            "count": 0
+        },
+        {
+            "$id": "73",
+            "id": "50ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Body Protection",
+            "count": 0
+        },
+        {
+            "$id": "74",
+            "id": "9dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fuel Cell",
+            "count": 0
+        },
+        {
+            "$id": "75",
+            "id": "b1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "76",
+            "id": "c4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Modular Panel",
+            "count": 0
+        },
+        {
+            "$id": "77",
+            "id": "e3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "78",
+            "id": "e4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Refrigerator",
+            "count": 0
+        },
+        {
+            "$id": "79",
+            "id": "c5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Monitoring and Imaging",
+            "count": 0
+        },
+        {
+            "$id": "80",
+            "id": "42ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "All-Terrain Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "81",
+            "id": "45ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Antenna",
+            "count": 0
+        },
+        {
+            "$id": "82",
+            "id": "4dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery Pack",
+            "count": 0
+        },
+        {
+            "$id": "83",
+            "id": "6affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cowl Vent Grille",
+            "count": 0
+        },
+        {
+            "$id": "84",
+            "id": "75ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Doors Hardware/Trim",
+            "count": 0
+        },
+        {
+            "$id": "85",
+            "id": "8fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Trim",
+            "count": 0
+        },
+        {
+            "$id": "86",
+            "id": "90ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior",
+            "count": 0
+        },
+        {
+            "$id": "87",
+            "id": "9cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Front Grille",
+            "count": 0
+        },
+        {
+            "$id": "88",
+            "id": "c2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Water",
+            "count": 0
+        },
+        {
+            "$id": "89",
+            "id": "cbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Oil/Gas",
+            "count": 0
+        },
+        {
+            "$id": "90",
+            "id": "d9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Plumbing",
+            "count": 0
+        },
+        {
+            "$id": "91",
+            "id": "daffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Boat",
+            "count": 0
+        },
+        {
+            "$id": "92",
+            "id": "f6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Smart/ID Card",
+            "count": 0
+        },
+        {
+            "$id": "93",
+            "id": "f8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Spoiler",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "94",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "95",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "96",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "97",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "98",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal and Professional Hygiene",
+            "id": "b3b135b3-12dd-e811-80ff-005056857ef3"
+        },
+        {
+            "$id": "99",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "100",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "101",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "102",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory and Sleep Therapy",
+            "id": "1effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "103",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "104",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "105",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "106",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "107",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "108",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare Packaging",
+            "id": "6011329c-67f2-e811-80ff-005056857ef3"
+        },
+        {
+            "$id": "109",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "110",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "111",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "112",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Bus",
+            "id": "24ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "113",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Recreation",
+            "id": "27ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "114",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Exteriors",
+            "id": "35ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "115",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense",
+            "id": "03ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "116",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Outdoor, Lawn and Landscape",
+            "id": "05ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "117",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "118",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Aerospace",
+            "id": "62f520a6-82bc-40d1-8716-dfe4e90dbf65"
+        },
+        {
+            "$id": "119",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Ophthalmics",
+            "id": "12ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "120",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "id": "13ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "121",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Decoration",
+            "id": "16ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "122",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Storage",
+            "id": "21ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "123",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "id": "2affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "124",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "id": "31ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "125",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid and Blood Handling",
+            "id": "2effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "126",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

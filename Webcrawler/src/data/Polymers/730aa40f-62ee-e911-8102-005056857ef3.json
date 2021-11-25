@@ -1,0 +1,219 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "3aff7b57-2d83-e711-80fc-005056857ef3",
+            "title": "S3615",
+            "summary": "MFR(2.16 kg) 8 dg/min, Density 990 kg/m\u00b3",
+            "description": "HAPSOFT\u2122  PPcompound (PPc) S3615 is a 15% short glass fiber reinforced polypropylene copolymer compound for injection moulding applications. The compound is UV stabilized and the glass fibers are chemically coupled to the PP matrix. This compound combines a matt surface, good sound dampening and excellent scratch resistance with soft-touch haptics and is especially designed to ensure the aesthetic quality of visible and touchable automotive interior applications.\nHAPSOFT\u2122 PPc S3615 is a designated automotive grade.\n\nIMDS ID: 678406405",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Automotive injection molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SDS PPcomp short glass filled copolymer [PP-I-SGF]",
+                    "url": "/en/products/documents/sds-ppcomp-short-glass-filled-copolymer-pp-i-sgf/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "ecc2d714-dee3-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "HAPSOFT\u2122_S3615_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hapsoft-_s3615_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "25ffa5bb-83a6-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s3615"
+        },
+        {
+            "$id": "3",
+            "id": "5878551e-2e83-e711-80fc-005056857ef3",
+            "title": "S3620",
+            "summary": "MFR(2.16 kg) 8 dg/min, Density 930 kg/m\u00b3",
+            "description": "HAPSOFT\u2122 PPcompound (PPc) S3620 is a 20% short glass fiber reinforced polypropylene copolymer compound for injection moulding applications. The compound is UV stabilized and the glass fibers are chemically coupled to the PP matrix. This compound combines a matt surface, good sound dampening and excellent scratch resistance with soft-touch haptics and is especially designed to ensure the aesthetic quality of visible and touchable automotive interior applications. The grade is currently available in black and natural. All other colors are on request. \n\nHAPSOFT\u2122 PPc S3620 is a designated automotive grade. \nIMDS ID: 679564115",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Automotive injection molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SDS PPcomp short glass filled copolymer [PP-I-SGF]",
+                    "url": "/en/products/documents/sds-ppcomp-short-glass-filled-copolymer-pp-i-sgf/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "ecc2d714-dee3-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "HAPSOFT\u2122_S3620_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hapsoft-_s3620_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e63928bc-7ea6-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s3620"
+        },
+        {
+            "$id": "4",
+            "id": "ff5010e3-2e83-e711-80fc-005056857ef3",
+            "title": "S3625",
+            "summary": "MFR(2.16 kg) 6.5 dg/min, Density 1070 kg/m\u00b3",
+            "description": "HAPSOFT\u2122 PPcompound (PPc) S3625 is a 25% short glass fiber reinforced polypropylene copolymer compound for injection moulding applications. The compound is UV stabilized and the glass fibers are chemically coupled to the PP matrix. This compound combines a matt surface, good sound dampening and excellent scratch resistance with soft-touch haptics and is especially designed to ensure the aesthetic quality of visible and touchable automotive interior. \n\nHAPSOFT\u2122 PPc S3625 is a designated automotive grade. \nIMDS ID: 559182813",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Automotive injection molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SDS PPcomp short glass filled copolymer [PP-I-SGF]",
+                    "url": "/en/products/documents/sds-ppcomp-short-glass-filled-copolymer-pp-i-sgf/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "ecc2d714-dee3-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PPcompound-S3625-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-ppcompound-s3625-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ca8ef8cf-26a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PPcompound-S3625-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ppcompound-s3625-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c9fc44d4-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PPcompound-S3625-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ppcompound-s3625-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "bc9a4fb4-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PPcompound-S3625-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ppcompound-s3625-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "22fbe2e0-30af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "HAPSOFT\u2122_S3625_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hapsoft-_s3625_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "178d78b7-f0a8-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s3625"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "5",
+            "id": "ac7b517f-bda6-4d78-8e55-c448cc28c600",
+            "title": "Automotive injection molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "6",
+            "id": "b5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "7",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Middle East and Africa",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "11",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

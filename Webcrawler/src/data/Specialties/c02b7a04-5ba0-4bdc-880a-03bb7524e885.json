@@ -1,0 +1,909 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "f032aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "BFL4000U",
+            "summary": "Non-Cl/Br FR, unfilled PC, UV resistant, MVR (300\u00b0C/1.2kg) 22, UL94 V0@1.5mm",
+            "description": "LEXAN BFL4000U Polycarbonate (PC) is an injection moldable non-chlorinated/brominated, unfilled, flame retardant grade with high flow. It is UV stabilized, light reflective and  has an MVR of 22 (300\u00b0C/1.2kg) and a UL94 V0@1.5mm.",
+            "applications": [
+                "Amusement Machine",
+                "Battery Pack",
+                "Data Management",
+                "Displays",
+                "Electronic Components",
+                "Enclosures",
+                "Infotainment/Telematic",
+                "LED Lighting",
+                "Meter Gas",
+                "Modular Panel",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Semiconductor",
+                "Washing Machine",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_BFL4000U_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_bfl4000u_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "27b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_BFL4000U_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_bfl4000u_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a0b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_BFL4000U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_bfl4000u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "27c5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electric Vehicle",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Home Decoration",
+                "Lighting",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "bfl4000u"
+        },
+        {
+            "$id": "3",
+            "id": "fc32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "BM5225Y",
+            "summary": "Non-Cl/Br FR, mineral-filled PC resin, UL94 V0@1.5mm/5VB@1.5mm",
+            "description": "LEXAN\u2122 BM5225Y Polycarbonate resin is an injection moldable non chlorinated/brominated mineral-filled flame retardant grade. It features high modulus, good flow, ductility and low warpage. It has a UL94 V0@1.5mm and 5VB@1.5mm flame rating and is a good candidate for thin wall applications.",
+            "applications": [
+                "Data Management",
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_BM5225Y_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_bm5225y_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "29b2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "bm5225y"
+        },
+        {
+            "$id": "4",
+            "id": "0733aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "BX7241",
+            "summary": "Non-Cl/Br FR, unfilled PC, MVR (260\u00b0C/2.16kg) 18, UL94 V0@0.6mm",
+            "description": "LEXAN BX7241 Polycarbonate (PC) is an injection moldable non-chlorinated/brominated, unfilled flame retardant grade that has good impact and processability. It has an MVR of 18 (260\u00b0C/2.16kg), UL94 V0@0.6mm, 5VA at 3.0mm rating and can be ideal for thin wall applications.",
+            "applications": [
+                "Personal Computing",
+                "Power Manangement",
+                "Watch/Jewelry",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_BX7241_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_bx7241_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a9b2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Personal Accessory"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "bx7241"
+        },
+        {
+            "$id": "5",
+            "id": "38e1663f-d478-e711-80fc-005056857ef3",
+            "title": "DSL1120",
+            "summary": "PC, 20% glass bead, Low Warpage,Flame Retardant,Good dimensional stability",
+            "description": "LEXAN DSL1120 compound is based on Polycarbonate (PC) resin containing 20% glass bead. Added features of this grade include: Flame Retardant.",
+            "applications": [
+                "Electrical"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_DSL1120_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_dsl1120_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "6cc258c9-bc20-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dsl1120"
+        },
+        {
+            "$id": "6",
+            "id": "c03caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "JK2500",
+            "summary": "PC/ABS,20% carbon fiber,Electrically Conductive, Light-weight Structural, Super Strong (Carbon Fiber Filled), high stiffness, Non-Brominated, Non-Chlorinated, Flame Retardant, EMI/RFI Shielding",
+            "description": "LEXAN JK2500 compound is based on Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend containing 20% carbon fiber. Added features of this grade include: Electrically Conductive, EMI/RFI Shielding Effectiveness of 21 dB at 1.5 mm, Non-Brominated, Non-Chlorinated Flame Retardant.",
+            "applications": [
+                "Circuit Protection",
+                "Electronic Components",
+                "Enclosure/Housing/Cover"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_JK2500_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_jk2500_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b1b16cfc-b44c-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "jk2500"
+        },
+        {
+            "$id": "7",
+            "id": "9d3caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LC108",
+            "summary": "PC,8% carbon fiber,Electrically Conductive, Wear Resistant,  Light-weight Structural, Super Strong (Carbon Fiber Filled), Flame Retardant",
+            "description": "LEXAN LC108 compound is based on Polycarbonate (PC) resin containing 8% carbon fiber. Added features of this grade include: Electrically Conductive, Flame Retardant.",
+            "applications": [
+                "Data Transfer",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Personal Computing",
+                "Smart/ID Card"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_LC108_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_lc108_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1118664a-cc1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lc108"
+        },
+        {
+            "$id": "8",
+            "id": "c43caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LCF1506",
+            "summary": "PC,15% carbon fiber, 5% PTFE,Electrically Conductive, Wear Resistant, Light-weight Structural, Super Strong (Carbon Fiber Filled), High Stiffness, Internally Lubricated, Flame Retardant",
+            "description": "LEXAN LCF1506 compound is based on Polycarbonate (PC) resin containing 15% carbon fiber, 5% PTFE. Added features of this grade include: Electrically Conductive, Internally Lubricated, Wear Resistant and Flame Retardant",
+            "applications": [
+                "Commercial Appliance"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_LCF1506_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_lcf1506_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "338aa0f5-535d-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lcf1506"
+        },
+        {
+            "$id": "9",
+            "id": "f93caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LGK3020",
+            "summary": "PC, 20% glass fiber , 10% glass flake, Structural,High Stiffness, Flame Retardant",
+            "description": "LEXAN LGK3020 compound is based on Polycarbonate (PC) resin containing 20% glass fiber and 10% glass flake. Added features of this grade include: Flame Retardant.",
+            "applications": [
+                "Document Handling",
+                "Electronic Components",
+                "Pharmaceutical Packaging & Drug Delivery"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_LGK3020_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_lgk3020_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "55643e76-0f20-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Personal Accessory",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lgk3020"
+        },
+        {
+            "$id": "10",
+            "id": "fa3caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LGK4010",
+            "summary": "Polycarbonate (PC), LNP\u2122 THERMOCOMP\u2122 Compound LGK4010, 40% Glass",
+            "description": "LGK4010 is based on Polycarbonate containing 40% of glass fiber and glass flakes. Added feature includes Dimensional Stability and Flame Retardant.",
+            "applications": [
+                "Document Handling"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_LGK4010_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_lgk4010_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "26443017-1223-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas",
+                "MEA"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lgk4010"
+        },
+        {
+            "$id": "11",
+            "id": "fb3caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LGK4030",
+            "summary": "LNP\u2122 THERMOCOMP\u2122 Compound LGK4030, 40% Glass",
+            "description": "LGK4030 is based on Polycarbonate containing 40% of glass fiber and glass flakes. Added feature includes Dimensional Stability and Flame Retardant.",
+            "applications": [
+                "Document Handling"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_LGK4030_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_lgk4030_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "73ef8a53-1223-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas",
+                "MEA"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lgk4030"
+        },
+        {
+            "$id": "12",
+            "id": "fc3caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LGK5030",
+            "summary": "Glass reinforced.  Flame retardant.",
+            "description": "LEXAN LGK5030 is a compound based on Polycarbonate resin containing 50% glass contents. Added features of this material include: Flame Retardant.",
+            "applications": [
+                "Document Handling"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_LGK5030_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_lgk5030_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "dd526754-1820-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas",
+                "MEA"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lgk5030"
+        },
+        {
+            "$id": "13",
+            "id": "ce3eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "ML7682",
+            "summary": "Non-Cl/Br FR, unfilled PC, MVR (300\u00b0C/1.2kg) 21, UL94 V0@1.8mm, UV",
+            "description": "LEXAN ML7682 Polycarbonate (PC) is an injection moldable non-chlorinated/brominated, unfilled flame retardant grade with high flow and good heat and impact resistance. It is UV stabilized and has an MVR of 21 (300\u00b0C/1.2kg) and a UL94 V0@1.8mm, and is available in opaque color options.",
+            "applications": [
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "LED Lighting",
+                "Personal Computing",
+                "Security/Detection",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_ML7682_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_ml7682_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "4dba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ml7682"
+        },
+        {
+            "$id": "14",
+            "id": "6244aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "SLD3000",
+            "summary": "LEXAN SLD3000 compound is based on Polycarbonate (PC) resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static, Opaque, Flame Retardant.",
+            "description": "Antistatic colorable/opaque FR PC grade",
+            "applications": [
+                "Data Management",
+                "Electronic Components",
+                "Pallet",
+                "Personal Computing",
+                "Photo/Video Camera"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_SLD3000_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_sld3000_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7b9e9972-0720-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sld3000"
+        },
+        {
+            "$id": "15",
+            "id": "6344aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "SLDM2005",
+            "summary": "Polycarbonate / Polyester blend,proprietary fillers,Anti-Static,Non-Halogenated Flame Retardant",
+            "description": "LEXAN SLDM2005 compound is based on Polycarbonate / Polyester blend containing proprietary fillers. Added features of this grade include: Permanently Anti-Static, Non-Halogenated Flame Retardant",
+            "applications": [
+                "Data Management"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LEXAN\u2122 FR Resin_SLDM2005_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lexan-fr-resin_sldm2005_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "89616b44-4b22-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sldm2005"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "16",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "17",
+            "id": "43ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Amusement Machine",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "4dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery Pack",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "21",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "b2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Infotainment/Telematic",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "c1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Gas",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "c4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Modular Panel",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "efffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductor",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "1000ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Washing Machine",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "1100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Watch/Jewelry",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "7affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "f6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Smart/ID Card",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "64ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "d5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Packaging & Drug Delivery",
+            "count": 0
+        },
+        {
+            "$id": "42",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "43",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "44",
+            "id": "ceffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pallet",
+            "count": 0
+        },
+        {
+            "$id": "45",
+            "id": "d6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photo/Video Camera",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "46",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "47",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "48",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "49",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "50",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Management",
+            "id": "07ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "51",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electric Vehicle",
+            "id": "09ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "52",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "53",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "54",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Decoration",
+            "id": "16ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "55",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "56",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "57",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "58",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "59",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "60",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "61",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Outdoor, Lawn and Landscape",
+            "id": "05ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "62",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductors",
+            "id": "06ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "63",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "id": "2fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "64",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

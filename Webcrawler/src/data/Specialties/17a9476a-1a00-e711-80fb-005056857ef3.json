@@ -1,0 +1,82 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "bc607a50-dc8e-eb11-8108-005056857ef3",
+            "title": "HTV150",
+            "summary": "ELCRES \u2122 HTV150 dielectric film can support high-voltage",
+            "description": "ELCRES \u2122 HTV150 dielectric film can support high-voltage, high-temperature DC link power capacitors that can store large amounts of electrical energy for long periods without significant current leakage or loss of charge, up to 150 \u00b0C. This technology offers advantages including excellent dielectric and insulative properties for capacitor applications such as xEV traction inverters. This material also maintains low loss at high frequencies and high temperatures, which are needed for wide band-gap semiconductors operation.  ELCRES HTV150 film is currently available in a 5 micron gauge sold in 620mm x 5000m size rolls.",
+            "applications": [
+                "Semiconductor"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Datasheet",
+                    "title": "SABIC ELCRES HTV150 FILM TECHNICAL DATASHEET",
+                    "url": "/en/products/documents/sabic-elcres-htv150-film-technical-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "44360f7c-b2a3-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Product Brochure",
+                    "title": "SABIC ELCRES HTV150 FILM FLYER",
+                    "url": "/en/products/documents/sabic-elcres-htv150-film-flyer/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "16d54aca-b2a3-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "htv150"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "3",
+            "id": "efffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductor",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "4",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "5",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

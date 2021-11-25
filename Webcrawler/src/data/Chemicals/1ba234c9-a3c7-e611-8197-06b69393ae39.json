@@ -1,0 +1,524 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "69f17c24-165f-eb11-8108-005056857ef3",
+            "title": "SABIC\u00ae PG Circular Ethylene",
+            "summary": "Monomer for polyethylene, ethylene-oxide, ethylbenzene and ethylene di-chloride.",
+            "description": "Ethylene is a non-toxic, non-corrosive, colorless gas with very little odor. It burns readily in the presence of oxygen with a luminous flame.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "Ethylene - SABIC - Europe GHS SDS - Ireland SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/ethylene-sabic-europe-ghs-sds-ireland-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "country": "430a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Europe",
+                    "id": "b94cc7a1-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Ethylene - SABIC - Europe GHS SDS - United Kingdom SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/ethylene-sabic-europe-ghs-sds-united-kingdom-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "country": "350a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Europe",
+                    "id": "fd59eba7-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Europe GHS SDS - Ireland SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/sabic-europe-ghs-sds-ireland-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "id": "1c28be8e-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Europe GHS SDS - United Kingdom SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/sabic-europe-ghs-sds-united-kingdom-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "id": "29f3fd94-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PG Circular Ethylene_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pg-circular-ethylene_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "902e95c3-165f-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "1d7931a3-ef5e-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a5dff6cf-63bd-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "2e24ebc9-8905-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a6dff6cf-63bd-eb11-8109-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [
+                "a00e6af7-ee5e-eb11-8108-005056857ef3"
+            ],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-pg-circular-ethylene"
+        },
+        {
+            "$id": "5",
+            "id": "058cd6d4-a3c7-e611-8197-06b69393ae39",
+            "title": "SABIC\u00ae PG Ethylene",
+            "summary": "Monomer for polyethylene, ethylene-oxide, ethylbenzene and ethylene di-chloride.",
+            "description": "Ethylene is a non-toxic, non-corrosive, colorless gas with very little odor. It burns readily in the presence of oxygen with a luminous flame.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-PG Ethylene-SDS-Asia-China-en-2021-05-18",
+                    "url": "/en/products/documents/sabic-pg-ethylene-sds-asia-china-en-2021-05-18/en",
+                    "language": "English",
+                    "country": "290a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "2e338aee-ceb7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Ethylene - SABIC - Asia GHS SDS - Indonesia SABIC Singapore",
+                    "url": "/en/products/documents/ethylene-sabic-asia-ghs-sds-indonesia-sabic-singapore/en",
+                    "language": "English",
+                    "country": "2a0a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "c21da495-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Ethylene - SABIC - Asia GHS SDS - Malaysia SABIC Singapore",
+                    "url": "/en/products/documents/ethylene-sabic-asia-ghs-sds-malaysia-sabic-singapore/en",
+                    "language": "English",
+                    "country": "2b0a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "c51da495-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Ethylene - SABIC - Asia GHS SDS - Singapore SABIC Singapore",
+                    "url": "/en/products/documents/ethylene-sabic-asia-ghs-sds-singapore-sabic-singapore/en",
+                    "language": "English",
+                    "country": "2c0a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "c81da495-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Ethylene - SABIC - Asia GHS SDS - South Korea SABIC Singapore",
+                    "url": "/en/products/documents/ethylene-sabic-asia-ghs-sds-south-korea-sabic-singapore/en",
+                    "language": "English",
+                    "country": "2d0a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "ca1da495-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Ethylene - SABIC - Asia GHS SDS - Taiwan SABIC Singapore",
+                    "url": "/en/products/documents/ethylene-sabic-asia-ghs-sds-taiwan-sabic-singapore/en",
+                    "language": "English",
+                    "country": "2e0a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "cd1da495-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Ethylene - SABIC - Asia GHS SDS - Thailand SABIC Singapore",
+                    "url": "/en/products/documents/ethylene-sabic-asia-ghs-sds-thailand-sabic-singapore/en",
+                    "language": "English",
+                    "country": "2f0a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "ebd3b99b-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Ethylene - SABIC - Europe GHS SDS - Ireland SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/ethylene-sabic-europe-ghs-sds-ireland-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "country": "430a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Europe",
+                    "id": "b94cc7a1-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Ethylene - SABIC - Europe GHS SDS - United Kingdom SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/ethylene-sabic-europe-ghs-sds-united-kingdom-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "country": "350a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Europe",
+                    "id": "fd59eba7-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Ethylene - SABIC - North America GHS SDS - United States of America Sabic USA - Pittsfield",
+                    "url": "/en/products/documents/ethylene-sabic-north-america-ghs-sds-united-states-of-america-sabic-usa-pittsfield/en",
+                    "language": "English",
+                    "country": "380a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Americas",
+                    "id": "ff59eba7-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Asia GHS SDS - Indonesia SABIC Singapore",
+                    "url": "/en/products/documents/sabic-asia-ghs-sds-indonesia-sabic-singapore/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "id": "65f19d82-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Asia GHS SDS - Malaysia SABIC Singapore",
+                    "url": "/en/products/documents/sabic-asia-ghs-sds-malaysia-sabic-singapore/en",
+                    "language": "English",
+                    "country": "350a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "69f19d82-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Asia GHS SDS - Singapore SABIC Singapore",
+                    "url": "/en/products/documents/sabic-asia-ghs-sds-singapore-sabic-singapore/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "id": "4348a988-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Asia GHS SDS - South Korea SABIC Singapore",
+                    "url": "/en/products/documents/sabic-asia-ghs-sds-south-korea-sabic-singapore/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "id": "4548a988-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Asia GHS SDS - Taiwan SABIC Singapore",
+                    "url": "/en/products/documents/sabic-asia-ghs-sds-taiwan-sabic-singapore/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "id": "4b48a988-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Asia GHS SDS - Thailand SABIC Singapore",
+                    "url": "/en/products/documents/sabic-asia-ghs-sds-thailand-sabic-singapore/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "id": "4d48a988-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Europe GHS SDS - Ireland SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/sabic-europe-ghs-sds-ireland-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "id": "1c28be8e-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Europe GHS SDS - United Kingdom SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/sabic-europe-ghs-sds-united-kingdom-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "id": "29f3fd94-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - North America GHS SDS - United States of America Sabic USA - Pittsfield",
+                    "url": "/en/products/documents/sabic-north-america-ghs-sds-united-states-of-america-sabic-usa-pittsfield/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "id": "2bf3fd94-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PG Ethylene_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pg-ethylene_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "72af102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PG Ethylene_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pg-ethylene_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "f8c0f46c-2f65-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "6",
+                    "contact": "5fff030a-a0c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "ddd0938e-63bd-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "7",
+                    "contact": "468b0f13-c2e0-e611-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "ded0938e-63bd-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "8",
+                    "contact": "468b0f13-c2e0-e611-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "dfd0938e-63bd-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "9",
+                    "contact": "5fff030a-a0c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "e0d0938e-63bd-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "10",
+                    "contact": "1d7931a3-ef5e-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "e1d0938e-63bd-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "11",
+                    "contact": "2e24ebc9-8905-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "e2d0938e-63bd-eb11-8109-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-pg-ethylene"
+        },
+        {
+            "$id": "12",
+            "id": "ebdc0321-4c56-eb11-8106-005056857ef3",
+            "title": "SABIC\u00ae PG Renewable Ethylene",
+            "summary": "Monomer for polyethylene, ethylene-oxide, ethylbenzene and ethylene di-chloride.",
+            "description": "Ethylene is a non-toxic, non-corrosive, colorless gas with very little odor. It burns readily in the presence of oxygen with a luminous flame.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "Ethylene - SABIC - Europe GHS SDS - Ireland SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/ethylene-sabic-europe-ghs-sds-ireland-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "country": "430a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Europe",
+                    "id": "b94cc7a1-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "Ethylene - SABIC - Europe GHS SDS - United Kingdom SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/ethylene-sabic-europe-ghs-sds-united-kingdom-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "country": "350a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Europe",
+                    "id": "fd59eba7-2b62-e711-a975-024771460781"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Europe GHS SDS - Ireland SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/sabic-europe-ghs-sds-ireland-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "id": "1c28be8e-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC - Europe GHS SDS - United Kingdom SABIC Petrochemicals B.V.",
+                    "url": "/en/products/documents/sabic-europe-ghs-sds-united-kingdom-sabic-petrochemicals-b-v/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "id": "29f3fd94-02dc-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PG Renewable Ethylene_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pg-renewable-ethylene_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "5bdc458a-155f-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "13",
+                    "contact": "1d7931a3-ef5e-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "de376b20-64bd-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "14",
+                    "contact": "2e24ebc9-8905-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "df376b20-64bd-eb11-8109-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [
+                "a00e6af7-ee5e-eb11-8108-005056857ef3"
+            ],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-pg-renewable-ethylene"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "15",
+            "id": "313ee29e-8cc7-e611-8197-06b69393ae39",
+            "title": "Placeholder - please replace me",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "16",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

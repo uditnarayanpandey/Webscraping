@@ -1,0 +1,2711 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "2040f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1006",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_1006_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_1006_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "dec9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1006"
+        },
+        {
+            "$id": "3",
+            "id": "2340f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1008",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_1008_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_1008_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b1c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1008"
+        },
+        {
+            "$id": "4",
+            "id": "2940f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1018",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_1018_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_1018_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "79c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1018"
+        },
+        {
+            "$id": "5",
+            "id": "2c40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1045",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_1045_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_1045_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "bac0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1045"
+        },
+        {
+            "$id": "6",
+            "id": "2f40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1055",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_1055_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_1055_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "82bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1055"
+        },
+        {
+            "$id": "7",
+            "id": "3240f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "12",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Water heater",
+                "Stamping and cold forming"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_12_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_12_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "88bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "12"
+        },
+        {
+            "$id": "8",
+            "id": "3540f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "13",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Water heater",
+                "Stamping and cold forming"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_13_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_13_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "bdc0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "13"
+        },
+        {
+            "$id": "9",
+            "id": "3840f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "36",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Water heater"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_36_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_36_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e4c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "36"
+        },
+        {
+            "$id": "10",
+            "id": "3b40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "40",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Automotive ",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_40_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_40_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "83c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "40"
+        },
+        {
+            "$id": "11",
+            "id": "3e40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "420MC",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction",
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_420MC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_420mc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c3c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "420mc"
+        },
+        {
+            "$id": "12",
+            "id": "4140f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "490",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_490_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_490_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "89c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "490"
+        },
+        {
+            "$id": "13",
+            "id": "4440f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "50",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Automotive ",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_50_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_50_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c9c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "50"
+        },
+        {
+            "$id": "14",
+            "id": "4740f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "500MC",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction",
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_500MC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_500mc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "97bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "500mc"
+        },
+        {
+            "$id": "15",
+            "id": "4a40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "55",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_55_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_55_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "8fc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "55"
+        },
+        {
+            "$id": "16",
+            "id": "4d40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "570",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_570_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_570_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "9dbf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "570"
+        },
+        {
+            "$id": "17",
+            "id": "5040f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "60",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_60_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_60_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "eac9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "60"
+        },
+        {
+            "$id": "18",
+            "id": "5340f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "65",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_65_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_65_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d2c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "65"
+        },
+        {
+            "$id": "19",
+            "id": "2640f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "API X70",
+            "summary": "HADEED",
+            "description": "Hot rolled High strength, micro-alloyed steel",
+            "applications": [
+                "Building and Construction",
+                "METAL DOWNSTREAM INDUSTRIALS"
+            ],
+            "processingTechniques": [
+                "Hot rolling"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_API X70_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_api-x70_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b4c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "20",
+                    "contact": "1540f52f-b7d9-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "726a6b35-8480-e911-8101-005056857ef3"
+                },
+                {
+                    "$id": "21",
+                    "contact": "1540f52f-b7d9-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "736a6b35-8480-e911-8101-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "api-x70"
+        },
+        {
+            "$id": "22",
+            "id": "5c40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "C45",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_C45_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_c45_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "dbc0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c45"
+        },
+        {
+            "$id": "23",
+            "id": "5f40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Carb",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_Carb_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_carb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a9bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "carb"
+        },
+        {
+            "$id": "24",
+            "id": "6240f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "CQ",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_CQ_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_cq_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e1c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cq"
+        },
+        {
+            "$id": "25",
+            "id": "6a40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "DD11",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Water heater",
+                "Stamping and cold forming"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_DD11_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_dd11_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e7c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dd11"
+        },
+        {
+            "$id": "26",
+            "id": "9a40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "G",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Transmission/Transfer Comp"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_G_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_g_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0cc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "g"
+        },
+        {
+            "$id": "27",
+            "id": "9d40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr 33",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Automotive ",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_Gr 33_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_gr-33_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d1c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr-33"
+        },
+        {
+            "$id": "28",
+            "id": "a040f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr C",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Transmission/Transfer Comp"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_Gr C_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_gr-c_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "ffc9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr-c"
+        },
+        {
+            "$id": "29",
+            "id": "a340f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr2",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pipe",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_Gr2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_gr2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d4c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr2"
+        },
+        {
+            "$id": "30",
+            "id": "a640f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr33",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Water heater",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_Gr33_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_gr33_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "15c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr33"
+        },
+        {
+            "$id": "31",
+            "id": "aa40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr50",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_Gr50_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_gr50_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "ddbf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr50"
+        },
+        {
+            "$id": "32",
+            "id": "ad40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr55",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_Gr55_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_gr55_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "02ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr55"
+        },
+        {
+            "$id": "33",
+            "id": "b040f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr58",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_Gr58_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_gr58_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1bc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr58"
+        },
+        {
+            "$id": "34",
+            "id": "b340f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr60",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_Gr60_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_gr60_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e0c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr60"
+        },
+        {
+            "$id": "35",
+            "id": "b640f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr70",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_Gr70_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_gr70_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e3c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr70"
+        },
+        {
+            "$id": "36",
+            "id": "b940f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "GrA",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_GrA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_gra_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e9bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gra"
+        },
+        {
+            "$id": "37",
+            "id": "bc40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "GrB",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_GrB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_grb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "ecbf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "grb"
+        },
+        {
+            "$id": "38",
+            "id": "c340f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "GrD",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_GrD_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_grd_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "27c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "grd"
+        },
+        {
+            "$id": "39",
+            "id": "c940f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "H40",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_H40_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_h40_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f2c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "h40"
+        },
+        {
+            "$id": "40",
+            "id": "cb40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "J55",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_J55_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_j55_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2dc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "j55"
+        },
+        {
+            "$id": "41",
+            "id": "cd40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "K55",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_K55_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_k55_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0aca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "k55"
+        },
+        {
+            "$id": "42",
+            "id": "cf40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "L245",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_L245_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_l245_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f8bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l245"
+        },
+        {
+            "$id": "43",
+            "id": "d140f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "L290",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_L290_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_l290_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fbbf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l290"
+        },
+        {
+            "$id": "44",
+            "id": "d340f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "L360",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_L360_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_l360_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f5c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l360"
+        },
+        {
+            "$id": "45",
+            "id": "d540f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "L415",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_L415_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_l415_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "33c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l415"
+        },
+        {
+            "$id": "46",
+            "id": "d740f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "L450",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_L450_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_l450_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0dca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l450"
+        },
+        {
+            "$id": "47",
+            "id": "d940f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "L485",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_L485_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_l485_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "01c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "l485"
+        },
+        {
+            "$id": "48",
+            "id": "df40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P235GH",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_P235GH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_p235gh_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "08c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p235gh"
+        },
+        {
+            "$id": "49",
+            "id": "e240f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P245NB",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_P245NB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_p245nb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "01c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p245nb"
+        },
+        {
+            "$id": "50",
+            "id": "e540f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P265GH",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_P265GH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_p265gh_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0ec0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p265gh"
+        },
+        {
+            "$id": "51",
+            "id": "e840f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P265NB",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_P265NB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_p265nb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "07c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p265nb"
+        },
+        {
+            "$id": "52",
+            "id": "eb40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P355GH",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_P355GH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_p355gh_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "12ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p355gh"
+        },
+        {
+            "$id": "53",
+            "id": "ee40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S235",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_S235_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_s235_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "14c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s235"
+        },
+        {
+            "$id": "54",
+            "id": "f440f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S275",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_S275_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_s275_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "4cc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s275"
+        },
+        {
+            "$id": "55",
+            "id": "fd40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S355",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction",
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_S355_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_s355_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "20c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s355"
+        },
+        {
+            "$id": "56",
+            "id": "0041f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S355MC",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction",
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_S355MC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_s355mc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "55c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s355mc"
+        },
+        {
+            "$id": "57",
+            "id": "0341f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S460N",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_S460N_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_s460n_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "23c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s460n"
+        },
+        {
+            "$id": "58",
+            "id": "0641f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SG255",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SG255_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_sg255_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1cc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sg255"
+        },
+        {
+            "$id": "59",
+            "id": "0941f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SG295",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SG295_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_sg295_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "19ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sg295"
+        },
+        {
+            "$id": "60",
+            "id": "1441f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SGV410",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Hot Rolled Coil"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SGV410_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_sgv410_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "32c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sgv410"
+        },
+        {
+            "$id": "61",
+            "id": "1641f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SLA235A",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SLA235A_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_sla235a_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "28c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sla235a"
+        },
+        {
+            "$id": "62",
+            "id": "1941f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SM400",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SM400_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_sm400_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "35c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sm400"
+        },
+        {
+            "$id": "63",
+            "id": "1c41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPA-H",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SPA-H_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_spa-h_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2ec2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spa-h"
+        },
+        {
+            "$id": "64",
+            "id": "2541f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHC",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SPHC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_sphc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "72c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sphc"
+        },
+        {
+            "$id": "65",
+            "id": "2841f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHD",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SPHD_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_sphd_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "21ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sphd"
+        },
+        {
+            "$id": "66",
+            "id": "2b41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHE",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SPHE_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_sphe_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "3ac2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sphe"
+        },
+        {
+            "$id": "67",
+            "id": "2e41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHT1",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SPHT1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_spht1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "78c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spht1"
+        },
+        {
+            "$id": "68",
+            "id": "3141f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHT2",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SPHT2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_spht2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "40c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spht2"
+        },
+        {
+            "$id": "69",
+            "id": "3441f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHT3",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SPHT3_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_spht3_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "42c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spht3"
+        },
+        {
+            "$id": "70",
+            "id": "3641f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPV235",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SPV235_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_spv235_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7ec1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spv235"
+        },
+        {
+            "$id": "71",
+            "id": "4241f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SS330",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SS330_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_ss330_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "55c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ss330"
+        },
+        {
+            "$id": "72",
+            "id": "4841f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SS400",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SS400_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_ss400_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "29ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ss400"
+        },
+        {
+            "$id": "73",
+            "id": "4b41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SS490",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_SS490_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_ss490_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "8dc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ss490"
+        },
+        {
+            "$id": "74",
+            "id": "4e41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St 44",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_St 44_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_st-44_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2bca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st-44"
+        },
+        {
+            "$id": "75",
+            "id": "5141f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St 52",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_St 52_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_st-52_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "51c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st-52"
+        },
+        {
+            "$id": "76",
+            "id": "5441f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St 60",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_St 60_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_st-60_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "96c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st-60"
+        },
+        {
+            "$id": "77",
+            "id": "5d41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St37",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_St37_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_st37_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "6ac0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st37"
+        },
+        {
+            "$id": "78",
+            "id": "6241f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Stl",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_Stl_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_stl_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "5dc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "stl"
+        },
+        {
+            "$id": "79",
+            "id": "6541f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Str",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_Str_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_str_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "70c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "str"
+        },
+        {
+            "$id": "80",
+            "id": "6941f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "X42  to X80",
+            "summary": "Hot Rolled Slit",
+            "description": "Hot Rolled Slit",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": [
+                "Hot Rolled Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRS_X42  to X80_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrs_x42-to-x80_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a0c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x42-to-x80"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "81",
+            "id": "7241f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Hot Rolled Slit",
+            "count": 0
+        },
+        {
+            "$id": "82",
+            "id": "26db1f01-6ec7-e611-8197-06b69393ae39",
+            "title": "Hot rolling",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "83",
+            "id": "9a7bffa6-4015-e711-80fb-005056857ef3",
+            "title": "Automotive ",
+            "count": 0
+        },
+        {
+            "$id": "84",
+            "id": "6b4c8c2a-b543-e811-80fd-005056857ef3",
+            "title": "Building and Construction",
+            "count": 0
+        },
+        {
+            "$id": "85",
+            "id": "c8098da2-ae43-e811-80fd-005056857ef3",
+            "title": "Hot Rolled Coil",
+            "count": 0
+        },
+        {
+            "$id": "86",
+            "id": "ff738114-6ec7-e611-8197-06b69393ae39",
+            "title": "METAL DOWNSTREAM INDUSTRIALS",
+            "count": 0
+        },
+        {
+            "$id": "87",
+            "id": "2df63855-b0f2-e611-80fb-005056857ef3",
+            "title": "Pipe",
+            "count": 0
+        },
+        {
+            "$id": "88",
+            "id": "f2e132c4-6e44-e811-80fd-005056857ef3",
+            "title": "Pressure Vessel",
+            "count": 0
+        },
+        {
+            "$id": "89",
+            "id": "405f6020-b543-e811-80fd-005056857ef3",
+            "title": "Stamping and cold forming",
+            "count": 0
+        },
+        {
+            "$id": "90",
+            "id": "9084e587-be1e-40bd-b31b-722229790d0b",
+            "title": "Structural",
+            "count": 0
+        },
+        {
+            "$id": "91",
+            "id": "0600ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Transmission/Transfer Comp",
+            "count": 0
+        },
+        {
+            "$id": "92",
+            "id": "25a0dc4e-a3f0-4540-b7e1-5657a730e347",
+            "title": "Tubes",
+            "count": 0
+        },
+        {
+            "$id": "93",
+            "id": "ab2b9513-b543-e811-80fd-005056857ef3",
+            "title": "Water heater",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "94",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "95",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "96",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "97",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

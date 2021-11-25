@@ -1,0 +1,769 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "793430a2-9622-e711-80fb-005056857ef3",
+            "title": "100",
+            "summary": "General Purpose Polystyrene for Injection Molding",
+            "description": "PS 100 is general purpose Polystyrene manufactured by continuous mass polymerization of styrene monomer. It is a\ncrystal-like, hard and brittle polymer with good flow properties and high clarity. It is designed for medium and thin wall\nthickness articles and gives broad processing window for molding applications.",
+            "applications": [
+                "Multi purpose injection moulding"
+            ],
+            "processingTechniques": [
+                "Injection moulding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00aePS 100 \u2013 Material Safety Datasheet-MEAF",
+                    "url": "/en/products/documents/sabic-ps-100-material-safety-datasheet-meaf/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1f7eb9f6-5423-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PS-100-REAH-Global-en-2021-07-08",
+                    "url": "/en/products/documents/sabic-ps-100-reah-global-en-2021-07-08/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "941615ea-2101-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PS-100-GASD-Global-en-2021-09-27",
+                    "url": "/en/products/documents/sabic-ps-100-gasd-global-en-2021-09-27/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "800906fd-09ea-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PS_100_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ps_100_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210927",
+                    "id": "0c56cfc7-9922-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Consumer Packaging"
+            ],
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "6c5518c6-6b1f-ec11-810c-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "100"
+        },
+        {
+            "$id": "4",
+            "id": "59c2a0f6-9c22-e711-80fb-005056857ef3",
+            "title": "125",
+            "summary": "General Purpose Polystyrene for Injection Molding",
+            "description": "125 is general purpose Polystyrene manufactured by continuous mass polymerization of styrene monomer. It is a\ncrystal-like, hard and brittle polymer with medium flow and high clarity. It also has medium vicat and heat deflection\ntemperatures and makes it suitable for various applications.",
+            "applications": [
+                "Multi purpose injection moulding"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00aePS125-Material Safety Datasheet-MEAF",
+                    "url": "/en/products/documents/sabic-ps125-material-safety-datasheet-meaf/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "7cdac89e-3423-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PS-125-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-125-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "85d09e60-df01-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PS-125-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-125-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a975f4fb-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PS-125-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-125-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "cd781ce7-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PS-125-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-125-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5e575f00-31af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PS_125_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ps_125_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7578656a-a122-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Consumer Packaging"
+            ],
+            "contacts": [
+                {
+                    "$id": "5",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "5d904f5a-0aea-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "6",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "5e904f5a-0aea-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "125"
+        },
+        {
+            "$id": "7",
+            "id": "794d0d78-0ae9-e611-80fb-005056857ef3",
+            "title": "155",
+            "summary": "General Purpose Polystyrene for Foam Extrusion",
+            "description": "General purpose Polystyrene PS 155 is manufactured by continuous mass polymerization of styrene monomer. It is a crystal-like, hard and brittle polymer with medium flow and good tensile and flexural strength. It has high vicat and heat deflection temperatures.",
+            "applications": [
+                "Foam Extrusion",
+                "Foam",
+                "Food Container"
+            ],
+            "processingTechniques": [
+                "Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae PS155-Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-ps155-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1892e266-3ce9-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SABIC\u00ae PS-155-REAH-Global-en-2021-07-08",
+                    "url": "/en/products/documents/sabic-sabic-ps-155-reah-global-en-2021-07-08/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "aafc3a10-e001-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PS-155-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-155-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ac75f4fb-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PS-155-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-155-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d0781ce7-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PS-155-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-155-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5d09a306-31af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PS_155_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ps_155_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "25af102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Foam Packaging",
+                "Construction"
+            ],
+            "contacts": [
+                {
+                    "$id": "8",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "d212a596-0aea-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "9",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "d312a596-0aea-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "10",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "d412a596-0aea-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "11",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "d512a596-0aea-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "155"
+        },
+        {
+            "$id": "12",
+            "id": "23628c00-42e9-e611-80fb-005056857ef3",
+            "title": "160",
+            "summary": "General Purpose Polystyrene for Foam Extrusion",
+            "description": "General purpose Polystyrene PS 160 is manufactured by continuous mass polymerization of styrene monomer. It is a crystal-like, hard and brittle material having High molecular weight imparting high tensile strength to end- products. It has high vicat and heat deflection temperatures.",
+            "applications": [
+                "Foam Extrusion",
+                "Foam",
+                "Food Container"
+            ],
+            "processingTechniques": [
+                "Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae PS160-Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-ps160-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "867da46b-46e9-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PS-160-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-160-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f1138743-e001-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PS-160-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-160-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "af75f4fb-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PS-160-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-160-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d3781ce7-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PS-160-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-160-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6009a306-31af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PS_160_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ps_160_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "28af102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Construction",
+                "Consumer Packaging"
+            ],
+            "contacts": [
+                {
+                    "$id": "13",
+                    "contact": "91c3168e-4dde-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "53242dad-0aea-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "14",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "54242dad-0aea-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "15",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "55242dad-0aea-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "16",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "56242dad-0aea-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "160"
+        },
+        {
+            "$id": "17",
+            "id": "efe9e2c3-281d-e811-80fd-005056857ef3",
+            "title": "325",
+            "summary": "General Purpose Polystyrene for Injection Molding",
+            "description": "PS 325 is High Impact Polystyrene manufactured by continuous mass polymerization of styrene monomer. An elastomer is\nincorporated during polymerization to achieve impact resistance property. It is generally opaque in color. It is having\nmedium flow characteristics with high tensile and flexural strength with medium heat deflection and vicat temperatures.",
+            "applications": [
+                "Multi purpose injection moulding"
+            ],
+            "processingTechniques": [
+                "Injection moulding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae PS-325-SDS-Global-en",
+                    "url": "/en/products/documents/sabic-ps-325-sds-global-en/en",
+                    "language": "English",
+                    "country": "360a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Global",
+                    "id": "708d4e07-04f4-e911-8102-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PS-325-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-325-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "97a7a9e2-26a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PS-325-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-325-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b275f4fb-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PS-325-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-325-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d6781ce7-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PS-325-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-ps-325-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6309a306-31af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PS_325_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ps_325_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20180301",
+                    "id": "dc09b9e6-371d-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Home Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "325"
+        },
+        {
+            "$id": "18",
+            "id": "e687604f-5723-e711-80fb-005056857ef3",
+            "title": "330",
+            "summary": "High Impact Polystyrene for Sheet Extrusion",
+            "description": "PS 330 is high Impact Polystyrene manufactured by continuous mass polymerization of styrene monomer. An elastomer is\nincorporated during polymerization to achieve impact resistance property. It is generally opaque in color. It is a high\nimpact strength polystyrene with high heat deflection temperature and good physical properties.",
+            "applications": [
+                "Packaging"
+            ],
+            "processingTechniques": [
+                "Sheet extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-PS-330-REAH-Global-en-2021-07-15",
+                    "url": "/en/products/documents/sabic-ps-330-reah-global-en-2021-07-15/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0ec956b3-e701-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae PS-330-SDS-en",
+                    "url": "/en/products/documents/sabic-ps-330-sds-en/en",
+                    "language": "English",
+                    "country": "360a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Global",
+                    "id": "163ba3b2-d63f-e911-8100-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-PS-330-EOLD-Global",
+                    "url": "/en/products/documents/sabic-ps-330-eold-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "443c9d27-0bea-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-PS-330-BSED-Global",
+                    "url": "/en/products/documents/sabic-ps-330-bsed-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3005a055-0bea-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-PS-330-GASD-Global-en-2021-09-27",
+                    "url": "/en/products/documents/sabic-ps-330-gasd-global-en-2021-09-27/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8281fc7c-0bea-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PS_330_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ps_330_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210927",
+                    "id": "fe180170-5b23-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Consumer Packaging"
+            ],
+            "contacts": [
+                {
+                    "$id": "19",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "728b6850-6c1f-ec11-810c-005056857ef3"
+                },
+                {
+                    "$id": "20",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "738b6850-6c1f-ec11-810c-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "330"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "21",
+            "id": "2ce92bf0-ca5c-4544-a40c-4840b1ef54c3",
+            "title": "Injection moulding",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "0cf9ad07-62b0-4021-88d3-07861c00788c",
+            "title": "Extrusion",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "45765adb-85e8-47b6-97d9-0658ef6bb336",
+            "title": "Sheet extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "25",
+            "id": "33e3ea80-2973-4f1a-a4c8-4cbc9b4b67fb",
+            "title": "Multi purpose injection moulding",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "f5076806-09e9-e611-80fb-005056857ef3",
+            "title": "Foam Extrusion",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "d9dcd341-8780-4940-b2a7-028d86ff728e",
+            "title": "Foam",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "95ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Container",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "8b237266-4015-e711-80fb-005056857ef3",
+            "title": "Packaging",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "30",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "34",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Consumer Packaging",
+            "id": "1affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "35",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Foam Packaging",
+            "id": "27f9afdd-45e9-e611-80fb-005056857ef3"
+        },
+        {
+            "$id": "36",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "37",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "38",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rigid Packaging",
+            "id": "c34e23fb-45e9-e611-80fb-005056857ef3"
+        }
+    ]
+}

@@ -1,0 +1,3204 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "f92faad7-e0d8-e611-819b-06b69393ae39",
+            "title": "1102",
+            "summary": "Unreinforced PC/polyester alloy.  Excellent low temperatue impact/chemical resistance to automotive fluids.",
+            "description": "Unreinforced PC/polyester alloy. Excellent low temperatue impact/chemical resistance to automotive fluids.",
+            "applications": [
+                "Bumper Beam",
+                "Bumper Fascia",
+                "Circuit Protection",
+                "City",
+                "Door Handle",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Absorber",
+                "Energy Management",
+                "Exterior Rail Components",
+                "Exterior Trim",
+                "Fuel Handling",
+                "Heavy Vehicles",
+                "Humidity Control",
+                "Individual Equiptment",
+                "LED Lighting",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Personal Care",
+                "Personal Water Craft",
+                "Recreational Vehicle",
+                "Refrigerator",
+                "Seating/Chair",
+                "Vacuum Cleaner"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_1102_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_1102_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "b5af102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_1102_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_1102_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "b9af102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_1102_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_1102_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "d6af102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Rail",
+                "Home Decoration",
+                "Automotive Crash and Chassis",
+                "Lighting",
+                "Home Appliance",
+                "Bus",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Automotive Under the Hood",
+                "Recreational Vehicle",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1102"
+        },
+        {
+            "$id": "3",
+            "id": "fa2faad7-e0d8-e611-819b-06b69393ae39",
+            "title": "1103",
+            "summary": "AUTOMOTIVE. Unreinforced, impact modified PBT+PC alloy. Excellent low temperature impact and chemical resistance. Range gray, black colors.",
+            "description": "AUTOMOTIVE. Unreinforced, impact modified PBT+PC alloy. Excellent low temperature impact and chemical resistance. Range gray, black colors.",
+            "applications": [
+                "Bumper Beam",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Energy Absorber",
+                "Fog Lamp",
+                "Vacuum Cleaner"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_1103_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_1103_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "bcaf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_1103_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_1103_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "05b0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Crash and Chassis",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Nuclear",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1103"
+        },
+        {
+            "$id": "4",
+            "id": "fc2faad7-e0d8-e611-819b-06b69393ae39",
+            "title": "1105",
+            "summary": "PBT+PC, Impact Modified, Opaque,",
+            "description": "PBT/PC blend, injection molding grade, non-reinforced, impact modified, excellent toughness at low temperatures, very good paintability",
+            "applications": [
+                "Spoiler"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_1105_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_1105_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "4cc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1105"
+        },
+        {
+            "$id": "5",
+            "id": "5530aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "1731",
+            "summary": "Impact/chemical resistant.  UV-Stabilized.  Excellent physical property retention in automotive exteriors and OVAD.",
+            "description": "Impact/chemical resistant.  UV-Stabilized.  Excellent physical property retention in automotive exteriors and OVAD.",
+            "applications": [
+                "Building Accessory",
+                "Circuit Protection",
+                "Cooking Range",
+                "Data Transfer",
+                "Displays",
+                "Door Handle",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Enclosures",
+                "Energy Management",
+                "Exterior Mirror",
+                "Exterior Trim",
+                "Front Grille",
+                "Heavy Vehicles",
+                "Lawn/Garden",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Water",
+                "Motorcycle",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Photovoltaic Components",
+                "Power Boat",
+                "Refrigerator",
+                "Swimming Pool/Spa",
+                "Vertical Body Panel",
+                "Watch/Jewelry",
+                "Water Treatment/Filtration",
+                "Wearables",
+                "Wheel Cover",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_1731_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_1731_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "28b0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_1731_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_1731_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "67c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Personal Accessory",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1731"
+        },
+        {
+            "$id": "6",
+            "id": "5e30aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "1760E",
+            "summary": "11% Glass Reinforced alloy.  Impact/chemical resistant.  Excellent physical property retention in automotive exteriors.  High flow version of XENOY 1760 resin.",
+            "description": "11% Glass Reinforced alloy.  Impact/chemical resistant.  Excellent physical property retention in automotive exteriors.  High flow version of XENOY 1760 resin.",
+            "applications": [
+                "Door Handle",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Exterior Rail Components",
+                "Exterior",
+                "Heavy Vehicles",
+                "Recreational Vehicle",
+                "Structural Support"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_1760E_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_1760e_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "38b0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_1760E_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_1760e_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "6cc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Specialty Vehicles",
+                "Rail",
+                "Electrical Components and Infrastructure",
+                "Recreational Vehicle",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1760e"
+        },
+        {
+            "$id": "7",
+            "id": "5f30aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "1760T",
+            "summary": "11% GF impact modified PBT+PC blend, excellent flow for doorhandles",
+            "description": "XENOY 1760T is developed as a easy flow material, for applications such as doorhandles and mirror housings. It is a 11% glass reinforced material with excellent strength and dimensional stability.",
+            "applications": [
+                "Cooking Range",
+                "Displays"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_1760T_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_1760t_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "6dc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Home Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1760t"
+        },
+        {
+            "$id": "8",
+            "id": "5931aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "5220U",
+            "summary": "Unreinforced PBT+PC Alloy. Impact Modified. Improved retention of mechanical properties under UV exposure. Excellent low temperature impact and chemical resistance.",
+            "description": "Unreinforced PBT+PC Alloy. Impact Modified. Improved retention of mechanical properties under UV exposure. Excellent low temperature impact and chemical resistance.",
+            "applications": [
+                "Audio",
+                "Auto Aftermarket",
+                "Battery Cell",
+                "Body Protection",
+                "Building Accessory",
+                "Building Element",
+                "Data Management",
+                "Data Transfer",
+                "Defense Vehicles",
+                "Displays",
+                "Document Handling",
+                "Drain Pan",
+                "Electronic Components",
+                "Electronic Material Handling",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Exterior Mirror",
+                "Exterior",
+                "Food Container",
+                "Head Protection",
+                "Heavy Vehicles",
+                "Hygiene/Personal Care",
+                "Individual Equiptment",
+                "Industrial Material Handling",
+                "Interior",
+                "Lab Ware and Clinical Diagnostics",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Gas",
+                "Neighborhood Electric Vehicle",
+                "Non-LED Lighting",
+                "Pallet",
+                "Personal Computing",
+                "Power Boat",
+                "Power Manangement",
+                "Pump",
+                "Recreational Vehicle",
+                "Respiratory",
+                "Security/Detection",
+                "Servingware",
+                "Small Appliance",
+                "Storage/Table",
+                "Surgical Devices",
+                "Swimming Pool/Spa",
+                "Traffic Management",
+                "Travel Suitcase",
+                "Water Treatment/Filtration",
+                "Weapon",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Sheet extrusion",
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_5220U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_5220u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "ffb0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_5220U_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_5220u_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "85b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_5220U_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_5220u_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "bec4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Heavy Truck",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Surgical",
+                "Ophthalmics",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Consumer Packaging",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Energy Storage",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Recreational Vehicle",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "5220u"
+        },
+        {
+            "$id": "9",
+            "id": "6731aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "5720",
+            "summary": "UR, PBT+PC alloy.  Outstanding low temperature impact/chemical resistance.",
+            "description": "UR, PBT+PC alloy.  Outstanding low temperature impact/chemical resistance.",
+            "applications": [
+                "Amusement Machine",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Industrial Material Handling",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Security/Detection"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_5720_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_5720_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "91b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "5720"
+        },
+        {
+            "$id": "10",
+            "id": "6831aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "5720U",
+            "summary": "PBT+PC, UV-Stabilizer, High Impact, Impact Modified, UV-Stabilized,",
+            "description": "Unfilled PBT+PC alloy. Outstanding low temperature impact/chemical resistance. UV stabilized version of XENOY",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Auto Aftermarket",
+                "City",
+                "Data Transfer",
+                "Document Handling",
+                "Dunnage",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Exterior Rail Components",
+                "Heavy Vehicles",
+                "Individual Equiptment",
+                "Industrial Material Handling",
+                "Interior Rail Components",
+                "Lab Ware and Clinical Diagnostics",
+                "Lawn/Garden",
+                "Medical Device",
+                "Motorcycle",
+                "Pallet",
+                "Rear/Signal Lighting",
+                "Security/Detection",
+                "Wireless Communications",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_5720U_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_5720u_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "08b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_5720U_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_5720u_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "61b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_5720U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_5720u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "94b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Rail",
+                "Bus",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Commercial Appliance",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "5720u"
+        },
+        {
+            "$id": "11",
+            "id": "8231aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "6370",
+            "summary": "30% glass-reinforced, impact modified thermoplastic alloy.  Improved toughness and ductility.",
+            "description": "30% glass-reinforced, impact modified thermoplastic alloy.  Improved toughness and ductility.",
+            "applications": [
+                "Cooking Range",
+                "Data Transfer",
+                "Electronic Components",
+                "Electronics",
+                "Enclosures",
+                "EV Infrastructure",
+                "Exterior",
+                "Forward Lighting",
+                "Heavy Vehicles",
+                "Individual Equiptment",
+                "Medical Facility Infrastructure",
+                "Motorcycle",
+                "Personal Computing",
+                "Sensor",
+                "Small Appliance",
+                "Swimming Pool/Spa",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_6370_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_6370_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "1db1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_6370_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_6370_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "a9b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_6370_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_6370_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "c6c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Outdoor, Lawn and Landscape",
+                "Heavy Truck",
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Automotive Under the Hood",
+                "Automotive Lighting",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "6370"
+        },
+        {
+            "$id": "12",
+            "id": "9331aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "6620",
+            "summary": "PBT+PC, Impact Modifier, Impact Modified,",
+            "description": "PBT+PC, Unreinforced, impact modified thermoplastic alloy. Outstanding impact at low temperature",
+            "applications": [
+                "Electronic Components",
+                "Enclosures",
+                "Heavy Vehicles",
+                "Lawn/Garden",
+                "Monitoring and Imaging",
+                "Security/Detection"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_6620_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_6620_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "7bb1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_6620_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_6620_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "b2b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Construction",
+                "Specialty Vehicles",
+                "Electrical Components and Infrastructure",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "6620"
+        },
+        {
+            "$id": "13",
+            "id": "9431aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "6620U",
+            "summary": "PBT+PC, Impact Modifier, UV-Stabilizer, Impact Modified, UV-Stabilized, Improved mechanical properties retention under UV vs 6620, Outstanding low temperature impact/chemical resistance",
+            "description": "PBT+PC, Unfilled, Impact Modified, UV stabilized. Outstanding low temperature impact performance and chemical resistance.",
+            "applications": [
+                "Audio",
+                "Building Accessory",
+                "Dunnage",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Exterior",
+                "Industrial Material Handling",
+                "Medical Facility Infrastructure",
+                "Monitoring and Imaging",
+                "Personal Computing",
+                "Recreational Vehicle",
+                "Security/Detection",
+                "Snow/Ice",
+                "Irrigation"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_6620U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_6620u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "7eb1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_6620U_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_6620u_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "b5b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Water Management",
+                "Heavy Truck",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Recreational Vehicle",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "6620u"
+        },
+        {
+            "$id": "14",
+            "id": "6233aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CL100",
+            "summary": "General purpose grade for unpainted exterior automotive applications.",
+            "description": "XENOY CL100 is an unfilled, impact modified, UV-stabilized PC/PBT blend with excellent solvent resistance and good low-temperature ductility. It has a proven track record in unpainted exterior automotive applications. ISO1043: PC+PBT-I.",
+            "applications": [
+                "Animal Testing",
+                "Audio",
+                "Auto Aftermarket",
+                "Battery Pack",
+                "Body Protection",
+                "Bumper Fascia",
+                "City",
+                "Cladding",
+                "Cladding/Roof",
+                "Data Transfer",
+                "Displays",
+                "Door Handle",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Exterior Trim",
+                "Exterior",
+                "Front Grille",
+                "Heavy Vehicles",
+                "Individual Equiptment",
+                "Meter Gas",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Power Manangement",
+                "Refrigerator",
+                "Seat",
+                "Surgical Devices",
+                "Vertical Body Panel",
+                "Water Treatment/Filtration",
+                "Wheel Cover",
+                "Window",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_CL100_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_cl100_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "24b3102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_CL100_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_cl100_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "27b3102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_CL100_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_cl100_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "43c5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Water Management",
+                "Electric Vehicle",
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Surgical",
+                "Ophthalmics",
+                "Automotive Crash and Chassis",
+                "Lighting",
+                "Home Appliance",
+                "Bus",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cl100"
+        },
+        {
+            "$id": "15",
+            "id": "6433aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CL100S",
+            "summary": "General purpose grade for unpainted exterior automotive applications. This grade is a CL100 with a different type of release.",
+            "description": "XENOY CL100S has been specifically developed to obtain good low temperature impact strength, excellent UV stability and resistance to occasional solvent and gasoline contact. XENOY CL100S is particularly suited for unpainted exterior automotive body components.",
+            "applications": [
+                "Auto Aftermarket",
+                "Cladding/Roof",
+                "Exterior",
+                "Front Grille",
+                "Vertical Body Panel"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_CL100S_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_cl100s_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "2db3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Construction",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cl100s"
+        },
+        {
+            "$id": "16",
+            "id": "6533aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CL101",
+            "summary": "PBT+PC, Mold Release, Heat Stabilized, High Impact,",
+            "description": "Xenoy CL101 is an unfilled, impact modified PC/PBT blend with excellent solvent resistance and low-temperature ductility. It has a proven track record in off-line painted exterior automotive applications. ISO1043: PC+PBT-I.",
+            "applications": [
+                "Applique",
+                "Auto Aftermarket",
+                "Bumper Beam",
+                "Bumper Fascia",
+                "Electronic Components",
+                "Energy Absorber",
+                "Exterior Trim",
+                "Heavy Vehicles",
+                "Laundry Dryer",
+                "Meter Gas",
+                "Recreational Vehicle"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_CL101_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_cl101_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "8cb2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_CL101_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_cl101_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "fcb2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_CL101_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_cl101_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "44c5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Specialty Vehicles",
+                "Automotive Crash and Chassis",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Recreational Vehicle",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cl101"
+        },
+        {
+            "$id": "17",
+            "id": "c73cbae7-1daa-ea11-8103-c81318e981df",
+            "title": "HTX575",
+            "summary": "30% GR. Excellent strength, stiffness, heat resistance. For e-coating, EV components, FEM & GOR",
+            "description": "XENOY HTX575 is a 30% high strength glass fiber reinforced resin with excellent strength, stiffness and heat resistance. Applications include injection molded parts that need to survive e-coating and subsequent baking processes up to about 200\u00b0 Celsius, EV electric vehicle components, FEM & GOR, structures and grill shutters.",
+            "applications": [
+                "All-Terrain Vehicle",
+                "Auto Aftermarket",
+                "Battery System",
+                "Bumper Beam",
+                "Bumper",
+                "Composite",
+                "Energy Absorber",
+                "Energy Management",
+                "Engine Component",
+                "EV Infrastructure",
+                "EV/HEV Battery",
+                "EV/HEV Charging System",
+                "EV/HEV Invertor/Convertor",
+                "EV/HEV Motor",
+                "Front End",
+                "Individual Equiptment",
+                "Neighborhood Electric Vehicle",
+                "Spoiler",
+                "Structure",
+                "Underhood",
+                "Grill Opening Reinforcement Structures",
+                "Active Grill Shutters"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_HTX575_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_htx575_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "5ba14ee2-23aa-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electric Vehicle",
+                "Heavy Truck",
+                "Automotive Crash and Chassis",
+                "Bus",
+                "Automotive Under the Hood",
+                "Recreational Vehicle"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "htx575"
+        },
+        {
+            "$id": "18",
+            "id": "67c48c31-19a8-eb11-8109-005056857ef3",
+            "title": "HTX975",
+            "summary": "35% Glass filled. Excellent strength, stiffness, heat resistance. For e-coating, EV components, FEM & GOR",
+            "description": "XENOY HTX975 is a 35% high strength glass fiber reinforced resin with increase modules when compared to XENOY HTX575, excellent strength, stiffness and heat resistance. Applications include injection molded parts that need to survive e-coating and subsequent baking processes up to about 200\u00b0 Celsius, EV electric vehicle components, FEM & GOR, structures and grill shutters.",
+            "applications": [
+                "All-Terrain Vehicle",
+                "Auto Aftermarket",
+                "Battery System",
+                "Bumper Beam",
+                "Bumper",
+                "Composite",
+                "Energy Absorber",
+                "Energy Management",
+                "Engine Component",
+                "EV Infrastructure",
+                "EV/HEV Battery",
+                "EV/HEV Charging System",
+                "EV/HEV Invertor/Convertor",
+                "EV/HEV Motor",
+                "Front End",
+                "Individual Equiptment",
+                "Neighborhood Electric Vehicle",
+                "Steering Component",
+                "Structure",
+                "Underhood"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_HTX975_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_htx975_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "a0c57119-20a8-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electric Vehicle",
+                "Heavy Truck",
+                "Automotive Crash and Chassis",
+                "Home Appliance",
+                "Bus",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood",
+                "Recreational Vehicle"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "htx975"
+        },
+        {
+            "$id": "19",
+            "id": "683baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HX5600HP",
+            "summary": "Impact Modified, Mold Release, UV-Stabilized, FDA Compliant Raw Materials,  Heat Stabilized, Opaque, UV-Stabilized.",
+            "description": "Xenoy HX5600HP is PBT based semi-crystalline blend with balanced flow and impact properties. Improved chemical resistance against lab disinfectants and chemicals for healthcare enclosure and housing applications. Healthcare management of change, biocompatible (ISO10993 or USP Class VI). EtO, Gamma and Steam sterilizable.",
+            "applications": [
+                "Healthcare"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_HX5600HP_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_hx5600hp_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "d2b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_HX5600HP_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_hx5600hp_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "f5b7102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_HX5600HP_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_hx5600hp_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f4c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hx5600hp"
+        },
+        {
+            "$id": "20",
+            "id": "693baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HX6600HP",
+            "summary": "Impact Modified, Mold Release, UV-Stabilizer, FDA Compliant Raw Materials, Healthcare, Heat Stabilized, High Impact, Impact Modified, Opaque, UV-Stabilized.",
+            "description": "Xenoy HX6600HP is PBT based semi-crystalline blend with balanced flow and impact properties. Improved chemical resistance against lab disinfectants and chemicals for healthcare enclosure and housing applications. Healthcare management of change, biocompatible (ISO10993 or USP Class VI). EtO, Gamma and Steam sterilizable.",
+            "applications": [
+                "Medical Device",
+                "Monitoring and Imaging"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_HX6600HP_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_hx6600hp_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "d5b6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_HX6600HP_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_hx6600hp_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "f8b7102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_HX6600HP_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_hx6600hp_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "90b8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hx6600hp"
+        },
+        {
+            "$id": "21",
+            "id": "6d42aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "RCX201",
+            "summary": "",
+            "description": "",
+            "applications": [
+                "Displays",
+                "Document Handling",
+                "Door Handle",
+                "Electronic Components",
+                "Exterior",
+                "Fog Lamp",
+                "Front Grille",
+                "Rear/Signal Lighting",
+                "Recreational Vehicle",
+                "Security/Detection"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_RCX201_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_rcx201_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a9bd102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Electrical Components and Infrastructure",
+                "Recreational Vehicle",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "rcx201"
+        },
+        {
+            "$id": "22",
+            "id": "503159a8-4bde-eb11-810a-005056857ef3",
+            "title": "T2NX2500UV",
+            "summary": "SABIC TRUCIRCLE\u2122, 21wt% post-industrial recycled, PC+PET, Mold Release, Heat Stabilized, Impact Modified, Opaque, UV-Stabilized, Unreinforced.",
+            "description": "XENOY\u2122 RESIN T2NX2500UV is a ETP compound, which is formulated with 21wt% post-industrial recycled plastics.\nThe grade is part of SABIC\u2019s TRUCIRCLE\u2122 portfolio and services.\nXENOY\u2122 RESIN T2X2500UV is a medium viscosity, unfilled, UV stabilized, elastomer modified PC/PET blend with excellent heat and impact performance. ISO1043-label: PC+PET-I.",
+            "applications": [
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Exterior",
+                "Personal Care",
+                "Personal Computing",
+                "Spoiler",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_T2NX2500UV_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_t2nx2500uv_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "48ad02be-4cde-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Electrical Devices and Displays",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "t2nx2500uv"
+        },
+        {
+            "$id": "23",
+            "id": "8249e004-4dde-eb11-810a-005056857ef3",
+            "title": "T2NX5230",
+            "summary": "SABIC TRUCIRCLE\u2122, 29wt% post-industrial recycled, PET+PC, Mineral, Impact Modified,",
+            "description": "XENOY\u2122 RESIN T2NX5230 is a ETP compound, which is formulated with 29wt% post-industrial recycled plastics.\nThe grade is part of SABIC\u2019s TRUCIRCLE\u2122 portfolio and services.\nXENOY\u2122 RESIN T2X5230 is a 16% mineral filled PC/PET blend with low CTE, high flow, high heat, dimensional stability, low shrinkage, especially for painted applications. XENOY T2NX5230 could be positioned for body panels, spoilers, housings, door handles, spring-loaded applications, fuel filler doors, medical device enclosures, EV electric vehicle components.",
+            "applications": [
+                "Exterior Trim",
+                "Spoiler",
+                "Vertical Body Panel"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_T2NX5230_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_t2nx5230_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "549ce8a1-4dde-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "t2nx5230"
+        },
+        {
+            "$id": "24",
+            "id": "7646aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X2203",
+            "summary": "PC+PBT",
+            "description": "Xenoy product that provides improved chemical resistance and impact performance versus previous generation X2202 product which is used in the market spaces such as soap dispenser, cleaning equipment, filter housing",
+            "applications": [
+                "Personal Care"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X2203_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x2203_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "7fc0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x2203"
+        },
+        {
+            "$id": "25",
+            "id": "7746aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X2300WX",
+            "summary": "PC+PET, Impact Modified, Opaque, UV-Stabilized,",
+            "description": "Unreinforced, opaque PC+PET alloy.  Chemical resistance, dimensional stability/mechanical performance.  UV-stabilized.",
+            "applications": [
+                "Heavy Vehicles",
+                "Recreational Vehicle"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X2300WX_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x2300wx_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "89be102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Specialty Vehicles",
+                "Recreational Vehicle"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x2300wx"
+        },
+        {
+            "$id": "26",
+            "id": "7846aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X2420",
+            "summary": "XENOYX2420 is a 10% glass filled, high flow, impact modified, injection moldable grade designed for high flow and impact strength. X2420 has enhanced melt flowability, impact ductility and broad color space.",
+            "description": "XENOYX2420 is a 10% glass filled, high flow, impact modified, injection moldable grade designed for high flow and impact strength. X2420 has enhanced melt flowability, impact ductility and broad color space.",
+            "applications": [
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X2420_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x2420_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "86c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x2420"
+        },
+        {
+            "$id": "27",
+            "id": "7a46aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X2500UV",
+            "summary": "PC+PET, Mold Release, Heat Stabilized, Impact Modified, Opaque, UV-Stabilized, Unreinforced.",
+            "description": "XENOY X2500UV is a medium viscosity, unfilled, UV stabilized, elastomer modified PC/PET blend with excellent heat and impact performance. ISO1043-label: PC+PET-I.",
+            "applications": [
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Exterior",
+                "Personal Care",
+                "Personal Computing",
+                "Spoiler",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X2500UV_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x2500uv_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "8cbe102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Electrical Devices and Displays",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x2500uv"
+        },
+        {
+            "$id": "28",
+            "id": "8446aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X4820",
+            "summary": "PBT+PC, Mineral Filler + Fibrillated Network, Impact Modified, Opaque,",
+            "description": "XENOY X4820 is a 7.5% mineral filled PC/PBT blend with low CTE, high modulus, high ductile PC/PBT blend. XENOY X4820 provides high chemical resistance, excellent impact, very low creep, excellent fatigue and dimensional stability. XENOY X4820 could be positioned for body panels, window rails, door panels, power tool housings, door handles, medical device enclosures, EV electric vehicle components.",
+            "applications": [
+                "Airline Service",
+                "Enclosures",
+                "Exterior",
+                "Lawn/Garden",
+                "Personal Computing",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X4820_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x4820_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "93be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X4820_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x4820_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "88c0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X4820_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x4820_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "89c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Heavy Truck",
+                "Electrical Devices and Displays",
+                "Food & Beverage",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x4820"
+        },
+        {
+            "$id": "29",
+            "id": "8546aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X4830",
+            "summary": "PBT+PC, Mineral, Impact Modified,",
+            "description": "XENOY X4830 is a hydrostable, high modulus, low temperature ductile PC/PBT blend. Furthermore, this resin provides high chemical resistance, very low creep, low CTE, excellent fatique and high heat dimensional stability. The X4830 could be positioned for body panels, safety equipment, housings, doorhandles, spring-loaded applications, medical device enclosures, outdoor sports equipment.",
+            "applications": [
+                "Auto Aftermarket",
+                "Exterior Trim",
+                "Fuel Handling",
+                "Vertical Body Panel"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X4830_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x4830_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "8bc0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X4830_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x4830_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "8ac9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Automotive Under the Hood",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x4830"
+        },
+        {
+            "$id": "30",
+            "id": "8746aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X4850",
+            "summary": "PBT+PC, Mineral, Impact Modified,",
+            "description": "XENOY X4850 is a 12% mineral filled PC/PBT blend with low CTE, high modulus, high ductile PC/PBT blend. Furthermore, this resin provides high chemical resistance, very low creep, excellent fatigue and high heat dimensional stability. XENOY X4850 could be positioned for body panels, window rails, safety equipment, housings, door handles, spring-loaded applications, medical device enclosures, EV electric vehicle components.",
+            "applications": [
+                "Auto Aftermarket",
+                "Door Handle",
+                "Enclosures",
+                "Exterior Trim",
+                "Front Grille",
+                "Heavy Vehicles",
+                "Lawn/Garden",
+                "Skid Plate",
+                "Vertical Body Panel"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X4850_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x4850_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "96be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X4850_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x4850_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "d6bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X4850_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x4850_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "8ec0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Specialty Vehicles",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x4850"
+        },
+        {
+            "$id": "31",
+            "id": "8846aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X4870HH",
+            "summary": "PC+PET, Mineral, Impact Modified,",
+            "description": "XENOY X4870HH is a high heat, very high modulus and ductile PC/PET blend. Furthermore this resin provides chemical resistance, very low creep, low CTE, excellent fatique and high heat dimensional stability. The X4870HH could be positioned for body panels, housings, medical device enclosures, outdoor sports equipment.",
+            "applications": [
+                "Door Handle",
+                "Electronic Components",
+                "Enclosures",
+                "Food Processor",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X4870HH_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x4870hh_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "94c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x4870hh"
+        },
+        {
+            "$id": "32",
+            "id": "8946aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X5100",
+            "summary": "PC+POLYESTER, Impact Modifier, Lubricants, Heat Stabilized, Impact Modified,",
+            "description": "XENOY X5100 is a semi-crystalline, impact modified PC-PBT blend with excellent flow. (PC+PBT-I).",
+            "applications": [
+                "Auto Aftermarket",
+                "Cluster",
+                "Enclosures",
+                "Exterior",
+                "Front Grille",
+                "Interior",
+                "Spoiler",
+                "Trim",
+                "Vertical Body Panel"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X5100_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x5100_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "97c0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X5100_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x5100_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "8cc9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x5100"
+        },
+        {
+            "$id": "33",
+            "id": "8a46aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X5230",
+            "summary": "PET+PC, Mineral, Impact Modified,",
+            "description": "XENOY X5230 is a 16% mineral filled PC/PET blend with low CTE, high flow, high heat, dimensional stability, low shrinkage, especially for painted applications. XENOY X5230 could be positioned for body panels, spoilers, housings, door handles, spring-loaded applications, fuel filler doors, medical device enclosures, EV electric vehicle components.",
+            "applications": [
+                "Exterior Trim",
+                "Spoiler",
+                "Vertical Body Panel"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X5230_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x5230_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "99be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X5230_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x5230_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "d9bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x5230"
+        },
+        {
+            "$id": "34",
+            "id": "8c46aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X5300WX",
+            "summary": "Unreinforced, opaque PBT+PC alloy.  Chemical resistance and good mechanical performance.  UV-stabilized.  Excellent weatherability.",
+            "description": "Unreinforced, opaque PBT+PC alloy.  Chemical resistance and good mechanical performance.  UV-stabilized.  Excellent weatherability.",
+            "applications": [
+                "Auto Aftermarket",
+                "Building Accessory",
+                "Enclosure/Housing/Cover",
+                "Heavy Vehicles",
+                "Medical Device",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Personal Water Craft",
+                "Power Manangement",
+                "Recreational Vehicle",
+                "Renal and Blood Handling",
+                "Surgical Devices",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X5300WX_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x5300wx_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "9cbe102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X5300WX_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x5300wx_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "dcbf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X5300WX_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x5300wx_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "8dc9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Surgical",
+                "Lighting",
+                "Personal Recreation",
+                "Healthcare",
+                "Fluid and Blood Handling",
+                "Recreational Vehicle",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x5300wx"
+        },
+        {
+            "$id": "35",
+            "id": "9046aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X5600WX",
+            "summary": "PC+POLYESTER, Mold Release, Heat Stabilized, Impact Modified, Light stabilized, UV-Stabilized, Weatherable,",
+            "description": "Unreinforced, opaque Polyester+PC alloy. Chemical resistance, dimensional stability and mechanical performance. UV Stabilized. Mold Release",
+            "applications": [
+                "Heavy Vehicles",
+                "Underhood"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X5600WX_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x5600wx_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "e5bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Specialty Vehicles"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x5600wx"
+        },
+        {
+            "$id": "36",
+            "id": "9346aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X5630P",
+            "summary": "PET+PC, Mineral, Impact Modified,",
+            "description": "Mineral filled PC/PET blend with high heat dimensional stability, low shrinkage and low CTE, especially for painted applications",
+            "applications": [
+                "Horizontal Body Panel",
+                "Lawn/Garden",
+                "Spoiler"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X5630P_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x5630p_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "a9c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x5630p"
+        },
+        {
+            "$id": "37",
+            "id": "9446aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X5630Q",
+            "summary": "PC+PET, Mineral, Impact Modified,",
+            "description": "XENOY X5630Q is a 19% mineral filled PC/PET blend with low CTE, high heat, dimensional stability, low shrinkage, especially for painted applications. XENOY X5630Q could be positioned for body panels, spoilers, housings, door handles, spring-loaded applications, fuel filler doors, medical device enclosures, EV electric vehicle components.",
+            "applications": [
+                "Spoiler"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_X5630Q_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_x5630q_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "a2be102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x5630q"
+        },
+        {
+            "$id": "38",
+            "id": "f946aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XL1339",
+            "summary": "High heat grade for nonchemical resistance required applications.",
+            "description": "Data generated in BOZ labs. High heat grade for nonchemical resistance required applications.",
+            "applications": [
+                "Door Handle",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_XL1339_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_xl1339_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "22bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xl1339"
+        },
+        {
+            "$id": "39",
+            "id": "fb46aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XL1562",
+            "summary": "Impact modified PBT+PC blend, outstanding chemical resistance, good UV stability and flow properties.",
+            "description": "XENOY XL1562 is an impact modified PBT+PC blend with outstanding chemical resistance, good UV stability and flow properties.",
+            "applications": [
+                "Air Filtration",
+                "Forward Lighting",
+                "Interior",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "XENOY\u2122 Resin_XL1562_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/xenoy-resin_xl1562_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "c0c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xl1562"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "40",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "45765adb-85e8-47b6-97d9-0658ef6bb336",
+            "title": "Sheet extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "42",
+            "id": "56ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Bumper Beam",
+            "count": 0
+        },
+        {
+            "$id": "43",
+            "id": "57ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Bumper Fascia",
+            "count": 0
+        },
+        {
+            "$id": "44",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "45",
+            "id": "5dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "City",
+            "count": 0
+        },
+        {
+            "$id": "46",
+            "id": "73ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Door Handle",
+            "count": 0
+        },
+        {
+            "$id": "47",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "48",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "49",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "50",
+            "id": "81ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Absorber",
+            "count": 0
+        },
+        {
+            "$id": "51",
+            "id": "82ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Management",
+            "count": 0
+        },
+        {
+            "$id": "52",
+            "id": "8effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Rail Components",
+            "count": 0
+        },
+        {
+            "$id": "53",
+            "id": "8fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Trim",
+            "count": 0
+        },
+        {
+            "$id": "54",
+            "id": "9effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fuel Handling",
+            "count": 0
+        },
+        {
+            "$id": "55",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "56",
+            "id": "acffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Humidity Control",
+            "count": 0
+        },
+        {
+            "$id": "57",
+            "id": "b0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Individual Equiptment",
+            "count": 0
+        },
+        {
+            "$id": "58",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "59",
+            "id": "c6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Motorcycle",
+            "count": 0
+        },
+        {
+            "$id": "60",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "61",
+            "id": "d1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "62",
+            "id": "d3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Water Craft",
+            "count": 0
+        },
+        {
+            "$id": "63",
+            "id": "e3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "64",
+            "id": "e4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Refrigerator",
+            "count": 0
+        },
+        {
+            "$id": "65",
+            "id": "edffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Seating/Chair",
+            "count": 0
+        },
+        {
+            "$id": "66",
+            "id": "0d00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vacuum Cleaner",
+            "count": 0
+        },
+        {
+            "$id": "67",
+            "id": "94ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fog Lamp",
+            "count": 0
+        },
+        {
+            "$id": "68",
+            "id": "f8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Spoiler",
+            "count": 0
+        },
+        {
+            "$id": "69",
+            "id": "53ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Accessory",
+            "count": 0
+        },
+        {
+            "$id": "70",
+            "id": "69ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cooking Range",
+            "count": 0
+        },
+        {
+            "$id": "71",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "72",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "73",
+            "id": "75ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Doors Hardware/Trim",
+            "count": 0
+        },
+        {
+            "$id": "74",
+            "id": "8dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Mirror",
+            "count": 0
+        },
+        {
+            "$id": "75",
+            "id": "9cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Front Grille",
+            "count": 0
+        },
+        {
+            "$id": "76",
+            "id": "baffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lawn/Garden",
+            "count": 0
+        },
+        {
+            "$id": "77",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "78",
+            "id": "c0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "79",
+            "id": "c2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Water",
+            "count": 0
+        },
+        {
+            "$id": "80",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "81",
+            "id": "d6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photo/Video Camera",
+            "count": 0
+        },
+        {
+            "$id": "82",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        },
+        {
+            "$id": "83",
+            "id": "daffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Boat",
+            "count": 0
+        },
+        {
+            "$id": "84",
+            "id": "0100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Swimming Pool/Spa",
+            "count": 0
+        },
+        {
+            "$id": "85",
+            "id": "0f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vertical Body Panel",
+            "count": 0
+        },
+        {
+            "$id": "86",
+            "id": "1100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Watch/Jewelry",
+            "count": 0
+        },
+        {
+            "$id": "87",
+            "id": "1200ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Treatment/Filtration",
+            "count": 0
+        },
+        {
+            "$id": "88",
+            "id": "1400ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wearables",
+            "count": 0
+        },
+        {
+            "$id": "89",
+            "id": "1600ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wheel Cover",
+            "count": 0
+        },
+        {
+            "$id": "90",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "91",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "92",
+            "id": "90ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior",
+            "count": 0
+        },
+        {
+            "$id": "93",
+            "id": "fbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Structural Support",
+            "count": 0
+        },
+        {
+            "$id": "94",
+            "id": "48ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Audio",
+            "count": 0
+        },
+        {
+            "$id": "95",
+            "id": "49ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Aftermarket",
+            "count": 0
+        },
+        {
+            "$id": "96",
+            "id": "4cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery Cell",
+            "count": 0
+        },
+        {
+            "$id": "97",
+            "id": "50ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Body Protection",
+            "count": 0
+        },
+        {
+            "$id": "98",
+            "id": "54ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Element",
+            "count": 0
+        },
+        {
+            "$id": "99",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "100",
+            "id": "6dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "101",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "102",
+            "id": "76ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Drain Pan",
+            "count": 0
+        },
+        {
+            "$id": "103",
+            "id": "7cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "104",
+            "id": "7effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronics",
+            "count": 0
+        },
+        {
+            "$id": "105",
+            "id": "86ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "106",
+            "id": "95ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Container",
+            "count": 0
+        },
+        {
+            "$id": "107",
+            "id": "a7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Head Protection",
+            "count": 0
+        },
+        {
+            "$id": "108",
+            "id": "aeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Hygiene/Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "109",
+            "id": "b1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "110",
+            "id": "b5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior",
+            "count": 0
+        },
+        {
+            "$id": "111",
+            "id": "b7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lab Ware and Clinical Diagnostics",
+            "count": 0
+        },
+        {
+            "$id": "112",
+            "id": "c1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Gas",
+            "count": 0
+        },
+        {
+            "$id": "113",
+            "id": "c9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Neighborhood Electric Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "114",
+            "id": "ceffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pallet",
+            "count": 0
+        },
+        {
+            "$id": "115",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "116",
+            "id": "dcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pump",
+            "count": 0
+        },
+        {
+            "$id": "117",
+            "id": "e7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory",
+            "count": 0
+        },
+        {
+            "$id": "118",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "119",
+            "id": "f1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Servingware",
+            "count": 0
+        },
+        {
+            "$id": "120",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "121",
+            "id": "faffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Storage/Table",
+            "count": 0
+        },
+        {
+            "$id": "122",
+            "id": "ffffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Devices",
+            "count": 0
+        },
+        {
+            "$id": "123",
+            "id": "0500ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Traffic Management",
+            "count": 0
+        },
+        {
+            "$id": "124",
+            "id": "0800ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Travel Suitcase",
+            "count": 0
+        },
+        {
+            "$id": "125",
+            "id": "1300ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Weapon",
+            "count": 0
+        },
+        {
+            "$id": "126",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "127",
+            "id": "43ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Amusement Machine",
+            "count": 0
+        },
+        {
+            "$id": "128",
+            "id": "47ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "ATM/Ticket Machine",
+            "count": 0
+        },
+        {
+            "$id": "129",
+            "id": "77ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Dunnage",
+            "count": 0
+        },
+        {
+            "$id": "130",
+            "id": "b4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior Rail Components",
+            "count": 0
+        },
+        {
+            "$id": "131",
+            "id": "e2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rear/Signal Lighting",
+            "count": 0
+        },
+        {
+            "$id": "132",
+            "id": "98ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Forward Lighting",
+            "count": 0
+        },
+        {
+            "$id": "133",
+            "id": "f0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sensor",
+            "count": 0
+        },
+        {
+            "$id": "134",
+            "id": "c5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Monitoring and Imaging",
+            "count": 0
+        },
+        {
+            "$id": "135",
+            "id": "f7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Snow/Ice",
+            "count": 0
+        },
+        {
+            "$id": "136",
+            "id": "32431af9-01d4-4107-9322-793fbea45634",
+            "title": "Irrigation",
+            "count": 0
+        },
+        {
+            "$id": "137",
+            "id": "44ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Animal Testing",
+            "count": 0
+        },
+        {
+            "$id": "138",
+            "id": "4dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery Pack",
+            "count": 0
+        },
+        {
+            "$id": "139",
+            "id": "5effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cladding",
+            "count": 0
+        },
+        {
+            "$id": "140",
+            "id": "5fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cladding/Roof",
+            "count": 0
+        },
+        {
+            "$id": "141",
+            "id": "ecffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Seat",
+            "count": 0
+        },
+        {
+            "$id": "142",
+            "id": "1b00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window",
+            "count": 0
+        },
+        {
+            "$id": "143",
+            "id": "46ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Applique",
+            "count": 0
+        },
+        {
+            "$id": "144",
+            "id": "b9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Laundry Dryer",
+            "count": 0
+        },
+        {
+            "$id": "145",
+            "id": "42ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "All-Terrain Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "146",
+            "id": "4effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery System",
+            "count": 0
+        },
+        {
+            "$id": "147",
+            "id": "58ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Bumper",
+            "count": 0
+        },
+        {
+            "$id": "148",
+            "id": "66ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Composite",
+            "count": 0
+        },
+        {
+            "$id": "149",
+            "id": "83ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Engine Component",
+            "count": 0
+        },
+        {
+            "$id": "150",
+            "id": "87ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV/HEV Battery",
+            "count": 0
+        },
+        {
+            "$id": "151",
+            "id": "88ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV/HEV Charging System",
+            "count": 0
+        },
+        {
+            "$id": "152",
+            "id": "89ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV/HEV Invertor/Convertor",
+            "count": 0
+        },
+        {
+            "$id": "153",
+            "id": "8affee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV/HEV Motor",
+            "count": 0
+        },
+        {
+            "$id": "154",
+            "id": "9bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Front End",
+            "count": 0
+        },
+        {
+            "$id": "155",
+            "id": "fcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Structure",
+            "count": 0
+        },
+        {
+            "$id": "156",
+            "id": "0c00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Underhood",
+            "count": 0
+        },
+        {
+            "$id": "157",
+            "id": "2eb854bc-f8ae-ea11-8103-c81318e981df",
+            "title": "Grill Opening Reinforcement Structures",
+            "count": 0
+        },
+        {
+            "$id": "158",
+            "id": "384ad0c3-f8ae-ea11-8103-c81318e981df",
+            "title": "Active Grill Shutters",
+            "count": 0
+        },
+        {
+            "$id": "159",
+            "id": "f9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Steering Component",
+            "count": 0
+        },
+        {
+            "$id": "160",
+            "id": "3827b20d-60e1-47fb-b276-c8b04f82b1fb",
+            "title": "Healthcare",
+            "count": 0
+        },
+        {
+            "$id": "161",
+            "id": "40ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Airline Service",
+            "count": 0
+        },
+        {
+            "$id": "162",
+            "id": "f3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Skid Plate",
+            "count": 0
+        },
+        {
+            "$id": "163",
+            "id": "96ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Processor",
+            "count": 0
+        },
+        {
+            "$id": "164",
+            "id": "60ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cluster",
+            "count": 0
+        },
+        {
+            "$id": "165",
+            "id": "0a00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Trim",
+            "count": 0
+        },
+        {
+            "$id": "166",
+            "id": "e6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Renal and Blood Handling",
+            "count": 0
+        },
+        {
+            "$id": "167",
+            "id": "aaffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Horizontal Body Panel",
+            "count": 0
+        },
+        {
+            "$id": "168",
+            "id": "3bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Filtration",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "169",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "170",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "171",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "172",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "173",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense",
+            "id": "03ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "174",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "175",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "176",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "177",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "id": "13ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "178",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Decoration",
+            "id": "16ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "179",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Crash and Chassis",
+            "id": "1bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "180",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "181",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "182",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Bus",
+            "id": "24ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "183",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "184",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Recreation",
+            "id": "27ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "185",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Under the Hood",
+            "id": "2cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "186",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "id": "31ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "187",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Exteriors",
+            "id": "35ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "188",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Nuclear",
+            "id": "32ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "189",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Lighting",
+            "id": "33ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "190",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Outdoor, Lawn and Landscape",
+            "id": "05ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "191",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Management",
+            "id": "07ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "192",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "193",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "194",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "195",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "id": "34ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "196",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Heavy Truck",
+            "id": "0affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "197",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food & Beverage",
+            "id": "0fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "198",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "199",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Ophthalmics",
+            "id": "12ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "200",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "201",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Consumer Packaging",
+            "id": "1affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "202",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory and Sleep Therapy",
+            "id": "1effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "203",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Storage",
+            "id": "21ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "204",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "205",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "206",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "id": "2affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "207",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "208",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electric Vehicle",
+            "id": "09ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "209",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid and Blood Handling",
+            "id": "2effee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

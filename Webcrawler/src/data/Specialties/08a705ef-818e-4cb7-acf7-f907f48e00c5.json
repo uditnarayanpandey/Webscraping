@@ -1,0 +1,1441 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "1f33aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "C2805",
+            "summary": "PC+ABS, 5% PTFE, Wear Resistant, Flame Retardant",
+            "description": "CYCOLOY C2805 compound is based on Polycarbonate / Acrylonitrile Butadiene Styrene (PC/ABS) blend containing 5% PTFE. Added features of this grade include: Wear Resistant and Flame Retardant suitable for moving components in business equipment. Medium heat performance.",
+            "applications": [
+                "Data Management",
+                "Personal Computing",
+                "Pharmaceutical Packaging & Drug Delivery"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_C2805_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_c2805_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e98dc518-8dca-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Sport/Leisure",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c2805"
+        },
+        {
+            "$id": "3",
+            "id": "ab33aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CS9610",
+            "summary": "Non-Cl/Br FR, PC/ABS blend, low smoke, UL94 V0@2.0mm/5VB@2.0mm",
+            "description": "CYCOLOY CS9610 Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend is an injection moldable low smoke, non chlorinated/brominated flame retardant grade. It has good mechanical and impact properties and has a UL94 V0@2.0mm and 5VB@2.0mm flame rating.",
+            "applications": [
+                "Data Management",
+                "Data Transfer",
+                "Electronic Components",
+                "Enclosures",
+                "Security/Detection",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CS9610_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cs9610_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "2eb3102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CS9610_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cs9610_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "72b3102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CS9610_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cs9610_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "59c5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cs9610"
+        },
+        {
+            "$id": "4",
+            "id": "ba33aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CX2142ME",
+            "summary": "Non-Cl/Br FR, PC/ABS blend, high flow, UL94 V0@1.2mm/5VB@2.0mm",
+            "description": "CYCOLOY CX2142ME Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend is an injection moldable, high flow, non chlorinated/brominated flame retardant grade. It has a UL94 V0@1.2mm and 5VB@2.0mm flame rating.  This grade has improved chemical resistance compared to standard PC/ABS blends and is a good candidate for thin wall applications and hospital/medical equipment.",
+            "applications": [
+                "Document Handling",
+                "Enclosures",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Security/Detection"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX2142ME_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx2142me_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "c1b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX2142ME_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx2142me_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "3db3102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX2142ME_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx2142me_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "5dc5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cx2142me"
+        },
+        {
+            "$id": "5",
+            "id": "bb33aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CX2244ME",
+            "summary": "Non-Cl/Br FR, PC/ABS blend, medium flow, UL94 V0@0.75mm/5VB@1.5mm",
+            "description": "CYCOLOY CX2244ME Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend is an injection moldable, medium flow, non chlorinated/brominated flame retardant grade. It has a UL94 V0@0.75mm and 5VB@1.5mm flame rating.  This grade has improved chemical resistance compared to standard PC/ABS blends and is a good candidate for thin wall applications and hospital/medical equipment.",
+            "applications": [
+                "Animal Testing",
+                "Building Accessory",
+                "Cooking Range",
+                "Data Management",
+                "Displays",
+                "Electronic Components",
+                "Enclosures",
+                "Energy Management",
+                "Fluid Delivery",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Gas",
+                "Monitoring and Imaging",
+                "Personal Computing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Photo/Video Camera",
+                "Power Manangement",
+                "Respiratory",
+                "Surgical Devices",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX2244ME_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx2244me_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "7bb3102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX2244ME_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx2244me_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "7eb3102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX2244ME_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx2244me_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "5ec5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Surgical",
+                "Respiratory and Sleep Therapy",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cx2244me"
+        },
+        {
+            "$id": "6",
+            "id": "c033aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CX7110",
+            "summary": "Non-Cl/Br FR, PC/ABS blend, high flow, UL94 V0@1.2mm/5VB@1.8mm",
+            "description": "CYCOLOY CX7110 Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend is an injection moldable, high flow, non chlorinated/brominated flame retardant grade. It has a UL94 V0@1.2mm and 5VB@1.8mm flame rating.  This grade has improved chemical resistance compared to standard PC/ABS blends and is a good candidate for thin wall applications.",
+            "applications": [
+                "Data Management",
+                "Displays",
+                "Document Handling",
+                "Enclosures",
+                "Medical Device",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Vacuum Cleaner",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX7110_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx7110_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "50e30ed5-e5cf-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Home Appliance",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cx7110"
+        },
+        {
+            "$id": "7",
+            "id": "c133aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CX7211",
+            "summary": "Non-Cl/Br FR, PC/ABS blend, medium flow, UL94 V0@1.5mm/5VA@2.5mm",
+            "description": "CYCOLOY CX7211 Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend is an injection moldable, medium flow, non chlorinated/brominated flame retardant grade. It has a UL94 V0@1.5mm, 5VA@2.5mm and 5VB@2.0mm flame rating.  This grade has improved chemical resistance compared to standard PC/ABS blends and is a good candidate for thin wall applications.",
+            "applications": [
+                "Audio",
+                "Battery Cell",
+                "Circuit Protection",
+                "Data Transfer",
+                "Displays",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Freezer",
+                "Heavy Vehicles",
+                "LED Lighting",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Personal Computing",
+                "Power Manangement",
+                "Rail",
+                "Refrigerator",
+                "Renal and Blood Handling",
+                "Respiratory",
+                "Small Appliance",
+                "Washing Machine",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX7211_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx7211_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "cab2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX7211_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx7211_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "cdb2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX7211_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx7211_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "8ab3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Rail",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Energy Storage",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cx7211"
+        },
+        {
+            "$id": "8",
+            "id": "c233aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CX7240",
+            "summary": "Non-Cl/Br FR, PC/ABS blend, medium flow, UL94 V0@0.75mm/5VB@1.5mm",
+            "description": "CYCOLOY CX7240 Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend is an injection moldable, medium flow, non chlorinated/brominated flame retardant grade. It has a UL94 V0@.75mm, 5VA@3.0mm and 5VB@1.5mm flame rating.  This grade has improved chemical resistance compared to standard PC/ABS blends and is a good candidate for thin wall applications.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Air Conditioning",
+                "Air Filtration",
+                "Audio",
+                "Auto Aftermarket",
+                "Battery Cell",
+                "Battery Pack",
+                "Building Accessory",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Dishwasher",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "EV/HEV Charging System",
+                "Fixture Bath/Shower",
+                "Fluid Delivery",
+                "Game Player",
+                "Heavy Vehicles",
+                "Interior Rail Components",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Gas",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Care",
+                "Personal Computing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Photo/Video Camera",
+                "Power Manangement",
+                "Rail Seating",
+                "Rail Window Glazing",
+                "Rail",
+                "Refrigerator",
+                "Respiratory",
+                "Security/Detection",
+                "Small Appliance",
+                "Smart/ID Card",
+                "Surgical Devices",
+                "Toy",
+                "Vacuum Cleaner",
+                "Washing Machine",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX7240_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx7240_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "cfb2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX7240_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx7240_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "49b3102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX7240_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx7240_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "8db3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Pharmaceutical",
+                "Water Management",
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Surgical",
+                "Rail",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Energy Storage",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Automotive Under the Hood",
+                "Fluid and Blood Handling",
+                "Commercial Appliance",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cx7240"
+        },
+        {
+            "$id": "9",
+            "id": "c333aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CX7240U",
+            "summary": "Non-Cl/Br FR, PC/ABS blend, UV, medium flow, UL94 V0@0.75mm/5VB@1.5mm",
+            "description": "CYCOLOY CX7240U Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend is an injection moldable, medium flow, non chlorinated/brominated UV stabilized flame retardant grade. It has a UL94 V0@.75mm, 5VA@3.0mm and 5VB@1.5mm flame rating.  This grade has improved chemical resistance compared to standard PC/ABS blends and is a good candidate for thin wall applications.",
+            "applications": [
+                "Air Conditioning",
+                "Audio",
+                "Battery System",
+                "Building Accessory",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Head Protection",
+                "Lab Ware and Clinical Diagnostics",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Power Boat",
+                "Power Manangement",
+                "Respiratory",
+                "Small Appliance",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX7240U_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx7240u_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "90b3102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX7240U_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx7240u_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "61c5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX7240U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx7240u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "62c5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Ophthalmics",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Energy Storage",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cx7240u"
+        },
+        {
+            "$id": "10",
+            "id": "c633aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CX7510",
+            "summary": "Non-Cl/Br FR, PC/ABS blend, high flow, high heat, UL94 V0@1.5mm/5VB@1.5mm",
+            "description": "CYCOLOY CX7510 Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend is an injection moldable, high flow, high heat resistant, non chlorinated/brominated flame retardant grade. It has a UL94 V0@1.5mm and  5VB@1.5mm flame rating.  This grade has improved chemical resistance compared to standard PC/ABS blends and is a good candidate for thin wall applications.",
+            "applications": [
+                "Displays"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX7510_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx7510_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a7b7045b-3422-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cx7510"
+        },
+        {
+            "$id": "11",
+            "id": "c733aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CX7720",
+            "summary": "Non-Cl/Br FR, PC/ABS blend, high flow, UL94 V0@1.2mm/5VB@1.5mm",
+            "description": "CYCOLOY CX7720 Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend is an injection moldable, high flow, high heat resistant, non chlorinated/brominated flame retardant grade. It has a UL94 V0@1.2mm, 5VA@2.5mm and 5VB@1.5mm flame rating.  This grade has improved chemical resistance compared to standard PC/ABS blends and is a good candidate for thin wall applications.",
+            "applications": [
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "Lawn/Garden",
+                "Power Manangement",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_CX7720_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_cx7720_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "d2b2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cx7720"
+        },
+        {
+            "$id": "12",
+            "id": "6842aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "RCM6134",
+            "summary": "Polycarbonate (PC), 35% PCR content, non-brominated and non-chlorinated FR for thin wall molding applications.",
+            "description": "CYCOLOY RCM6134 resin is an injection moldable filled PC/ABS blend with non-brominated and non-chlorinated flame retardant. It contains 35% post consumer recycle content with a UL-94 V0 rating @ 1.0mm. Developed for thin wall applications that require high flow and high stiffness performance. Limited availability and restricted color only.",
+            "applications": [
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_RCM6134_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_rcm6134_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a6bd102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "rcm6134"
+        },
+        {
+            "$id": "13",
+            "id": "6e42aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "RCX7233",
+            "summary": "Cycoloy* RCX7233 (experimental grade name EXCY0355) is an impact modified PC blend containing 30% PCR content with non-brominated and non-chlorinated thin-wall FR for thin-wall applications require excellent impact/flow balance performance",
+            "description": "Cycoloy* RCX7233 (experimental grade name EXCY0355) resin is an injection moldable impact modified PC blend with non-brominated and non-chlorinated flame retardant. It contains 30% post consumer recycle content with a UL-94 V0 rating @ 0.75 mm for all color. Developed for applications require excellent flow and impact balance with thin wall flame resistance. Limited availability and restricted color only.",
+            "applications": [
+                "Audio",
+                "Data Management",
+                "Displays",
+                "Enclosures",
+                "Heavy Vehicles",
+                "Personal Computing",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_RCX7233_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_rcx7233_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "e3bc102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "rcx7233"
+        },
+        {
+            "$id": "14",
+            "id": "7042aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "RCX7243",
+            "summary": "CYCOLOY* RCX7243 is an impact modified PC blend containing 30% PCR content with non-brominated and non-chlorinated FR for thin-wall applications requiring excellent impact/flow balance performance.",
+            "description": "CYCOLOY* RCX7243 is an impact modified PC blend containing 30% PCR content with non-brominated and non-chlorinated FR for thin-wall applications requiring excellent impact/flow balance performance.",
+            "applications": [
+                "Audio",
+                "Data Management",
+                "Enclosures",
+                "Heavy Vehicles",
+                "Personal Computing",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_RCX7243_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_rcx7243_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "e6bc102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "rcx7243"
+        },
+        {
+            "$id": "15",
+            "id": "7342aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "RCY6214",
+            "summary": "CYCOLOY RCY6214 is a PC+ABS blend containing 35% PCR content with non-brominated and non-chlorinated FR for applications require balanced flow and impact performance.",
+            "description": "CYCOLOY RCY6214 resin is an injection moldable PC/ABS blend with non-brominated and non-chlorinated flame retardant. It contains 35% post consumer recycle content with a UL-94 V0 rating @ 1.5 mm. Developed for wide variety of applications that require balanced flow and impact performance. Limited availability and restricted color only.",
+            "applications": [
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Enclosures",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122 FR Resin_RCY6214_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-fr-resin_rcy6214_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "d4bb102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "rcy6214"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "16",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "17",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "d5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Packaging & Drug Delivery",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "21",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "c5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Monitoring and Imaging",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "44ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Animal Testing",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "53ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Accessory",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "69ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cooking Range",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "82ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Management",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "93ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid Delivery",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "b7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lab Ware and Clinical Diagnostics",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "c0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "c1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Gas",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "d6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photo/Video Camera",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "e7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "ffffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Devices",
+            "count": 0
+        },
+        {
+            "$id": "42",
+            "id": "0d00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vacuum Cleaner",
+            "count": 0
+        },
+        {
+            "$id": "43",
+            "id": "48ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Audio",
+            "count": 0
+        },
+        {
+            "$id": "44",
+            "id": "4cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery Cell",
+            "count": 0
+        },
+        {
+            "$id": "45",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "46",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "47",
+            "id": "9affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Freezer",
+            "count": 0
+        },
+        {
+            "$id": "48",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "49",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "50",
+            "id": "e0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "count": 0
+        },
+        {
+            "$id": "51",
+            "id": "e4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Refrigerator",
+            "count": 0
+        },
+        {
+            "$id": "52",
+            "id": "e6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Renal and Blood Handling",
+            "count": 0
+        },
+        {
+            "$id": "53",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "54",
+            "id": "1000ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Washing Machine",
+            "count": 0
+        },
+        {
+            "$id": "55",
+            "id": "39ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "56",
+            "id": "3affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Conditioning",
+            "count": 0
+        },
+        {
+            "$id": "57",
+            "id": "3bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Filtration",
+            "count": 0
+        },
+        {
+            "$id": "58",
+            "id": "49ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Aftermarket",
+            "count": 0
+        },
+        {
+            "$id": "59",
+            "id": "4dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery Pack",
+            "count": 0
+        },
+        {
+            "$id": "60",
+            "id": "6fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Dishwasher",
+            "count": 0
+        },
+        {
+            "$id": "61",
+            "id": "7effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronics",
+            "count": 0
+        },
+        {
+            "$id": "62",
+            "id": "86ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "63",
+            "id": "88ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV/HEV Charging System",
+            "count": 0
+        },
+        {
+            "$id": "64",
+            "id": "92ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fixture Bath/Shower",
+            "count": 0
+        },
+        {
+            "$id": "65",
+            "id": "a1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Game Player",
+            "count": 0
+        },
+        {
+            "$id": "66",
+            "id": "b4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior Rail Components",
+            "count": 0
+        },
+        {
+            "$id": "67",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "68",
+            "id": "d1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "69",
+            "id": "deffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail Seating",
+            "count": 0
+        },
+        {
+            "$id": "70",
+            "id": "dfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail Window Glazing",
+            "count": 0
+        },
+        {
+            "$id": "71",
+            "id": "f6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Smart/ID Card",
+            "count": 0
+        },
+        {
+            "$id": "72",
+            "id": "0300ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Toy",
+            "count": 0
+        },
+        {
+            "$id": "73",
+            "id": "1400ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wearables",
+            "count": 0
+        },
+        {
+            "$id": "74",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "75",
+            "id": "4effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Battery System",
+            "count": 0
+        },
+        {
+            "$id": "76",
+            "id": "a7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Head Protection",
+            "count": 0
+        },
+        {
+            "$id": "77",
+            "id": "baffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lawn/Garden",
+            "count": 0
+        },
+        {
+            "$id": "78",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        },
+        {
+            "$id": "79",
+            "id": "daffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Boat",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "80",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "81",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "82",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "83",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "84",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "85",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "86",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "87",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "88",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "id": "2fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "89",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "90",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "91",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "92",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical",
+            "id": "04ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "93",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Management",
+            "id": "07ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "94",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "95",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory and Sleep Therapy",
+            "id": "1effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "96",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "97",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid and Blood Handling",
+            "id": "2effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "98",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "id": "34ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "99",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "100",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "id": "13ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "101",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "102",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Storage",
+            "id": "21ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "103",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense",
+            "id": "03ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "104",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electric Vehicle",
+            "id": "09ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "105",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "106",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Under the Hood",
+            "id": "2cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "107",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "108",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Exteriors",
+            "id": "35ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "109",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Aerospace",
+            "id": "62f520a6-82bc-40d1-8716-dfe4e90dbf65"
+        },
+        {
+            "$id": "110",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Outdoor, Lawn and Landscape",
+            "id": "05ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "111",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Ophthalmics",
+            "id": "12ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

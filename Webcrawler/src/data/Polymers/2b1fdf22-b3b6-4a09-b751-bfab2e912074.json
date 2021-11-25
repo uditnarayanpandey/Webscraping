@@ -1,0 +1,530 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "9f3544aa-4463-465d-85ee-2432d4f4b877",
+            "title": "4010",
+            "summary": "Polybutadiene Rubber",
+            "description": "SABIC\u00ae BR 4010 is a high cis-1,4 Polybutadiene rubber stabilized with a non-staining antioxidant. SABIC\u00ae BR 4010 is manufactured by solution polymerization process using stereo-specific Nickel catalyst system to control microstructure, Molecular weight and Molecular weight distribution. Polymer macrostructure of SABIC\u00ae BR 4010 has been modified from linear to branched without altering the high cis microstructure that provide good storage stability.",
+            "applications": [
+                "Tire",
+                "Conveyor belt coverings",
+                "Shoe sole",
+                "Rubber hoses"
+            ],
+            "processingTechniques": [
+                "Injection Molding",
+                "Extrusion",
+                "Rubber compounding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-BR-4010-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-br-4010-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0e39462e-907f-e911-8101-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-BR-4010-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-br-4010-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "238f105b-907f-e911-8101-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-BR-4010-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-br-4010-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6609af79-907f-e911-8101-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-BR-4010-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-br-4010-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ccf56aed-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "4010\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/4010-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "c3fc6e86-0f05-4cd9-ba6f-3269b5c8d58d"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "4010\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/4010-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f2a2e451-d540-4ef8-a4dc-790f30f2cecb"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae BR_4010_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-br_4010_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "cdc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Tire",
+                "IndustrySegment"
+            ],
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "0119dd61-22c9-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "0219dd61-22c9-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "5",
+                    "contact": "380fa919-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "0319dd61-22c9-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "4010"
+        },
+        {
+            "$id": "6",
+            "id": "d298b403-5a34-4cca-a63e-6796210a2a88",
+            "title": "4610",
+            "summary": "Polybutadiene Rubber",
+            "description": "BR 4610 is a high cis-1,4 Polybutadiene rubber stabilized with a non-staining antioxidant. BR 4610 is manufactured by solution polymerization process using stereo-specific Nickel catalyst system to control microstructure and Molecular weight distribution and provides a highly linear polymer",
+            "applications": [
+                "Tire",
+                "Conveyor belt coverings",
+                "Shoe sole",
+                "Rubber hoses"
+            ],
+            "processingTechniques": [
+                "Extrusion",
+                "Rubber compounding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-BR-4610-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-br-4610-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "109e7273-8f7f-e911-8101-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-BR-4610-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-br-4610-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e2670caa-8f7f-e911-8101-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-BR-4610-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-br-4610-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "83bf23e3-8f7f-e911-8101-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-BR-4610-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-br-4610-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "cff56aed-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "4610\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/4610-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "b3e491c7-d0b9-4735-906c-a5d2584dfe0b"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "4610\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/4610-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e7648992-9980-4cf7-b1f7-c5c965965233"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae BR_4610_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-br_4610_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "99c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Tire",
+                "Sport/Leisure",
+                "IndustrySegment"
+            ],
+            "contacts": [
+                {
+                    "$id": "7",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "46facc81-22c9-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "8",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "47facc81-22c9-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "9",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "48facc81-22c9-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "10",
+                    "contact": "b55db7ba-67de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "49facc81-22c9-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "4610"
+        },
+        {
+            "$id": "11",
+            "id": "97824526-67f1-4a80-bce2-8765d812d4b2",
+            "title": "5510",
+            "summary": "Polybutadiene Rubber",
+            "description": "BR 5510 is a high cis-1,4 Polybutadiene rubber stabilized with a non-staining antioxidant. BR 5510 is manufactured by solution polymerization process using stereo-specific Nickel catalyst system to control microstructure and Molecular weight distribution and provides a highly linear polymer.",
+            "applications": [
+                "Tire",
+                "Conveyor belt coverings",
+                "Shoe sole",
+                "Rubber hoses"
+            ],
+            "processingTechniques": [
+                "Extrusion",
+                "Rubber compounding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-BR-5510-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-br-5510-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b387dde0-907f-e911-8101-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-BR-5510-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-br-5510-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3b3c9bfe-907f-e911-8101-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-BR-5510-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-br-5510-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "56311321-917f-e911-8101-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-BR-5510-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-br-5510-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d2f56aed-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "5510\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/5510-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "9480d9be-0e27-4e68-98fa-83de24d4cb9e"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "5510\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/5510-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9f011b5a-940d-46c6-beae-f25fda902103"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae BR_5510_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-br_5510_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c7c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Tire",
+                "Sport/Leisure",
+                "IndustrySegment"
+            ],
+            "contacts": [
+                {
+                    "$id": "12",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "c4930c3c-22c9-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "13",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "c5930c3c-22c9-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "14",
+                    "contact": "b55db7ba-67de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "c6930c3c-22c9-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "15",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "c7930c3c-22c9-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "5510"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "16",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "0cf9ad07-62b0-4021-88d3-07861c00788c",
+            "title": "Extrusion",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "bb943a4c-d5f5-4254-be44-174c870874fd",
+            "title": "Rubber compounding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "19",
+            "id": "d8162da8-08e9-e611-80fb-005056857ef3",
+            "title": "Tire",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "03e80d26-82eb-e611-80fb-005056857ef3",
+            "title": "Conveyor belt coverings",
+            "count": 0
+        },
+        {
+            "$id": "21",
+            "id": "fb1fa32d-82eb-e611-80fb-005056857ef3",
+            "title": "Shoe sole",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "bdf3a045-82eb-e611-80fb-005056857ef3",
+            "title": "Rubber hoses",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "23",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Middle East and Africa",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "27",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Tire",
+            "id": "250302d5-81eb-e611-80fb-005056857ef3"
+        },
+        {
+            "$id": "28",
+            "industry": "1679dc71-a5d2-4e3b-bd90-ef43d09fe4d9",
+            "title": "IndustrySegment",
+            "id": "f25a6df1-91f0-43a8-9b69-520be613d22d"
+        },
+        {
+            "$id": "29",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

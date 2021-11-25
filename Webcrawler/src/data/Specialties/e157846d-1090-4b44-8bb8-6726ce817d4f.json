@@ -1,0 +1,648 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "1541aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PPX630",
+            "summary": "Polyphenylene Ether + PP (PPE+PP), 31% Glass Fiber, CHEMICAL RESISTANCE, Hydrolytic Stability, Low Warpage, GOOD STIFFNESS, STRUCTURAL, Low Creep Sensitivity",
+            "description": "NORYL PPX\u2122 630 resin is a 30% glass reinforced alloy of polyphenylene ether (PPE) + polypropylene (PP).  This injection moldable grade exhibits high elongation and high stiffness along with temperature performance, impact resistance, hydrolytic and dimensional stability. NORYL PPX630 resin is an excellent candidate for hot water system exteriors, condensate housings, and printer internals.  *See NORYL PPX630F resin for NSF 61.",
+            "applications": [
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "Furnace/Heater",
+                "Hot Water System",
+                "Power Boat",
+                "Vacuum Cleaner",
+                "Water Treatment/Filtration",
+                "Weapon"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX630_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx630_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "deba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX630_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx630_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "a9bc102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX630_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx630_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "41c8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Home Appliance",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ppx630"
+        },
+        {
+            "$id": "3",
+            "id": "1741aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PPX630F",
+            "summary": "Polyphenylene Ether + PP (PPE+PP), 30% Glass Fiber, CHEMICAL RESISTANCE, Hydrolytic Stability, Low Warpage, GOOD STIFFNESS, Food Contact Acceptable, STRUCTURAL, Low Creep Sensitivity",
+            "description": "NORYL PPX\u2122 630F resin is a 30% glass reinforced alloy of polyphenylene ether (PPE) + polypropylene (PP).  This injection moldable grade is NSF 61 certified and exhibits high elongation and stiffness along with temperature performance, impact resistance, hydrolytic and dimensional stability. NORYL PPX630F resin is an excellent candidate for copper and brass replacement in water management applications such as boiler manifolds, condensers, and hydro blocks.",
+            "applications": [
+                "Pipe/Fitting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX630F_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx630f_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "42c8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX630F_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx630f_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "cc4cf284-a1ce-e911-8102-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX630F_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx630f_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "26587792-a1ce-e911-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ppx630f"
+        },
+        {
+            "$id": "4",
+            "id": "1841aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PPX640",
+            "summary": "Polyphenylene Ether + PP (PPE+PP), 40% Glass Fiber, CHEMICAL RESISTANCE, Hydrolytic Stability, Low Warpage, GOOD STIFFNESS, STRUCTURAL, Low Creep Sensitivity",
+            "description": "NORYL PPX\u2122 640 resin is a 40% glass reinforced alloy of polyphenylene ether (PPE) + Polypropylene (PP).  This injection moldable grade exhibits high stiffness along with temperature performance, impact resistance, hydrolytic stability, and dimensional stability. NORYL PPX640 resin is an excellent candidate for applications requiring a good chemical resistance and high stiffness.",
+            "applications": [
+                "Hot Water System",
+                "Water Treatment/Filtration"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX640_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx640_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "e3ba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX640_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx640_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "afbc102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX640_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx640_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "43c8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ppx640"
+        },
+        {
+            "$id": "5",
+            "id": "1a41aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PPX640F",
+            "summary": "Polyphenylene Ether + PP (PPE+PP), 40% Glass Fiber, CHEMICAL RESISTANCE, Hydrolytic Stability, Low Warpage, GOOD STIFFNESS, Food Contact Acceptable, STRUCTURAL, Low Creep Sensitivity",
+            "description": "NORYL PPX\u2122 640F resin is a 40% glass reinforced alloy of polyphenylene ether (PPE) + polypropylene (PP).  This injection moldable grade is NSF 61 certified and exhibits high elongation and stiffness along with temperature performance, impact resistance, hydrolytic and dimensional stability. NORYL PPX640F resin is an excellent candidate for copper and brass replacement in water management applications such as water filtration systems, boiler systems, and heat exchangers.",
+            "applications": [
+                "Photovoltaic Components",
+                "Water Treatment/Filtration"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX640F_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx640f_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "44c8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ppx640f"
+        },
+        {
+            "$id": "6",
+            "id": "1b41aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PPX7110",
+            "summary": "Polyphenylene Ether + PP (PPE+PP), High Impact Resistance, Low Creep Sensitivity, Hydrolytic Stability, Low Warpage, CHEMICAL RESISTANCE",
+            "description": "NORYL PPX\u2122 7110 resin is a non-reinforced alloy of polyphenylene ether (PPE) + Polypropylene (PP).  This injection moldable grade exhibits high impact resistance and good heat resistance along with hydrolytic and dimensional stability. NORYL PPX7110 resin is an excellent candidate for applications requiring high impact, chemical resistance, and good heat performance.",
+            "applications": [
+                "Document Handling",
+                "EV/HEV Battery",
+                "Hot Water System",
+                "Medical Device",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Sheet extrusion",
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX7110_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx7110_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "e6ba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX7110_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx7110_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "fcbb102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX7110_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx7110_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "b2bc102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ppx7110"
+        },
+        {
+            "$id": "7",
+            "id": "1c41aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PPX7112",
+            "summary": "Polyphenylene Ether + PP (PPE+PP), Aesthetics & Visual effects, Low Creep Sensitivity, Hydrolytic Stability, Low Warpage, CHEMICAL RESISTANCE",
+            "description": "NORYL PPX\u2122 7112 resin is a non-reinforced alloy of polyphenylene ether (PPE) + polypropylene (PP).  This injection moldable grade exhibits high modulus, high-temperature performance, and impact resistance, hydrolytic and dimensional stability. NORYL PPX7112 resin is an excellent candidate for exterior painted automotive applications.",
+            "applications": [
+                "Heavy Vehicles",
+                "Long Distance Coach",
+                "Recreational Vehicle"
+            ],
+            "processingTechniques": [
+                "Sheet extrusion",
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX7112_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx7112_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "b8bc102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Specialty Vehicles",
+                "Bus",
+                "Recreational Vehicle"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ppx7112"
+        },
+        {
+            "$id": "8",
+            "id": "1d41aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PPX7115",
+            "summary": "Polyphenylene Ether + PP (PPE+PP), CHEMICAL RESISTANCE, Hydrolytic Stability, Low Warpage, High Impact Resistance, Low Creep Sensitivity",
+            "description": "NORYL PPX\u2122 7115 resin is a non-reinforced alloy of polyphenylene ether (PPE) + polypropylene (PP).  This injection moldable grade exhibits high modulus, high-temperature performance, excellent melt strength, impact resistance, hydrolytic and dimensional stability. NORYL PPX7115 resin is an excellent candidate for applications requiring high modulus and chemical resistance.",
+            "applications": [
+                "Pipe/Fitting"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX7115_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx7115_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "e9ba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ppx7115"
+        },
+        {
+            "$id": "9",
+            "id": "1e41aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PPX7115F",
+            "summary": "Polyphenylene Ether + PP (PPE+PP), High Impact Resistance, Low Creep Sensitivity, Hydrolytic Stability, Low Warpage, Food Contact Acceptable, CHEMICAL RESISTANCE",
+            "description": "NORYL PPX\u2122 7115F resin is a non-reinforced alloy of polyphenylene ether (PPE) + polypropylene (PP).  This FDA certified injection moldable grade exhibits high impact resistance and good heat resistance along with hydrolytic and dimensional stability. NORYL PPX7115F resin is an excellent candidate for food contact applications requiring high impact, chemical resistance, and good heat performance.",
+            "applications": [
+                "Water Treatment/Filtration"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX7115F_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx7115f_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "bebc102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ppx7115f"
+        },
+        {
+            "$id": "10",
+            "id": "2141aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PPX7200U",
+            "summary": "Polyphenylene Ether + PP (PPE+PP), Aesthetics & Visual effects, CHEMICAL RESISTANCE, Low Creep Sensitivity, Hydrolytic Stability, Low Warpage",
+            "description": "NORYL PPX\u2122 7200U resin is a non-reinforced alloy of polyphenylene ether (PPE) + polypropylene (PP).  This UV-stabilized, injection moldable grade exhibits improved chemical resistance and surface aesthetics along with high-temperature performance, excellent melt strength, modulus, impact resistance, hydrolytic and dimensional stability. NORYL PPX7200U resin is an excellent candidate for applications such as hot water tank components and outdoor housings and enclosures.",
+            "applications": [
+                "Enclosure/Housing/Cover"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL PPX\u2122  Resin_PPX7200U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppx-resin_ppx7200u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "03bc102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ppx7200u"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "11",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "12",
+            "id": "45765adb-85e8-47b6-97d9-0658ef6bb336",
+            "title": "Sheet extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "13",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "14",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "15",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "9fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Furnace/Heater",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "abffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Hot Water System",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "daffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Boat",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "0d00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vacuum Cleaner",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "1200ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Treatment/Filtration",
+            "count": 0
+        },
+        {
+            "$id": "21",
+            "id": "1300ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Weapon",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "d8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pipe/Fitting",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "87ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV/HEV Battery",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "beffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Long Distance Coach",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "e3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "31",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "35",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense",
+            "id": "03ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "36",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Management",
+            "id": "07ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "37",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "38",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "39",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "40",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "41",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "42",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Under the Hood",
+            "id": "2cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "43",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "44",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Bus",
+            "id": "24ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "45",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "id": "31ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

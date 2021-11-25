@@ -1,0 +1,797 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "d1d67d73-ebb1-446a-9a3d-4a7d26123a9d",
+            "title": "245",
+            "summary": "Mooney-25MU, ENB-4.5Wt%, Ethylene-50Wt%",
+            "description": "SABIC EPDM 245 is a low mooney viscosity, low ethylene and medium ENB content grade produced by solution polymerization using metallocene catalyst. It is an amorphous polymer with medium molecular weight distribution. It can be used as a polymeric plasticizer in blends with other high viscosity polymers. This grade is available in friable bales.",
+            "applications": [
+                "Foam",
+                "Brake System",
+                "Exterior application"
+            ],
+            "processingTechniques": [
+                "Injection Molding",
+                "Rubber compounding",
+                "Compression molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-EPDM-245-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-245-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "504768f3-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-EPDM-245-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-245-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b3fdc6c8-b53c-44c9-9229-2a7901720371"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-EPDM-245-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-245-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "dc97ffb3-1e14-4f2f-b478-893a9dcaf75e"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "245\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/245-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "ae3e0f65-3b4d-4a43-a960-89b4287a6a78"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-EPDM-245-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-245-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e2469b4b-db0a-48ba-b5f4-a45b7553434f"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "245\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/245-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "77612c64-a776-4e9a-b1fc-dc9454d95f21"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae EPDM_245_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-epdm_245_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "17c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Construction",
+                "Automotive Under the Hood",
+                "IndustrySegment"
+            ],
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "251a1940-a9f2-e611-80fb-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "261a1940-a9f2-e611-80fb-005056857ef3"
+                },
+                {
+                    "$id": "5",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "271a1940-a9f2-e611-80fb-005056857ef3"
+                },
+                {
+                    "$id": "6",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "9f6a714d-3d0e-e711-80fb-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "245"
+        },
+        {
+            "$id": "7",
+            "id": "74d6dc7d-53d3-4431-bc73-ce5ce9858ceb",
+            "title": "626",
+            "summary": "Mooney-67MU, ENB-2.8Wt%, Ethylene-69Wt%",
+            "description": "SABIC EPDM 626 is a medium mooney viscosity, high ethylene and low ENB content grade produced by solution polymerization using metallocene catalyst. It has medium a molecular weight distribution. This product is available in pellet form.",
+            "applications": [
+                "Roofing membranes",
+                "Sheet",
+                "Exterior application"
+            ],
+            "processingTechniques": [
+                "Extrusion",
+                "Rubber compounding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-EPDM-626-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-626-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "534768f3-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "626\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/626-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a09bfbf3-150e-47b1-af0e-5de74a2d1140"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-EPDM-626-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-626-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e82a39c0-07aa-47bf-a9fb-7cc6b96234bc"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-EPDM-626-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-626-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2aeceaec-3fb7-4346-a5ca-8dc1be405132"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "626\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/626-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "1ce7846a-32f6-4dd7-80c9-ec5e9d332e40"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-EPDM-626-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-626-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "408e2bb0-710c-4dc0-8e0e-f1c21cfb4ee5"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae EPDM_626_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-epdm_626_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "98c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Construction",
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "626"
+        },
+        {
+            "$id": "8",
+            "id": "c1e9f520-aa6a-4a89-b4e0-eda97a9dd0e9",
+            "title": "657",
+            "summary": "Mooney-60MU, ENB-5Wt%, Ethylene-73Wt%",
+            "description": "SABIC EPDM 657 is a medium mooney viscosity, high ethylene and medium ENB content grade produced by solution polymerization using metallocene catalyst. It has medium molecular weight distribution with precise control of molecular composition and architecture. This product is available in pellet form.",
+            "applications": [
+                "Hoses",
+                "Gaskets and seals",
+                "Exterior application",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding",
+                "Extrusion",
+                "Rubber compounding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-EPDM-657-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-657-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "564768f3-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-EPDM-657-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-657-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e4d43e0c-4cd6-451c-befb-1014a6947081"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "657\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/657-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "36198059-20eb-4542-b382-487a36a6063a"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-EPDM-657-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-657-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0622784d-a48d-46a0-8928-5de622431a51"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-EPDM-657-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-657-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "224d41d9-fc29-4a04-9aec-667bfeb4d825"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "657\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/657-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "6741c93d-f8cc-4286-910c-ced0ab1d22d5"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae EPDM_657_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-epdm_657_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "04c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Construction",
+                "IndustrySegment"
+            ],
+            "contacts": [
+                {
+                    "$id": "9",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a6b4aeac-b1f2-e611-80fb-005056857ef3"
+                },
+                {
+                    "$id": "10",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a7b4aeac-b1f2-e611-80fb-005056857ef3"
+                },
+                {
+                    "$id": "11",
+                    "contact": "91c3168e-4dde-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a8b4aeac-b1f2-e611-80fb-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "657"
+        },
+        {
+            "$id": "12",
+            "id": "82f99342-4480-4e58-9c70-dd5c6ed73257",
+            "title": "756",
+            "summary": "Mooney-72MU, ENB-5Wt%, Ethylene-69Wt%",
+            "description": "SABIC EPDM 756 is a high mooney viscosity, high ethylene and medium ENB content grade produced by solution\npolymerization using metallocene catalyst. It has medium molecular weight distribution. This product is available in pellet\nform.",
+            "applications": [
+                "Hoses",
+                "Automotive hoses and belts",
+                "profiles",
+                "Auto weather seals",
+                "Heat resistant applications",
+                "Exterior application"
+            ],
+            "processingTechniques": [
+                "Extrusion",
+                "Rubber compounding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-EPDM-756-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-756-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "594768f3-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-EPDM-756-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-756-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e785938e-ba0c-467e-b7c8-890d271dd618"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "756\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/756-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "bd969d29-00bb-4673-88da-ae71739bd5da"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-EPDM-756-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-756-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8d0050c7-d0b3-48c7-bf04-be62616474a7"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-EPDM-756-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-756-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d35dbe2a-5688-491e-8db7-dfe2bce188f9"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "756\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/756-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "27f50100-e645-4cb1-9052-e8646960f999"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae EPDM_756_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-epdm_756_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f4c3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Construction",
+                "Automotive Under the Hood",
+                "IndustrySegment"
+            ],
+            "contacts": [
+                {
+                    "$id": "13",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "3dd427ec-b2f2-e611-80fb-005056857ef3"
+                },
+                {
+                    "$id": "14",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "3ed427ec-b2f2-e611-80fb-005056857ef3"
+                },
+                {
+                    "$id": "15",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "3fd427ec-b2f2-e611-80fb-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "756"
+        },
+        {
+            "$id": "16",
+            "id": "7fbe243f-ed7b-44ba-a8fe-7fd2e11084f6",
+            "title": "855",
+            "summary": "Mooney-80MU, ENB-5.2Wt%, Ethylene-55Wt%",
+            "description": "SABIC EPDM 855 is a high mooney viscosity, medium ethylene and ENB content grade produced by solution polymerization using metallocene catalyst. It is an amorphous polymer with medium molecular weight distribution. It is available in friable bales.",
+            "applications": [
+                "Hoses",
+                "Gaskets and seals",
+                "Auto weather seals",
+                "Exterior application"
+            ],
+            "processingTechniques": [
+                "Injection Molding",
+                "Extrusion",
+                "Rubber compounding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-EPDM-855-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-855-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "980902ef-26a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-EPDM-855-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-855-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d67d0e1b-aaa9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-EPDM-855-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-855-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5c4768f3-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-EPDM-855-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-epdm-855-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "897aab19-31af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "855\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/855-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f4aa8eaf-a7bf-47ab-8cdb-a337af3a1e49"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "855\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/855-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "fc6d5e0d-2168-42fe-b557-c9a97ea48025"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae EPDM_855_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-epdm_855_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b1c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Automotive Under the Hood",
+                "IndustrySegment"
+            ],
+            "contacts": [
+                {
+                    "$id": "17",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a0d7c8fb-35ea-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "18",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a1d7c8fb-35ea-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "19",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a2d7c8fb-35ea-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "855"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "20",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "21",
+            "id": "bb943a4c-d5f5-4254-be44-174c870874fd",
+            "title": "Rubber compounding",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "21829b09-ebf5-440e-9cae-8885874dfd3f",
+            "title": "Compression molding",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "0cf9ad07-62b0-4021-88d3-07861c00788c",
+            "title": "Extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "24",
+            "id": "d9dcd341-8780-4940-b2a7-028d86ff728e",
+            "title": "Foam",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "52ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Brake System",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "dce44882-562e-4a8a-8fb5-5911934829ee",
+            "title": "Exterior application",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "78ba7b63-b0f2-e611-80fb-005056857ef3",
+            "title": "Roofing membranes",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "07c64c9c-bba2-4a0f-b1c5-5424d49c327e",
+            "title": "Sheet",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "91ad08ba-c1f1-e611-80fb-005056857ef3",
+            "title": "Hoses",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "d3234097-b1f2-e611-80fb-005056857ef3",
+            "title": "Gaskets and seals",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "cd11bfa0-b2f2-e611-80fb-005056857ef3",
+            "title": "Automotive hoses and belts",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "b65144bf-b2f2-e611-80fb-005056857ef3",
+            "title": "profiles",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "defadfc9-b2f2-e611-80fb-005056857ef3",
+            "title": "Auto weather seals",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "e2fadfc9-b2f2-e611-80fb-005056857ef3",
+            "title": "Heat resistant applications",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "36",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Middle East and Africa",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "40",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "41",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Under the Hood",
+            "id": "2cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "42",
+            "industry": "1679dc71-a5d2-4e3b-bd90-ef43d09fe4d9",
+            "title": "IndustrySegment",
+            "id": "f25a6df1-91f0-43a8-9b69-520be613d22d"
+        }
+    ]
+}

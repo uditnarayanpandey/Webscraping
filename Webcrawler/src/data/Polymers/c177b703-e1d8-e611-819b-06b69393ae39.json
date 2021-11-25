@@ -1,0 +1,1637 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "8333aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CR7020",
+            "summary": "ASA. Profile and sheet. Excellent weatherability, good flow/aesthetics and high impact.",
+            "description": "ASA. Profile and sheet. Excellent weatherability, good flow/aesthetics and high impact.",
+            "applications": [
+                "3affee91-14d8-e611-819b-06b69393ae39",
+                "49ffee91-14d8-e611-819b-06b69393ae39",
+                "53ffee91-14d8-e611-819b-06b69393ae39",
+                "5fffee91-14d8-e611-819b-06b69393ae39",
+                "74ffee91-14d8-e611-819b-06b69393ae39",
+                "80ffee91-14d8-e611-819b-06b69393ae39",
+                "0100ef91-14d8-e611-819b-06b69393ae39",
+                "1b00ef91-14d8-e611-819b-06b69393ae39",
+                "1e00ef91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "af7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "9eb2102f-8df7-e611-819b-06b69393ae39",
+                "48b3102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                "ee05ec09-ed6d-4fed-80ac-229549245c91"
+            ],
+            "industrySegments": [
+                "05ffee91-14d8-e611-819b-06b69393ae39",
+                "0cffee91-14d8-e611-819b-06b69393ae39",
+                "0dffee91-14d8-e611-819b-06b69393ae39",
+                "26ffee91-14d8-e611-819b-06b69393ae39",
+                "35ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cr7020"
+        },
+        {
+            "$id": "3",
+            "id": "8533aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CR7500",
+            "summary": "ASA, excellent weatherable, injection molding",
+            "description": "ASA, excellent weatherable, injection molding",
+            "applications": [
+                "46ffee91-14d8-e611-819b-06b69393ae39",
+                "6affee91-14d8-e611-819b-06b69393ae39",
+                "75ffee91-14d8-e611-819b-06b69393ae39",
+                "7bffee91-14d8-e611-819b-06b69393ae39",
+                "80ffee91-14d8-e611-819b-06b69393ae39",
+                "8dffee91-14d8-e611-819b-06b69393ae39",
+                "8fffee91-14d8-e611-819b-06b69393ae39",
+                "9cffee91-14d8-e611-819b-06b69393ae39",
+                "c6ffee91-14d8-e611-819b-06b69393ae39",
+                "daffee91-14d8-e611-819b-06b69393ae39",
+                "1600ef91-14d8-e611-819b-06b69393ae39",
+                "1b00ef91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "a1b2102f-8df7-e611-819b-06b69393ae39",
+                "4dc5102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                "ee05ec09-ed6d-4fed-80ac-229549245c91"
+            ],
+            "industrySegments": [
+                "0bffee91-14d8-e611-819b-06b69393ae39",
+                "0dffee91-14d8-e611-819b-06b69393ae39",
+                "26ffee91-14d8-e611-819b-06b69393ae39",
+                "27ffee91-14d8-e611-819b-06b69393ae39",
+                "35ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cr7500"
+        },
+        {
+            "$id": "4",
+            "id": "8933aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CR7520",
+            "summary": "ASA. Profile and Sheet. Excellent weatherability, good flow/aesthetics and high impact.",
+            "description": "ASA. Profile and Sheet. Excellent weatherability, good flow/aesthetics and high impact.",
+            "applications": [
+                "70ffee91-14d8-e611-819b-06b69393ae39",
+                "72ffee91-14d8-e611-819b-06b69393ae39",
+                "74ffee91-14d8-e611-819b-06b69393ae39",
+                "7bffee91-14d8-e611-819b-06b69393ae39",
+                "7fffee91-14d8-e611-819b-06b69393ae39",
+                "80ffee91-14d8-e611-819b-06b69393ae39",
+                "8dffee91-14d8-e611-819b-06b69393ae39",
+                "8fffee91-14d8-e611-819b-06b69393ae39",
+                "9cffee91-14d8-e611-819b-06b69393ae39",
+                "a9ffee91-14d8-e611-819b-06b69393ae39",
+                "bbffee91-14d8-e611-819b-06b69393ae39",
+                "bfffee91-14d8-e611-819b-06b69393ae39",
+                "c0ffee91-14d8-e611-819b-06b69393ae39",
+                "c2ffee91-14d8-e611-819b-06b69393ae39",
+                "d2ffee91-14d8-e611-819b-06b69393ae39",
+                "daffee91-14d8-e611-819b-06b69393ae39",
+                "e7ffee91-14d8-e611-819b-06b69393ae39",
+                "ffffee91-14d8-e611-819b-06b69393ae39",
+                "0100ef91-14d8-e611-819b-06b69393ae39",
+                "1e00ef91-14d8-e611-819b-06b69393ae39",
+                "1f00ef91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "13b3102f-8df7-e611-819b-06b69393ae39",
+                "4eb3102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                "ee05ec09-ed6d-4fed-80ac-229549245c91"
+            ],
+            "industrySegments": [
+                "05ffee91-14d8-e611-819b-06b69393ae39",
+                "07ffee91-14d8-e611-819b-06b69393ae39",
+                "0cffee91-14d8-e611-819b-06b69393ae39",
+                "0dffee91-14d8-e611-819b-06b69393ae39",
+                "0effee91-14d8-e611-819b-06b69393ae39",
+                "11ffee91-14d8-e611-819b-06b69393ae39",
+                "16ffee91-14d8-e611-819b-06b69393ae39",
+                "1effee91-14d8-e611-819b-06b69393ae39",
+                "20ffee91-14d8-e611-819b-06b69393ae39",
+                "26ffee91-14d8-e611-819b-06b69393ae39",
+                "28ffee91-14d8-e611-819b-06b69393ae39",
+                "34ffee91-14d8-e611-819b-06b69393ae39",
+                "35ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cr7520"
+        },
+        {
+            "$id": "5",
+            "id": "8b33aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CR8510",
+            "summary": "ASA, excellent weatherability, injection molding.",
+            "description": "ASA, excellent weatherability, injection molding.",
+            "applications": [
+                "49ffee91-14d8-e611-819b-06b69393ae39",
+                "54ffee91-14d8-e611-819b-06b69393ae39",
+                "5cffee91-14d8-e611-819b-06b69393ae39",
+                "74ffee91-14d8-e611-819b-06b69393ae39",
+                "7bffee91-14d8-e611-819b-06b69393ae39",
+                "80ffee91-14d8-e611-819b-06b69393ae39",
+                "baffee91-14d8-e611-819b-06b69393ae39",
+                "d2ffee91-14d8-e611-819b-06b69393ae39",
+                "0100ef91-14d8-e611-819b-06b69393ae39",
+                "1b00ef91-14d8-e611-819b-06b69393ae39",
+                "1e00ef91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "a4b2102f-8df7-e611-819b-06b69393ae39",
+                "51b3102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                "ee05ec09-ed6d-4fed-80ac-229549245c91"
+            ],
+            "industrySegments": [
+                "05ffee91-14d8-e611-819b-06b69393ae39",
+                "0cffee91-14d8-e611-819b-06b69393ae39",
+                "0dffee91-14d8-e611-819b-06b69393ae39",
+                "26ffee91-14d8-e611-819b-06b69393ae39",
+                "35ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cr8510"
+        },
+        {
+            "$id": "6",
+            "id": "bf39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXTW26SK",
+            "summary": "ASA, Xtreme weatherability, high heat,  with VisualFx.",
+            "description": "ASA, Xtreme weatherability, high heat,  with VisualFx.",
+            "applications": [
+                "9cffee91-14d8-e611-819b-06b69393ae39",
+                "cdffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "26b7102f-8df7-e611-819b-06b69393ae39",
+                "29b7102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                "ee05ec09-ed6d-4fed-80ac-229549245c91"
+            ],
+            "industrySegments": [
+                "0bffee91-14d8-e611-819b-06b69393ae39",
+                "35ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxtw26sk"
+        },
+        {
+            "$id": "7",
+            "id": "ce39aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXW751SK",
+            "summary": "ASA+PC with VisualFx UV-Stabilizer, UV-Stabilized, Weatherable, High Heat, High Impact",
+            "description": "Sparkle Metallic VisualFx ASA+PC Resin - Weatherable, High Heat & Impact Resin",
+            "applications": [
+                "74ffee91-14d8-e611-819b-06b69393ae39",
+                "75ffee91-14d8-e611-819b-06b69393ae39",
+                "e3ffee91-14d8-e611-819b-06b69393ae39",
+                "ecffee91-14d8-e611-819b-06b69393ae39",
+                "edffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "92b6102f-8df7-e611-819b-06b69393ae39",
+                "7cc6102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                "ee05ec09-ed6d-4fed-80ac-229549245c91"
+            ],
+            "industrySegments": [
+                "0bffee91-14d8-e611-819b-06b69393ae39",
+                "0dffee91-14d8-e611-819b-06b69393ae39",
+                "16ffee91-14d8-e611-819b-06b69393ae39",
+                "31ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxw751sk"
+        },
+        {
+            "$id": "8",
+            "id": "423baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HRA170",
+            "summary": "High heat resistant ASA+PC. Superior heat aging and colour stability, good chemical resistance and easy processing. Available in various colours.",
+            "description": "GELOY HRA170 is a high heat resistant ASA+PC. It shows high impact retention, which can be positioned for various outdoor and indoor applications requiring superior heat aging properties and colour stability.",
+            "applications": [
+                "5effee91-14d8-e611-819b-06b69393ae39",
+                "7bffee91-14d8-e611-819b-06b69393ae39",
+                "7fffee91-14d8-e611-819b-06b69393ae39",
+                "80ffee91-14d8-e611-819b-06b69393ae39",
+                "82ffee91-14d8-e611-819b-06b69393ae39",
+                "8fffee91-14d8-e611-819b-06b69393ae39",
+                "90ffee91-14d8-e611-819b-06b69393ae39",
+                "98ffee91-14d8-e611-819b-06b69393ae39",
+                "99ffee91-14d8-e611-819b-06b69393ae39",
+                "9cffee91-14d8-e611-819b-06b69393ae39",
+                "b5ffee91-14d8-e611-819b-06b69393ae39",
+                "bcffee91-14d8-e611-819b-06b69393ae39",
+                "c1ffee91-14d8-e611-819b-06b69393ae39",
+                "caffee91-14d8-e611-819b-06b69393ae39",
+                "cdffee91-14d8-e611-819b-06b69393ae39",
+                "d2ffee91-14d8-e611-819b-06b69393ae39",
+                "e2ffee91-14d8-e611-819b-06b69393ae39",
+                "e3ffee91-14d8-e611-819b-06b69393ae39",
+                "f8ffee91-14d8-e611-819b-06b69393ae39",
+                "0d00ef91-14d8-e611-819b-06b69393ae39",
+                "1e00ef91-14d8-e611-819b-06b69393ae39",
+                "1f00ef91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "c8b7102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+            ],
+            "industrySegments": [
+                "07ffee91-14d8-e611-819b-06b69393ae39",
+                "0affee91-14d8-e611-819b-06b69393ae39",
+                "0bffee91-14d8-e611-819b-06b69393ae39",
+                "0cffee91-14d8-e611-819b-06b69393ae39",
+                "20ffee91-14d8-e611-819b-06b69393ae39",
+                "22ffee91-14d8-e611-819b-06b69393ae39",
+                "25ffee91-14d8-e611-819b-06b69393ae39",
+                "26ffee91-14d8-e611-819b-06b69393ae39",
+                "31ffee91-14d8-e611-819b-06b69393ae39",
+                "33ffee91-14d8-e611-819b-06b69393ae39",
+                "35ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hra170"
+        },
+        {
+            "$id": "9",
+            "id": "433baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HRA170D",
+            "summary": "PC - ASA blend with permanent antistatic behavior",
+            "description": "GELOY HRA170D resin is a PC-ASA blend with permanent antistatic behavior. It is typically used in applications that require antidust properties and high impact retention. GELOY HRA170D resin is typically used in various outdoor and indoor applications requiring superior heat aging properties and colour stability.",
+            "applications": [
+                "cdffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "6bb8102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+            ],
+            "industrySegments": [
+                "0bffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hra170d"
+        },
+        {
+            "$id": "10",
+            "id": "443baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HRA170E",
+            "summary": "High heat resistant ASA+PC. Superior heat aging and colour stability, good chemical resistance and easy processing. Available in various colours.",
+            "description": "GELOY HRA170E is a high heat resistant ASA+PC. It shows high impact retention, which can be positioned for various outdoor and indoor applications requiring superior heat aging properties and colour stability.",
+            "applications": [
+                "7bffee91-14d8-e611-819b-06b69393ae39",
+                "80ffee91-14d8-e611-819b-06b69393ae39",
+                "a9ffee91-14d8-e611-819b-06b69393ae39",
+                "1f00ef91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "6cb8102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+            ],
+            "industrySegments": [
+                "0effee91-14d8-e611-819b-06b69393ae39",
+                "26ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hra170e"
+        },
+        {
+            "$id": "11",
+            "id": "453baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HRA222",
+            "summary": "PC/ASA flame retardant, excellent weatherability.",
+            "description": "PC/ASA flame retardant, excellent weatherability.",
+            "applications": [
+                "49ffee91-14d8-e611-819b-06b69393ae39",
+                "7bffee91-14d8-e611-819b-06b69393ae39",
+                "80ffee91-14d8-e611-819b-06b69393ae39",
+                "82ffee91-14d8-e611-819b-06b69393ae39",
+                "86ffee91-14d8-e611-819b-06b69393ae39",
+                "99ffee91-14d8-e611-819b-06b69393ae39",
+                "a9ffee91-14d8-e611-819b-06b69393ae39",
+                "bbffee91-14d8-e611-819b-06b69393ae39",
+                "bfffee91-14d8-e611-819b-06b69393ae39",
+                "c1ffee91-14d8-e611-819b-06b69393ae39",
+                "c3ffee91-14d8-e611-819b-06b69393ae39",
+                "caffee91-14d8-e611-819b-06b69393ae39",
+                "d6ffee91-14d8-e611-819b-06b69393ae39",
+                "e4ffee91-14d8-e611-819b-06b69393ae39",
+                "1000ef91-14d8-e611-819b-06b69393ae39",
+                "1f00ef91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "cbb7102f-8df7-e611-819b-06b69393ae39",
+                "6fb8102f-8df7-e611-819b-06b69393ae39",
+                "ecc6102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+            ],
+            "industrySegments": [
+                "07ffee91-14d8-e611-819b-06b69393ae39",
+                "0cffee91-14d8-e611-819b-06b69393ae39",
+                "0effee91-14d8-e611-819b-06b69393ae39",
+                "20ffee91-14d8-e611-819b-06b69393ae39",
+                "22ffee91-14d8-e611-819b-06b69393ae39",
+                "25ffee91-14d8-e611-819b-06b69393ae39",
+                "26ffee91-14d8-e611-819b-06b69393ae39",
+                "28ffee91-14d8-e611-819b-06b69393ae39",
+                "35ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hra222"
+        },
+        {
+            "$id": "12",
+            "id": "463baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HRA222F",
+            "summary": "PC/ASA flame retardant, excellent weatherability.",
+            "description": "PC/ASA flame retardant, excellent weatherability.",
+            "applications": [
+                "47ffee91-14d8-e611-819b-06b69393ae39",
+                "48ffee91-14d8-e611-819b-06b69393ae39",
+                "54ffee91-14d8-e611-819b-06b69393ae39",
+                "55ffee91-14d8-e611-819b-06b69393ae39",
+                "5cffee91-14d8-e611-819b-06b69393ae39",
+                "6cffee91-14d8-e611-819b-06b69393ae39",
+                "71ffee91-14d8-e611-819b-06b69393ae39",
+                "72ffee91-14d8-e611-819b-06b69393ae39",
+                "7bffee91-14d8-e611-819b-06b69393ae39",
+                "7fffee91-14d8-e611-819b-06b69393ae39",
+                "80ffee91-14d8-e611-819b-06b69393ae39",
+                "82ffee91-14d8-e611-819b-06b69393ae39",
+                "bbffee91-14d8-e611-819b-06b69393ae39",
+                "bfffee91-14d8-e611-819b-06b69393ae39",
+                "c2ffee91-14d8-e611-819b-06b69393ae39",
+                "d2ffee91-14d8-e611-819b-06b69393ae39",
+                "d6ffee91-14d8-e611-819b-06b69393ae39",
+                "dcffee91-14d8-e611-819b-06b69393ae39",
+                "e4ffee91-14d8-e611-819b-06b69393ae39",
+                "eeffee91-14d8-e611-819b-06b69393ae39",
+                "f4ffee91-14d8-e611-819b-06b69393ae39",
+                "f6ffee91-14d8-e611-819b-06b69393ae39",
+                "ffffee91-14d8-e611-819b-06b69393ae39",
+                "0100ef91-14d8-e611-819b-06b69393ae39",
+                "0d00ef91-14d8-e611-819b-06b69393ae39",
+                "1e00ef91-14d8-e611-819b-06b69393ae39",
+                "1f00ef91-14d8-e611-819b-06b69393ae39",
+                "a36cc295-ea49-4a6f-b084-946e439947ef"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "acb6102f-8df7-e611-819b-06b69393ae39",
+                "ceb7102f-8df7-e611-819b-06b69393ae39",
+                "edc6102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                "ee05ec09-ed6d-4fed-80ac-229549245c91"
+            ],
+            "industrySegments": [
+                "05ffee91-14d8-e611-819b-06b69393ae39",
+                "07ffee91-14d8-e611-819b-06b69393ae39",
+                "0cffee91-14d8-e611-819b-06b69393ae39",
+                "0dffee91-14d8-e611-819b-06b69393ae39",
+                "11ffee91-14d8-e611-819b-06b69393ae39",
+                "1dffee91-14d8-e611-819b-06b69393ae39",
+                "20ffee91-14d8-e611-819b-06b69393ae39",
+                "22ffee91-14d8-e611-819b-06b69393ae39",
+                "26ffee91-14d8-e611-819b-06b69393ae39",
+                "28ffee91-14d8-e611-819b-06b69393ae39",
+                "30ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hra222f"
+        },
+        {
+            "$id": "13",
+            "id": "0447aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XP4025",
+            "summary": "PC/ASA. Excellent weatherability.",
+            "description": "PC/ASA. Excellent weatherability.",
+            "applications": [
+                "46ffee91-14d8-e611-819b-06b69393ae39",
+                "60ffee91-14d8-e611-819b-06b69393ae39",
+                "6cffee91-14d8-e611-819b-06b69393ae39",
+                "7bffee91-14d8-e611-819b-06b69393ae39",
+                "7fffee91-14d8-e611-819b-06b69393ae39",
+                "80ffee91-14d8-e611-819b-06b69393ae39",
+                "8dffee91-14d8-e611-819b-06b69393ae39",
+                "8fffee91-14d8-e611-819b-06b69393ae39",
+                "90ffee91-14d8-e611-819b-06b69393ae39",
+                "9cffee91-14d8-e611-819b-06b69393ae39",
+                "a9ffee91-14d8-e611-819b-06b69393ae39",
+                "aaffee91-14d8-e611-819b-06b69393ae39",
+                "c6ffee91-14d8-e611-819b-06b69393ae39",
+                "cdffee91-14d8-e611-819b-06b69393ae39",
+                "d9ffee91-14d8-e611-819b-06b69393ae39",
+                "e2ffee91-14d8-e611-819b-06b69393ae39",
+                "e3ffee91-14d8-e611-819b-06b69393ae39",
+                "e5ffee91-14d8-e611-819b-06b69393ae39",
+                "f8ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "45765adb-85e8-47b6-97d9-0658ef6bb336",
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "28bf102f-8df7-e611-819b-06b69393ae39",
+                "3bc1102f-8df7-e611-819b-06b69393ae39",
+                "c4c9102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                "ee05ec09-ed6d-4fed-80ac-229549245c91"
+            ],
+            "industrySegments": [
+                "07ffee91-14d8-e611-819b-06b69393ae39",
+                "0affee91-14d8-e611-819b-06b69393ae39",
+                "0bffee91-14d8-e611-819b-06b69393ae39",
+                "0cffee91-14d8-e611-819b-06b69393ae39",
+                "0effee91-14d8-e611-819b-06b69393ae39",
+                "1bffee91-14d8-e611-819b-06b69393ae39",
+                "26ffee91-14d8-e611-819b-06b69393ae39",
+                "27ffee91-14d8-e611-819b-06b69393ae39",
+                "31ffee91-14d8-e611-819b-06b69393ae39",
+                "33ffee91-14d8-e611-819b-06b69393ae39",
+                "35ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xp4025"
+        },
+        {
+            "$id": "14",
+            "id": "0647aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XP4034",
+            "summary": "PC/ASA. Excellent weatherability.",
+            "description": "PC/ASA. Excellent weatherability.",
+            "applications": [
+                "45ffee91-14d8-e611-819b-06b69393ae39",
+                "46ffee91-14d8-e611-819b-06b69393ae39",
+                "48ffee91-14d8-e611-819b-06b69393ae39",
+                "49ffee91-14d8-e611-819b-06b69393ae39",
+                "54ffee91-14d8-e611-819b-06b69393ae39",
+                "57ffee91-14d8-e611-819b-06b69393ae39",
+                "60ffee91-14d8-e611-819b-06b69393ae39",
+                "6affee91-14d8-e611-819b-06b69393ae39",
+                "6bffee91-14d8-e611-819b-06b69393ae39",
+                "6cffee91-14d8-e611-819b-06b69393ae39",
+                "72ffee91-14d8-e611-819b-06b69393ae39",
+                "73ffee91-14d8-e611-819b-06b69393ae39",
+                "75ffee91-14d8-e611-819b-06b69393ae39",
+                "7bffee91-14d8-e611-819b-06b69393ae39",
+                "7dffee91-14d8-e611-819b-06b69393ae39",
+                "7fffee91-14d8-e611-819b-06b69393ae39",
+                "80ffee91-14d8-e611-819b-06b69393ae39",
+                "82ffee91-14d8-e611-819b-06b69393ae39",
+                "86ffee91-14d8-e611-819b-06b69393ae39",
+                "8bffee91-14d8-e611-819b-06b69393ae39",
+                "8dffee91-14d8-e611-819b-06b69393ae39",
+                "8fffee91-14d8-e611-819b-06b69393ae39",
+                "90ffee91-14d8-e611-819b-06b69393ae39",
+                "94ffee91-14d8-e611-819b-06b69393ae39",
+                "96ffee91-14d8-e611-819b-06b69393ae39",
+                "98ffee91-14d8-e611-819b-06b69393ae39",
+                "9cffee91-14d8-e611-819b-06b69393ae39",
+                "a5ffee91-14d8-e611-819b-06b69393ae39",
+                "a9ffee91-14d8-e611-819b-06b69393ae39",
+                "b2ffee91-14d8-e611-819b-06b69393ae39",
+                "b5ffee91-14d8-e611-819b-06b69393ae39",
+                "bcffee91-14d8-e611-819b-06b69393ae39",
+                "caffee91-14d8-e611-819b-06b69393ae39",
+                "cdffee91-14d8-e611-819b-06b69393ae39",
+                "d2ffee91-14d8-e611-819b-06b69393ae39",
+                "e2ffee91-14d8-e611-819b-06b69393ae39",
+                "e3ffee91-14d8-e611-819b-06b69393ae39",
+                "e5ffee91-14d8-e611-819b-06b69393ae39",
+                "ecffee91-14d8-e611-819b-06b69393ae39",
+                "edffee91-14d8-e611-819b-06b69393ae39",
+                "eeffee91-14d8-e611-819b-06b69393ae39",
+                "f8ffee91-14d8-e611-819b-06b69393ae39",
+                "0a00ef91-14d8-e611-819b-06b69393ae39",
+                "0f00ef91-14d8-e611-819b-06b69393ae39",
+                "1700ef91-14d8-e611-819b-06b69393ae39",
+                "1e00ef91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "45765adb-85e8-47b6-97d9-0658ef6bb336",
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "2bbf102f-8df7-e611-819b-06b69393ae39",
+                "6ec0102f-8df7-e611-819b-06b69393ae39",
+                "c5c9102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                "ee05ec09-ed6d-4fed-80ac-229549245c91"
+            ],
+            "industrySegments": [
+                "0affee91-14d8-e611-819b-06b69393ae39",
+                "0bffee91-14d8-e611-819b-06b69393ae39",
+                "0cffee91-14d8-e611-819b-06b69393ae39",
+                "0dffee91-14d8-e611-819b-06b69393ae39",
+                "0effee91-14d8-e611-819b-06b69393ae39",
+                "16ffee91-14d8-e611-819b-06b69393ae39",
+                "19ffee91-14d8-e611-819b-06b69393ae39",
+                "1bffee91-14d8-e611-819b-06b69393ae39",
+                "20ffee91-14d8-e611-819b-06b69393ae39",
+                "22ffee91-14d8-e611-819b-06b69393ae39",
+                "26ffee91-14d8-e611-819b-06b69393ae39",
+                "2fffee91-14d8-e611-819b-06b69393ae39",
+                "31ffee91-14d8-e611-819b-06b69393ae39",
+                "33ffee91-14d8-e611-819b-06b69393ae39",
+                "35ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xp4034"
+        },
+        {
+            "$id": "15",
+            "id": "0747aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XP4045LG",
+            "summary": "PC/ASA. Excellent weatherability, low gloss.",
+            "description": "PC/ASA. Excellent weatherability, low gloss.",
+            "applications": [
+                "8dffee91-14d8-e611-819b-06b69393ae39",
+                "cdffee91-14d8-e611-819b-06b69393ae39",
+                "1700ef91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "3ec1102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "ee05ec09-ed6d-4fed-80ac-229549245c91"
+            ],
+            "industrySegments": [
+                "0bffee91-14d8-e611-819b-06b69393ae39",
+                "35ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xp4045lg"
+        },
+        {
+            "$id": "16",
+            "id": "0947aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XP7550",
+            "summary": "PC/ASA. Excellent weatherability.",
+            "description": "PC/ASA. Excellent weatherability.",
+            "applications": [
+                "3affee91-14d8-e611-819b-06b69393ae39",
+                "90ffee91-14d8-e611-819b-06b69393ae39",
+                "a9ffee91-14d8-e611-819b-06b69393ae39",
+                "baffee91-14d8-e611-819b-06b69393ae39",
+                "e2ffee91-14d8-e611-819b-06b69393ae39",
+                "e3ffee91-14d8-e611-819b-06b69393ae39",
+                "e4ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "2ebf102f-8df7-e611-819b-06b69393ae39",
+                "c6c9102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                "ee05ec09-ed6d-4fed-80ac-229549245c91"
+            ],
+            "industrySegments": [
+                "05ffee91-14d8-e611-819b-06b69393ae39",
+                "0affee91-14d8-e611-819b-06b69393ae39",
+                "0dffee91-14d8-e611-819b-06b69393ae39",
+                "0effee91-14d8-e611-819b-06b69393ae39",
+                "22ffee91-14d8-e611-819b-06b69393ae39",
+                "31ffee91-14d8-e611-819b-06b69393ae39",
+                "33ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xp7550"
+        },
+        {
+            "$id": "17",
+            "id": "0a47aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XP7560",
+            "summary": "PC/ASA. Excellent weatherability.",
+            "description": "PC/ASA. Excellent weatherability.",
+            "applications": [
+                "9cffee91-14d8-e611-819b-06b69393ae39",
+                "f8ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "31bf102f-8df7-e611-819b-06b69393ae39",
+                "71c0102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+            ],
+            "industrySegments": [
+                "35ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xp7560"
+        },
+        {
+            "$id": "18",
+            "id": "2347aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XTPMFR10",
+            "summary": "PC/ASA, chlorine and bromine free.",
+            "description": "PC/ASA, chlorine and bromine free.",
+            "applications": [
+                "53ffee91-14d8-e611-819b-06b69393ae39",
+                "5fffee91-14d8-e611-819b-06b69393ae39",
+                "6cffee91-14d8-e611-819b-06b69393ae39",
+                "6fffee91-14d8-e611-819b-06b69393ae39",
+                "7fffee91-14d8-e611-819b-06b69393ae39",
+                "80ffee91-14d8-e611-819b-06b69393ae39",
+                "a9ffee91-14d8-e611-819b-06b69393ae39",
+                "bfffee91-14d8-e611-819b-06b69393ae39",
+                "1e00ef91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "39bf102f-8df7-e611-819b-06b69393ae39",
+                "3cbf102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                "ee05ec09-ed6d-4fed-80ac-229549245c91"
+            ],
+            "industrySegments": [
+                "0cffee91-14d8-e611-819b-06b69393ae39",
+                "0dffee91-14d8-e611-819b-06b69393ae39",
+                "0effee91-14d8-e611-819b-06b69393ae39",
+                "22ffee91-14d8-e611-819b-06b69393ae39",
+                "26ffee91-14d8-e611-819b-06b69393ae39",
+                "28ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xtpmfr10"
+        },
+        {
+            "$id": "19",
+            "id": "2947aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XTWE270M",
+            "summary": "ASA, extrusion grade, low gloss, excellent weatherability.",
+            "description": "ASA, extrusion grade, low gloss, excellent weatherability.",
+            "applications": [
+                "53ffee91-14d8-e611-819b-06b69393ae39",
+                "55ffee91-14d8-e611-819b-06b69393ae39",
+                "5fffee91-14d8-e611-819b-06b69393ae39",
+                "74ffee91-14d8-e611-819b-06b69393ae39",
+                "80ffee91-14d8-e611-819b-06b69393ae39",
+                "a9ffee91-14d8-e611-819b-06b69393ae39",
+                "1b00ef91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "af7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "3fbf102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+            ],
+            "industrySegments": [
+                "0dffee91-14d8-e611-819b-06b69393ae39",
+                "0effee91-14d8-e611-819b-06b69393ae39",
+                "26ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xtwe270m"
+        },
+        {
+            "$id": "20",
+            "id": "2d47aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XTWE480",
+            "summary": "PMMA/ASA, Impact Modifier, Silicone, Lubricants, Mold Release, UV-Stabilizer, Extrusion Grade, Weatherable,",
+            "description": "Anti-scratch GELOY grade with excellent weatherability, high flow, and good surface quality. XTWE480 is available in various colours.",
+            "applications": [
+                "5fffee91-14d8-e611-819b-06b69393ae39",
+                "74ffee91-14d8-e611-819b-06b69393ae39",
+                "d7ffee91-14d8-e611-819b-06b69393ae39",
+                "1b00ef91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "af7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "77c0102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+            ],
+            "industrySegments": [
+                "0dffee91-14d8-e611-819b-06b69393ae39",
+                "26ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xtwe480"
+        },
+        {
+            "$id": "21",
+            "id": "3047aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XTWM206",
+            "summary": "ASA, Xtreme weatherability, high heat.",
+            "description": "ASA, Xtreme weatherability, high heat.",
+            "applications": [
+                "42ffee91-14d8-e611-819b-06b69393ae39",
+                "53ffee91-14d8-e611-819b-06b69393ae39",
+                "6cffee91-14d8-e611-819b-06b69393ae39",
+                "74ffee91-14d8-e611-819b-06b69393ae39",
+                "7bffee91-14d8-e611-819b-06b69393ae39",
+                "7fffee91-14d8-e611-819b-06b69393ae39",
+                "80ffee91-14d8-e611-819b-06b69393ae39",
+                "90ffee91-14d8-e611-819b-06b69393ae39",
+                "94ffee91-14d8-e611-819b-06b69393ae39",
+                "98ffee91-14d8-e611-819b-06b69393ae39",
+                "9cffee91-14d8-e611-819b-06b69393ae39",
+                "a9ffee91-14d8-e611-819b-06b69393ae39",
+                "baffee91-14d8-e611-819b-06b69393ae39",
+                "c6ffee91-14d8-e611-819b-06b69393ae39",
+                "d2ffee91-14d8-e611-819b-06b69393ae39",
+                "e0ffee91-14d8-e611-819b-06b69393ae39",
+                "eeffee91-14d8-e611-819b-06b69393ae39",
+                "1b00ef91-14d8-e611-819b-06b69393ae39",
+                "1e00ef91-14d8-e611-819b-06b69393ae39"
+            ],
+            "processingTechniques": [
+                "ad7d3885-14d8-e611-819b-06b69393ae39"
+            ],
+            "documents": [
+                "7ac0102f-8df7-e611-819b-06b69393ae39",
+                "47c1102f-8df7-e611-819b-06b69393ae39",
+                "c8c9102f-8df7-e611-819b-06b69393ae39"
+            ],
+            "regions": [
+                "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                "ee05ec09-ed6d-4fed-80ac-229549245c91"
+            ],
+            "industrySegments": [
+                "05ffee91-14d8-e611-819b-06b69393ae39",
+                "0affee91-14d8-e611-819b-06b69393ae39",
+                "0cffee91-14d8-e611-819b-06b69393ae39",
+                "0dffee91-14d8-e611-819b-06b69393ae39",
+                "0effee91-14d8-e611-819b-06b69393ae39",
+                "13ffee91-14d8-e611-819b-06b69393ae39",
+                "26ffee91-14d8-e611-819b-06b69393ae39",
+                "27ffee91-14d8-e611-819b-06b69393ae39",
+                "33ffee91-14d8-e611-819b-06b69393ae39",
+                "35ffee91-14d8-e611-819b-06b69393ae39"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xtwm206"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "22",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "af7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Profile Extrusion",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "45765adb-85e8-47b6-97d9-0658ef6bb336",
+            "title": "Sheet extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "25",
+            "id": "3affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Conditioning",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "42ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "All-Terrain Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "45ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Antenna",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "46ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Applique",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "47ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "ATM/Ticket Machine",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "48ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Audio",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "49ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Aftermarket",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "53ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Accessory",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "54ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Element",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "55ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building/Construction Sheet",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "57ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Bumper Fascia",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "5effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cladding",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "5fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cladding/Roof",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "60ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cluster",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "6affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cowl Vent Grille",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "42",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "43",
+            "id": "6fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Dishwasher",
+            "count": 0
+        },
+        {
+            "$id": "44",
+            "id": "70ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Display",
+            "count": 0
+        },
+        {
+            "$id": "45",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "46",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "47",
+            "id": "74ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Door",
+            "count": 0
+        },
+        {
+            "$id": "48",
+            "id": "73ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Door Handle",
+            "count": 0
+        },
+        {
+            "$id": "49",
+            "id": "75ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Doors Hardware/Trim",
+            "count": 0
+        },
+        {
+            "$id": "50",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "51",
+            "id": "7dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "count": 0
+        },
+        {
+            "$id": "52",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "53",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "54",
+            "id": "82ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Management",
+            "count": 0
+        },
+        {
+            "$id": "55",
+            "id": "86ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "56",
+            "id": "8bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exercise Equipment",
+            "count": 0
+        },
+        {
+            "$id": "57",
+            "id": "90ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior",
+            "count": 0
+        },
+        {
+            "$id": "58",
+            "id": "8dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Mirror",
+            "count": 0
+        },
+        {
+            "$id": "59",
+            "id": "8fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Trim",
+            "count": 0
+        },
+        {
+            "$id": "60",
+            "id": "94ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fog Lamp",
+            "count": 0
+        },
+        {
+            "$id": "61",
+            "id": "96ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Processor",
+            "count": 0
+        },
+        {
+            "$id": "62",
+            "id": "98ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Forward Lighting",
+            "count": 0
+        },
+        {
+            "$id": "63",
+            "id": "99ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "FPD Handling",
+            "count": 0
+        },
+        {
+            "$id": "64",
+            "id": "9cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Front Grille",
+            "count": 0
+        },
+        {
+            "$id": "65",
+            "id": "a5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Glove Box",
+            "count": 0
+        },
+        {
+            "$id": "66",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "67",
+            "id": "aaffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Horizontal Body Panel",
+            "count": 0
+        },
+        {
+            "$id": "68",
+            "id": "b2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Infotainment/Telematic",
+            "count": 0
+        },
+        {
+            "$id": "69",
+            "id": "b5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior",
+            "count": 0
+        },
+        {
+            "$id": "70",
+            "id": "baffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lawn/Garden",
+            "count": 0
+        },
+        {
+            "$id": "71",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "72",
+            "id": "bcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "count": 0
+        },
+        {
+            "$id": "73",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "74",
+            "id": "c0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "75",
+            "id": "c1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Gas",
+            "count": 0
+        },
+        {
+            "$id": "76",
+            "id": "c2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Water",
+            "count": 0
+        },
+        {
+            "$id": "77",
+            "id": "c3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Microwave Oven",
+            "count": 0
+        },
+        {
+            "$id": "78",
+            "id": "c6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Motorcycle",
+            "count": 0
+        },
+        {
+            "$id": "79",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "80",
+            "id": "cdffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Overhead",
+            "count": 0
+        },
+        {
+            "$id": "81",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "82",
+            "id": "d6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photo/Video Camera",
+            "count": 0
+        },
+        {
+            "$id": "83",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        },
+        {
+            "$id": "84",
+            "id": "d9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Plumbing",
+            "count": 0
+        },
+        {
+            "$id": "85",
+            "id": "daffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Boat",
+            "count": 0
+        },
+        {
+            "$id": "86",
+            "id": "dcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pump",
+            "count": 0
+        },
+        {
+            "$id": "87",
+            "id": "e0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "count": 0
+        },
+        {
+            "$id": "88",
+            "id": "e2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rear/Signal Lighting",
+            "count": 0
+        },
+        {
+            "$id": "89",
+            "id": "e3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "90",
+            "id": "e4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Refrigerator",
+            "count": 0
+        },
+        {
+            "$id": "91",
+            "id": "e5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Reinforcements",
+            "count": 0
+        },
+        {
+            "$id": "92",
+            "id": "e7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory",
+            "count": 0
+        },
+        {
+            "$id": "93",
+            "id": "ecffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Seat",
+            "count": 0
+        },
+        {
+            "$id": "94",
+            "id": "edffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Seating/Chair",
+            "count": 0
+        },
+        {
+            "$id": "95",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "96",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "97",
+            "id": "f6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Smart/ID Card",
+            "count": 0
+        },
+        {
+            "$id": "98",
+            "id": "f8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Spoiler",
+            "count": 0
+        },
+        {
+            "$id": "99",
+            "id": "ffffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Devices",
+            "count": 0
+        },
+        {
+            "$id": "100",
+            "id": "0100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Swimming Pool/Spa",
+            "count": 0
+        },
+        {
+            "$id": "101",
+            "id": "0a00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Trim",
+            "count": 0
+        },
+        {
+            "$id": "102",
+            "id": "0d00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vacuum Cleaner",
+            "count": 0
+        },
+        {
+            "$id": "103",
+            "id": "0f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vertical Body Panel",
+            "count": 0
+        },
+        {
+            "$id": "104",
+            "id": "1000ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Washing Machine",
+            "count": 0
+        },
+        {
+            "$id": "105",
+            "id": "1600ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wheel Cover",
+            "count": 0
+        },
+        {
+            "$id": "106",
+            "id": "1b00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window",
+            "count": 0
+        },
+        {
+            "$id": "107",
+            "id": "1700ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window Frame",
+            "count": 0
+        },
+        {
+            "$id": "108",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "109",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "110",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "111",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "112",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "113",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "114",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "115",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Crash and Chassis",
+            "id": "1bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "116",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Exteriors",
+            "id": "35ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "117",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "118",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Lighting",
+            "id": "33ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "119",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "120",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "121",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "122",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "123",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "id": "2fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "124",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "125",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "126",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Heavy Truck",
+            "id": "0affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "127",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "128",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Decoration",
+            "id": "16ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "129",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "130",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "id": "34ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "131",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Outdoor, Lawn and Landscape",
+            "id": "05ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "132",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "133",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Recreation",
+            "id": "27ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "134",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "id": "13ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "135",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "id": "31ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "136",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory and Sleep Therapy",
+            "id": "1effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "137",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "138",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "139",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "140",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Management",
+            "id": "07ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

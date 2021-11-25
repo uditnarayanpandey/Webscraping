@@ -1,0 +1,802 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "ca0421ab-babf-e711-80fd-005056857ef3",
+            "title": "140S",
+            "summary": "SABIC\u00ae POM 140S is an easy flowing grade suitable for injection molding applications for precision molded parts and thinwalled\nmolded parts require high rigidity.",
+            "description": "SABIC\u00ae POM 140S is an easy flowing grade suitable for injection molding applications for precision molded parts and thinwalled\nmolded parts require high rigidity.",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-POM-140S-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-140s-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2972cec9-85c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-POM-140S-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-140s-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a9a46a24-86c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POM-140S-SDS-en-2018-05-31",
+                    "url": "/en/products/documents/sabic-pom-140s-sds-en-2018-05-31/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5adc72b5-cd64-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-POM-140S-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-140s-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6fb6ae7b-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-POM-140S-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-140s-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3a650a96-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-POM-140S-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-140s-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d7dd74e6-3be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae POM_140S_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pom_140s_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c4482bde-bbbf-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "647b1755-4d6b-e911-8101-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "657b1755-4d6b-e911-8101-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "140s"
+        },
+        {
+            "$id": "5",
+            "id": "b87e6629-08bf-e711-80fd-005056857ef3",
+            "title": "280S",
+            "summary": "SABIC\u00ae POM 280S is a very easy flowing grade for injection molding applications requiring with high rigidity and hardness.",
+            "description": "SABIC\u00ae POM 280S is a very easy flowing grade for injection molding applications requiring with high rigidity and hardness.",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-POM-280S-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-280s-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9b5d689a-87c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-POM-280S-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-280s-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "48afbeb3-87c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SABIC\u00ae POM-280S-SDS-Global-en-2018-05-31",
+                    "url": "/en/products/documents/sabic-sabic-pom-280s-sds-global-en-2018-05-31/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "48f0f8db-cd64-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-POM-280S-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-280s-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "72b6ae7b-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-POM-280S-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-280s-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3d650a96-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-POM-280S-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-280s-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e20496ee-3be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae POM_280S_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pom_280s_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "9c228a3b-09bf-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "6",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a2bf0483-4d6b-e911-8101-005056857ef3"
+                },
+                {
+                    "$id": "7",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a3bf0483-4d6b-e911-8101-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "280s"
+        },
+        {
+            "$id": "8",
+            "id": "88f46530-06bf-e711-80fd-005056857ef3",
+            "title": "30RE",
+            "summary": "SABIC\u00ae POM 30RE is a special grade for Rods and Extrusion sheet applications free of center porosity in large diameter and\nthickness.",
+            "description": "SABIC\u00ae POM 30RE is a special grade for Rods and Extrusion sheet applications free of center porosity in large diameter and\nthickness.",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-POM-30RE-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-30re-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b3e8e169-86c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-POM-30RE-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-30re-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c5faad7d-86c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POM-30RE-SDS-en-2018-05-31",
+                    "url": "/en/products/documents/sabic-pom-30re-sds-en-2018-05-31/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "28ac70b9-ca64-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-POM-30RE-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-30re-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8cf1aa81-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-POM-30RE-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-30re-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b00f069c-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-POM-30RE-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-30re-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e50496ee-3be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae POM_30RE_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pom_30re_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "aa6133fc-06bf-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "9",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "14630fdf-4b6b-e911-8101-005056857ef3"
+                },
+                {
+                    "$id": "10",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "15630fdf-4b6b-e911-8101-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "30re"
+        },
+        {
+            "$id": "11",
+            "id": "74a17b42-03bf-e711-80fd-005056857ef3",
+            "title": "30S",
+            "summary": "SABIC\u00ae POM 30S is a high molecular weight copolymer POM grade suitable for injection molding and extrusion applications\nfor parts requiring rigidity and strength for many applications.",
+            "description": "SABIC\u00ae POM 30S is a high molecular weight copolymer POM grade suitable for injection molding and extrusion applications\nfor parts requiring rigidity and strength for many applications.",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-POM-30S-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-30s-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8305c1e5-87c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-POM-30S-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-30s-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "90783308-88c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POM-30S-SDS-en-2018-05-31",
+                    "url": "/en/products/documents/sabic-pom-30s-sds-en-2018-05-31/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "112a6ff5-ca64-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-POM-30S-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-30s-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8ff1aa81-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-POM-30S-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-30s-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b30f069c-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-POM-30S-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-30s-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "21645af6-3be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae POM_30S_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pom_30s_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "02d1de72-07bf-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "12",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "97f6ea57-4c6b-e911-8101-005056857ef3"
+                },
+                {
+                    "$id": "13",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "98f6ea57-4c6b-e911-8101-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "30s"
+        },
+        {
+            "$id": "14",
+            "id": "53c1cef3-b8bf-e711-80fd-005056857ef3",
+            "title": "460S",
+            "summary": "SABIC\u00ae POM 460S is an extremely easy flowing grade suitable for injection molding applications for very thin-walled\nprecision molded parts with critical flow-path-wall thickness relation; the grade permits processing at reduced\ntemperature, shorter cycle times suitable for many parts.",
+            "description": "SABIC\u00ae POM 460S is an extremely easy flowing grade suitable for injection molding applications for very thin-walled\nprecision molded parts with critical flow-path-wall thickness relation; the grade permits processing at reduced\ntemperature, shorter cycle times suitable for many parts.",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-POM-460S-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-460s-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0a229a77-88c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-POM-460S-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-460s-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "fbda748b-88c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POM-460S-SDS-en-2018-05-31",
+                    "url": "/en/products/documents/sabic-pom-460s-sds-en-2018-05-31/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2d731206-ce64-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-POM-460S-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-460s-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "92f1aa81-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-POM-460S-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-460s-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b60f069c-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-POM-460S-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-460s-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "24645af6-3be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae POM_460S_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pom_460s_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "88dedd4f-babf-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "15",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "1b21e50f-4e6b-e911-8101-005056857ef3"
+                },
+                {
+                    "$id": "16",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "1c21e50f-4e6b-e911-8101-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "460s"
+        },
+        {
+            "$id": "17",
+            "id": "019bd198-32be-e711-80fd-005056857ef3",
+            "title": "90S",
+            "summary": "SABIC\u00ae POM 90S is a medium molecular weight grade suitable for Injection molding applications for parts requiring high rigidity and strength for many applications.",
+            "description": "SABIC\u00ae POM 90S is a medium molecular weight grade suitable for Injection molding applications for parts requiring high rigidity and strength for many applications.",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-POM-90S-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-90s-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0430b438-88c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae POM-90S-SDS-Global-en-2018-05-31",
+                    "url": "/en/products/documents/sabic-pom-90s-sds-global-en-2018-05-31/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b3d3c179-d2e1-e811-80ff-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-POM-90S-REAH-Global-en-2021-07-15",
+                    "url": "/en/products/documents/sabic-pom-90s-reah-global-en-2021-07-15/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "bf41f579-f9a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-POM-90S-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-90s-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "95f1aa81-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-POM-90S-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-90s-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b90f069c-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-POM-90S-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-90s-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3fcd9e00-3ce5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae POM_90S_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pom_90s_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f7b425fe-07bf-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "MEA",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "18",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "e40eb842-7be5-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "19",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "e50eb842-7be5-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "90s"
+        },
+        {
+            "$id": "20",
+            "id": "698d4dd5-14be-e711-80fd-005056857ef3",
+            "title": "MV 002",
+            "summary": "SABIC\u00ae POM MV 002 is a Polyoxymethylene copolymer grade with medium-viscosity, used for general-purpose injection molded applications.",
+            "description": "SABIC\u00ae POM MV 002 is a Polyoxymethylene copolymer grade with medium-viscosity, used for general-purpose injection molded applications.",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-POM-MV 002-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-mv-002-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "eecc81db-88c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-POM-MV 002-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-mv-002-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "40ede5eb-88c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-POM-MV 002-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-mv-002-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "292ada87-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-POM-MV 002-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-pom-mv-002-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "bc0f069c-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae POM_MV 002_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pom_mv-002_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "cfe89744-d6be-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "21",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "44b8ff7b-16be-e711-80fd-005056857ef3"
+                },
+                {
+                    "$id": "22",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [],
+                    "countries": [
+                        "360a1e3f-2a62-e711-a975-024771460781"
+                    ],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "45b8ff7b-16be-e711-80fd-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mv-002"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "23",
+            "id": "9a7bffa6-4015-e711-80fb-005056857ef3",
+            "title": "Automotive ",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "24",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

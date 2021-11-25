@@ -1,0 +1,319 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "b4dba49b-fdbe-e711-80fd-005056857ef3",
+            "title": "90GV10",
+            "summary": "SABITAL\u2122 90GV10 is POM copolymer compounded with glass fibers for injection molding applications, it is reinforced with ca. 10% glass fibers for application requiring high stiffness, strength and thermal property.",
+            "description": "SABITAL\u2122 90GV10 is POM copolymer compounded with glass fibers for injection molding applications, it is reinforced with ca. 10% glass fibers for application requiring high stiffness, strength and thermal property.",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae SABITAL\u2122 90GV10 MSDS",
+                    "url": "/en/products/documents/sabic-sabital-90gv10-msds/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "821dc8d2-01bf-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SABITAL\u2122-90GV10-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-sabital-90gv10-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "fdc4ef40-87c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SABITAL\u2122-90GV10-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-sabital-90gv10-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "078d1d5b-87c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SABITAL\u2122-90GV10-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-sabital-90gv10-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2c2ada87-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SABITAL\u2122-90GV10-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-sabital-90gv10-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "bf0f069c-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae SABITAL\u2122_90GV10_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-sabital-_90gv10_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0cb0ae01-01bf-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "90gv10"
+        },
+        {
+            "$id": "3",
+            "id": "9174b969-dfbe-e711-80fd-005056857ef3",
+            "title": "90GV20",
+            "summary": "SABITAL\u2122 90GV20 is POM copolymer compounded with glass fibers for injection molding applications, it is reinforced with\nca. 20% glass fibers for application requiring high stiffness, strength and thermal property.",
+            "description": "SABITAL\u2122 90GV20 is POM copolymer compounded with glass fibers for injection molding applications, it is reinforced with\nca. 20% glass fibers for application requiring high stiffness, strength and thermal property.",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae SABITAL\u2122 90GV20 MSDS",
+                    "url": "/en/products/documents/sabic-sabital-90gv20-msds/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0f554c51-05bf-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SABITAL\u2122-90GV20-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-sabital-90gv20-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "218891b5-86c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SABITAL\u2122-90GV20-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-sabital-90gv20-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8ee35ccf-86c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SABITAL\u2122-90GV20-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-sabital-90gv20-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2f2ada87-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SABITAL\u2122-90GV20-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-sabital-90gv20-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c20f069c-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae SABITAL\u2122_90GV20_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-sabital-_90gv20_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2ecf55df-fbbe-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "4",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "71ac2ddc-4e6b-e911-8101-005056857ef3"
+                },
+                {
+                    "$id": "5",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "72ac2ddc-4e6b-e911-8101-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "90gv20"
+        },
+        {
+            "$id": "6",
+            "id": "2ccb1714-02bf-e711-80fd-005056857ef3",
+            "title": "90GV30",
+            "summary": "SABITAL\u2122 90GV30 is POM copolymer compounded with glass fibers for injection molding applications, it is reinforced with\nca. 25% glass fibers for application requiring very high stiffness, strength and thermal property.",
+            "description": "SABITAL\u2122 90GV30 is POM copolymer compounded with glass fibers for injection molding applications, it is reinforced with\nca. 25% glass fibers for application requiring very high stiffness, strength and thermal property.",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae SABITAL\u2122 90GV30 MSDS",
+                    "url": "/en/products/documents/sabic-sabital-90gv30-msds/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6817fa03-03bf-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SABITAL\u2122-90GV30-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-sabital-90gv30-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5f1a1ffe-86c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SABITAL\u2122-90GV30-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-sabital-90gv30-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9f72c513-87c4-e711-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SABITAL\u2122-90GV30-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-sabital-90gv30-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "322ada87-a8a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SABITAL\u2122-90GV30-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-sabital-90gv30-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c50f069c-76ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae SABITAL\u2122_90GV30_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-sabital-_90gv30_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "5347550a-05bf-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "7",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "71eba215-4f6b-e911-8101-005056857ef3"
+                },
+                {
+                    "$id": "8",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "72eba215-4f6b-e911-8101-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "90gv30"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "9",
+            "id": "9a7bffa6-4015-e711-80fb-005056857ef3",
+            "title": "Automotive ",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "10",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "12",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "13",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

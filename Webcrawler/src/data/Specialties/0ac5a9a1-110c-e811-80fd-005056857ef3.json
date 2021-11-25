@@ -1,0 +1,83 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "4a8444a8-1d1e-e811-80fd-005056857ef3",
+            "title": "PPPBP bisphenol",
+            "summary": "2 - Phenyl 3,3' Bis (4-Hydroxy Phenyl) Phthalimide: SABIC PPPBP-1000 is available globally and at commercial scale.",
+            "description": "2 - Phenyl 3,3' Bis (4-Hydroxy Phenyl) Phthalimide: SABIC PPPBP-1000 is available globally and at commercial scale. With a unique property profile, including reactivity, chemical functionality and high purity, potential uses include building blocks for epoxies and other phenolic chemistries. Compared to other common bisphenols, it can significantly enhance glass transition temperatures and lower shrinkage.",
+            "applications": [
+                "Tire"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Datasheet",
+                    "title": "SABIC SPECIALTY BISPHENOLS - PPPBP - Datasheet",
+                    "url": "/en/products/documents/sabic-specialty-bisphenols-pppbp-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "cfa4e370-0034-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Materials"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pppbp-bisphenol"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "3",
+            "id": "d8162da8-08e9-e611-80fb-005056857ef3",
+            "title": "Tire",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "4",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "5",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "8",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Materials",
+            "id": "18ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

@@ -1,0 +1,287 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "ecfdec80-c164-eb11-8108-005056857ef3",
+            "title": "SABIC\u00ae PG Circular Propylene",
+            "summary": "Propylene is a non-toxic, non-corrosive, colorless gas with very little odor.",
+            "description": "Propylene is a non-toxic, non-corrosive, colorless gas with very little odor. It burns readily in the presence of oxygen with a luminous flame.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PG Circular Propylene_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pg-circular-propylene_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "716fd170-3765-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "b3db06d7-2e65-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a8e94104-d0cd-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "f2af68e3-2e65-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a9e94104-d0cd-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "5",
+                    "contact": "2e24ebc9-8905-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "aae94104-d0cd-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [
+                "a00e6af7-ee5e-eb11-8108-005056857ef3"
+            ],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-pg-circular-propylene"
+        },
+        {
+            "$id": "6",
+            "id": "1ac9aebd-9fc7-e611-8197-06b69393ae39",
+            "title": "SABIC\u00ae PG Propylene",
+            "summary": "Propylene is a non-toxic, non-corrosive, colorless gas with very little odor.",
+            "description": "Propylene is a non-toxic, non-corrosive, colorless gas with very little odor. It burns readily in the presence of oxygen with a luminous flame.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-PG Propylene-SDS-Global-en-2021-05-17",
+                    "url": "/en/products/documents/sabic-pg-propylene-sds-global-en-2021-05-17/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a05d0b7e-17b7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PG Propylene_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pg-propylene_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "31c4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PG Propylene_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pg-propylene_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "ce751e14-c164-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "7",
+                    "contact": "b3db06d7-2e65-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "4db81e64-d0cd-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "8",
+                    "contact": "2e24ebc9-8905-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "4eb81e64-d0cd-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "9",
+                    "contact": "f2af68e3-2e65-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "4fb81e64-d0cd-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-pg-propylene"
+        },
+        {
+            "$id": "10",
+            "id": "ebc3042b-c164-eb11-8108-005056857ef3",
+            "title": "SABIC\u00ae PG Renewable Propylene",
+            "summary": "Propylene is a non-toxic, non-corrosive, colorless gas with very little odor.",
+            "description": "Propylene is a non-toxic, non-corrosive, colorless gas with very little odor. It burns readily in the presence of oxygen with a luminous flame.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PG Renewable Propylene_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pg-renewable-propylene_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "9bd01da2-3265-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "11",
+                    "contact": "b3db06d7-2e65-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "919f1813-d0cd-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "12",
+                    "contact": "2e24ebc9-8905-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "929f1813-d0cd-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "13",
+                    "contact": "f2af68e3-2e65-eb11-8108-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "939f1813-d0cd-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [
+                "a00e6af7-ee5e-eb11-8108-005056857ef3"
+            ],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-pg-renewable-propylene"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "14",
+            "id": "313ee29e-8cc7-e611-8197-06b69393ae39",
+            "title": "Placeholder - please replace me",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "15",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

@@ -1,0 +1,291 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "24a82b06-b342-eb11-8106-005056857ef3",
+            "title": "SABIC STABILIZED UREA",
+            "summary": "SABIC Stabilized Urea coated with urease inhibitor is a new innovative product from SABIC to protect the customer\u2019s nitrogen investment.  SABIC Stabilized Urea has two urease inhibitors that together are more effective on the range of soil urease enzymes than a single inhibitor to prevent volatilization and Urea lost up to 90%. Greater urea protection leads to improved nitrogen availability during critical crop-growth stages for more consistent yields.",
+            "description": "SABIC Stabilized Urea coated with urease inhibitor is a new innovative product from SABIC to protect the customer\u2019s nitrogen investment.  SABIC Stabilized Urea has two urease inhibitors that together are more effective on the range of soil urease enzymes than a single inhibitor to prevent volatilization and Urea lost up to 90%. Greater urea protection leads to improved nitrogen availability during critical crop-growth stages for more consistent yields.",
+            "applications": [
+                "fertilizer"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-STABILIZED UREA-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-stabilized-urea-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1650e8a4-90b8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-STABILIZED UREA-SDS-MEA-Saudi Arabia-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-stabilized-urea-sds-mea-saudi-arabia-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "id": "b866e9cc-90b8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC STABILIZED UREA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-stabilized-urea_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "ce4c3220-b442-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Americas",
+                "Asia",
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic-stabilized-urea"
+        },
+        {
+            "$id": "3",
+            "id": "1c1a3c01-83f2-ea11-8105-005056857ef3",
+            "title": "SABIC UCS 27",
+            "summary": "SABIC UCS is a specially designed patented Nitrogenous compound fertilizer for field application.\nSABIC research has developed this product which contains three essential plant nutrients: Nitrogen, Sulfur, and Calcium.",
+            "description": "UCS 27 is one of the Nitrogen fertilizers offered by SABIC. This is fully granular product with three essential elements (Nitrogen, Sulfur and Calcium) making it an important contributor to efficient nutrient distribution. Furthermore, it improves the nutrient uptake efficiency. (27 N + 7 S + 9 Ca).",
+            "applications": [
+                "fertilizer"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-UCS 27-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-ucs-27-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ac89a5d6-9bb8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-UCS 27-SDS-MEA-Saudi Arabia-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-ucs-27-sds-mea-saudi-arabia-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "id": "39a7b200-9cb8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC UCS 27_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ucs-27_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1ffc8944-2e2e-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Americas",
+                "Asia",
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic-ucs-27"
+        },
+        {
+            "$id": "4",
+            "id": "9f35192b-52f6-ea11-8105-005056857ef3",
+            "title": "SABIC UCS 33",
+            "summary": "SABIC UCS is a specially designed patented Nitrogenous compound fertilizer for field application.\nSABIC research has developed this product which contains three essential plant nutrients: Nitrogen, Sulfur, and Calcium.",
+            "description": "UCS 33 is one of the Nitrogen fertilizers offered by SABIC. This is fully granular product with three essential elements (Nitrogen, Sulfur and Calcium) making it an important contributor to efficient nutrient distribution. Furthermore, it improves the nutrient uptake efficiency. (33N + 5S + 5Ca).",
+            "applications": [
+                "fertilizer"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-UCS 33-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-ucs-33-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "99b16f67-99b8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-UCS 33-SDS-MEA-Saudi Arabia-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-ucs-33-sds-mea-saudi-arabia-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "id": "275a3ca9-9bb8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC UCS 33_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-ucs-33_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "9149aa79-2e2e-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Americas",
+                "Asia",
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic-ucs-33"
+        },
+        {
+            "$id": "5",
+            "id": "12eec473-d349-eb11-8106-005056857ef3",
+            "title": "SABIC ZINC COATED UREA",
+            "summary": "SABIC ZINC COATED UREA is specifically designed to address the zinc deficiency across all soil types. As part of the SABIC Agri-nutrient specialty product portfolio, SABIC has developed a formulation where zinc is more readily available to the plant as and when required. The new formulation avoids precipitation with other major nutrients.",
+            "description": "SABIC ZINC COATED UREA is specifically designed to address the zinc deficiency across all soil types. As part of the SABIC Agri-nutrient specialty product portfolio, SABIC has developed a formulation where zinc is more readily available to the plant as and when required. The new formulation avoids precipitation with other major nutrients.",
+            "applications": [
+                "fertilizer"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-ZINC COATED UREA-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-zinc-coated-urea-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f9f03617-98b8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SABIC ZINC COATED UREA-SDS-MEA-Saudi Arabia-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-sabic-zinc-coated-urea-sds-mea-saudi-arabia-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "id": "072abfbc-98b8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC ZINC COATED UREA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-zinc-coated-urea_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "eb311f18-5071-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Americas",
+                "Asia",
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic-zinc-coated-urea"
+        },
+        {
+            "$id": "6",
+            "id": "52f56964-3977-eb11-8108-005056857ef3",
+            "title": "Urea Plus Humic Acid",
+            "summary": "SABIC Agri-Nutrients introduces Urea Plus Humic Acid \u2013 Granular Urea coated with high efficinct Humic Acid which will enhance the nutrients effectiveness in soil and improve nitrogen use efficiency. This new Urea Plus Humic Acid is 100% soluble and can be used for soil application or by fertigation.",
+            "description": "SABIC Agri-Nutrients introduces Urea Plus Humic Acid \u2013 Granular Urea coated with high efficient Humic Acid which will enhance the nutrients effectiveness in soil and improve nitrogen use efficiency. This new Urea Plus Humic Acid is 100% soluble and can be used for soil application or by fertigation.",
+            "applications": [
+                "fertilizer"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-Urea Plus Humic Acid-SDS-MEA-Saudi Arabia-en-2021-06-01",
+                    "url": "/en/products/documents/sabic-urea-plus-humic-acid-sds-mea-saudi-arabia-en-2021-06-01/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "id": "917220ec-78ce-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-Urea Plus Humic Acid-SDS-Global-en-2021-06-01",
+                    "url": "/en/products/documents/sabic-urea-plus-humic-acid-sds-global-en-2021-06-01/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "455138ec-79ce-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "Urea Plus Humic Acid_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/urea-plus-humic-acid_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2a31bbe1-fd86-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Americas",
+                "Asia",
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "urea-plus-humic-acid"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "7",
+            "id": "d8f857b6-e371-eb11-8108-005056857ef3",
+            "title": "fertilizer",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "8",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

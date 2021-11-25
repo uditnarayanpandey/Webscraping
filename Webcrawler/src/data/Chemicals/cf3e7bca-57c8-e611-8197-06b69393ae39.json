@@ -1,0 +1,120 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "1081fbd8-57c8-e611-8197-06b69393ae39",
+            "title": "VCM",
+            "summary": "Vinyl Chloride Monomer (VCM, Monochloroethylene) is a reactive gas with a faint odor and is extremely flammable.",
+            "description": "Vinyl Chloride Monomer (VCM, Monochloroethylene) is a reactive gas with a faint odor and is extremely flammable. Under refrigeration, VCM is converted into liquid with a density of 0.91 gm/cc. VCM is sparingly soluble in water and soluble in alcohol.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-VCM-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-vcm-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3351a2b8-8eb8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "VCM_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/vcm_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a3af102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "ebf1be0a-5862-e811-80fe-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "18eba8d0-8eb8-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "aaa5a8f4-9981-e711-80fc-005056857ef3",
+                    "contactRoles": [
+                        "949d4a7a-cf37-4938-98e4-4dbd59741ee6"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "19eba8d0-8eb8-eb11-8109-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "vcm"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "5",
+            "id": "313ee29e-8cc7-e611-8197-06b69393ae39",
+            "title": "Placeholder - please replace me",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "6",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

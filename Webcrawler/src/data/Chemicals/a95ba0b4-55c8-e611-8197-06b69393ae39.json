@@ -1,0 +1,135 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "7c422852-b56b-eb11-8108-005056857ef3",
+            "title": "SABIC\u00ae BIO - Methyl Tertiary Butyl Ether (BIO-MTBE)",
+            "summary": "Methyl Tertiary Butyl Ether (MTBE) is a volatile, flammable and colorless liquid with a distinctive mild odor.",
+            "description": "Methyl Tertiary Butyl Ether (MTBE) is a volatile, flammable and colorless liquid with a distinctive mild odor. Its principal characteristics are miscibility with gasoline, low blending vapor pressure and distillation properties. MTBE is slightly soluble in water without phase separation problems. Compared to other oxygenated fuels, it has lower blending density, lower blending vapor pressure and no corrosion problems.\nBIO-MTBE contains 0.3635% bio-methanol which is produced from advanced feedstock, listed in Annex IX part A of the Renewable Energy Directive.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae BIO - Methyl Tertiary Butyl Ether (BIO-MTBE)_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-bio-methyl-tertiary-butyl-ether-bio-mtbe-_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "cc81e420-b66b-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-bio---methyl-tertiary-butyl-ether-(bio-mtbe)"
+        },
+        {
+            "$id": "3",
+            "id": "cc23a3c1-55c8-e611-8197-06b69393ae39",
+            "title": "SABIC\u00ae Methyl Tertiary Butyl Ether (MTBE)",
+            "summary": "Methyl Tertiary Butyl Ether (MTBE) is a volatile, flammable and colorless liquid with a distinctive mild odor.",
+            "description": "Methyl Tertiary Butyl Ether (MTBE) is a volatile, flammable and colorless liquid with a distinctive mild odor. Its principal characteristics are miscibility with gasoline, low blending vapor pressure and distillation properties. MTBE is slightly soluble in water without phase separation problems. Compared to other oxygenated fuels, it has lower blending density, lower blending vapor pressure and no corrosion problems.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-Methyl Tertiary Butyl Ether (MTBE)-SDS-Asia-China-en-2021-05-18",
+                    "url": "/en/products/documents/sabic-methyl-tertiary-butyl-ether-mtbe-sds-asia-china-en-2021-05-18/en",
+                    "language": "English",
+                    "country": "290a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "6a8bb9c3-d5b7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-Methyl Tertiary Butyl Ether (MTBE)-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-methyl-tertiary-butyl-ether-mtbe-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d688c238-7bb8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Methyl Tertiary Butyl Ether (MTBE)_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-methyl-tertiary-butyl-ether-mtbe-_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a7af102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Methyl Tertiary Butyl Ether (MTBE)_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-methyl-tertiary-butyl-ether-mtbe-_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "00fa10b4-b46b-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-methyl-tertiary-butyl-ether-(mtbe)"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "4",
+            "id": "313ee29e-8cc7-e611-8197-06b69393ae39",
+            "title": "Placeholder - please replace me",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "5",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

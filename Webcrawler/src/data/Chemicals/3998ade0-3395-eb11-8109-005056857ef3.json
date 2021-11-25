@@ -1,0 +1,90 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "6cb5fb2b-3495-eb11-8109-005056857ef3",
+            "title": "SABIC \u00ae Butoxy Glycol Ether (EB)",
+            "summary": "Butoxy Glycol Ether (EB) fast-evaporating glycol ether with an excellent balance of hydrophilic and hydrophobic character; excellent active solvency and coupling properties.",
+            "description": "Butoxy Glycol Ether (EB) is fast-evaporating glycol ether with an excellent balance of hydrophilic and hydrophobic character; excellent active solvency and coupling properties. Butoxy Glycol Ether (EB) is a very versatile solvent product with a good balance of many different properties. With a nearly equal balance of hydrophobic and hydrophilic character,  Butoxy Glycol Ether (EB) provides excellent performance in coatings, cleaners, and many other types of products. Butoxy Glycol Ether (EB) is compatible with a wide range of resin types, and it also offers 100% water solubility.",
+            "applications": [
+                "Printing inks",
+                "Coating"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC \u00ae Butoxy Glycol Ether (EB)-SDS-Global-en",
+                    "url": "/en/products/documents/sabic-butoxy-glycol-ether-eb-sds-global-en/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1c0cc757-7bce-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC \u00ae Butoxy Glycol Ether (EB)_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-butoxy-glycol-ether-eb-_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "cefe35df-3495-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic-\u00ae-butoxy-glycol-ether-(eb)"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "3",
+            "id": "c866d589-10be-eb11-8109-005056857ef3",
+            "title": "Printing inks",
+            "count": 0
+        },
+        {
+            "$id": "4",
+            "id": "22b8db3f-0a92-439a-a2dd-63fa0a52ad89",
+            "title": "Coating",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "5",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

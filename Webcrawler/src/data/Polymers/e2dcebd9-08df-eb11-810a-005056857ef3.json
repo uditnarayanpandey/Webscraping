@@ -1,0 +1,182 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "2eeee209-09df-eb11-810a-005056857ef3",
+            "title": "S27",
+            "summary": "Polyamide 6, low viscosity with IV of 2.7",
+            "description": "SABIC\u00ae PA S27 is a general purpose polyamide 6 resin of low viscosity.\n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Composite",
+                "Masterbatch"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PA6_S27_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pa6_s27_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211012",
+                    "id": "b9b8f7e7-c8f5-eb11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "b4eb5364-472b-ec11-810c-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "b5eb5364-472b-ec11-810c-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s27"
+        },
+        {
+            "$id": "5",
+            "id": "a4f839d0-1016-ec11-810a-005056857ef3",
+            "title": "S32",
+            "summary": "Polyamide 6, medium viscosity with IV of 3.2",
+            "description": "SABIC\u00ae PA S32 is a general purpose polyamide 6 resin of medium viscosity.\n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Masterbatch"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC-SABIC\u00ae PA6-S32-SDSR-Global-en-2021-10-12",
+                    "url": "/en/products/documents/sabic-sabic-pa6-s32-sdsr-global-en-2021-10-12/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "be09fd00-312b-ec11-810c-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae PA6_S32_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-pa6_s32_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211012",
+                    "id": "37c34184-1316-ec11-810a-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "6",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "8a3a8348-472b-ec11-810c-005056857ef3"
+                },
+                {
+                    "$id": "7",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "8b3a8348-472b-ec11-810c-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s32"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "8",
+            "id": "66ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Composite",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "8e1267b2-3402-4a11-a323-4e33df0d3572",
+            "title": "Masterbatch",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "10",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "12",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "13",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

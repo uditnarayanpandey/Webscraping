@@ -1,0 +1,2270 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "5ef442fe-1fc6-46e9-832b-47c5e123c503",
+            "title": "20YK270",
+            "summary": "SABIC\u00ae PP Homopolymer 20% LGF, Tensile modulus 4500 MPa, Charpy(23 \u00b0C) 19 kJ/m\u00b2",
+            "description": "SABIC\u00ae STAMAX 20YK270 is a 20% long glass fiber reinforced grade with improved impact and flow properties. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 80929423",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-20YK270-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20yk270-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "072082ba-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "20YK270\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/20yk270-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4dc1094f-b469-4186-bb4b-0a546b186800"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-20YK270-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20yk270-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "001889c2-4f8d-46ef-9c23-aa92e41bb248"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-20YK270-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20yk270-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "acf55cce-2aa5-45dd-8170-bc4d7d51950e"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-20YK270-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20yk270-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "affe1441-fde3-4432-beec-e0042132c6bc"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fiber reinforced impact modified [PP-I-GF] [06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fiber-reinforced-impact-modified-pp-i-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "7c00f34d-d00d-4e13-b609-fa0ef14decd2"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_20YK270_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_20yk270_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "72ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "20yk270"
+        },
+        {
+            "$id": "3",
+            "id": "cc593a49-60d6-4c92-a2b3-7b24eb0af73c",
+            "title": "20YK270E",
+            "summary": "SABIC\u00ae PP Homopolymer 20% LGF, Tensile modulus 4500 MPa, Charpy(23 \u00b0C) 19 kJ/m\u00b2",
+            "description": "SABIC\u00ae STAMAX\u2122 20YK270E is a 20% long glass fiber reinforced low emission grade with improved impact and flow properties.The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 80929423",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-20YK270E-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20yk270e-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0a2082ba-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-20YK270E-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20yk270e-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a53d4b07-9d05-4312-95d2-1f0869dd00c6"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-20YK270E-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20yk270e-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0bd618a2-56ec-4fd5-bb75-5ccbc4dd48d3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-20YK270E-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20yk270e-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a5a610f5-a921-4e05-ad94-72fc8dd8051c"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "20YK270E\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/20yk270e-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "569df4aa-932b-43e7-a8b4-9a8b79fe7c99"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fiber reinforced impact modified [PP-I-GF] [06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fiber-reinforced-impact-modified-pp-i-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "7c00f34d-d00d-4e13-b609-fa0ef14decd2"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_20YK270E_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_20yk270e_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a6ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "20yk270e"
+        },
+        {
+            "$id": "4",
+            "id": "c9080fad-911e-403b-9bfe-255f6840460d",
+            "title": "20YK270EE",
+            "summary": "SABIC\u00ae PP Homopolymer 20% LGF, Tensile modulus 4500 MPa, Charpy(23 \u00b0C) 19 kJ/m\u00b2",
+            "description": "SABIC\u00ae STAMAX\u2122 20YK270EE is a 20% long glass fiber reinforced low emission grade with improved impact and flow properties. The glass fibers are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 577962470",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-20YK270EE-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20yk270ee-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8bc4ac1c-12a4-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-20YK270EE-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20yk270ee-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c9b379da-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-20YK270EE-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20yk270ee-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0d2082ba-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-20YK270EE-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20yk270ee-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "84b857e7-30af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fiber reinforced impact modified [PP-I-GF] [06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fiber-reinforced-impact-modified-pp-i-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "7c00f34d-d00d-4e13-b609-fa0ef14decd2"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_20YK270EE_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_20yk270ee_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d0c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "20yk270ee"
+        },
+        {
+            "$id": "5",
+            "id": "23a37a63-8ce5-44de-bfc8-f55d1ef8af06",
+            "title": "20YM240",
+            "summary": "SABIC\u00ae PP Homopolymer 20% LGF, Tensile modulus 4600 MPa, Charpy(23 \u00b0C) 14 kJ/m\u00b2",
+            "description": "SABIC\u00ae STAMAX\u2122 20YM240 is a 20% long glass fiber reinforced grade. The glass fibers are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 62455287",
+            "applications": [
+                "Under the hood"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-20YM240-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20ym240-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "db8ef8cf-26a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-20YM240-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20ym240-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ccb379da-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-20YM240-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20ym240-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "11e9a3c0-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-20YM240-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20ym240-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "87b857e7-30af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "20YM240\\00900-End of Life declaration",
+                    "url": "/en/products/documents/20ym240-00900-end-of-life-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "28b4771f-e1b8-4070-be2e-118facfd2754"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "20YM240\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/20ym240-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "caf4590e-dbab-4fa0-b3fe-3e107c5e943e"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "20YM240\\00900-General absence declaration",
+                    "url": "/en/products/documents/20ym240-00900-general-absence-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c68b848e-23cb-4d0f-843b-a31cc6017101"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC\u00ae STAMAX\u2122-20YM240-REAH-Global-en-2018-01-16",
+                    "url": "/en/products/documents/sabic-stamax-20ym240-reah-global-en-2018-01-16/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "51a44586-836a-4b6e-b87a-f30bfe37f9e7"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_20YM240_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_20ym240_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "07cb102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "20ym240"
+        },
+        {
+            "$id": "6",
+            "id": "77bef5c2-aa69-4918-ac13-766c73c7e3df",
+            "title": "20YM243",
+            "summary": "SABIC\u00ae PP Homopolymer 20% LGF, Tensile modulus 4600 MPa, Charpy(23 \u00b0C) 14 kJ/m\u00b2",
+            "description": "SABIC\u00ae STAMAX\u2122 20YM243 is a 20% long glass fiber reinforced UV stabilized grade. The glass fibers are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 509764616",
+            "applications": [
+                "Exterior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-20YM243-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20ym243-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d2b379da-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-20YM243-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20ym243-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "17e9a3c0-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-20YM243-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20ym243-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8db857e7-30af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-20YM243-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-20ym243-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "560a9bc5-26a1-4798-b949-88025f338599"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_20YM243_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_20ym243_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b51700a7-909f-e711-80fc-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "20ym243"
+        },
+        {
+            "$id": "7",
+            "id": "92eac598-81c3-eb11-8109-005056857ef3",
+            "title": "30YH515",
+            "summary": "SABIC\u00ae FR PP Copolymer 30% LGF, Tensile modulus 7600 MPa.",
+            "description": "STAMAX\u2122 30YH515 is a high flow, halogen free flame redardant, copolymer reinforced with 30% long glass fiber, specially developed for electrical & electronic injection molded applications. This material has been designed to combine a good performance profile with good processing.\n\nSABIC STAMAX\u2122 30YH515 is a designated injection molded grade for electrical applications.\nSTAMAX\u2122 30YH515  should be dried at 100\u00b0C for 2 hours before the injection molding.",
+            "applications": [
+                "Electrical"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_30YH515_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_30yh515_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211013",
+                    "id": "693d1272-a4c3-eb11-8109-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "30yh515"
+        },
+        {
+            "$id": "8",
+            "id": "69b81392-f8a7-eb11-8109-005056857ef3",
+            "title": "30YH530",
+            "summary": "SABIC\u00ae FR PP Copolymer 30% LGF, Tensile modulus 7200 MPa.",
+            "description": "STAMAX\u2122 30YH530 is a high flow, halogen free flame redardant, copolymer with 30% long glass fiber, developed for E&E and automotive injection molded applications. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength.This material has been designed to combine a good performance profile with good processing.\n\nSTAMAX\u2122 30YH530 should be dried at 100\u00b0C for 2 hours before the injection molding.\n\nIMDS ID: 900883933",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_30YH530_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_30yh530_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211013",
+                    "id": "8ce32312-2c20-ec11-810c-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "30yh530"
+        },
+        {
+            "$id": "9",
+            "id": "304679ee-de66-eb11-8108-005056857ef3",
+            "title": "30YH570",
+            "summary": "SABIC\u00ae FR PP Copolymer 30% LGF, Tensile modulus 7600 MPa.",
+            "description": "STAMAX\u2122 30YH570 is a high flow, halogen free flame redardant, copolymer with 30% long glass fiber, developed for E&E and automotive injection molded applications. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength.This material has been designed to combine a good performance profile with good processing.\n\nSTAMAX\u2122 30YH570 should be dried at 100\u00b0C for 2 hours before the injection molding.\n\nIMDS ID: 717262968",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_30YH570_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_30yh570_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211013",
+                    "id": "11ea572c-e366-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "30yh570"
+        },
+        {
+            "$id": "10",
+            "id": "ec78aa99-4b01-4e35-b431-d895e9fe701e",
+            "title": "30YK270",
+            "summary": "SABIC\u00ae PP Homopolymer 30% LGF, Tensile modulus 6200 MPa, Charpy(23 \u00b0C) 28 kJ/m\u00b2",
+            "description": "SABIC\u00ae STAMAX\u2122 30YK270 is a 30% long glass fiber reinforced grade with improved impact and flow properties. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 80929807",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-30YK270-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30yk270-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "83cf6fd6-26a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-30YK270-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30yk270-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "fba050e1-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-30YK270-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30yk270-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1de9a3c0-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-30YK270-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30yk270-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "93b857e7-30af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "30YK270\\00900-End of Life declaration",
+                    "url": "/en/products/documents/30yk270-00900-end-of-life-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0cfbec9b-f918-49f0-aca9-02562039d36c"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC\u00ae STAMAX\u2122-30YK270-REAH-Global-en-2018-01-16",
+                    "url": "/en/products/documents/sabic-stamax-30yk270-reah-global-en-2018-01-16/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "34c213af-792f-4894-aa9f-12d94effccbc"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "30YK270\\00900-General absence declaration",
+                    "url": "/en/products/documents/30yk270-00900-general-absence-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6ec8c82c-7acc-4b50-8e1a-163a9d0e5b14"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "30YK270\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/30yk270-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "01ccc8ae-9429-4717-891b-4464f2ddd833"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fiber reinforced impact modified [PP-I-GF] [06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fiber-reinforced-impact-modified-pp-i-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "7c00f34d-d00d-4e13-b609-fa0ef14decd2"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_30YK270_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_30yk270_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "bfc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "30yk270"
+        },
+        {
+            "$id": "11",
+            "id": "420fbd5f-56d2-4fb6-967c-703278ec59aa",
+            "title": "30YK270E",
+            "summary": "SABIC\u00ae PP Homopolymer 30% LGF, Tensile modulus 6200 MPa, Charpy(23 \u00b0C) 28 kJ/m\u00b2",
+            "description": "STAMAX\u2122 30YK270E is a 30% long glass fiber reinforced low emission grade with improved impact and flow properties. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 80929807",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-30YK270E-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30yk270e-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "98dc59c7-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-30YK270E-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30yk270e-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "cefc37c6-c4bf-412a-8825-4c0b320febc3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-30YK270E-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30yk270e-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9f8f490f-033e-4a0d-bfdd-59e22715a511"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-30YK270E-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30yk270e-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e470e659-514b-43a0-91e8-d384fb100375"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "30YK270E\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/30yk270e-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e215aae7-4c1d-41fb-84bd-f7ea4a10422f"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fiber reinforced impact modified [PP-I-GF] [06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fiber-reinforced-impact-modified-pp-i-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "7c00f34d-d00d-4e13-b609-fa0ef14decd2"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_30YK270E_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_30yk270e_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "75c3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "30yk270e"
+        },
+        {
+            "$id": "12",
+            "id": "c85d13a9-9d35-4dd1-b368-1bbe0a816db8",
+            "title": "30YK270EE",
+            "summary": "SABIC\u00ae PP Homopolymer 30% LGF, Tensile modulus 6200 MPa, Charpy(23 \u00b0C) 28 kJ/m\u00b2",
+            "description": "STAMAX\u2122 30YK270EE is a 30% long glass fiber reinforced low emission grade with improved impact and flow properties. The glass fibers are chemically coupled to the PP matrix, resulting in high stiffness and strength.\t\t\t\t\t\t\t\t\n\nIMDS ID: 80929807",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-30YK270EE-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30yk270ee-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "00a150e1-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-30YK270EE-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30yk270ee-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9bdc59c7-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-30YK270EE-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30yk270ee-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "98b857e7-30af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-30YK270EE-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30yk270ee-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1b4202a0-e084-414a-9cf2-4667a715d5c0"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fiber reinforced impact modified [PP-I-GF] [06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fiber-reinforced-impact-modified-pp-i-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "7c00f34d-d00d-4e13-b609-fa0ef14decd2"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_30YK270EE_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_30yk270ee_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "acc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "30yk270ee"
+        },
+        {
+            "$id": "13",
+            "id": "92f7f772-7eb5-4105-a783-5a6d197e43d0",
+            "title": "30YM240",
+            "summary": "SABIC\u00ae PP Homopolymer 30% LGF, Tensile modulus 6600 MPa, Charpy(23 \u00b0C) 20 kJ/m\u00b2",
+            "description": "STAMAX\u2122 30YM240 is a 30% long glass fiber reinforced grade. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength.\n\nIMDS ID: 16496906",
+            "applications": [
+                "Under the hood"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM240-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym240-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8ccf6fd6-26a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM240-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym240-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "05a150e1-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM240-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym240-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a1dc59c7-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM240-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym240-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "56c89ced-30af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "30YM240\\00900-End of Life declaration",
+                    "url": "/en/products/documents/30ym240-00900-end-of-life-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "69c43d57-6ea7-4cf3-b4b0-029dac96e7cf"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "30YM240\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/30ym240-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b6c3ff31-660c-4b3e-921a-1e8dca1f2a41"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC\u00ae STAMAX\u2122-30YM240-REAH-Global-en-2018-01-16",
+                    "url": "/en/products/documents/sabic-stamax-30ym240-reah-global-en-2018-01-16/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a25be580-e9d4-4c41-8296-3fed7c855c39"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "30YM240\\00900-General absence declaration",
+                    "url": "/en/products/documents/30ym240-00900-general-absence-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f13e039b-4175-4ac5-9c04-4b0c484bc1ee"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_30YM240_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_30ym240_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "75c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "30ym240"
+        },
+        {
+            "$id": "14",
+            "id": "ed6ee391-037e-4252-a9e7-e136023ccef2",
+            "title": "30YM240E",
+            "summary": "SABIC\u00ae PP Homopolymer 30% LGF, Tensile modulus 6600 MPa, Charpy(23 \u00b0C) 20 kJ/m\u00b2",
+            "description": "STAMAX\u2122 30YM240E is a 30% long glass fiber reinforced low emission grade. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength.\n\nIMDS ID: 16496906",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM240E-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym240e-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "050a5ecd-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM240E-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym240e-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b6634b88-3db6-40e2-b492-3b98c9a4e638"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM240E-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym240e-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c3dedb07-0463-4471-be56-5bf8854ebf3a"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "30YM240E\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/30ym240e-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c1b12542-6fa9-49f2-8614-5d61f1076664"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM240E-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym240e-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a638c37f-9588-45cf-9666-aa9d9be5648a"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_30YM240E_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_30ym240e_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "531cd9da-de92-e711-80fc-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "30ym240e"
+        },
+        {
+            "$id": "15",
+            "id": "928a6f21-f239-4a76-a82b-f5d7b39c0a64",
+            "title": "30YM241",
+            "summary": "SABIC\u00ae PP Homopolymer 30% LGF, Tensile modulus 6600 MPa, Charpy(23 \u00b0C) 20 kJ/m\u00b2",
+            "description": "STAMAX\u2122 30YM241 is a high heat resistant 30% long glass fiber reinforced grade. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 127597533",
+            "applications": [
+                "Under the hood"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM241-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym241-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "080a5ecd-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM241-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym241-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "eccfaba6-96f2-4d80-8290-066664c94f82"
+                },
+                {
+                    "documentType": "Heavy metals declaration",
+                    "title": "30YM241\\00900-Heavy metals declaration",
+                    "url": "/en/products/documents/30ym241-00900-heavy-metals-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "48d73ab4-ad03-45af-93cf-1935ae9b574e"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM241-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym241-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "fdad14be-8fe7-4560-b677-9500a0f83035"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "30YM241\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/30ym241-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d02d7535-cfd5-440b-8cbb-cd75736a1de0"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM241-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym241-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9c8b8fe1-7d78-4dd6-a8d8-f585f3494c89"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_30YM241_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_30ym241_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211008",
+                    "id": "0dc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "30ym241"
+        },
+        {
+            "$id": "16",
+            "id": "ed682272-4b28-ec11-810c-005056857ef3",
+            "title": "30YM242",
+            "summary": "SABIC\u00ae PP Homopolymer 30% LGF, Tensile modulus 6600 MPa, Charpy(23 \u00b0C) 20 kJ/m\u00b2",
+            "description": "STAMAX\u2122 30YM242 is a high heat resistant 30% long glass fiber reinforced grade. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 1062972093",
+            "applications": [
+                "Under the hood"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_30YM242_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_30ym242_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211008",
+                    "id": "a4a6b7e8-4b28-ec11-810c-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "30ym242"
+        },
+        {
+            "$id": "17",
+            "id": "b4406e0f-22d5-4531-b83a-4b3cdc89f584",
+            "title": "30YM243",
+            "summary": "SABIC\u00ae PP Homopolymer 30% LGF, Tensile modulus 6600 MPa, Charpy(23 \u00b0C) 20 kJ/m\u00b2",
+            "description": "STAMAX\u2122 30YM243 is a 30% long glass fiber reinforced UV stabilised grade. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength.\n\nIMDS ID: 106779402",
+            "applications": [
+                "Exterior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM243-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym243-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "93cf6fd6-26a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM243-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym243-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e563e8e7-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM243-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym243-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0b0a5ecd-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-30YM243-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-30ym243-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5dc89ced-30af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "30YM243\\00900-General absence declaration",
+                    "url": "/en/products/documents/30ym243-00900-general-absence-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e53bcb9f-cd3f-4068-a53f-51149645056c"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "30YM243\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/30ym243-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8cba0326-b3af-45d6-943a-714f12ec505e"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "30YM243\\00900-End of Life declaration",
+                    "url": "/en/products/documents/30ym243-00900-end-of-life-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "83374020-6d9d-4b04-9c48-a8b02efc3ab7"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC\u00ae STAMAX\u2122-30YM243-REAH-Global-en-2018-01-16",
+                    "url": "/en/products/documents/sabic-stamax-30ym243-reah-global-en-2018-01-16/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d786a2e4-44d0-48c5-822c-c5020839b4ba"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_30YM243_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_30ym243_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7bca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "30ym243"
+        },
+        {
+            "$id": "18",
+            "id": "05b7a280-3735-41fd-bf74-2813e38793ac",
+            "title": "40YM240",
+            "summary": "SABIC\u00ae PP Homopolymer 40% LGF, Tensile modulus 8200 MPa, Charpy(23 \u00b0C) 26 kJ/m\u00b2",
+            "description": "STAMAX\u2122 40YM240 is a 40% long glass fiber reinforced grade. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength.\n\nIMDS ID: 16497161",
+            "applications": [
+                "Under the hood"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-40YM240-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-40ym240-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0e0a5ecd-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-40YM240-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-40ym240-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "58911fc8-da80-4389-a6ad-0d2c2756e618"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-40YM240-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-40ym240-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b361b95d-ac2d-485b-aa74-4359da24ea61"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-40YM240-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-40ym240-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b8dfd8d2-36bc-41bc-96e5-668dc6d24fb0"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "40YM240\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/40ym240-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "427a93ef-f9ca-413a-9a8d-d7f6d2fa1905"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_40YM240_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_40ym240_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "23e83335-738f-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "40ym240"
+        },
+        {
+            "$id": "19",
+            "id": "3b85a9f0-1f82-4f06-8629-10b1df308bd9",
+            "title": "40YM240E",
+            "summary": "SABIC\u00ae PP Homopolymer 40% LGF, Tensile modulus 8200 MPa, Charpy(23 \u00b0C) 26 kJ/m\u00b2",
+            "description": "STAMAX\u2122 40YM240E is a 40% long glass fiber reinforced low emission grade. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 16497161",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-40YM240E-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-40ym240e-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "532da0d3-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-40YM240E-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-40ym240e-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "78e801b9-87b8-4d4e-9ca4-3d97a5a1b29f"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-40YM240E-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-40ym240e-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "47c9478d-e037-42cc-8a25-4a23c7109955"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-40YM240E-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-40ym240e-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "621737c6-a287-4128-b13e-ce767945514b"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "40YM240E\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/40ym240e-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2ed2a72d-847a-4004-bbb9-ee4fa130e20f"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_40YM240E_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_40ym240e_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "150238f5-728f-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "40ym240e"
+        },
+        {
+            "$id": "20",
+            "id": "0d10c940-612e-eb11-8106-005056857ef3",
+            "title": "40YM242",
+            "summary": "SABIC\u00ae PP Homopolymer 40% LGF, Tensile modulus 8200 MPa, Charpy(23 \u00b0C) 26 kJ/m\u00b2",
+            "description": "STAMAX\u2122 40YM242 is a high heat resistant 40% long glass fiber reinforced grade. The glass fibers are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 975399703",
+            "applications": [
+                "Under the hood"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_40YM242_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_40ym242_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211008",
+                    "id": "f51487cf-612e-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "40ym242"
+        },
+        {
+            "$id": "21",
+            "id": "68257a34-0a12-480b-be67-48e67fea8bf0",
+            "title": "40YM243",
+            "summary": "SABIC\u00ae PP Homopolymer 40% LGF, Tensile modulus 8200 MPa, Charpy(23 \u00b0C) 26 kJ/m\u00b2",
+            "description": "STAMAX\u2122 40YM243 is a 40% long glass fiber reinforced UV stabilised grade. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 120207048",
+            "applications": [
+                "Exterior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-40YM243-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-40ym243-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "592da0d3-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-40YM243-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-40ym243-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a62a42a0-5e41-41cb-8e87-38bb75764c51"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "40YM243\\00900-Phthalates declaration",
+                    "url": "/en/products/documents/40ym243-00900-phthalates-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "52ffc5e3-6003-4eb6-89ff-6cfe1e5ab6ce"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-40YM243-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-40ym243-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c9c7a69a-66c8-4608-8033-8d38e64ea51d"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-40YM243-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-40ym243-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "eeb45810-2e5f-4313-a537-d45ba1299052"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "40YM243\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/40ym243-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1c549605-ba53-403a-97e3-f4c58b86e2c6"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_40YM243_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_40ym243_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d641baa5-718f-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "40ym243"
+        },
+        {
+            "$id": "22",
+            "id": "dad94332-2354-4891-9bcb-49c92f963bba",
+            "title": "50YM240",
+            "summary": "SABIC\u00ae PP Homopolymer 50% LGF, Tensile modulus 10500 MPa, Charpy(23 \u00b0C) 22 kJ/m\u00b2",
+            "description": "STAMAX\u2122 50YM240 is a 50% long glass fibre reinforced grade. The glass fibers are checmically coupled to the PP matrix, resulting in high stiffness and strenght. \n\nIMDS ID: 487805611",
+            "applications": [
+                "Others"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-50YM240-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-50ym240-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5c2da0d3-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-50YM240-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-50ym240-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8e774e1d-ce76-45a3-a32e-49ede8a377ac"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-50YM240-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-50ym240-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4e2b9e5f-66e4-4502-8bfa-7d6286551291"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-50YM240-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-50ym240-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "027371db-28d1-4863-a1d1-7e89f2ffb119"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_50YM240_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_50ym240_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "f3255d75-fa92-e711-80fc-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "50ym240"
+        },
+        {
+            "$id": "23",
+            "id": "8bb782e7-f91f-413b-a28f-094f08047596",
+            "title": "60YK270",
+            "summary": "SABIC\u00ae PP Homopolymer 60% LGF, Density 1480 kg/m\u00b3",
+            "description": "STAMAX\u2122 60YK270 is a 60% long glass fiber reinforced concentrate and specially developed for dilution with SABIC\u00ae PP copolymer. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 73727725",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC\u00ae STAMAX\u2122-60YK270-REAH-Global-en-2018-01-16",
+                    "url": "/en/products/documents/sabic-stamax-60yk270-reah-global-en-2018-01-16/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a5c07c53-1d01-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-60YK270-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60yk270-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4d077bdc-26a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-60YK270-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60yk270-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f263e8e7-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-60YK270-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60yk270-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5f2da0d3-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-60YK270-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60yk270-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "eadb1df4-30af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_60YK270_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_60yk270_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "85c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "60yk270"
+        },
+        {
+            "$id": "24",
+            "id": "473f95eb-4bbb-449c-93e1-9d9eaab50dbf",
+            "title": "60YK270E",
+            "summary": "SABIC\u00ae PP Homopolymer 60% LGF, Density 1480 kg/m\u00b3",
+            "description": "STAMAX\u2122 60YK270E is a 60% long glass fiber reinforced low emission concentrate and specially developed for dilution with low emission SABIC\u00ae PP copolymer. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength.\n\nIMDS ID: 73727725",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-60YK270E-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60yk270e-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "90a43cda-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-60YK270E-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60yk270e-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "69dbe654-7bb9-4758-820e-7d65b897ef45"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-60YK270E-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60yk270e-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d2048d87-902a-405b-ac33-c453baa2d120"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-60YK270E-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60yk270e-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e240631b-4ff9-490f-9601-edcffdea8a49"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_60YK270E_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_60yk270e_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "bdca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "60yk270e"
+        },
+        {
+            "$id": "25",
+            "id": "5669dd38-0888-e711-80fc-005056857ef3",
+            "title": "60YK273E",
+            "summary": "SABIC\u00ae PP Homopolymer 60% LGF, Density 1480 kg/m\u00b3",
+            "description": "STAMAX\u2122 60YK273E is a 60% long glass fiber reinforced low emission UV stabilized concentrate and specially developed for dilution with SABIC\u00ae PP copolymer. The glass fibers are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 73727725",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_60YK273E_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_60yk273e_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "055b8a5d-0888-e711-80fc-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "60yk273e"
+        },
+        {
+            "$id": "26",
+            "id": "2849fd1e-e10c-41b2-b59a-1b23d28af866",
+            "title": "60YM240",
+            "summary": "SABIC\u00ae PP Homopolymer 60% LGF, Density 1480 kg/m\u00b3",
+            "description": "STAMAX\u2122 60YM240 is a 60% long glass fiber reinforced concentrate and specially developed for dilution with SABIC\u00ae PP homopolymer. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 16501821",
+            "applications": [
+                "Under the hood"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM240-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym240-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "52077bdc-26a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM240-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym240-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f763e8e7-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM240-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym240-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "93a43cda-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM240-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym240-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "efdb1df4-30af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "60YM240\\00900-General absence declaration",
+                    "url": "/en/products/documents/60ym240-00900-general-absence-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "75fcc561-29ff-4165-b091-785e25334d9f"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC\u00ae STAMAX\u2122-60YM240-REAH-Global-en-2018-01-16",
+                    "url": "/en/products/documents/sabic-stamax-60ym240-reah-global-en-2018-01-16/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "624b383b-dc7f-41b4-9b29-c7ad3d1489b1"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "60YM240\\00900-End of Life declaration",
+                    "url": "/en/products/documents/60ym240-00900-end-of-life-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2c76dc66-40ab-4a6c-a09c-eb9fd5e1a087"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_60YM240_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_60ym240_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a6c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "60ym240"
+        },
+        {
+            "$id": "27",
+            "id": "90c5015c-4bad-4085-8afa-04962ddc6946",
+            "title": "60YM240E",
+            "summary": "SABIC\u00ae PP Homopolymer 60% LGF, Density 1480 kg/m\u00b3",
+            "description": "STAMAX\u2122 60YM240E is a 60% long glass fiber reinforced low emission concentrate and specially developed for dilution with low emission SABIC\u00ae PP homopolymer. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength\n\nIMDS ID: 16501821",
+            "applications": [
+                "Interior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM240E-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym240e-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "96a43cda-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM240E-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym240e-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "cefcc871-0c24-4c57-b10f-22617ad95f55"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM240E-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym240e-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c9d0eb03-3edd-4420-8b48-263bb1d1ca68"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM240E-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym240e-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "babddf78-3191-44ea-bfe1-95981c8a7baa"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "60YM240E\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/60ym240e-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "81683f30-ec84-4df2-82db-a0f5c26b4cab"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_60YM240E_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_60ym240e_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "ec5e5cca-fc92-e711-80fc-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Interiors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "60ym240e"
+        },
+        {
+            "$id": "28",
+            "id": "9b1fccf2-ce55-4a9f-8696-65bdbf93a2fb",
+            "title": "60YM241",
+            "summary": "SABIC\u00ae PP Homopolymer 60% LGF, Density 1480 kg/m\u00b3",
+            "description": "STAMAX\u2122 60YM241 is a high heat resistant 60% long glass fiber reinforced concentrate and specially developed for dilution with SABIC\u00ae PP homopolymer. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 142796449",
+            "applications": [
+                "Under the hood"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM241-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym241-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "99a43cda-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM241-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym241-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "42d56c10-e40f-4e07-a919-1a1848f32ff7"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM241-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym241-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "7b5cf121-2efb-4969-938c-1e1a097d197b"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "60YM241\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/60ym241-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ab07b28c-0820-4863-a0fd-79131f5fe447"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM241-EOLD-Global-en-2021-05-07",
+                    "url": "/en/products/documents/sabic-stamax-60ym241-eold-global-en-2021-05-07/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f4b7e31e-2358-40ff-bb61-a52abcbb3284"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_60YM241_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_60ym241_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211008",
+                    "id": "63c3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "60ym241"
+        },
+        {
+            "$id": "29",
+            "id": "8dae5314-4c28-ec11-810c-005056857ef3",
+            "title": "60YM242",
+            "summary": "SABIC\u00ae PP Homopolymer 60% LGF, Density 1480 kg/m\u00b3",
+            "description": "STAMAX\u2122 60YM242 is a high heat resistant 60% long glass fiber reinforced concentrate and specially developed for dilution with SABIC\u00ae PP homopolymer. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 1062972255",
+            "applications": [
+                "Under the hood"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_60YM242_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_60ym242_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211008",
+                    "id": "7fbdf84e-4c28-ec11-810c-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Under the Hood"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "60ym242"
+        },
+        {
+            "$id": "30",
+            "id": "2362e318-a3fd-4cf3-b4e0-db02c079c5c4",
+            "title": "60YM243",
+            "summary": "SABIC\u00ae PP Homopolymer 60% LGF, Density 1480 kg/m\u00b3",
+            "description": "STAMAX\u2122 60YM243 is a 60% long glass fiber reinforced UV stabilised concentrate and specially developed for dilution with SABIC\u00ae PP homopolymer. The glass fibres are chemically coupled to the PP matrix, resulting in high stiffness and strength. \n\nIMDS ID: 163721357",
+            "applications": [
+                "Exterior"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM243-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym243-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9ca43cda-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Automotive standards declaration",
+                    "title": "60YM243\\00900-Automotive standards declaration",
+                    "url": "/en/products/documents/60ym243-00900-automotive-standards-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "12bbe8b8-dca7-4c09-8a3f-08c9ce176a78"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM243-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym243-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "80962797-4927-46f6-a04f-2a4f850e1345"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "MSDS STAMAX PP long glass fibre reinforced [PP-GF][06-2016]-Material Safety Datasheet",
+                    "url": "/en/products/documents/msds-stamax-pp-long-glass-fibre-reinforced-pp-gf-06-2016-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2f64eec0-fd49-4652-8cb6-8b602028556a"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM243-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym243-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "efba6e50-3ec6-48ca-8522-dfb86cb12fb3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-STAMAX\u2122-60YM243-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-stamax-60ym243-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "08de1876-7a19-4e34-b403-fe8c7cec0be3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "STAMAX\u2122_60YM243_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/stamax-_60ym243_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "dc6e6f00-fd92-e711-80fc-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "60ym243"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "31",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "32",
+            "id": "b5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "280b1a21-f992-e711-80fc-005056857ef3",
+            "title": "Under the hood",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "90ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "7affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "15f6299b-fa92-e711-80fc-005056857ef3",
+            "title": "Others",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "37",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "41",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "42",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Under the Hood",
+            "id": "2cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "43",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Exteriors",
+            "id": "35ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

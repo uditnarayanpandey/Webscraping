@@ -1,0 +1,2333 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "1633aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "C1200HF",
+            "summary": "PC+ABS, excellent flow/impact/high heat resistance.  Low temperature ductility.",
+            "description": "PC+ABS, excellent flow/impact/high heat resistance.  Low temperature ductility.",
+            "applications": [
+                "Air Conditioning",
+                "Air Intake System",
+                "Amusement Machine",
+                "Applique",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Body Protection",
+                "Building Accessory",
+                "Building Element",
+                "Circuit Protection",
+                "Cluster",
+                "Coffee Maker/Espresso Machine",
+                "Console",
+                "Cooking Range",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Doors Hardware/Trim",
+                "Electrical",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Exterior Mirror",
+                "Exterior Trim",
+                "Exterior",
+                "Fluid Delivery",
+                "Fog Lamp",
+                "Food Processor",
+                "Food Transportation",
+                "Forward Lighting",
+                "Freezer",
+                "Front Grille",
+                "Fused Deposition Modeling (FDM)",
+                "Gas/Electric Oven",
+                "Glove Box",
+                "Head Protection",
+                "Heavy Vehicles",
+                "HVAC Underhood",
+                "Industrial Material Handling",
+                "Infotainment/Telematic",
+                "Interior",
+                "Lab Ware and Clinical Diagnostics",
+                "Laundry Dryer",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Long Distance Coach",
+                "Medical Device",
+                "Meter Gas",
+                "Meter Water",
+                "Modular Panel",
+                "Monitoring and Imaging",
+                "Motorcycle",
+                "Navigation Unit",
+                "Non-LED Lighting",
+                "Overhead",
+                "Personal Care",
+                "Personal Computing",
+                "Personal Water Craft",
+                "Pharmaceutical Manufacturing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Photo/Video Camera",
+                "Photovoltaic Components",
+                "Plumbing",
+                "Power Boat",
+                "Power Manangement",
+                "Rail Cabin Interiors",
+                "Rear/Signal Lighting",
+                "Recreational Vehicle",
+                "Refrigerator",
+                "Renal and Blood Handling",
+                "Respiratory",
+                "Safety Glasses",
+                "Seat",
+                "Seating/Chair",
+                "Security/Detection",
+                "Semiconductor",
+                "Small Appliance",
+                "Smart/ID Card",
+                "Spoiler",
+                "Structure",
+                "Surgical Devices",
+                "Toy",
+                "Trim",
+                "Vacuum Cleaner",
+                "Vending Machine",
+                "Vertical Body Panel",
+                "Washing Machine",
+                "Watch/Jewelry",
+                "Wearables",
+                "Window Rear Quarter",
+                "Window",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_C1200HF_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_c1200hf_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "3db2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_C1200HF_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_c1200hf_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "2ec5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_C1200HF_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_c1200hf_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "2fc5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Pharmaceutical",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Additive Manufacturing",
+                "Surgical",
+                "Ophthalmics",
+                "Rail",
+                "Home Decoration",
+                "Automotive Glazing",
+                "Sport/Leisure",
+                "Personal Accessory",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Bus",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Automotive Under the Hood",
+                "Fluid and Blood Handling",
+                "Commercial Appliance",
+                "Recreational Vehicle",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c1200hf"
+        },
+        {
+            "$id": "3",
+            "id": "2833aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "C4210HF",
+            "summary": "10% GR PC+ABS.  High flow.  High heat resistance.  Excellent strength/rigidity. Good impact/appearance.  Automotive instrument panels.",
+            "description": "PC+ABS Blend with 10% Glass Reinforce.  High flow, High heat resistance., Excellent balance strength/rigidity. Good impact/appearance.",
+            "applications": [
+                "Doors Hardware/Trim",
+                "Fog Lamp",
+                "Medical Device",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Seat",
+                "Trim",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_C4210HF_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_c4210hf_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "efb2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c4210hf"
+        },
+        {
+            "$id": "4",
+            "id": "2a33aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "C4220",
+            "summary": "20% glass reinforced non FR PC-ABS.  High heat resistance, excellent strength and rigidity with good appearance.",
+            "description": "PC+ABS Blend with 20% Glass Reinforce. High heat resistance; Excellent balance strength/rigidity; Good impact/appearance.",
+            "applications": [
+                "Air Filtration",
+                "Data Management",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Lab Ware and Clinical Diagnostics",
+                "Personal Computing",
+                "Small Appliance",
+                "Structure",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_C4220_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_c4220_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "4db2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c4220"
+        },
+        {
+            "$id": "5",
+            "id": "7433aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CM8622",
+            "summary": "PC/ABS blend, high heat/modulus, good impact/aesthetics",
+            "description": "CYCOLOY CM8622 Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend is an injection moldable high heat grade offering high modulus, low CTE, good practical impact and aesthetics.",
+            "applications": [
+                "Console",
+                "Exterior Trim",
+                "Spoiler",
+                "Trim"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_CM8622_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_cm8622_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "3fb3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Automotive Glazing",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cm8622"
+        },
+        {
+            "$id": "6",
+            "id": "7b33aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CP8320",
+            "summary": "PC+ABS, Plating Grade",
+            "description": "CYCOLOY Medium Heat Plating Grade for Automotive",
+            "applications": [
+                "Applique",
+                "Cladding",
+                "Electronic Components",
+                "Exterior Rail Components",
+                "Exterior Trim",
+                "Front Grille",
+                "Meter Gas",
+                "Wheel Cover",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_CP8320_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_cp8320_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "9bb2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_CP8320_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_cp8320_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "0ab3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Rail",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cp8320"
+        },
+        {
+            "$id": "7",
+            "id": "e733aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "CY8630",
+            "summary": "Good flow/impact/high heat resistance balance.",
+            "description": "PC+ ABS Automotive applications",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_CY8630_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_cy8630_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "61b3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cy8630"
+        },
+        {
+            "$id": "8",
+            "id": "9d3aaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HC1104HF",
+            "summary": "High heat PC/ABS blend offering good flow and excellent impact.",
+            "description": "High heat PC/ABS blend offering good flow and excellent impact.",
+            "applications": [
+                "Pharmaceutical Packaging & Drug Delivery"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_HC1104HF_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_hc1104hf_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "afc6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hc1104hf"
+        },
+        {
+            "$id": "9",
+            "id": "9e3aaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HC1204HF",
+            "summary": "High heat PC/ABS blend offering good flow and excellent impact.  For medical devices and pharmaceutical applications.  Healthcare management of change, biocompatible (ISO10993 or USP Class VI).",
+            "description": "High heat PC/ABS blend offering good flow and excellent impact.  For medical devices and pharmaceutical applications.  Healthcare management of change, biocompatible (ISO10993 or USP Class VI).",
+            "applications": [
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "EV Infrastructure",
+                "Fixture Bath/Shower",
+                "Fluid Delivery",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Respiratory",
+                "Servingware",
+                "Surgical Devices",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_HC1204HF_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_hc1204hf_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "1bb6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_HC1204HF_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_hc1204hf_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "c0b7102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_HC1204HF_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_hc1204hf_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "b0c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Surgical",
+                "Respiratory and Sleep Therapy",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling",
+                "Nuclear"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hc1204hf"
+        },
+        {
+            "$id": "10",
+            "id": "f73caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "LG9000",
+            "summary": "PC/ABS low gloss.",
+            "description": "PC/ABS low gloss.",
+            "applications": [
+                "Air Conditioning",
+                "Antenna",
+                "Audio",
+                "Auto Aftermarket",
+                "Body Protection",
+                "Cladding",
+                "Cluster",
+                "Console",
+                "Data Management",
+                "Data Transfer",
+                "Defense Vehicles",
+                "Dishwasher",
+                "Displays",
+                "Document Handling",
+                "Doors Hardware/Trim",
+                "Electrical",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "EV Infrastructure",
+                "Exterior",
+                "Forward Lighting",
+                "Freezer",
+                "Glazing",
+                "Glove Box",
+                "Headliner",
+                "Infotainment/Telematic",
+                "Interior",
+                "Medical Device",
+                "Neighborhood Electric Vehicle",
+                "Non-LED Lighting",
+                "Overhead",
+                "Personal Computing",
+                "Rear/Signal Lighting",
+                "Recreational Vehicle",
+                "Seat",
+                "Small Appliance",
+                "Storage/Table",
+                "Structure",
+                "Trim",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_LG9000_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_lg9000_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "3cb9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_LG9000_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_lg9000_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "3fb9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_LG9000_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_lg9000_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "5bc7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Ophthalmics",
+                "Home Decoration",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Recreational Vehicle",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lg9000"
+        },
+        {
+            "$id": "11",
+            "id": "973daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MC1300",
+            "summary": "PC/ABS, excellent flow and impact performance, plating and painting applications.",
+            "description": "PC/ABS, excellent flow and impact performance, plating and painting applications.",
+            "applications": [
+                "Airbag",
+                "Aircraft Seating",
+                "All-Terrain Vehicle",
+                "Applique",
+                "Audio",
+                "Auto Aftermarket",
+                "Bumper Fascia",
+                "Circuit Protection",
+                "Cladding",
+                "Console",
+                "Cooking Range",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Door Handle",
+                "Doors Hardware/Trim",
+                "Electrical",
+                "Electronic Components",
+                "Electronics",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Exterior Trim",
+                "Exterior",
+                "Fixture Bath/Shower",
+                "Fog Lamp",
+                "Forward Lighting",
+                "Freezer",
+                "Front Grille",
+                "Game Player",
+                "Hot Water System",
+                "Infotainment/Telematic",
+                "Interior",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Device",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Rail Cabin Interiors",
+                "Rear/Signal Lighting",
+                "Recreational Vehicle",
+                "Refrigerator",
+                "Servingware",
+                "Small Appliance",
+                "Spoiler",
+                "Toy",
+                "Trim",
+                "Wheel Cover",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_MC1300_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_mc1300_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a8b8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_MC1300_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_mc1300_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "43ba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Pharmaceutical",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Food & Beverage",
+                "Rail",
+                "Sport/Leisure",
+                "Automotive Crash and Chassis",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Recreational Vehicle",
+                "Automotive Lighting",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mc1300"
+        },
+        {
+            "$id": "12",
+            "id": "ad3daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MC8002",
+            "summary": "PC/ABS, low viscosity, high impact and ductile.",
+            "description": "PC/ABS, low viscosity, high impact and ductile.",
+            "applications": [
+                "Aircraft Exteriors",
+                "Antenna",
+                "Audio",
+                "Auto Aftermarket",
+                "Circuit Protection",
+                "Cluster",
+                "Console",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Door Handle",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Engine Component",
+                "Exterior Trim",
+                "Exterior",
+                "Forward Lighting",
+                "Front Grille",
+                "Glove Box",
+                "Headliner",
+                "Heavy Vehicles",
+                "HVAC Underhood",
+                "Infotainment/Telematic",
+                "Interior",
+                "LED Lighting",
+                "Non-LED Lighting",
+                "Overhead",
+                "Personal Computing",
+                "Recreational Vehicle",
+                "Refrigerator",
+                "Seat",
+                "Spoiler",
+                "Structural Support",
+                "Structure",
+                "Trim",
+                "Wheel Cover",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_MC8002_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_mc8002_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "b3b8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_MC8002_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_mc8002_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "52ba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood",
+                "Recreational Vehicle",
+                "Automotive Lighting",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mc8002"
+        },
+        {
+            "$id": "13",
+            "id": "ae3daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MC8100",
+            "summary": "PC/ABS, extrusion and blow molding grade.",
+            "description": "PC/ABS, extrusion and blow molding grade.",
+            "applications": [
+                "Enclosures"
+            ],
+            "processingTechniques": [
+                "Extrusion Blow Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_MC8100_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_mc8100_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "a9b9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_MC8100_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_mc8100_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "55ba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mc8100"
+        },
+        {
+            "$id": "14",
+            "id": "b43daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MC8800",
+            "summary": "PC/ABS, high heat, high impact, low CTE.",
+            "description": "PC/ABS, high heat, high impact, low CTE.",
+            "applications": [
+                "Applique",
+                "Auto Aftermarket",
+                "Personal Computing",
+                "Trim",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_MC8800_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_mc8800_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "acb9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mc8800"
+        },
+        {
+            "$id": "15",
+            "id": "ba46aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XCM830",
+            "summary": "PC+ABS",
+            "description": "PC/ABS with high stiffness and impact performance",
+            "applications": [
+                "Auto Aftermarket",
+                "Window Rear Quarter"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_XCM830_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_xcm830_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "e9c0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_XCM830_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_xcm830_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "a3c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Automotive Glazing",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xcm830"
+        },
+        {
+            "$id": "16",
+            "id": "c146aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XCY620",
+            "summary": "PC/ABS, hydrolytically stable, colors.",
+            "description": "PC/ABS, hydrolytically stable, colors.",
+            "applications": [
+                "Applique",
+                "Audio",
+                "Auto Aftermarket",
+                "Auto Electrical",
+                "Cluster",
+                "Console",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Doors Hardware/Trim",
+                "Electrical",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "EV Infrastructure",
+                "Exterior Mirror",
+                "Exterior Rail Components",
+                "Exterior Trim",
+                "Forward Lighting",
+                "Front End",
+                "Front Grille",
+                "Glazing",
+                "Glove Box",
+                "Headliner",
+                "Heavy Vehicles",
+                "Infotainment/Telematic",
+                "Interior",
+                "Meter Gas",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Overhead",
+                "Personal Computing",
+                "Personal Water Craft",
+                "Rail Window Glazing",
+                "Rail",
+                "Rear Electrical Carrier",
+                "Rear/Signal Lighting",
+                "Recreational Vehicle",
+                "Seat",
+                "Sensor",
+                "Spoiler",
+                "Structure",
+                "Tray",
+                "Trim",
+                "Vertical Body Panel",
+                "Water Treatment/Filtration"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_XCY620_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_xcy620_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "2ec0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_XCY620_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_xcy620_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "f5c0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_XCY620_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_xcy620_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "a6c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Rail",
+                "Lighting",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Industrial Material Handling",
+                "Automotive Under the Hood",
+                "Recreational Vehicle",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xcy620"
+        },
+        {
+            "$id": "17",
+            "id": "c546aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XCY620S",
+            "summary": "PC/ABS, hydrolytically stable, standard black and natural.",
+            "description": "PC/ABS, hydrolytically stable, standard black and natural.",
+            "applications": [
+                "Audio",
+                "Auto Aftermarket",
+                "Body Protection",
+                "Bumper Fascia",
+                "Cluster",
+                "Console",
+                "Door Handle",
+                "Doors Hardware/Trim",
+                "Electrical",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Exterior Mirror",
+                "Exterior Rail Components",
+                "Exterior Trim",
+                "Exterior",
+                "Fog Lamp",
+                "Front Grille",
+                "Glove Box",
+                "Headliner",
+                "Heavy Vehicles",
+                "Infotainment/Telematic",
+                "Interior",
+                "Motorcycle",
+                "Overhead",
+                "Rear/Signal Lighting",
+                "Seat",
+                "Spoiler",
+                "Structural Support",
+                "Structure",
+                "Trim",
+                "Window Frame",
+                "Wiper Component",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_XCY620S_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_xcy620s_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "e7be102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_XCY620S_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_xcy620s_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "fbc0102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_XCY620S_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_xcy620s_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a7c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Specialty Vehicles",
+                "Ophthalmics",
+                "Rail",
+                "Automotive Crash and Chassis",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xcy620s"
+        },
+        {
+            "$id": "18",
+            "id": "c746aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "XCY630",
+            "summary": "PC/ABS, hydrolytically stable.",
+            "description": "PC/ABS, hydrolytically stable.",
+            "applications": [
+                "Airline Service",
+                "Auto Aftermarket",
+                "Circuit Protection",
+                "Cluster",
+                "Console",
+                "Door Handle",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Enclosures",
+                "EV Infrastructure",
+                "Exterior Trim",
+                "Exterior",
+                "Forward Lighting",
+                "Front Grille",
+                "Glove Box",
+                "HVAC Underhood",
+                "Infotainment/Telematic",
+                "Interior",
+                "Meter Gas",
+                "Rear/Signal Lighting",
+                "Seat",
+                "Spoiler",
+                "Trim"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_XCY630_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_xcy630_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "eabe102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLOY\u2122  Resin_XCY630_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycoloy-resin_xcy630_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "37c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Food & Beverage",
+                "Electrical Components and Infrastructure",
+                "Automotive Under the Hood",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "xcy630"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "19",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "ab7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Extrusion Blow Molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "21",
+            "id": "3affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Conditioning",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "3cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Intake System",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "43ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Amusement Machine",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "46ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Applique",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "47ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "ATM/Ticket Machine",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "48ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Audio",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "49ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Aftermarket",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "4affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Electrical",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "50ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Body Protection",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "53ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Accessory",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "54ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Element",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "60ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cluster",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "63ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Coffee Maker/Espresso Machine",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "67ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Console",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "69ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cooking Range",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "75ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Doors Hardware/Trim",
+            "count": 0
+        },
+        {
+            "$id": "42",
+            "id": "7affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical",
+            "count": 0
+        },
+        {
+            "$id": "43",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "44",
+            "id": "7effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronics",
+            "count": 0
+        },
+        {
+            "$id": "45",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "46",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "47",
+            "id": "82ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Management",
+            "count": 0
+        },
+        {
+            "$id": "48",
+            "id": "8dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Mirror",
+            "count": 0
+        },
+        {
+            "$id": "49",
+            "id": "8fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Trim",
+            "count": 0
+        },
+        {
+            "$id": "50",
+            "id": "90ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior",
+            "count": 0
+        },
+        {
+            "$id": "51",
+            "id": "93ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid Delivery",
+            "count": 0
+        },
+        {
+            "$id": "52",
+            "id": "94ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fog Lamp",
+            "count": 0
+        },
+        {
+            "$id": "53",
+            "id": "96ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Processor",
+            "count": 0
+        },
+        {
+            "$id": "54",
+            "id": "97ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Transportation",
+            "count": 0
+        },
+        {
+            "$id": "55",
+            "id": "98ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Forward Lighting",
+            "count": 0
+        },
+        {
+            "$id": "56",
+            "id": "9affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Freezer",
+            "count": 0
+        },
+        {
+            "$id": "57",
+            "id": "9cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Front Grille",
+            "count": 0
+        },
+        {
+            "$id": "58",
+            "id": "a0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fused Deposition Modeling (FDM)",
+            "count": 0
+        },
+        {
+            "$id": "59",
+            "id": "a2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Gas/Electric Oven",
+            "count": 0
+        },
+        {
+            "$id": "60",
+            "id": "a5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Glove Box",
+            "count": 0
+        },
+        {
+            "$id": "61",
+            "id": "a7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Head Protection",
+            "count": 0
+        },
+        {
+            "$id": "62",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "63",
+            "id": "adffee91-14d8-e611-819b-06b69393ae39",
+            "title": "HVAC Underhood",
+            "count": 0
+        },
+        {
+            "$id": "64",
+            "id": "b1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "65",
+            "id": "b2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Infotainment/Telematic",
+            "count": 0
+        },
+        {
+            "$id": "66",
+            "id": "b5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior",
+            "count": 0
+        },
+        {
+            "$id": "67",
+            "id": "b7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lab Ware and Clinical Diagnostics",
+            "count": 0
+        },
+        {
+            "$id": "68",
+            "id": "b9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Laundry Dryer",
+            "count": 0
+        },
+        {
+            "$id": "69",
+            "id": "baffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lawn/Garden",
+            "count": 0
+        },
+        {
+            "$id": "70",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "71",
+            "id": "beffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Long Distance Coach",
+            "count": 0
+        },
+        {
+            "$id": "72",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "73",
+            "id": "c1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Gas",
+            "count": 0
+        },
+        {
+            "$id": "74",
+            "id": "c2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Water",
+            "count": 0
+        },
+        {
+            "$id": "75",
+            "id": "c4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Modular Panel",
+            "count": 0
+        },
+        {
+            "$id": "76",
+            "id": "c5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Monitoring and Imaging",
+            "count": 0
+        },
+        {
+            "$id": "77",
+            "id": "c6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Motorcycle",
+            "count": 0
+        },
+        {
+            "$id": "78",
+            "id": "c8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Navigation Unit",
+            "count": 0
+        },
+        {
+            "$id": "79",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "80",
+            "id": "cdffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Overhead",
+            "count": 0
+        },
+        {
+            "$id": "81",
+            "id": "d1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "82",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "83",
+            "id": "d3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Water Craft",
+            "count": 0
+        },
+        {
+            "$id": "84",
+            "id": "d4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Manufacturing",
+            "count": 0
+        },
+        {
+            "$id": "85",
+            "id": "d5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Packaging & Drug Delivery",
+            "count": 0
+        },
+        {
+            "$id": "86",
+            "id": "d6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photo/Video Camera",
+            "count": 0
+        },
+        {
+            "$id": "87",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        },
+        {
+            "$id": "88",
+            "id": "d9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Plumbing",
+            "count": 0
+        },
+        {
+            "$id": "89",
+            "id": "daffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Boat",
+            "count": 0
+        },
+        {
+            "$id": "90",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "91",
+            "id": "ddffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "92",
+            "id": "e2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rear/Signal Lighting",
+            "count": 0
+        },
+        {
+            "$id": "93",
+            "id": "e3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "94",
+            "id": "e4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Refrigerator",
+            "count": 0
+        },
+        {
+            "$id": "95",
+            "id": "e6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Renal and Blood Handling",
+            "count": 0
+        },
+        {
+            "$id": "96",
+            "id": "e7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory",
+            "count": 0
+        },
+        {
+            "$id": "97",
+            "id": "e8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Safety Glasses",
+            "count": 0
+        },
+        {
+            "$id": "98",
+            "id": "ecffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Seat",
+            "count": 0
+        },
+        {
+            "$id": "99",
+            "id": "edffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Seating/Chair",
+            "count": 0
+        },
+        {
+            "$id": "100",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "101",
+            "id": "efffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductor",
+            "count": 0
+        },
+        {
+            "$id": "102",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "103",
+            "id": "f6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Smart/ID Card",
+            "count": 0
+        },
+        {
+            "$id": "104",
+            "id": "f8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Spoiler",
+            "count": 0
+        },
+        {
+            "$id": "105",
+            "id": "fcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Structure",
+            "count": 0
+        },
+        {
+            "$id": "106",
+            "id": "ffffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Devices",
+            "count": 0
+        },
+        {
+            "$id": "107",
+            "id": "0300ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Toy",
+            "count": 0
+        },
+        {
+            "$id": "108",
+            "id": "0a00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Trim",
+            "count": 0
+        },
+        {
+            "$id": "109",
+            "id": "0d00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vacuum Cleaner",
+            "count": 0
+        },
+        {
+            "$id": "110",
+            "id": "0e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vending Machine",
+            "count": 0
+        },
+        {
+            "$id": "111",
+            "id": "0f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vertical Body Panel",
+            "count": 0
+        },
+        {
+            "$id": "112",
+            "id": "1000ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Washing Machine",
+            "count": 0
+        },
+        {
+            "$id": "113",
+            "id": "1100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Watch/Jewelry",
+            "count": 0
+        },
+        {
+            "$id": "114",
+            "id": "1400ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wearables",
+            "count": 0
+        },
+        {
+            "$id": "115",
+            "id": "1a00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window Rear Quarter",
+            "count": 0
+        },
+        {
+            "$id": "116",
+            "id": "1b00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window",
+            "count": 0
+        },
+        {
+            "$id": "117",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "118",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "119",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "120",
+            "id": "3bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Filtration",
+            "count": 0
+        },
+        {
+            "$id": "121",
+            "id": "5effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cladding",
+            "count": 0
+        },
+        {
+            "$id": "122",
+            "id": "8effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Rail Components",
+            "count": 0
+        },
+        {
+            "$id": "123",
+            "id": "1600ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wheel Cover",
+            "count": 0
+        },
+        {
+            "$id": "124",
+            "id": "9a7bffa6-4015-e711-80fb-005056857ef3",
+            "title": "Automotive ",
+            "count": 0
+        },
+        {
+            "$id": "125",
+            "id": "86ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "126",
+            "id": "92ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fixture Bath/Shower",
+            "count": 0
+        },
+        {
+            "$id": "127",
+            "id": "f1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Servingware",
+            "count": 0
+        },
+        {
+            "$id": "128",
+            "id": "45ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Antenna",
+            "count": 0
+        },
+        {
+            "$id": "129",
+            "id": "6dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "130",
+            "id": "6fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Dishwasher",
+            "count": 0
+        },
+        {
+            "$id": "131",
+            "id": "a4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Glazing",
+            "count": 0
+        },
+        {
+            "$id": "132",
+            "id": "a8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Headliner",
+            "count": 0
+        },
+        {
+            "$id": "133",
+            "id": "c9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Neighborhood Electric Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "134",
+            "id": "faffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Storage/Table",
+            "count": 0
+        },
+        {
+            "$id": "135",
+            "id": "3dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Airbag",
+            "count": 0
+        },
+        {
+            "$id": "136",
+            "id": "3fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aircraft Seating",
+            "count": 0
+        },
+        {
+            "$id": "137",
+            "id": "42ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "All-Terrain Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "138",
+            "id": "57ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Bumper Fascia",
+            "count": 0
+        },
+        {
+            "$id": "139",
+            "id": "73ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Door Handle",
+            "count": 0
+        },
+        {
+            "$id": "140",
+            "id": "a1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Game Player",
+            "count": 0
+        },
+        {
+            "$id": "141",
+            "id": "abffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Hot Water System",
+            "count": 0
+        },
+        {
+            "$id": "142",
+            "id": "3effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aircraft Exteriors",
+            "count": 0
+        },
+        {
+            "$id": "143",
+            "id": "83ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Engine Component",
+            "count": 0
+        },
+        {
+            "$id": "144",
+            "id": "fbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Structural Support",
+            "count": 0
+        },
+        {
+            "$id": "145",
+            "id": "9bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Front End",
+            "count": 0
+        },
+        {
+            "$id": "146",
+            "id": "dfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail Window Glazing",
+            "count": 0
+        },
+        {
+            "$id": "147",
+            "id": "e0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "count": 0
+        },
+        {
+            "$id": "148",
+            "id": "e1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rear Electrical Carrier",
+            "count": 0
+        },
+        {
+            "$id": "149",
+            "id": "f0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sensor",
+            "count": 0
+        },
+        {
+            "$id": "150",
+            "id": "0900ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Tray",
+            "count": 0
+        },
+        {
+            "$id": "151",
+            "id": "1200ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Treatment/Filtration",
+            "count": 0
+        },
+        {
+            "$id": "152",
+            "id": "1700ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window Frame",
+            "count": 0
+        },
+        {
+            "$id": "153",
+            "id": "1c00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiper Component",
+            "count": 0
+        },
+        {
+            "$id": "154",
+            "id": "40ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Airline Service",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "155",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "156",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "157",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "158",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "159",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense",
+            "id": "03ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "160",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical",
+            "id": "04ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "161",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Outdoor, Lawn and Landscape",
+            "id": "05ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "162",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Management",
+            "id": "07ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "163",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Heavy Truck",
+            "id": "0affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "164",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "165",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "166",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "167",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "168",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food & Beverage",
+            "id": "0fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "169",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Manufacturing",
+            "id": "10ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "170",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "171",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Ophthalmics",
+            "id": "12ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "172",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "id": "13ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "173",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Decoration",
+            "id": "16ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "174",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Glazing",
+            "id": "17ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "175",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "176",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "177",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory and Sleep Therapy",
+            "id": "1effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "178",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "179",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "180",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Bus",
+            "id": "24ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "181",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "182",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "183",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Recreation",
+            "id": "27ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "184",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "185",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "186",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "id": "2affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "187",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Under the Hood",
+            "id": "2cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "188",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid and Blood Handling",
+            "id": "2effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "189",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "190",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "id": "31ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "191",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Lighting",
+            "id": "33ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "192",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Exteriors",
+            "id": "35ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "193",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Nuclear",
+            "id": "32ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "194",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Crash and Chassis",
+            "id": "1bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "195",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Aerospace",
+            "id": "62f520a6-82bc-40d1-8716-dfe4e90dbf65"
+        }
+    ]
+}

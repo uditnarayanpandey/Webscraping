@@ -1,0 +1,181 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "7f678302-c147-e811-80fd-005056857ef3",
+            "title": "AM1010F",
+            "summary": "ULTEM\u2122 AM1010F filament is a polyetherimide product for 3D printing applications manufactured from ULTEM\u2122 1010 resin",
+            "description": "ULTEM\u2122 AM1010F filament is a polyetherimide product for 3D printing applications manufactured from ULTEM\u2122 1010 resin. The filament provides high heat resistance and mechanical strength, is UL94 V-0 compliant at 1.5 mm and 5VA compliant at 3.0 mm.",
+            "applications": [
+                "Additive Plastic",
+                "Fused Deposition Modeling (FDM)"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "ULTEM\u2122 Filament_AM1010F_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/ultem-filament_am1010f_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "4c89ccb2-9e48-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "am1010f"
+        },
+        {
+            "$id": "3",
+            "id": "e36eef63-66f4-e611-80fb-005056857ef3",
+            "title": "AM9085F",
+            "summary": "ULTEM\u2122 AM9085F filament is a high performance polyetherimide blend product manufactured from ULTEM\u2122 9085 resin.  It is available in black and natural (unpigmented) colors.",
+            "description": "ULTEM\u2122 AM9085F filament is a high performance polyetherimide blend product manufactured from ULTEM\u2122 9085 resin.  It is available in black and natural (unpigmented) colors.  It provides high heat resistance and mechanical strength, is UL94 V-0 compliant at 1.5 and 3.0 mm (Blue Cards are available on UL IQ Database), and meets FAR 25.853 and OSU 55/55 with low toxicity, smoke, and flame evolution.",
+            "applications": [
+                "Additive Plastic",
+                "Fused Deposition Modeling (FDM)"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC Safety Data Sheet - ULTEM filament (strand)",
+                    "url": "/en/products/documents/sabic-safety-data-sheet-ultem-filament-strand/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1cf4bf3d-9f3b-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "ULTEM\u2122 Filament_AM9085F_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/ultem-filament_am9085f_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "6a418cb3-09f9-e611-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "am9085f"
+        },
+        {
+            "$id": "4",
+            "id": "a1c7e122-c647-e811-80fd-005056857ef3",
+            "title": "AMHU1010F",
+            "summary": "ULTEM\u2122 AMHU1010F filament is a polyetherimide product for 3D printing applications manufactured from ULTEM\u2122 HU1010 resin.",
+            "description": "ULTEM\u2122 AMHU1010F filament is a polyetherimide product for 3D printing applications manufactured fromULTEM\u2122 HU1010 resin. The filament is biocompatible (ISO 10993 or USP Class VI) and printed parts can be gamma, EtO or steam sterilized. This filament can be used for food and drug packaging and medical device manufacturing, from conceptual modeling to functional prototyping and end-use parts. Filament spools can be linked to resin raw material batch to help ensure material compliance and traceability.*\n\n*It is the responsibility of the finished device manufacturer to determine the suitability of all the component parts and materials used in their finished products. SABIC does not recommend and will not support the use of any of SABIC\u2019s products in medical devices intended to remain continuously in the human body for longer than 29 days.",
+            "applications": [
+                "Additive Plastic",
+                "Fused Deposition Modeling (FDM)",
+                "Healthcare"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "ULTEM\u2122 Filament_AMHU1010F_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/ultem-filament_amhu1010f_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "73cb2284-9d48-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing",
+                "Healthcare"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "amhu1010f"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "5",
+            "id": "36ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Plastic",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "a0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fused Deposition Modeling (FDM)",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "3827b20d-60e1-47fb-b276-c8b04f82b1fb",
+            "title": "Healthcare",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "8",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Middle East and Africa",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "12",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Manufacturing",
+            "id": "10ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "13",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

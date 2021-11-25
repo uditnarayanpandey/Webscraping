@@ -1,0 +1,1685 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "7e31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "63000CT",
+            "summary": "Polycarbonate / Polyester alloy,Unreinforced,Anti-Static,LNP Clean Compounding Technology, Translucent",
+            "description": "LNP STAT-LOY 63000CT compound is based on Polycarbonate / Polyester alloy containing proprietary additives suitable for advanced semiconductor packaging applications. Added features of this grade include: LNP Clean Compounding Technology, Permanently Anti-Static, Translucent.",
+            "applications": [
+                "Data Management",
+                "Electronic Components",
+                "Personal Computing",
+                "Semiconductor"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_63000CT_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_63000ct_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "80592cf4-ec1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electrical Devices and Displays",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "63000ct"
+        },
+        {
+            "$id": "3",
+            "id": "7f31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "63000CTC",
+            "summary": "Polycarbonate / Polyester alloy,Unreinforced,Anti-Static,LNP Clean Compounding Technology, Translucent",
+            "description": "LNP STAT-LOY 63000CTC compound is based on Polycarbonate / Polyester alloy containing proprietary additives suitable for advanced semiconductor packaging applications. Added features of this grade include: LNP Clean Compounding Technology, Permanently Anti-Static, Translucent.",
+            "applications": [
+                "Data Management",
+                "Electronic Material Handling",
+                "Enclosure/Housing/Cover",
+                "LED Lighting",
+                "Semiconductor",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_63000CTC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_63000ctc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "af4d7852-e61c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electrical Devices and Displays",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "63000ctc"
+        },
+        {
+            "$id": "4",
+            "id": "8031aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "63000CTU",
+            "summary": "Polycarbonate / Polyester alloy,Unreinforced,Anti-Static,LNP Clean Compounding Technology,UV Stabilized, Translucent",
+            "description": "LNP STAT-LOY 63000CTU compound is based on Polycarbonate / Polyester alloy containing proprietary additives suitable for advanced semiconductor packaging applications. Added features of this grade include: LNP Clean Compounding Technology, Permanently Anti-Static, , UV Stabilized, Translucent.",
+            "applications": [
+                "Data Management",
+                "Semiconductor"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_63000CTU_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_63000ctu_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a7e003b6-ec1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electrical Devices and Displays",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "63000ctu"
+        },
+        {
+            "$id": "5",
+            "id": "1032aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "93000LTH",
+            "summary": "Acrylic resin,Unreinforced,Anti-Static,Transparent ,Healthcare",
+            "description": "LNP STAT-LOY 93000LTH compound is based on Acrylic resin containing proprietary additives. Added features of this grade include: Permanently Anti-Static, Transparent and Healthcare.",
+            "applications": [
+                "Pharmaceutical Packaging & Drug Delivery"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_93000LTH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_93000lth_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2d5c0e6f-ec1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Surgical",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "93000lth"
+        },
+        {
+            "$id": "6",
+            "id": "4032aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "9X03508",
+            "summary": "Polyphenylene Ether (PPE)  / Nylon 6/6 blend,Unreinforced,Anti-Static,Flame Retardant, High Impact",
+            "description": "LNP STAT-LOY 9X03508 compound is based on Polyphenylene Ether (PPE) / Nylon 6/6 blend containing proprietary fillers. Added features of this grade include: Permanently Anti-Static, Flame Retardant, High Impact.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_9X03508_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_9x03508_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "14705458-e148-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "9x03508"
+        },
+        {
+            "$id": "7",
+            "id": "5b32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "A3000",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,Unreinforced,Anti-Static",
+            "description": "LNP STAT-LOY A3000 compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static.",
+            "applications": [
+                "Audio",
+                "Circuit Protection",
+                "Data Management",
+                "Displays",
+                "Document Handling",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Meter Water",
+                "Personal Computing",
+                "Semiconductor"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_A3000_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_a3000_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "719dea0b-ef9f-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "a3000"
+        },
+        {
+            "$id": "8",
+            "id": "5c32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "A30009",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,Unreinforced,Anti-Static,Flame Retardant",
+            "description": "LNP STAT-LOY A30009 compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static, Flame Retardant.",
+            "applications": [
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "Heavy Vehicles",
+                "Power Manangement",
+                "Security/Detection",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_A30009_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_a30009_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "bfb1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_A30009_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_a30009_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "37b2102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_A30009_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_a30009_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "06c5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "a30009"
+        },
+        {
+            "$id": "9",
+            "id": "6032aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "A3000TXB",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,Unreinforced,Anti-Static,Transparent. Bio-assessed to ISO 10993.",
+            "description": "LNP STAT-LOY A3000TXB compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static, Transparent, Bio-assessed to ISO 10993.",
+            "applications": [
+                "Non-LED Lighting",
+                "Pharmaceutical Manufacturing",
+                "Pharmaceutical Packaging & Drug Delivery"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_A3000TXB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_a3000txb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "367ab591-eb1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Food & Beverage",
+                "Surgical",
+                "Consumer Packaging",
+                "Home Appliance",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "a3000txb"
+        },
+        {
+            "$id": "10",
+            "id": "6432aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "A3000XXP",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,Unreinforced,Anti-Static",
+            "description": "LNP STAT-LOY A3000XXP compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_A3000XXP_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_a3000xxp_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "87eda529-e461-ea11-8103-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas",
+                "MEA"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "a3000xxp"
+        },
+        {
+            "$id": "11",
+            "id": "8d32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "AF3009",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,Glass Fiber,Anti-Static,Flame Retardant",
+            "description": "LNP STAT-LOY AF3009 compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing 10% glass fiber. Added features of this grade include: Permanently Anti-Static, Flame Retardant.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_AF3009_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_af3009_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "181aea11-69b1-ea11-8103-c81318e981df"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "af3009"
+        },
+        {
+            "$id": "12",
+            "id": "d832aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "AX11421",
+            "summary": "Acrylonitrile Butadiene Styrene (ABS) resin,Unreinforced,Anti-Static",
+            "description": "LNP STAT-LOY AX11421 compound is based on Acrylonitrile Butadiene Styrene (ABS) resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static.",
+            "applications": [
+                "Audio"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_AX11421_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_ax11421_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "48dda8bf-0720-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ax11421"
+        },
+        {
+            "$id": "13",
+            "id": "0d34a71f-617b-eb11-8108-005056857ef3",
+            "title": "D3000IEU6",
+            "summary": "Polycarbonate, unreinforced, anti-static, colorable, low temperature impact",
+            "description": "LNP STAT-LOY D3000IEU6 Compound is a static dissipative Polycarbonate Copolymer based compound that has been designed towards ATEX compliant applications. The material has an optimized balance between surface resistivity and impact strength retention after hydro aging, and has excellent low temperature impact. The material is available in a wide range of dark and light colors, including UV stabilization.",
+            "applications": [
+                "Drone",
+                "Mobile Phone",
+                "Personal safety",
+                "Air Conditioning",
+                "ATM/Ticket Machine",
+                "Auto Electrical",
+                "Circuit Protection",
+                "Commercial Appliance",
+                "Conveyor",
+                "Displays",
+                "Document Handling",
+                "Enclosure/Housing/Cover",
+                "LED Lighting",
+                "Lighting",
+                "Medical Device",
+                "Non-LED Lighting",
+                "OLED",
+                "Personal Computing",
+                "Pharmaceutical Manufacturing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Photovoltaic Components",
+                "Power Manangement",
+                "Semiconductor",
+                "Sensor",
+                "Vacuum Cleaner",
+                "Weaving Machine"
+            ],
+            "processingTechniques": [
+                "Injection Molding",
+                "Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Industry Brochure",
+                    "title": "SABIC ATEX SOLUTIONS - NEW LNP\u2122 STAT KON\u2122 AND STAT LOY\u2122 PRODUCTS DESIGNED WITH ATEX IN MIND",
+                    "url": "/en/products/documents/sabic-atex-solutions-new-lnp-stat-kon-and-stat-loy-products-designed-with-atex-in-mind/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "79597f35-21e0-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_D3000IEU6_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_d3000ieu6_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211007",
+                    "id": "f34956a0-757b-eb11-8108-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electric Vehicle",
+                "Electrical Devices and Displays",
+                "Energy Storage",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Industrial Material Handling",
+                "Electronic Material",
+                "Commercial Appliance",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "d3000ieu6"
+        },
+        {
+            "$id": "14",
+            "id": "233caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "K3000SZ",
+            "summary": "POM (Acetal) copolymer resin,Unreinforced,Anti-Static,Heat Stabilized",
+            "description": "LNP STAT-LOY K3000SZ compound is based on POM (Acetal) copolymer resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static, Heat Stabilized.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_K3000SZ_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_k3000sz_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d9e0892d-fd47-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "k3000sz"
+        },
+        {
+            "$id": "15",
+            "id": "243caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "K3000Z",
+            "summary": "POM (Acetal) copolymer resin,Unreinforced,Anti-Static",
+            "description": "LNP STAT-LOY K3000Z compound is based on POM (Acetal) copolymer resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static.",
+            "applications": [
+                "Data Management"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_K3000Z_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_k3000z_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b51449a4-e81c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "k3000z"
+        },
+        {
+            "$id": "16",
+            "id": "7c3caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "KX01002",
+            "summary": "OM (Acetal) copolymer resin,Unreinforced,Anti-Static",
+            "description": "LNP STAT-LOY KX01002 compound is based on POM (Acetal) copolymer resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static.",
+            "applications": [
+                "Building/Construction Sheet",
+                "Electronics",
+                "HVAC Underhood"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_KX01002_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_kx01002_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7244a49b-6317-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "kx01002"
+        },
+        {
+            "$id": "17",
+            "id": "803caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "KX09024",
+            "summary": "POM (Acetal) copolymer resin,Unreinforced,Anti-Static",
+            "description": "LNP STAT-LOY KX09024 compound is based on POM (Acetal) copolymer resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_KX09024_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_kx09024_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "4183b52f-eb1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "kx09024"
+        },
+        {
+            "$id": "18",
+            "id": "843caad7-e0d8-e611-819b-06b69393ae39",
+            "title": "KX96821",
+            "summary": "POM (Acetal) copolymer resin,Unreinforced,Anti-Static",
+            "description": "LNP STAT-LOY KX96821 compound is based on POM (Acetal) copolymer resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static.",
+            "applications": [
+                "Plumbing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_KX96821_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_kx96821_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c43326e9-eb1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "kx96821"
+        },
+        {
+            "$id": "19",
+            "id": "8b3daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "M3000",
+            "summary": "Polypropylene (PP) resin,Unreinforced,Anti-Static",
+            "description": "LNP STAT-LOY M3000 compound is based on unfilled Polypropylene (PP) resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static.",
+            "applications": [
+                "Conveyor",
+                "Data Management",
+                "Electronic Components",
+                "Enclosures"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_M3000_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_m3000_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "96b8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_M3000_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_m3000_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "3aba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "m3000"
+        },
+        {
+            "$id": "20",
+            "id": "8c3daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "M3000C",
+            "summary": "Polypropylene (PP) resin,Unreinforced,Anti-Static,LNP Clean Compounding Technology,Permanently Anti-Static",
+            "description": "LNP STAT-LOY M3000C compound is based on unfilled Polypropylene (PP) resin containing proprietary fillers. Added features of this grade include: LNP Clean Compounding Technology, Permanently Anti-Static.",
+            "applications": [
+                "Industrial Material Handling",
+                "Semiconductor"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_M3000C_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_m3000c_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f373dae5-ea1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electrical Devices and Displays",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "m3000c"
+        },
+        {
+            "$id": "21",
+            "id": "5d3faad7-e0d8-e611-819b-06b69393ae39",
+            "title": "N30009",
+            "summary": "Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend,Unreinforced,Anti-Static,Flame Retardant",
+            "description": "LNP STAT-LOY N30009 compound is based on Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend containing proprietary fillers. Added features of this grade include: Permanently Anti-Static, Flame Retardant.",
+            "applications": [
+                "Data Management",
+                "Document Handling",
+                "Electronic Components",
+                "Lab Ware and Clinical Diagnostics",
+                "Monitoring and Imaging",
+                "Personal Computing",
+                "Rail Cabin Interiors"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_N30009_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_n30009_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "a4b9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_N30009_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_n30009_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a6ba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_N30009_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_n30009_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "c7c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "n30009"
+        },
+        {
+            "$id": "22",
+            "id": "cd3faad7-e0d8-e611-819b-06b69393ae39",
+            "title": "NX03583",
+            "summary": "Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend,Unreinforced,Anti-Static,Non-Brominated & Non-Chlorinated Flame Retardant",
+            "description": "LNP STAT-LOY NX03583 compound is based on Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend containing proprietary fillers. Added features of this grade include: Permanently Anti-Static, Flame Retardant.",
+            "applications": [
+                "Data Management",
+                "Data Transfer",
+                "Electronic Components",
+                "Enclosures",
+                "Lab Ware and Clinical Diagnostics",
+                "Personal Computing",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_NX03583_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_nx03583_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20211022",
+                    "id": "b7b4564c-e048-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "nx03583"
+        },
+        {
+            "$id": "23",
+            "id": "d93faad7-e0d8-e611-819b-06b69393ae39",
+            "title": "NX13401",
+            "summary": "Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend,Unreinforced,Anti-Static,Flame Retardant, Excellent Mold Release",
+            "description": "LNP STAT-LOY NX13401 compound is based on Polycarbonate/Acrylonitrile Butadiene Styrene (PC/ABS) blend containing proprietary fillers. Added features of this grade include: Permanently Anti-Static, Flame Retardant, Excellent Mold Release.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_NX13401_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_nx13401_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1c49e67f-4b22-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "nx13401"
+        },
+        {
+            "$id": "24",
+            "id": "5240aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "P3000U",
+            "summary": "Nylon 6 resin ,Unreinforced,Anti-Static,UV - Stabilized",
+            "description": "LNP STAT-LOY P3000U compound is based on Nylon 6 resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static, UV - Stabilized.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_P3000U_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_p3000u_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "bbd02495-ea1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p3000u"
+        },
+        {
+            "$id": "25",
+            "id": "c140aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PF303",
+            "summary": "Nylon 6 resin ,Glass Fiber,Anti-Static",
+            "description": "LNP STAT-LOY PF303 compound is based on Nylon 6 resin containing 15% glass fiber. Added features of this grade include: Permanently Anti-Static.",
+            "applications": [
+                "Window"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_PF303_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_pf303_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "afba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_PF303_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_pf303_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "81bc102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pf303"
+        },
+        {
+            "$id": "26",
+            "id": "c240aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "PF306",
+            "summary": "Nylon 6 resin ,Glass Fiber,Anti-Static",
+            "description": "LNP STAT-LOY PF306 compound is based on Nylon 6 resin containing 30% glass fiber. Added features of this grade include: Permanently Anti-Static.",
+            "applications": [
+                "Personal Computing"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_PF306_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_pf306_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e594fce9-e81c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "pf306"
+        },
+        {
+            "$id": "27",
+            "id": "6544aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "SLWM2105",
+            "summary": "Polycarbonate / Polyester blend,proprietary fillers,Anti-Static",
+            "description": "LNP STAT-LOY SLWM2105 compound is based on Polycarbonate / Polyester blend containing proprietary fillers. Added features of this grade include: Permanently Anti-Static.",
+            "applications": [
+                "Data Management"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_SLWM2105_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_slwm2105_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "02e37d4a-ea1c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electronic Material Handling",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "slwm2105"
+        },
+        {
+            "$id": "28",
+            "id": "cb45aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "W3000XXJ",
+            "summary": "Polybutylene Terephthalate (PBT) resin,Unreinforced,Anti-Static,Colorable, Healthcare, Low Extractables",
+            "description": "LNP STAT-LOY W3000XXJ compound is based on Polybutylene Terephthalate (PBT) resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static, Colorable, Healthcare, Low Extractables.",
+            "applications": [
+                "Pharmaceutical Packaging & Drug Delivery"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_W3000XXJ_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_w3000xxj_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d63f8e74-e91c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Healthcare Packaging",
+                "Food & Beverage",
+                "Surgical",
+                "Consumer Packaging",
+                "Home Appliance",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "w3000xxj"
+        },
+        {
+            "$id": "29",
+            "id": "3e47aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "YX02589C",
+            "summary": "Polyester Elastomer resin ,Unreinforced,Anti-Static,LNP Clean Compounding Technology",
+            "description": "LNP STAT-LOY YX02589C compound is based on Polyester Elastomer resin containing proprietary fillers. Added features of this grade include: Permanently Anti-Static, LNP Clean Compounding Technology.",
+            "applications": [
+                "Data Management",
+                "Semiconductor"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "LNP\u2122 STAT-LOY\u2122 Compound_YX02589C_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/lnp-stat-loy-compound_yx02589c_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "873c7c33-e91c-ea11-8102-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electrical Devices and Displays",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "yx02589c"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "30",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "0cf9ad07-62b0-4021-88d3-07861c00788c",
+            "title": "Extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "32",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "efffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductor",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "7cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "d5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Packaging & Drug Delivery",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "1b00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window",
+            "count": 0
+        },
+        {
+            "$id": "42",
+            "id": "48ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Audio",
+            "count": 0
+        },
+        {
+            "$id": "43",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "44",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "45",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "46",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "47",
+            "id": "c2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Water",
+            "count": 0
+        },
+        {
+            "$id": "48",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "49",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "50",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "51",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "52",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "53",
+            "id": "d4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Manufacturing",
+            "count": 0
+        },
+        {
+            "$id": "54",
+            "id": "68f15931-7d6c-e711-80fb-005056857ef3",
+            "title": "Drone",
+            "count": 0
+        },
+        {
+            "$id": "55",
+            "id": "9ddbbf3b-7d6c-e711-80fb-005056857ef3",
+            "title": "Mobile Phone",
+            "count": 0
+        },
+        {
+            "$id": "56",
+            "id": "a7596c1e-4fc8-e711-80fd-005056857ef3",
+            "title": "Personal safety",
+            "count": 0
+        },
+        {
+            "$id": "57",
+            "id": "3affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Conditioning",
+            "count": 0
+        },
+        {
+            "$id": "58",
+            "id": "47ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "ATM/Ticket Machine",
+            "count": 0
+        },
+        {
+            "$id": "59",
+            "id": "4affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Electrical",
+            "count": 0
+        },
+        {
+            "$id": "60",
+            "id": "64ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "count": 0
+        },
+        {
+            "$id": "61",
+            "id": "68ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Conveyor",
+            "count": 0
+        },
+        {
+            "$id": "62",
+            "id": "bcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "count": 0
+        },
+        {
+            "$id": "63",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "64",
+            "id": "ccffee91-14d8-e611-819b-06b69393ae39",
+            "title": "OLED",
+            "count": 0
+        },
+        {
+            "$id": "65",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        },
+        {
+            "$id": "66",
+            "id": "f0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sensor",
+            "count": 0
+        },
+        {
+            "$id": "67",
+            "id": "0d00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vacuum Cleaner",
+            "count": 0
+        },
+        {
+            "$id": "68",
+            "id": "1500ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Weaving Machine",
+            "count": 0
+        },
+        {
+            "$id": "69",
+            "id": "55ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building/Construction Sheet",
+            "count": 0
+        },
+        {
+            "$id": "70",
+            "id": "7effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronics",
+            "count": 0
+        },
+        {
+            "$id": "71",
+            "id": "adffee91-14d8-e611-819b-06b69393ae39",
+            "title": "HVAC Underhood",
+            "count": 0
+        },
+        {
+            "$id": "72",
+            "id": "d9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Plumbing",
+            "count": 0
+        },
+        {
+            "$id": "73",
+            "id": "b1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "74",
+            "id": "b7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lab Ware and Clinical Diagnostics",
+            "count": 0
+        },
+        {
+            "$id": "75",
+            "id": "c5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Monitoring and Imaging",
+            "count": 0
+        },
+        {
+            "$id": "76",
+            "id": "ddffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "77",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "78",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "79",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "80",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "81",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "82",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductors",
+            "id": "06ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "83",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "84",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "85",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "86",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "id": "2fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "87",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare Packaging",
+            "id": "6011329c-67f2-e811-80ff-005056857ef3"
+        },
+        {
+            "$id": "88",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "89",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "90",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "91",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food & Beverage",
+            "id": "0fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "92",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Consumer Packaging",
+            "id": "1affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "93",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "94",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid and Blood Handling",
+            "id": "2effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "95",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electric Vehicle",
+            "id": "09ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "96",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Storage",
+            "id": "21ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "97",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "id": "2affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "98",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "99",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Lighting",
+            "id": "33ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

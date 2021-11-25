@@ -1,0 +1,637 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "2781d2c9-8571-e911-8101-005056857ef3",
+            "title": "57S",
+            "summary": "Suspension Polyvinyl Chloride For Rigid Application",
+            "description": "SABIC\u00ae PVC 57S is a free flowing vinyl chloride homopolymer resin having low molecular weight. It is manufactured by suspension polymerization.",
+            "applications": [
+                "Sheet",
+                "Fittings for pipes"
+            ],
+            "processingTechniques": [
+                "Calendering ",
+                "Sheet extrusion",
+                "Injection moulding"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SABIC\u00ae SPVC-57S-SDS-Global-en-2019-05-07",
+                    "url": "/en/products/documents/sabic-sabic-spvc-57s-sds-global-en-2019-05-07/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6f5ef5ef-0bf0-ea11-8105-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae SPVC_57S_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-spvc_57s_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e7e99f0d-8671-e911-8101-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a0b5e5a6-1dc9-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "57s"
+        },
+        {
+            "$id": "4",
+            "id": "aa6484c0-3a4b-43a6-afde-326e8d1d6bae",
+            "title": "59S",
+            "summary": "Suspension Polyvinyl Chloride For Rigid Application",
+            "description": "SABIC\u00ae PVC 59S is a free flowing vinyl chloride homopolymer resin having low molecular weight. It is manufactured by suspension polymerization.",
+            "applications": [
+                "Sheet",
+                "Fittings for pipes"
+            ],
+            "processingTechniques": [
+                "Calendering ",
+                "Sheet extrusion",
+                "Injection moulding"
+            ],
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC\u00ae SPVC-59S-SDSR-Global-en-2016-02-03",
+                    "url": "/en/products/documents/sabic-spvc-59s-sdsr-global-en-2016-02-03/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5550e310-93f6-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SPVC-59S-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-59s-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c2755a25-1d01-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SPVC-59S-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-59s-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6bf44d02-aaa9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SPVC-59S-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-59s-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d9781ce7-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SPVC-59S-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-59s-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6809a306-31af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SPVC-59S-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-59s-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "191f78a9-3ce5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae SPVC_59S_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-spvc_59s_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f5c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [
+                {
+                    "$id": "5",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "5b86b481-1cc9-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "59s"
+        },
+        {
+            "$id": "6",
+            "id": "e9b16598-3fe9-e611-80fb-005056857ef3",
+            "title": "60S",
+            "summary": "Suspension Polyvinyl Chloride for Rigid Products",
+            "description": "PVC 60S is a free flowing vinyl chloride homopolymer resin having low molecular weight. It is manufactured\nby suspension polymerization. PVC 60S has following properties that make it suitable for rigid PVC applications.",
+            "applications": [
+                "Food Container",
+                "Shrink film"
+            ],
+            "processingTechniques": [
+                "Calendering ",
+                "Injection Molding",
+                "Extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00aePVC 60S-Material Safety Datasheet",
+                    "url": "/en/products/documents/sabic-pvc-60s-material-safety-datasheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c73e1f2a-71f3-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "FOOD CONTACT DECLARATION",
+                    "url": "/en/products/documents/food-contact-declaration/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5bf588a9-c3f8-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae SPVC_60S_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-spvc_60s_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2baf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Rigid Packaging",
+                "Healthcare"
+            ],
+            "contacts": [
+                {
+                    "$id": "7",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "eacdf700-1ec9-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "8",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "ebcdf700-1ec9-eb11-810a-005056857ef3"
+                },
+                {
+                    "$id": "9",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "eccdf700-1ec9-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "60s"
+        },
+        {
+            "$id": "10",
+            "id": "b9f42068-2e66-410f-a935-e548b6ed0424",
+            "title": "67S",
+            "summary": "Suspension Polyvinyl Chloride For Rigid Applications",
+            "description": "SABIC\u00ae PVC 67S is a free flowing vinyl chloride homopolymer resin having medium molecular weight. It is manufactured by suspension polymerization.",
+            "applications": [
+                "Chemical & industrial systems",
+                "Waste water",
+                "Fittings for pipes",
+                "Sewage"
+            ],
+            "processingTechniques": [
+                "Injection moulding",
+                "Extrusion compounding",
+                "Pipe extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-SABIC\u00ae SPVC-67S-SDS-Global-en-2016-02-04",
+                    "url": "/en/products/documents/sabic-sabic-spvc-67s-sds-global-en-2016-02-04/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "90ac3285-65b3-e911-8102-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SPVC-67S-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-67s-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8e00d9e2-180d-eb11-8106-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SPVC-67S-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-67s-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "71f44d02-aaa9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SPVC-67S-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-67s-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "df781ce7-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SPVC-67S-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-67s-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d0d2082c-94e5-4947-9788-a4af010a5e2c"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SPVC-67S-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-67s-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "cf426ee6-5b44-455f-a3d8-a4cfc0e9dcd6"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae SPVC_67S_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-spvc_67s_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "9cc3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [
+                {
+                    "$id": "11",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "2233e45c-1dc9-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "67s"
+        },
+        {
+            "$id": "12",
+            "id": "1c8079a5-df3d-463b-a446-ef55516bd97e",
+            "title": "70S",
+            "summary": "Suspension Polyvinyl Chloride For Flexible Applications",
+            "description": "SABIC\u00ae PVC 70S is a free flowing vinyl chloride homopolymer resin having high molecular weight. It is manufactured by suspension polymerization.",
+            "applications": [
+                "Hoses",
+                "Sheet",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Extrusion",
+                "Injection moulding"
+            ],
+            "documents": [
+                {
+                    "documentType": "SDS",
+                    "title": "SABIC\u00ae SPVC-70S-SDSR-Global-en-2016-02-03",
+                    "url": "/en/products/documents/sabic-spvc-70s-sdsr-global-en-2016-02-03/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3b76d9b8-94f6-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SPVC-70S-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-70s-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "760e7644-bcf8-e611-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SPVC-70S-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-70s-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b7d6d20a-1f01-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SPVC-70S-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-70s-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "245a7908-aaa9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SPVC-70S-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-70s-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c6f56aed-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SPVC-70S-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-spvc-70s-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "45047f0d-31af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae SPVC_70S_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-spvc_70s_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f7c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Construction",
+                "IndustrySegment"
+            ],
+            "contacts": [
+                {
+                    "$id": "13",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "b89b89d7-1dc9-eb11-810a-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "70s"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "14",
+            "id": "0ef13e43-c1f1-e611-80fb-005056857ef3",
+            "title": "Calendering ",
+            "count": 0
+        },
+        {
+            "$id": "15",
+            "id": "45765adb-85e8-47b6-97d9-0658ef6bb336",
+            "title": "Sheet extrusion",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "2ce92bf0-ca5c-4544-a40c-4840b1ef54c3",
+            "title": "Injection moulding",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "0cf9ad07-62b0-4021-88d3-07861c00788c",
+            "title": "Extrusion",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "8a5d1378-670a-4b5e-88f4-727bc45a6b1d",
+            "title": "Extrusion compounding",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "68450aab-b9b8-4b9b-be53-91d72734e67d",
+            "title": "Pipe extrusion",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "21",
+            "id": "07c64c9c-bba2-4a0f-b1c5-5424d49c327e",
+            "title": "Sheet",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "10ff06f4-3d9a-4bba-86c5-ea5b3196a130",
+            "title": "Fittings for pipes",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "95ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Container",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "060f6354-49ef-4432-bcd8-27946c691292",
+            "title": "Shrink film",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "222e2188-7d4a-4eb6-b1af-0aa320c0c9cd",
+            "title": "Chemical & industrial systems",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "9dd5e105-4fe6-4dd1-8799-b98dc4e18083",
+            "title": "Waste water",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "55982401-1b76-4c37-a0ca-f6b40dd7e910",
+            "title": "Sewage",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "91ad08ba-c1f1-e611-80fb-005056857ef3",
+            "title": "Hoses",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "30",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Middle East and Africa",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "34",
+            "industry": "1679dc71-a5d2-4e3b-bd90-ef43d09fe4d9",
+            "title": "IndustrySegment",
+            "id": "f25a6df1-91f0-43a8-9b69-520be613d22d"
+        },
+        {
+            "$id": "35",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rigid Packaging",
+            "id": "c34e23fb-45e9-e611-80fb-005056857ef3"
+        },
+        {
+            "$id": "36",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "37",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

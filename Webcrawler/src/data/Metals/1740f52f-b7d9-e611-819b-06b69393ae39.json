@@ -1,0 +1,840 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "5440f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "B",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_B_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_b_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "98c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "b"
+        },
+        {
+            "$id": "3",
+            "id": "5740f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "C",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_C_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_c_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a3bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c"
+        },
+        {
+            "$id": "4",
+            "id": "6340f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "CSTypeA",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_CSTypeA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_cstypea_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "efc9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cstypea"
+        },
+        {
+            "$id": "5",
+            "id": "6b40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "DDS",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "METAL DOWNSTREAM INDUSTRIALS"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_DDS_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_dds_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "aebf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dds"
+        },
+        {
+            "$id": "6",
+            "id": "7240f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "DX51D",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_DX51D_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_dx51d_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "adc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dx51d"
+        },
+        {
+            "$id": "7",
+            "id": "7540f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "DX52D",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_DX52D_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_dx52d_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b7bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dx52d"
+        },
+        {
+            "$id": "8",
+            "id": "7840f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "DX53D",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "METAL DOWNSTREAM INDUSTRIALS"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_DX53D_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_dx53d_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b3c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dx53d"
+        },
+        {
+            "$id": "9",
+            "id": "7b40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Fe E250",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_Fe E250_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_fe-e250_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f6c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fe-e250"
+        },
+        {
+            "$id": "10",
+            "id": "7e40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Fe E280",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_Fe E280_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_fe-e280_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "bdbf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fe-e280"
+        },
+        {
+            "$id": "11",
+            "id": "8140f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Fe E320",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_Fe E320_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_fe-e320_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f8c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fe-e320"
+        },
+        {
+            "$id": "12",
+            "id": "8f40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FH",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized full hard"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_FH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_fh_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "00c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fh"
+        },
+        {
+            "$id": "13",
+            "id": "9540f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FSTypeA",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_FSTypeA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_fstypea_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "cbc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fstypea"
+        },
+        {
+            "$id": "14",
+            "id": "da40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "LFQ",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_LFQ_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_lfq_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "03c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "lfq"
+        },
+        {
+            "$id": "15",
+            "id": "ef40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S250GD",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_S250GD_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_s250gd_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0ac2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s250gd"
+        },
+        {
+            "$id": "16",
+            "id": "f540f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S280GD",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_S280GD_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_s280gd_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "14ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s280gd"
+        },
+        {
+            "$id": "17",
+            "id": "f840f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S320GD",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_S320GD_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_s320gd_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1dc0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s320gd"
+        },
+        {
+            "$id": "18",
+            "id": "0a41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SGCC",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_SGCC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_sgcc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1aca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sgcc"
+        },
+        {
+            "$id": "19",
+            "id": "0d41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SGCD",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_SGCD_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_sgcd_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1fc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sgcd"
+        },
+        {
+            "$id": "20",
+            "id": "1041f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SGCD2",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "METAL DOWNSTREAM INDUSTRIALS"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_SGCD2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_sgcd2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "64c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sgcd2"
+        },
+        {
+            "$id": "21",
+            "id": "3741f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SS230",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_SS230_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_ss230_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "4ac0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ss230"
+        },
+        {
+            "$id": "22",
+            "id": "3a41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SS255",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_SS255_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_ss255_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "50c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ss255"
+        },
+        {
+            "$id": "23",
+            "id": "3d41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SS275",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_SS275_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_ss275_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "25ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ss275"
+        },
+        {
+            "$id": "24",
+            "id": "4341f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SS340",
+            "summary": "cold rolled galvanized",
+            "description": "cold rolled galvanized",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Galvanized"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRCG_SS340_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crcg_ss340_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "87c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ss340"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "25",
+            "id": "7041f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Cold Rolled Galvanized",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "6d41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Cold Rolled Galvanized full hard",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "27",
+            "id": "6b4c8c2a-b543-e811-80fd-005056857ef3",
+            "title": "Building and Construction",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "7affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "ff738114-6ec7-e611-8197-06b69393ae39",
+            "title": "METAL DOWNSTREAM INDUSTRIALS",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "25a0dc4e-a3f0-4540-b7e1-5657a730e347",
+            "title": "Tubes",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "31",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

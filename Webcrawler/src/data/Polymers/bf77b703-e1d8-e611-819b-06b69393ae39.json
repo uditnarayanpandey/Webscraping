@@ -1,0 +1,3951 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "de32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "BDT5510",
+            "summary": "Automotive.  High heat resistance, low gloss, color concentratable for interior applications.  Natural only.",
+            "description": "Automotive.  High heat resistance, low gloss, color concentratable for interior applications.  Natural only.",
+            "applications": [
+                "Auto Aftermarket",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Energy Management",
+                "Forward Lighting",
+                "Headliner",
+                "Interior",
+                "Overhead",
+                "Recreational Vehicle",
+                "Scooter/Moped",
+                "Seat",
+                "Structure",
+                "Trim",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_BDT5510_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_bdt5510_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210819",
+                    "id": "94b2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Recreational Vehicle",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "bdt5510"
+        },
+        {
+            "$id": "3",
+            "id": "df32aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "BDT6500",
+            "summary": "Automotive.  Low gloss, color concentratable for interior applications. Natural only.",
+            "description": "Automotive.  Low gloss, color concentratable for interior applications. Natural only.",
+            "applications": [
+                "Auto Aftermarket",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Recreational Vehicle"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_BDT6500_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_bdt6500_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "c0b2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Electrical Components and Infrastructure",
+                "Recreational Vehicle",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "bdt6500"
+        },
+        {
+            "$id": "4",
+            "id": "f434aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DL100",
+            "summary": "High heat, low emissions ABS+PC blend.",
+            "description": "CYCOLAC DL100 is a high heat, high impact, low emissions ABS/PC blend.",
+            "applications": [
+                "ATM/Ticket Machine",
+                "Auto Aftermarket",
+                "Cluster",
+                "Console",
+                "Displays",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Exterior Trim",
+                "Front Grille",
+                "HVAC Underhood",
+                "Interior",
+                "Long Distance Coach",
+                "Meter Gas",
+                "Motorcycle",
+                "Rail Cabin Interiors",
+                "Rear/Signal Lighting",
+                "Recreational Vehicle",
+                "Seat",
+                "Small Appliance",
+                "Travel Suitcase",
+                "Trim"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_DL100_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_dl100_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "97b4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_DL100_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_dl100_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "9ab4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_DL100_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_dl100_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "b7c5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Rail",
+                "Sport/Leisure",
+                "Home Appliance",
+                "Bus",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Automotive Under the Hood",
+                "Commercial Appliance",
+                "Recreational Vehicle",
+                "Automotive Lighting",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dl100"
+        },
+        {
+            "$id": "5",
+            "id": "f534aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DL100LG",
+            "summary": "ABS, High heat, low gloss & low emissions ABS+PC blend.",
+            "description": "CYCOLAC DL100LG is a low gloss, high heat, high impact ABS/PC blend with low emission",
+            "applications": [
+                "Auto Aftermarket",
+                "Cluster",
+                "Displays",
+                "Doors Hardware/Trim",
+                "Enclosures",
+                "Front End",
+                "Front Grille",
+                "LED Lighting",
+                "Power Boat",
+                "Seat",
+                "Small Appliance",
+                "Trim"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_DL100LG_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_dl100lg_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "a0b3102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_DL100LG_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_dl100lg_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "9db4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_DL100LG_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_dl100lg_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "b8c5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dl100lg"
+        },
+        {
+            "$id": "6",
+            "id": "f734aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "DL200H",
+            "summary": "High Heat ABS/PC blend",
+            "description": "CYCOLAC DL200H is a hydrostable high heat ABS/PC blend",
+            "applications": [
+                "Forward Lighting",
+                "Golf Cart",
+                "Medical Device",
+                "Motorcycle"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_DL200H_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_dl200h_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "5fb4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_DL200H_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_dl200h_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "b9c5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Personal Recreation",
+                "Healthcare",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dl200h"
+        },
+        {
+            "$id": "7",
+            "id": "4336aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "EX39",
+            "summary": "Highest impact extrusion ABS for sheet and blow molding applications.",
+            "description": "Highest impact extrusion ABS for sheet and blow molding applications.",
+            "applications": [
+                "Building/Construction Sheet",
+                "Electronic Components",
+                "Head Protection",
+                "Individual Equiptment",
+                "LED Lighting",
+                "Pipe/Fitting",
+                "Sail Boat",
+                "Traffic Management",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Sheet extrusion",
+                "Extrusion Blow Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_EX39_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_ex39_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "5eb4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_EX39_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_ex39_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "01c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Water Management",
+                "Construction",
+                "Ophthalmics",
+                "Lighting",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ex39"
+        },
+        {
+            "$id": "8",
+            "id": "4536aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "EX39F",
+            "summary": "Highest impact extrusion ABS for sheet and blow molding applications. FDA food contact compliant.",
+            "description": "Highest impact extrusion ABS for sheet and blow molding applications. FDA food contact compliant.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Electronic Components",
+                "Power Boat"
+            ],
+            "processingTechniques": [
+                "Sheet extrusion",
+                "Extrusion Blow Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_EX39F_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_ex39f_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "3ab5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_EX39F_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_ex39f_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "03c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ex39f"
+        },
+        {
+            "$id": "9",
+            "id": "4836aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "EX58",
+            "summary": "High impact ABS for sheet extrusion and blow molding applications.",
+            "description": "High impact ABS for sheet extrusion and blow molding applications.",
+            "applications": [
+                "Building/Construction Sheet",
+                "Enclosure/Housing/Cover",
+                "EV Infrastructure",
+                "Freezer",
+                "Heavy Vehicles",
+                "Refrigerator",
+                "Toy",
+                "Travel Suitcase"
+            ],
+            "processingTechniques": [
+                "Sheet extrusion",
+                "Extrusion Blow Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_EX58_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_ex58_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "3cb5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_EX58_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_ex58_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "7db5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Sport/Leisure",
+                "Home Appliance",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ex58"
+        },
+        {
+            "$id": "10",
+            "id": "4a36aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "EX58F",
+            "summary": "High impact ABS for sheet extrusion and blow molding applications.  FDA food contact compliant.",
+            "description": "High impact ABS for sheet extrusion and blow molding applications.  FDA food contact compliant.",
+            "applications": [
+                "Bottles",
+                "Doors Hardware/Trim",
+                "Fixture Bath/Shower",
+                "Overhead",
+                "Small Appliance",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Sheet extrusion",
+                "Extrusion Blow Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_EX58F_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_ex58f_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "67b4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_EX58F_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_ex58f_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "3db5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_EX58F_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_ex58f_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "80b5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Construction",
+                "Food & Beverage",
+                "Surgical",
+                "Home Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ex58f"
+        },
+        {
+            "$id": "11",
+            "id": "4b36aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "EX75",
+            "summary": "Multi-purpose, extrusion ABS providing a favorable balance of engineering properties.",
+            "description": "Multi-purpose, extrusion ABS providing a favorable balance of engineering properties.",
+            "applications": [
+                "Building/Construction Sheet"
+            ],
+            "processingTechniques": [
+                "Sheet extrusion"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_EX75_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_ex75_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "6ab4102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_EX75_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_ex75_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "06c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Construction"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ex75"
+        },
+        {
+            "$id": "12",
+            "id": "5236aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "EXABS01",
+            "summary": "Sheet extrusion ABS with medium impact.",
+            "description": "Sheet extrusion ABS with medium impact.",
+            "applications": [
+                "Building Accessory",
+                "Building/Construction Sheet",
+                "Food Processor",
+                "Recreational Vehicle"
+            ],
+            "processingTechniques": [
+                "Sheet extrusion",
+                "Extrusion Blow Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_EXABS01_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_exabs01_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "3fb5102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Construction",
+                "Home Appliance",
+                "Recreational Vehicle"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "exabs01"
+        },
+        {
+            "$id": "13",
+            "id": "0439aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FR15",
+            "summary": "Flame retardant ABS (non-PBBE additive).  Good property/toughness. Excellent moldability.  UL94 V-0/5VA rated.",
+            "description": "Flame retardant ABS (non-PBBE additive).  Good property/toughness. Excellent moldability.  UL94 V-0/5VA rated.",
+            "applications": [
+                "Air Conditioning",
+                "Audio",
+                "Building Accessory",
+                "Circuit Protection",
+                "Data Management",
+                "Data Transfer",
+                "Defense Vehicles",
+                "Dishwasher",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Fixture Bath/Shower",
+                "Furnace/Heater",
+                "Gas/Electric Oven",
+                "Lab Ware and Clinical Diagnostics",
+                "Laundry Dryer",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Microwave Oven",
+                "Modular Panel",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Power Manangement",
+                "Refrigerator",
+                "Respiratory",
+                "Security/Detection",
+                "Small Appliance",
+                "Surgical Devices",
+                "Washing Machine",
+                "Water Treatment/Filtration",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_FR15_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_fr15_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "0bb6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_FR15_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_fr15_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "4ec6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Defense",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Surgical",
+                "Home Decoration",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fr15"
+        },
+        {
+            "$id": "14",
+            "id": "0639aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FR15U",
+            "summary": "Flame retardant ABS. Excellent indoor UV properties. Excellent moldability. UL94V-0/5VA rated. Elevated UL RTI rating.",
+            "description": "Flame retardant ABS. Excellent indoor UV properties. Excellent moldability. UL94V-0/5VA rated. Elevated UL RTI rating.",
+            "applications": [
+                "Aerospace",
+                "Air Cabin Interiors",
+                "Air Conditioning",
+                "ATM/Ticket Machine",
+                "Audio",
+                "Auto Aftermarket",
+                "Building Accessory",
+                "Building/Construction Sheet",
+                "Coffee Maker/Espresso Machine",
+                "Conveyor",
+                "Data Management",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Food Processor",
+                "Headliner",
+                "Heavy Vehicles",
+                "Lab Ware and Clinical Diagnostics",
+                "Laundry Dryer",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Monitoring and Imaging",
+                "Non-LED Lighting",
+                "Oil/Gas",
+                "Personal Computing",
+                "Photovoltaic Components",
+                "Pump",
+                "Refrigerator",
+                "Renal and Blood Handling",
+                "Security/Detection",
+                "Small Appliance",
+                "Surgical Devices",
+                "Vacuum Cleaner",
+                "Vending Machine",
+                "Washing Machine",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_FR15U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_fr15u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "0fb6102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_FR15U_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_fr15u_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "8bb6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Fossil",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Surgical",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Fluid and Blood Handling",
+                "Commercial Appliance",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fr15u"
+        },
+        {
+            "$id": "15",
+            "id": "0739aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FR23",
+            "summary": "Flame retardant ABS (non-PBBE additives). Good properties/toughness. Excellent moldability. UL94 V-0 rated.",
+            "description": "Flame retardant ABS (non-PBBE additives). Good properties/toughness. Excellent moldability. UL94 V-0 rated.",
+            "applications": [
+                "Air Conditioning",
+                "ATM/Ticket Machine",
+                "Circuit Protection",
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosures",
+                "Furnace/Heater",
+                "Heavy Vehicles",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Monitoring and Imaging",
+                "Personal Computing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Power Manangement",
+                "Respiratory",
+                "Small Appliance",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_FR23_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_fr23_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "38b5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_FR23_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_fr23_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "50c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Commercial Appliance",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fr23"
+        },
+        {
+            "$id": "16",
+            "id": "b439aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "FXS610SK",
+            "summary": "Multi purpose injection moulding grade, suitable for applications that require sparkle colour effects.",
+            "description": "CYCOLAC FXS610SK is a multi purpose ABS injection moulding grade, providing a favourable balance of engineering properties. CYCOLAC FXS610SK is suitable for those applications that require sparkle colour effects.",
+            "applications": [
+                "Auto Aftermarket",
+                "Coffee Maker/Espresso Machine",
+                "Data Management",
+                "Electronic Components",
+                "Food Transportation",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "Lawn/Garden",
+                "Power Manangement",
+                "Refrigerator",
+                "Security/Detection",
+                "Swimming Pool/Spa",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_FXS610SK_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_fxs610sk_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "abb5102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_FXS610SK_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_fxs610sk_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "79c6102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fxs610sk"
+        },
+        {
+            "$id": "17",
+            "id": "69c8c32e-0f26-e911-8100-005056857ef3",
+            "title": "G320A",
+            "summary": "Low flow, good impact, low heat resistance.",
+            "description": "Low flow, good impact, low heat resistance.",
+            "applications": [
+                "Commercial Appliance",
+                "Interior",
+                "Lawn/Garden",
+                "Small Appliance",
+                "Travel Suitcase"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_G320A_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_g320a_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "05870c6c-1026-e911-8100-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Automotive Interiors",
+                "Construction"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "g320a"
+        },
+        {
+            "$id": "18",
+            "id": "353aaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "GRM2600L",
+            "summary": "High-impact ABS.  Improved chemical resistance for use in refrigeration and kitchen appliances.  FDA compliant.",
+            "description": "High Impact , good chemical resistance sheet grade ABS designed for refrigerator liner applications.",
+            "applications": [
+                "Building/Construction Sheet",
+                "Enclosures",
+                "Fixture Bath/Shower",
+                "Fluid Delivery",
+                "Laundry Dryer",
+                "Refrigerator",
+                "Semiconductor",
+                "Washing Machine"
+            ],
+            "processingTechniques": [
+                "Sheet extrusion",
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_GRM2600L_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_grm2600l_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "62b7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Construction",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Fluid and Blood Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "grm2600l"
+        },
+        {
+            "$id": "19",
+            "id": "923aaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "GX3800F",
+            "summary": "High impact ABS for sheet extrusion.  FDA food contact compliant.",
+            "description": "High impact ABS for sheet extrusion.  FDA food contact compliant.",
+            "applications": [
+                "Building/Construction Sheet",
+                "Data Management",
+                "Heavy Vehicles",
+                "Monitoring and Imaging"
+            ],
+            "processingTechniques": [
+                "Sheet extrusion",
+                "Extrusion Blow Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_GX3800F_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_gx3800f_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "27b7102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_GX3800F_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_gx3800f_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "bdb7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gx3800f"
+        },
+        {
+            "$id": "20",
+            "id": "f03aaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HMG47MD",
+            "summary": "General purpose, injection molding ABS for medical applications. Biocompatible (ISO 10993). FDA compliant. Gamma & EtO sterilizable.",
+            "description": "General purpose, injection molding ABS for medical applications. Biocompatible (ISO 10993). FDA compliant. Gamma & EtO sterilizable.",
+            "applications": [
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Fluid Delivery",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Monitoring and Imaging",
+                "Personal Care",
+                "Pharmaceutical Manufacturing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Pump",
+                "Renal and Blood Handling",
+                "Respiratory",
+                "Surgical Devices",
+                "Surgical Tray",
+                "Swimming Pool/Spa"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_HMG47MD_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_hmg47md_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "75b7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Surgical",
+                "Respiratory and Sleep Therapy",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hmg47md"
+        },
+        {
+            "$id": "21",
+            "id": "f23aaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "HMG94MD",
+            "summary": "Superior flow, injection molding ABS for thin-wall medical applications. Biocompatible (ISO 10993). FDA compliant. Gamma & EtO sterilizable.",
+            "description": "Superior flow, injection molding ABS for thin-wall medical applications. Biocompatible (ISO 10993). FDA compliant. Gamma & EtO sterilizable.",
+            "applications": [
+                "Building Accessory",
+                "Data Transfer",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Fixture Bath/Shower",
+                "Fluid Delivery",
+                "Food Transportation",
+                "Lab Ware and Clinical Diagnostics",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Monitoring and Imaging",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Power Manangement",
+                "Renal and Blood Handling",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_HMG94MD_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_hmg94md_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "1bb8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Food & Beverage",
+                "Surgical",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling",
+                "Medical Facility Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "hmg94md"
+        },
+        {
+            "$id": "22",
+            "id": "a43baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "INP449",
+            "summary": "SAN, PTFE, Flame retardant,",
+            "description": "SABIC INP449 is a T-SAN (Teflon (PTFE)-Styrene-Ancrylonitrile) resin for use as an FR anti-drip agent",
+            "applications": [
+                "Additive Semiconductor Materials",
+                "Electronic Components"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_INP449_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_inp449_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "1db8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "inp449"
+        },
+        {
+            "$id": "23",
+            "id": "a53baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "INP562",
+            "summary": "Low flow powder SAN for color concentrates and alloys. FDA compliant (part use must be at room temperature or below).",
+            "description": "Low flow powder SAN for color concentrates and alloys. FDA compliant (part use must be at room temperature or below).",
+            "applications": [
+                "Additive Plastic"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_INP562_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_inp562_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "07b7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Manufacturing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "inp562"
+        },
+        {
+            "$id": "24",
+            "id": "a63baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "INP563",
+            "summary": "Medium flow powder SAN for color concentrates and alloys. FDA compliant (part use must be at room temperature or below).",
+            "description": "Medium flow powder SAN for color concentrates and alloys. FDA compliant (part use must be at room temperature or below).",
+            "applications": [
+                "Impact modification"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_INP563_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_inp563_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "c1b8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "inp563"
+        },
+        {
+            "$id": "25",
+            "id": "a73baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "INP564",
+            "summary": "High flow powder SAN for color concentrates and alloys. FDA compliant (part use must be at room temperature or below).",
+            "description": "High flow powder SAN\u00a0for color concentrates and alloys. FDA compliant (part use must be at room temperature or below).",
+            "applications": [
+                "Additive Semiconductor Materials"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_INP564_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_inp564_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "04c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "inp564"
+        },
+        {
+            "$id": "26",
+            "id": "a83baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "INP572",
+            "summary": "Low flow SAN pellets. FDA compliant (part use must be at room temperature or below).",
+            "description": "Low flow SAN pellets. FDA compliant (part use must be at room temperature or below).",
+            "applications": [
+                "Additive Plastic"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_INP572_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_inp572_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "0ab7102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_INP572_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_inp572_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "3ce41b7d-2c4e-e911-8101-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "inp572"
+        },
+        {
+            "$id": "27",
+            "id": "a93baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "INP576",
+            "summary": "Medium flow SAN pellets. FDA compliant (part use must be at room temperature or below).",
+            "description": "Medium flow SAN pellets. FDA compliant (part use must be at room temperature or below).",
+            "applications": [
+                "Additive Semiconductor Materials"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_INP576_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_inp576_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "26b8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_INP576_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_inp576_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "4952c3b9-2e4e-e911-8101-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Semiconductors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "inp576"
+        },
+        {
+            "$id": "28",
+            "id": "aa3baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "INP581",
+            "summary": "High flow SAN pellets. FDA compliant (part use must be at room temperature or below).",
+            "description": "High flow SAN pellets. FDA compliant (part use must be at room temperature or below).",
+            "applications": [
+                "Additive Plastic"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_INP581_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_inp581_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "06c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Additive Materials"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "inp581"
+        },
+        {
+            "$id": "29",
+            "id": "ab3baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "INP630",
+            "summary": "High heat AMSAN pellets.",
+            "description": "High heat AMSAN pellets.",
+            "applications": [
+                "Cladding/Roof"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_INP630_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_inp630_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "cab8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Construction"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "inp630"
+        },
+        {
+            "$id": "30",
+            "id": "af3baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "INP984",
+            "summary": "ASA, Impact Modified, Weatherable,",
+            "description": "SABIC INP 984 is a 45% polybutyl acrylate rubber grafted weatherable ASA modifier resin. Provides excellent impact, heat distortion and weatherability properties. Maintains polymer properties in UV and thermal environments. Toughens compatible rigid polymers without additional impact modification. Expands the use temperature window of compounds. Offers compatibility with many polar polymers. Improve UV resistance when blended with less stable polymers. SABIC INP984 is well suited to produce good weatherability in rigid polymer applications. Can be effectively alloyed with PVC and other miscible thermoplastics in molded, extruded or calendered applications to provide improved heat distortion ",
+            "applications": null,
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_INP984_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_inp984_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "07c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "inp984"
+        },
+        {
+            "$id": "31",
+            "id": "b13baad7-e0d8-e611-819b-06b69393ae39",
+            "title": "INPBMAT",
+            "summary": "Cross-linked SAN in styrenic matrix",
+            "description": "Cross-linked SAN in styrenic matrix. Provides excellent gloss reduction properties. Maintains original polymer properties such as impact etc.  Compatible with various polymer such as PVC and ABS.  Can be used in low gloss ABS products at typical loading around 5PHR.  Can be effectively compounded with ABS and other styrenic thermoplastics in molded, extruded or calendered applications to provide excellent gloss reduction properties without losing other physical performance.",
+            "applications": [
+                "Enclosures"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_INPBMAT_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_inpbmat_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "2cb8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "inpbmat"
+        },
+        {
+            "$id": "32",
+            "id": "fc3daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MG29",
+            "summary": "Super high impact ABS.  Good low temperature toughness.",
+            "description": "Super high impact ABS.  Good low temperature toughness.",
+            "applications": [
+                "Body Protection",
+                "Building Accessory",
+                "Document Handling",
+                "Enclosure/Housing/Cover",
+                "Head Protection",
+                "Lab Ware and Clinical Diagnostics",
+                "Lawn/Garden",
+                "Medical Device",
+                "Surgical Devices",
+                "Water Treatment/Filtration",
+                "Irrigation"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG29_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg29_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "ecb8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG29_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg29_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "94c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Surgical",
+                "Ophthalmics",
+                "Healthcare",
+                "Patient Testing"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mg29"
+        },
+        {
+            "$id": "33",
+            "id": "fd3daad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MG34LG",
+            "summary": "Automotive, low gloss ABS.",
+            "description": "Automotive, low gloss ABS.",
+            "applications": [
+                "Bottles",
+                "Cluster",
+                "Doors Hardware/Trim",
+                "Exterior",
+                "Front Grille",
+                "Heavy Vehicles",
+                "Interior",
+                "Lawn/Garden",
+                "Recreational Vehicle",
+                "Seat",
+                "Trim"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG34LG_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg34lg_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "dbb9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Recreational Vehicle",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mg34lg"
+        },
+        {
+            "$id": "34",
+            "id": "023eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MG37EPX",
+            "summary": "ABS, Impact Modifier, Opaque,",
+            "description": "ABS plating grade optimized for a broad processing window for both painted and plated applications.  NSF standard 61 compliant (80 sq in/L)",
+            "applications": [
+                "Air Cabin Interiors",
+                "Applique",
+                "Auto Aftermarket",
+                "Body Protection",
+                "Cladding",
+                "Cluster",
+                "Console",
+                "Data Management",
+                "Dishwasher",
+                "Document Handling",
+                "Door Handle",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Exterior Mirror",
+                "Exterior Rail Components",
+                "Exterior Trim",
+                "Exterior",
+                "Fixture Bath/Shower",
+                "Food Processor",
+                "Food Transportation",
+                "Front Grille",
+                "Heavy Vehicles",
+                "Hygiene/Personal Care",
+                "Laundry Dryer",
+                "Lawn/Garden",
+                "LED Lighting",
+                "Lighting",
+                "Long Distance Coach",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Modular Panel",
+                "Monitoring and Imaging",
+                "Motorcycle",
+                "Neighborhood Electric Vehicle",
+                "Non-LED Lighting",
+                "Personal Water Craft",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Plumbing",
+                "Power Manangement",
+                "Rail Cabin Interiors",
+                "Rail",
+                "Rear/Signal Lighting",
+                "Recreational Vehicle",
+                "Refrigerator",
+                "Renal and Blood Handling",
+                "Respiratory",
+                "Seat",
+                "Skid Plate",
+                "Small Appliance",
+                "Surgical Devices",
+                "Trim",
+                "Underbody Shield",
+                "Washing Machine",
+                "Watch/Jewelry",
+                "Wheel Cover",
+                "Wireless Communications",
+                "Wiring Devices",
+                "Irrigation"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG37EPX_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg37epx_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "efb8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG37EPX_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg37epx_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f2b8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Surgical",
+                "Ophthalmics",
+                "Rail",
+                "Home Decoration",
+                "Consumer Packaging",
+                "Personal Accessory",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Bus",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Patient Testing",
+                "Fluid and Blood Handling",
+                "Recreational Vehicle",
+                "Automotive Lighting",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mg37epx"
+        },
+        {
+            "$id": "35",
+            "id": "033eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MG38",
+            "summary": "Very high impact ABS. Toughness/rigidity.  Good fatigue resistance.",
+            "description": "Very high impact ABS. Toughness/rigidity.  Good fatigue resistance.",
+            "applications": [
+                "Amusement Machine",
+                "Audio",
+                "Circuit Protection",
+                "Data Transfer",
+                "Document Handling",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "Interior",
+                "Lawn/Garden",
+                "Medical Device",
+                "Meter Water",
+                "Non-LED Lighting",
+                "Personal Computing",
+                "Photo/Video Camera",
+                "Rear/Signal Lighting",
+                "Refrigerator",
+                "Respiratory",
+                "Swimming Pool/Spa",
+                "Vacuum Cleaner",
+                "Weaving Machine",
+                "Window",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG38_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg38_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "deb9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG38_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg38_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "95c7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Respiratory and Sleep Therapy",
+                "Textile",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Commercial Appliance",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mg38"
+        },
+        {
+            "$id": "36",
+            "id": "053eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MG38F",
+            "summary": "Very high impact ABS.  Toughness/rigidity.  FDA compliant.",
+            "description": "Very high impact ABS.  Toughness/rigidity.  FDA compliant.",
+            "applications": [
+                "Commercial Storage/Cookware",
+                "Data Transfer",
+                "Enclosure/Housing/Cover",
+                "Industrial Material Handling",
+                "Medical Device",
+                "Respiratory",
+                "Surgical Devices",
+                "Vending Machine",
+                "Wireless Communications"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG38F_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg38f_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "e1b9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG38F_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg38f_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "96ba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Food & Beverage",
+                "Surgical",
+                "Respiratory and Sleep Therapy",
+                "Healthcare",
+                "Industrial Material Handling",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mg38f"
+        },
+        {
+            "$id": "37",
+            "id": "063eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MG38N",
+            "summary": "Very high impact ABS. Toughness/rigidity.  Good fatigue resistance. NSF Standard 61.",
+            "description": "Very high impact ABS. Toughness/rigidity.  Good fatigue resistance. NSF Standard 61.",
+            "applications": [
+                "Enclosures",
+                "LED Lighting",
+                "Pipe/Fitting",
+                "Plumbing",
+                "Refrigerator",
+                "Small Appliance",
+                "Swimming Pool/Spa",
+                "Vacuum Cleaner",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG38N_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg38n_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "e4b9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG38N_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg38n_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "99ba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mg38n"
+        },
+        {
+            "$id": "38",
+            "id": "083eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MG38U",
+            "summary": "Improved UV performance, very high impact ABS. Toughness/rigidity. Good fatigue resistance.",
+            "description": "Improved UV performance, very high impact ABS. Toughness/rigidity. Good fatigue resistance.",
+            "applications": [
+                "Amusement Machine",
+                "Building Accessory",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Freezer",
+                "Heavy Vehicles",
+                "Laundry Dryer",
+                "Non-LED Lighting",
+                "Refrigerator",
+                "Security/Detection",
+                "Swimming Pool/Spa",
+                "Vending Machine",
+                "Washing Machine",
+                "Wearables",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG38U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg38u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "9cba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Commercial Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mg38u"
+        },
+        {
+            "$id": "39",
+            "id": "093eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MG47",
+            "summary": "Multi-purpose, injection molding ABS providing a favorable balance of engineering properties.",
+            "description": "Multi-purpose, injection molding ABS providing a favorable balance of engineering properties.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Air Filtration",
+                "Amusement Machine",
+                "Animal Testing",
+                "Applique",
+                "Audio",
+                "Auto Aftermarket",
+                "Building Accessory",
+                "Building Element",
+                "Circuit Protection",
+                "Cluster",
+                "Coffee Maker/Espresso Machine",
+                "Commercial Storage/Cookware",
+                "Console",
+                "Data Management",
+                "Data Transfer",
+                "Dishwasher",
+                "Displays",
+                "Document Handling",
+                "Door Handle",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Energy Management",
+                "Exterior Mirror",
+                "Exterior Trim",
+                "Food Container",
+                "Food Transportation",
+                "Front Grille",
+                "Fused Deposition Modeling (FDM)",
+                "Gas/Electric Oven",
+                "Head Protection",
+                "Heavy Vehicles",
+                "Industrial Material Handling",
+                "Interior",
+                "Lab Ware and Clinical Diagnostics",
+                "Laundry Dryer",
+                "Lawn/Garden",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Water",
+                "Non-LED Lighting",
+                "Overhead",
+                "Personal Computing",
+                "Personal Water Craft",
+                "Pharmaceutical Manufacturing",
+                "Pharmaceutical Packaging & Drug Delivery",
+                "Power Manangement",
+                "Pump",
+                "Rear/Signal Lighting",
+                "Refrigerator",
+                "Respiratory",
+                "Security/Detection",
+                "Small Appliance",
+                "Storage/Table",
+                "Surgical Devices",
+                "Swimming Pool/Spa",
+                "Travel Suitcase",
+                "Vacuum Cleaner",
+                "Vending Machine",
+                "Washing Machine",
+                "Water Treatment/Filtration",
+                "Wearables",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG47_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg47_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "99c7102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG47_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg47_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "9ac7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Additive Manufacturing",
+                "Surgical",
+                "Ophthalmics",
+                "Home Decoration",
+                "Sport/Leisure",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Patient Testing",
+                "Industrial Material Handling",
+                "Commercial Appliance",
+                "Automotive Lighting",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mg47"
+        },
+        {
+            "$id": "40",
+            "id": "0b3eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MG47F",
+            "summary": "Multi-purpose, injection molding ABS providing a favorable balance of engineering properties.  FDA compliant.",
+            "description": "Multi-purpose, injection molding ABS providing a favorable balance of engineering properties.  FDA compliant.",
+            "applications": [
+                "Auto Aftermarket",
+                "Bottles",
+                "Building Accessory",
+                "Building/Construction Sheet",
+                "Coffee Maker/Espresso Machine",
+                "Commercial Storage/Cookware",
+                "Cooking Range",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Fixture Bath/Shower",
+                "Food Processor",
+                "Freezer",
+                "Fused Deposition Modeling (FDM)",
+                "Gas/Electric Oven",
+                "Heavy Vehicles",
+                "Hygiene/Personal Care",
+                "Laundry Dryer",
+                "LED Lighting",
+                "Medical Device",
+                "Medical Facility Infrastructure",
+                "Meter Water",
+                "Non-LED Lighting",
+                "Personal Care",
+                "Personal Computing",
+                "Power Manangement",
+                "Pump",
+                "Recreational Vehicle",
+                "Refrigerator",
+                "Renal and Blood Handling",
+                "Respiratory",
+                "Safety Glasses",
+                "Sanitary",
+                "Small Appliance",
+                "Surgical Devices",
+                "Surgical Tray",
+                "Swimming Pool/Spa",
+                "Vending Machine",
+                "Washing Machine",
+                "Water Treatment/Filtration",
+                "Wireless Communications",
+                "Wire & cable"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG47F_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg47f_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "fab8102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG47F_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg47f_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "ebb9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG47F_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg47f_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "9bc7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Food & Beverage",
+                "Additive Manufacturing",
+                "Surgical",
+                "Ophthalmics",
+                "Consumer Packaging",
+                "Respiratory and Sleep Therapy",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Fluid and Blood Handling",
+                "Commercial Appliance",
+                "Recreational Vehicle",
+                "Medical Facility Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mg47f"
+        },
+        {
+            "$id": "41",
+            "id": "0d3eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MG47N",
+            "summary": "Multi-purpose, injection molding ABS providing a favorable balance of engineering properties. NSF Standard 61.",
+            "description": "Multi-purpose, injection molding ABS providing a favorable balance of engineering properties. NSF Standard 61.",
+            "applications": [
+                "Enclosures",
+                "Fixture Bath/Shower",
+                "Food Processor",
+                "Non-LED Lighting",
+                "Sanitary",
+                "Swimming Pool/Spa",
+                "Water Treatment/Filtration"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG47N_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg47n_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "a1ba102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG47N_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg47n_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "a3ba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Water Management",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mg47n"
+        },
+        {
+            "$id": "42",
+            "id": "0f3eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MG47U",
+            "summary": "Improved UV performance, multi-purpose, injection molding ABS providing a favorable balance of engineering properties.",
+            "description": "Improved UV performance, multi-purpose, injection molding ABS providing a favorable balance of engineering properties.",
+            "applications": [
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Exterior",
+                "Front Grille",
+                "Glove Box",
+                "Non-LED Lighting",
+                "Small Appliance",
+                "Trim",
+                "Washing Machine",
+                "Window",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG47U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg47u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "fdb8102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Construction",
+                "Lighting",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mg47u"
+        },
+        {
+            "$id": "43",
+            "id": "113eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MG94",
+            "summary": "Superior flow, injection molding ABS.  Good impact.  For thin-wall applications.",
+            "description": "Superior flow, injection molding ABS.  Good impact.  For thin-wall applications.",
+            "applications": [
+                "Air Conditioning",
+                "Audio",
+                "Auto Aftermarket",
+                "City",
+                "Data Transfer",
+                "Document Handling",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Enclosures",
+                "Fixture Bath/Shower",
+                "Fused Deposition Modeling (FDM)",
+                "Heavy Vehicles",
+                "Industrial Material Handling",
+                "Medical Device",
+                "Microwave Oven",
+                "Motorcycle",
+                "Non-LED Lighting",
+                "Personal Care",
+                "Photovoltaic Components",
+                "Recreational Vehicle",
+                "Security/Detection",
+                "Small Appliance",
+                "Surgical Devices",
+                "Swimming Pool/Spa",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG94_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg94_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "00b9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG94_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg94_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "03b9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Specialty Vehicles",
+                "Additive Manufacturing",
+                "Surgical",
+                "Lighting",
+                "Home Appliance",
+                "Bus",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Industrial Material Handling",
+                "Commercial Appliance",
+                "Recreational Vehicle",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mg94"
+        },
+        {
+            "$id": "44",
+            "id": "133eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MG94F",
+            "summary": "Superior flow, injection molding ABS.  Good impact.  For thin-wall applications.  FDA complianct.",
+            "description": "Superior flow, injection molding ABS.  Good impact.  For thin-wall applications.  FDA complianct.",
+            "applications": [
+                "Enclosure/Housing/Cover"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG94F_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg94f_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "8ccd76ae-72bd-e711-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mg94f"
+        },
+        {
+            "$id": "45",
+            "id": "153eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MG94U",
+            "summary": "Improved UV performance, superior flow, injection molding ABS. Good impact. For thin-wall applications.",
+            "description": "Improved UV performance, superior flow, injection molding ABS. Good impact. For thin-wall applications.",
+            "applications": [
+                "Auto Aftermarket",
+                "Data Management",
+                "Data Transfer",
+                "Dishwasher",
+                "Electronic Components",
+                "Enclosures",
+                "Furnace/Heater",
+                "Hygiene/Personal Care",
+                "Laundry Dryer",
+                "Medical Device",
+                "Meter Water",
+                "Monitoring and Imaging",
+                "Personal Computing",
+                "Personal Water Craft",
+                "Refrigerator",
+                "Semiconductor",
+                "Vending Machine",
+                "Washing Machine",
+                "Wireless Communications",
+                "Wiring Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MG94U_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mg94u_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "f6b9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas"
+            ],
+            "industrySegments": [
+                "Water Management",
+                "Electrical Devices and Displays",
+                "Consumer Packaging",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Personal Recreation",
+                "Healthcare",
+                "Patient Testing",
+                "Commercial Appliance",
+                "Automotive Exteriors"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mg94u"
+        },
+        {
+            "$id": "46",
+            "id": "163eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MGABS01",
+            "summary": "Injection molding ABS.  High impact, high gloss, good flow.",
+            "description": "Injection molding ABS.  High impact, high gloss, good flow.",
+            "applications": [
+                "Heavy Vehicles",
+                "Lawn/Garden",
+                "Recreational Vehicle"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MGABS01_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mgabs01_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "f9b9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MGABS01_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mgabs01_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "9cc7102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Specialty Vehicles",
+                "Recreational Vehicle"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mgabs01"
+        },
+        {
+            "$id": "47",
+            "id": "173eaad7-e0d8-e611-819b-06b69393ae39",
+            "title": "MGABS02",
+            "summary": "General purpose ABS.  Excellent flow/impact.",
+            "description": "General purpose ABS.  Excellent flow/impact.",
+            "applications": [
+                "Electronic Components",
+                "Enclosures",
+                "Exercise Equipment",
+                "Heavy Vehicles",
+                "Industrial Material Handling",
+                "Medical Device",
+                "Monitoring and Imaging",
+                "Pharmaceutical Manufacturing",
+                "Small Appliance",
+                "Surgical Devices"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MGABS02_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mgabs02_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "06b9102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_MGABS02_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_mgabs02_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "adba102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Specialty Vehicles",
+                "Surgical",
+                "Sport/Leisure",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Healthcare",
+                "Patient Testing",
+                "Industrial Material Handling"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "mgabs02"
+        },
+        {
+            "$id": "48",
+            "id": "6a46aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "X11",
+            "summary": "Automotive:  High heat resistance. Excellent flow/impact balance. High gloss.",
+            "description": "Automotive:  High heat resistance. Excellent flow/impact balance. High gloss.",
+            "applications": [
+                "Air Cabin Interiors",
+                "Applique",
+                "Auto Aftermarket",
+                "Cladding",
+                "Cluster",
+                "Console",
+                "Cowl Vent Grille",
+                "Doors Hardware/Trim",
+                "Electronic Components",
+                "Enclosures",
+                "Exterior Mirror",
+                "Exterior Trim",
+                "Food Processor",
+                "Front Grille",
+                "Glove Box",
+                "Infotainment/Telematic",
+                "Interior",
+                "Overhead",
+                "Rear/Signal Lighting",
+                "Recreational Vehicle",
+                "Seat",
+                "Spoiler",
+                "Surgical Devices",
+                "Trim"
+            ],
+            "processingTechniques": [
+                "Injection Molding"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_X11_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_x11_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "c1bf102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "CYCOLAC\u2122  Resin_X11_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/cycolac-resin_x11_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "85c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Heavy Truck",
+                "Automotive Interiors",
+                "Surgical",
+                "Home Appliance",
+                "Electrical Components and Infrastructure",
+                "Recreational Vehicle",
+                "Automotive Lighting",
+                "Automotive Exteriors",
+                "Aerospace"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "x11"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "49",
+            "id": "ad7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Injection Molding",
+            "count": 0
+        },
+        {
+            "$id": "50",
+            "id": "45765adb-85e8-47b6-97d9-0658ef6bb336",
+            "title": "Sheet extrusion",
+            "count": 0
+        },
+        {
+            "$id": "51",
+            "id": "ab7d3885-14d8-e611-819b-06b69393ae39",
+            "title": "Extrusion Blow Molding",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "52",
+            "id": "49ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Auto Aftermarket",
+            "count": 0
+        },
+        {
+            "$id": "53",
+            "id": "75ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Doors Hardware/Trim",
+            "count": 0
+        },
+        {
+            "$id": "54",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "55",
+            "id": "82ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Management",
+            "count": 0
+        },
+        {
+            "$id": "56",
+            "id": "98ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Forward Lighting",
+            "count": 0
+        },
+        {
+            "$id": "57",
+            "id": "a8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Headliner",
+            "count": 0
+        },
+        {
+            "$id": "58",
+            "id": "b5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Interior",
+            "count": 0
+        },
+        {
+            "$id": "59",
+            "id": "cdffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Overhead",
+            "count": 0
+        },
+        {
+            "$id": "60",
+            "id": "e3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "61",
+            "id": "ebffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Scooter/Moped",
+            "count": 0
+        },
+        {
+            "$id": "62",
+            "id": "ecffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Seat",
+            "count": 0
+        },
+        {
+            "$id": "63",
+            "id": "fcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Structure",
+            "count": 0
+        },
+        {
+            "$id": "64",
+            "id": "0a00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Trim",
+            "count": 0
+        },
+        {
+            "$id": "65",
+            "id": "1e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wireless Communications",
+            "count": 0
+        },
+        {
+            "$id": "66",
+            "id": "1f00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wiring Devices",
+            "count": 0
+        },
+        {
+            "$id": "67",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "68",
+            "id": "80ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosures",
+            "count": 0
+        },
+        {
+            "$id": "69",
+            "id": "47ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "ATM/Ticket Machine",
+            "count": 0
+        },
+        {
+            "$id": "70",
+            "id": "60ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cluster",
+            "count": 0
+        },
+        {
+            "$id": "71",
+            "id": "67ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Console",
+            "count": 0
+        },
+        {
+            "$id": "72",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "73",
+            "id": "8fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Trim",
+            "count": 0
+        },
+        {
+            "$id": "74",
+            "id": "9cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Front Grille",
+            "count": 0
+        },
+        {
+            "$id": "75",
+            "id": "adffee91-14d8-e611-819b-06b69393ae39",
+            "title": "HVAC Underhood",
+            "count": 0
+        },
+        {
+            "$id": "76",
+            "id": "beffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Long Distance Coach",
+            "count": 0
+        },
+        {
+            "$id": "77",
+            "id": "c1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Gas",
+            "count": 0
+        },
+        {
+            "$id": "78",
+            "id": "c6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Motorcycle",
+            "count": 0
+        },
+        {
+            "$id": "79",
+            "id": "ddffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "80",
+            "id": "e2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rear/Signal Lighting",
+            "count": 0
+        },
+        {
+            "$id": "81",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "82",
+            "id": "0800ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Travel Suitcase",
+            "count": 0
+        },
+        {
+            "$id": "83",
+            "id": "9bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Front End",
+            "count": 0
+        },
+        {
+            "$id": "84",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "85",
+            "id": "daffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Boat",
+            "count": 0
+        },
+        {
+            "$id": "86",
+            "id": "a6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Golf Cart",
+            "count": 0
+        },
+        {
+            "$id": "87",
+            "id": "bfffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Device",
+            "count": 0
+        },
+        {
+            "$id": "88",
+            "id": "55ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building/Construction Sheet",
+            "count": 0
+        },
+        {
+            "$id": "89",
+            "id": "a7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Head Protection",
+            "count": 0
+        },
+        {
+            "$id": "90",
+            "id": "b0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Individual Equiptment",
+            "count": 0
+        },
+        {
+            "$id": "91",
+            "id": "d8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pipe/Fitting",
+            "count": 0
+        },
+        {
+            "$id": "92",
+            "id": "e9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sail Boat",
+            "count": 0
+        },
+        {
+            "$id": "93",
+            "id": "0500ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Traffic Management",
+            "count": 0
+        },
+        {
+            "$id": "94",
+            "id": "39ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Cabin Interiors",
+            "count": 0
+        },
+        {
+            "$id": "95",
+            "id": "86ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "EV Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "96",
+            "id": "9affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Freezer",
+            "count": 0
+        },
+        {
+            "$id": "97",
+            "id": "a9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Heavy Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "98",
+            "id": "e4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Refrigerator",
+            "count": 0
+        },
+        {
+            "$id": "99",
+            "id": "0300ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Toy",
+            "count": 0
+        },
+        {
+            "$id": "100",
+            "id": "51ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Bottles",
+            "count": 0
+        },
+        {
+            "$id": "101",
+            "id": "92ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fixture Bath/Shower",
+            "count": 0
+        },
+        {
+            "$id": "102",
+            "id": "ffffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Devices",
+            "count": 0
+        },
+        {
+            "$id": "103",
+            "id": "53ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Accessory",
+            "count": 0
+        },
+        {
+            "$id": "104",
+            "id": "96ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Processor",
+            "count": 0
+        },
+        {
+            "$id": "105",
+            "id": "3affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Conditioning",
+            "count": 0
+        },
+        {
+            "$id": "106",
+            "id": "48ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Audio",
+            "count": 0
+        },
+        {
+            "$id": "107",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "108",
+            "id": "6bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Management",
+            "count": 0
+        },
+        {
+            "$id": "109",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "110",
+            "id": "6dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense Vehicles",
+            "count": 0
+        },
+        {
+            "$id": "111",
+            "id": "6fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Dishwasher",
+            "count": 0
+        },
+        {
+            "$id": "112",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "113",
+            "id": "9fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Furnace/Heater",
+            "count": 0
+        },
+        {
+            "$id": "114",
+            "id": "a2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Gas/Electric Oven",
+            "count": 0
+        },
+        {
+            "$id": "115",
+            "id": "b7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lab Ware and Clinical Diagnostics",
+            "count": 0
+        },
+        {
+            "$id": "116",
+            "id": "b9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Laundry Dryer",
+            "count": 0
+        },
+        {
+            "$id": "117",
+            "id": "c0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "count": 0
+        },
+        {
+            "$id": "118",
+            "id": "c3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Microwave Oven",
+            "count": 0
+        },
+        {
+            "$id": "119",
+            "id": "c4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Modular Panel",
+            "count": 0
+        },
+        {
+            "$id": "120",
+            "id": "c5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Monitoring and Imaging",
+            "count": 0
+        },
+        {
+            "$id": "121",
+            "id": "caffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Non-LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "122",
+            "id": "d2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Computing",
+            "count": 0
+        },
+        {
+            "$id": "123",
+            "id": "d6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photo/Video Camera",
+            "count": 0
+        },
+        {
+            "$id": "124",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "125",
+            "id": "e7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory",
+            "count": 0
+        },
+        {
+            "$id": "126",
+            "id": "eeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Security/Detection",
+            "count": 0
+        },
+        {
+            "$id": "127",
+            "id": "1000ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Washing Machine",
+            "count": 0
+        },
+        {
+            "$id": "128",
+            "id": "1200ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Treatment/Filtration",
+            "count": 0
+        },
+        {
+            "$id": "129",
+            "id": "38ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Aerospace",
+            "count": 0
+        },
+        {
+            "$id": "130",
+            "id": "63ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Coffee Maker/Espresso Machine",
+            "count": 0
+        },
+        {
+            "$id": "131",
+            "id": "68ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Conveyor",
+            "count": 0
+        },
+        {
+            "$id": "132",
+            "id": "baffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lawn/Garden",
+            "count": 0
+        },
+        {
+            "$id": "133",
+            "id": "cbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Oil/Gas",
+            "count": 0
+        },
+        {
+            "$id": "134",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        },
+        {
+            "$id": "135",
+            "id": "dcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pump",
+            "count": 0
+        },
+        {
+            "$id": "136",
+            "id": "e6ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Renal and Blood Handling",
+            "count": 0
+        },
+        {
+            "$id": "137",
+            "id": "0d00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vacuum Cleaner",
+            "count": 0
+        },
+        {
+            "$id": "138",
+            "id": "0e00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Vending Machine",
+            "count": 0
+        },
+        {
+            "$id": "139",
+            "id": "d5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Packaging & Drug Delivery",
+            "count": 0
+        },
+        {
+            "$id": "140",
+            "id": "97ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Transportation",
+            "count": 0
+        },
+        {
+            "$id": "141",
+            "id": "0100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Swimming Pool/Spa",
+            "count": 0
+        },
+        {
+            "$id": "142",
+            "id": "64ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "count": 0
+        },
+        {
+            "$id": "143",
+            "id": "93ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid Delivery",
+            "count": 0
+        },
+        {
+            "$id": "144",
+            "id": "efffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductor",
+            "count": 0
+        },
+        {
+            "$id": "145",
+            "id": "d1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "146",
+            "id": "d4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Manufacturing",
+            "count": 0
+        },
+        {
+            "$id": "147",
+            "id": "0000ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical Tray",
+            "count": 0
+        },
+        {
+            "$id": "148",
+            "id": "37ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Semiconductor Materials",
+            "count": 0
+        },
+        {
+            "$id": "149",
+            "id": "36ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Plastic",
+            "count": 0
+        },
+        {
+            "$id": "150",
+            "id": "0e7441b2-c530-4281-b422-d449cc1affa1",
+            "title": "Impact modification",
+            "count": 0
+        },
+        {
+            "$id": "151",
+            "id": "5fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cladding/Roof",
+            "count": 0
+        },
+        {
+            "$id": "152",
+            "id": "50ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Body Protection",
+            "count": 0
+        },
+        {
+            "$id": "153",
+            "id": "32431af9-01d4-4107-9322-793fbea45634",
+            "title": "Irrigation",
+            "count": 0
+        },
+        {
+            "$id": "154",
+            "id": "90ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior",
+            "count": 0
+        },
+        {
+            "$id": "155",
+            "id": "46ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Applique",
+            "count": 0
+        },
+        {
+            "$id": "156",
+            "id": "5effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cladding",
+            "count": 0
+        },
+        {
+            "$id": "157",
+            "id": "73ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Door Handle",
+            "count": 0
+        },
+        {
+            "$id": "158",
+            "id": "8dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Mirror",
+            "count": 0
+        },
+        {
+            "$id": "159",
+            "id": "8effee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exterior Rail Components",
+            "count": 0
+        },
+        {
+            "$id": "160",
+            "id": "aeffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Hygiene/Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "161",
+            "id": "bcffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "count": 0
+        },
+        {
+            "$id": "162",
+            "id": "c9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Neighborhood Electric Vehicle",
+            "count": 0
+        },
+        {
+            "$id": "163",
+            "id": "d3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Water Craft",
+            "count": 0
+        },
+        {
+            "$id": "164",
+            "id": "d9ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Plumbing",
+            "count": 0
+        },
+        {
+            "$id": "165",
+            "id": "e0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "count": 0
+        },
+        {
+            "$id": "166",
+            "id": "f3ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Skid Plate",
+            "count": 0
+        },
+        {
+            "$id": "167",
+            "id": "0b00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Underbody Shield",
+            "count": 0
+        },
+        {
+            "$id": "168",
+            "id": "1100ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Watch/Jewelry",
+            "count": 0
+        },
+        {
+            "$id": "169",
+            "id": "1600ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wheel Cover",
+            "count": 0
+        },
+        {
+            "$id": "170",
+            "id": "43ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Amusement Machine",
+            "count": 0
+        },
+        {
+            "$id": "171",
+            "id": "c2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Meter Water",
+            "count": 0
+        },
+        {
+            "$id": "172",
+            "id": "1500ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Weaving Machine",
+            "count": 0
+        },
+        {
+            "$id": "173",
+            "id": "1b00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window",
+            "count": 0
+        },
+        {
+            "$id": "174",
+            "id": "65ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Storage/Cookware",
+            "count": 0
+        },
+        {
+            "$id": "175",
+            "id": "b1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "count": 0
+        },
+        {
+            "$id": "176",
+            "id": "1400ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Wearables",
+            "count": 0
+        },
+        {
+            "$id": "177",
+            "id": "3bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Filtration",
+            "count": 0
+        },
+        {
+            "$id": "178",
+            "id": "44ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Animal Testing",
+            "count": 0
+        },
+        {
+            "$id": "179",
+            "id": "54ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Element",
+            "count": 0
+        },
+        {
+            "$id": "180",
+            "id": "95ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food Container",
+            "count": 0
+        },
+        {
+            "$id": "181",
+            "id": "a0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fused Deposition Modeling (FDM)",
+            "count": 0
+        },
+        {
+            "$id": "182",
+            "id": "faffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Storage/Table",
+            "count": 0
+        },
+        {
+            "$id": "183",
+            "id": "69ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cooking Range",
+            "count": 0
+        },
+        {
+            "$id": "184",
+            "id": "e8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Safety Glasses",
+            "count": 0
+        },
+        {
+            "$id": "185",
+            "id": "eaffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sanitary",
+            "count": 0
+        },
+        {
+            "$id": "186",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "187",
+            "id": "a5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Glove Box",
+            "count": 0
+        },
+        {
+            "$id": "188",
+            "id": "5dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "City",
+            "count": 0
+        },
+        {
+            "$id": "189",
+            "id": "8bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Exercise Equipment",
+            "count": 0
+        },
+        {
+            "$id": "190",
+            "id": "6affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Cowl Vent Grille",
+            "count": 0
+        },
+        {
+            "$id": "191",
+            "id": "b2ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Infotainment/Telematic",
+            "count": 0
+        },
+        {
+            "$id": "192",
+            "id": "f8ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Spoiler",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "193",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "194",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "195",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "196",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "197",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Heavy Truck",
+            "id": "0affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "198",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Interiors",
+            "id": "0bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "199",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "200",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "201",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Recreation",
+            "id": "27ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "202",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Recreational Vehicle",
+            "id": "31ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "203",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Lighting",
+            "id": "33ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "204",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Exteriors",
+            "id": "35ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "205",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Water Management",
+            "id": "07ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "206",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Rail",
+            "id": "13ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "207",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Sport/Leisure",
+            "id": "19ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "208",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "209",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Bus",
+            "id": "24ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "210",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Under the Hood",
+            "id": "2cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "211",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Appliance",
+            "id": "30ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "212",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "213",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Healthcare",
+            "id": "28ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "214",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Defense",
+            "id": "03ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "215",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "216",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Ophthalmics",
+            "id": "12ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "217",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Aerospace",
+            "id": "62f520a6-82bc-40d1-8716-dfe4e90dbf65"
+        },
+        {
+            "$id": "218",
+            "industry": "fcfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Specialty Vehicles",
+            "id": "0effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "219",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food & Beverage",
+            "id": "0fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "220",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Surgical",
+            "id": "11ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "221",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Decoration",
+            "id": "16ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "222",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Respiratory and Sleep Therapy",
+            "id": "1effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "223",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Patient Testing",
+            "id": "29ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "224",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Medical Facility Infrastructure",
+            "id": "34ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "225",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Outdoor, Lawn and Landscape",
+            "id": "05ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "226",
+            "industry": "01ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fossil",
+            "id": "08ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "227",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Industrial Material Handling",
+            "id": "2affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "228",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fluid and Blood Handling",
+            "id": "2effee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "229",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical",
+            "id": "04ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "230",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "231",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductors",
+            "id": "06ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "232",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Manufacturing",
+            "id": "10ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "233",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Materials",
+            "id": "18ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "234",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Consumer Packaging",
+            "id": "1affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "235",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "236",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Textile",
+            "id": "1fffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

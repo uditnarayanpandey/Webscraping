@@ -1,0 +1,816 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "6740f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "DC01EK",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "METAL DOWNSTREAM INDUSTRIALS"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_DC01EK_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_dc01ek_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e4c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dc01ek"
+        },
+        {
+            "$id": "3",
+            "id": "6f40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "DQ",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Water heater",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_DQ_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_dq_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "eac0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dq"
+        },
+        {
+            "$id": "4",
+            "id": "7140f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "DS-TypeB",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_DS-TypeB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_ds-typeb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "edc0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ds-typeb"
+        },
+        {
+            "$id": "5",
+            "id": "8540f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FeP01",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_FeP01_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_fep01_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "bcc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fep01"
+        },
+        {
+            "$id": "6",
+            "id": "8740f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FeP03",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_FeP03_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_fep03_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fac0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fep03"
+        },
+        {
+            "$id": "7",
+            "id": "8940f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FeP04",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_FeP04_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_fep04_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f9c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fep04"
+        },
+        {
+            "$id": "8",
+            "id": "8b40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FeP05",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "METAL DOWNSTREAM INDUSTRIALS"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_FeP05_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_fep05_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c6bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fep05"
+        },
+        {
+            "$id": "9",
+            "id": "8d40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FeP06",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "METAL DOWNSTREAM INDUSTRIALS"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_FeP06_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_fep06_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c2c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fep06"
+        },
+        {
+            "$id": "10",
+            "id": "9040f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FH",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Packaging",
+                "METAL DOWNSTREAM INDUSTRIALS"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_FH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_fh_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c8c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fh"
+        },
+        {
+            "$id": "11",
+            "id": "9440f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FHQ700",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "METAL DOWNSTREAM INDUSTRIALS"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_FHQ700_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_fhq700_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fcc9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fhq700"
+        },
+        {
+            "$id": "12",
+            "id": "be40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "GrC Type1",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_GrC Type1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_grc-type1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e9c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "grc-type1"
+        },
+        {
+            "$id": "13",
+            "id": "c040f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "GrC Type2",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_GrC Type2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_grc-type2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "07ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "grc-type2"
+        },
+        {
+            "$id": "14",
+            "id": "c540f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "H240LA",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_H240LA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_h240la_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "08ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "h240la"
+        },
+        {
+            "$id": "15",
+            "id": "c740f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "H360LA",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_H360LA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_h360la_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f2bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "h360la"
+        },
+        {
+            "$id": "16",
+            "id": "1e41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPCC",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_SPCC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_spcc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "31c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spcc"
+        },
+        {
+            "$id": "17",
+            "id": "2041f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPCCT",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_SPCCT_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_spcct_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1fca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spcct"
+        },
+        {
+            "$id": "18",
+            "id": "2241f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPCEN",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_SPCEN_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_spcen_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "3bc0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spcen"
+        },
+        {
+            "$id": "19",
+            "id": "5641f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St12",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_St12_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_st12_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2dca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st12"
+        },
+        {
+            "$id": "20",
+            "id": "5841f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St13",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_St13_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_st13_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "67c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st13"
+        },
+        {
+            "$id": "21",
+            "id": "5a41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St14",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_St14_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_st14_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "57c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st14"
+        },
+        {
+            "$id": "22",
+            "id": "5f41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St37-2",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_St37-2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_st37-2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "5ac2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st37-2"
+        },
+        {
+            "$id": "23",
+            "id": "6741f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "TypeA",
+            "summary": "cold rolled slit",
+            "description": "cold rolled slit",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed Slit"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRS_TypeA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crs_typea_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "60c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "typea"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "24",
+            "id": "6a41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Cold Rolled Annealed Slit",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "25",
+            "id": "6b4c8c2a-b543-e811-80fd-005056857ef3",
+            "title": "Building and Construction",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "7affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "ff738114-6ec7-e611-8197-06b69393ae39",
+            "title": "METAL DOWNSTREAM INDUSTRIALS",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "8b237266-4015-e711-80fb-005056857ef3",
+            "title": "Packaging",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "25a0dc4e-a3f0-4540-b7e1-5657a730e347",
+            "title": "Tubes",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "ab2b9513-b543-e811-80fd-005056857ef3",
+            "title": "Water heater",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "31",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

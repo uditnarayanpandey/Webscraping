@@ -1,0 +1,2222 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "1f40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1006",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_1006_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_1006_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "aec0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1006"
+        },
+        {
+            "$id": "3",
+            "id": "2240f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1008",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_1008_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_1008_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "77bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1008"
+        },
+        {
+            "$id": "4",
+            "id": "2540f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1014",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_1014_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_1014_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "dfc9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1014"
+        },
+        {
+            "$id": "5",
+            "id": "2840f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1018",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_1018_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_1018_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7dbf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1018"
+        },
+        {
+            "$id": "6",
+            "id": "2b40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1045",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_1045_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_1045_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b7c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1045"
+        },
+        {
+            "$id": "7",
+            "id": "2e40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "1055",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_1055_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_1055_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e1c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "1055"
+        },
+        {
+            "$id": "8",
+            "id": "3140f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "12",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Water heater"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_12_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_12_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "85bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "12"
+        },
+        {
+            "$id": "9",
+            "id": "3440f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "13",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Water heater"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_13_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_13_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7fc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "13"
+        },
+        {
+            "$id": "10",
+            "id": "3740f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "36",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Automotive ",
+                "General Machinery"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_36_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_36_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e3c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "36"
+        },
+        {
+            "$id": "11",
+            "id": "3a40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "40",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Automotive ",
+                "General Machinery"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_40_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_40_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "8ebf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "40"
+        },
+        {
+            "$id": "12",
+            "id": "3d40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "420MC",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_420MC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_420mc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e5c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "420mc"
+        },
+        {
+            "$id": "13",
+            "id": "4040f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "490",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_490_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_490_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "94bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "490"
+        },
+        {
+            "$id": "14",
+            "id": "4340f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "50",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Automotive ",
+                "General Machinery"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_50_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_50_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c6c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "50"
+        },
+        {
+            "$id": "15",
+            "id": "4640f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "500MC",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_500MC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_500mc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e7c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "500mc"
+        },
+        {
+            "$id": "16",
+            "id": "4940f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "55",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_55_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_55_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "ccc0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "55"
+        },
+        {
+            "$id": "17",
+            "id": "4c40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "570",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction",
+                "General Machinery"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_570_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_570_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "cfc0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "570"
+        },
+        {
+            "$id": "18",
+            "id": "4f40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "60",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction",
+                "General Machinery"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_60_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_60_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "92c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "60"
+        },
+        {
+            "$id": "19",
+            "id": "5240f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "65",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_65_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_65_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a0bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "65"
+        },
+        {
+            "$id": "20",
+            "id": "5b40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "C45",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_C45_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_c45_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d8c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "c45"
+        },
+        {
+            "$id": "21",
+            "id": "5e40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Carb",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_Carb_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_carb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "eec9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "carb"
+        },
+        {
+            "$id": "22",
+            "id": "6140f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "CQ",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_CQ_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_cq_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "dec0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "cq"
+        },
+        {
+            "$id": "23",
+            "id": "6940f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "DD11",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Water heater"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_DD11_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_dd11_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "f1c9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dd11"
+        },
+        {
+            "$id": "24",
+            "id": "9940f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "G",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_G_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_g_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fdc9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "g"
+        },
+        {
+            "$id": "25",
+            "id": "9c40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr 33",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Automotive "
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_Gr 33_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_gr-33_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fec9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr-33"
+        },
+        {
+            "$id": "26",
+            "id": "9f40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr C",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_Gr C_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_gr-c_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0fc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr-c"
+        },
+        {
+            "$id": "27",
+            "id": "a240f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr2",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_Gr2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_gr2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d7bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr2"
+        },
+        {
+            "$id": "28",
+            "id": "a540f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr33",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "General Machinery",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_Gr33_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_gr33_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "12c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr33"
+        },
+        {
+            "$id": "29",
+            "id": "a940f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr50",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_Gr50_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_gr50_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "dabf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr50"
+        },
+        {
+            "$id": "30",
+            "id": "ac40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr55",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_Gr55_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_gr55_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "ddc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr55"
+        },
+        {
+            "$id": "31",
+            "id": "af40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr58",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_Gr58_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_gr58_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e0bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr58"
+        },
+        {
+            "$id": "32",
+            "id": "b240f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr60",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_Gr60_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_gr60_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "03ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr60"
+        },
+        {
+            "$id": "33",
+            "id": "b540f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Gr70",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_Gr70_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_gr70_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1ec1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gr70"
+        },
+        {
+            "$id": "34",
+            "id": "b840f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "GrA",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_GrA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_gra_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "21c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "gra"
+        },
+        {
+            "$id": "35",
+            "id": "bb40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "GrB",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pipe",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_GrB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_grb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e6c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "grb"
+        },
+        {
+            "$id": "36",
+            "id": "c240f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "GrD",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_GrD_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_grd_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "efbf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "grd"
+        },
+        {
+            "$id": "37",
+            "id": "de40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P235GH",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_P235GH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_p235gh_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "39c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p235gh"
+        },
+        {
+            "$id": "38",
+            "id": "e140f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P245NB",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_P245NB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_p245nb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "3cc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p245nb"
+        },
+        {
+            "$id": "39",
+            "id": "e440f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P265GH",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_P265GH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_p265gh_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "3fc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p265gh"
+        },
+        {
+            "$id": "40",
+            "id": "e740f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P265NB",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_P265NB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_p265nb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "04c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p265nb"
+        },
+        {
+            "$id": "41",
+            "id": "ea40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "P355GH",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_P355GH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_p355gh_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "45c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p355gh"
+        },
+        {
+            "$id": "42",
+            "id": "ed40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S235",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_S235_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_s235_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "11c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s235"
+        },
+        {
+            "$id": "43",
+            "id": "f340f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S275",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_S275_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_s275_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "49c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s275"
+        },
+        {
+            "$id": "44",
+            "id": "fc40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S355",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction",
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_S355_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_s355_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "52c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s355"
+        },
+        {
+            "$id": "45",
+            "id": "ff40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S355MC",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction",
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_S355MC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_s355mc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "16c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s355mc"
+        },
+        {
+            "$id": "46",
+            "id": "0241f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "S460N",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_S460N_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_s460n_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "58c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "s460n"
+        },
+        {
+            "$id": "47",
+            "id": "0541f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SG255",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_SG255_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_sg255_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "19c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sg255"
+        },
+        {
+            "$id": "48",
+            "id": "0841f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SG295",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pressure Vessel"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_SG295_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_sg295_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "5ec1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sg295"
+        },
+        {
+            "$id": "49",
+            "id": "1841f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SM400",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_SM400_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_sm400_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "6cc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sm400"
+        },
+        {
+            "$id": "50",
+            "id": "1b41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPA-H",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Pipe",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_SPA-H_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_spa-h_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2bc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spa-h"
+        },
+        {
+            "$id": "51",
+            "id": "2441f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHC",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_SPHC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_sphc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "37c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sphc"
+        },
+        {
+            "$id": "52",
+            "id": "2741f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHD",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_SPHD_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_sphd_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "20ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sphd"
+        },
+        {
+            "$id": "53",
+            "id": "2a41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHE",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_SPHE_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_sphe_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "41c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sphe"
+        },
+        {
+            "$id": "54",
+            "id": "2d41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHT1",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_SPHT1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_spht1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "22ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spht1"
+        },
+        {
+            "$id": "55",
+            "id": "3041f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHT2",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_SPHT2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_spht2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "23ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spht2"
+        },
+        {
+            "$id": "56",
+            "id": "3341f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPHT3",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_SPHT3_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_spht3_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7bc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spht3"
+        },
+        {
+            "$id": "57",
+            "id": "4141f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SS330",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_SS330_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_ss330_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "48c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ss330"
+        },
+        {
+            "$id": "58",
+            "id": "4741f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SS400",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_SS400_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_ss400_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "58c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ss400"
+        },
+        {
+            "$id": "59",
+            "id": "4a41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SS490",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction",
+                "General Machinery"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_SS490_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_ss490_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "5bc0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ss490"
+        },
+        {
+            "$id": "60",
+            "id": "4d41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St 44",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_St 44_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_st-44_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2aca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st-44"
+        },
+        {
+            "$id": "61",
+            "id": "5041f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St 52",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_St 52_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_st-52_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "61c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st-52"
+        },
+        {
+            "$id": "62",
+            "id": "5341f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St 60",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_St 60_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_st-60_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "93c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st-60"
+        },
+        {
+            "$id": "63",
+            "id": "5c41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St37",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Tubes",
+                "Structural"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_St37_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_st37_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "9bc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st37"
+        },
+        {
+            "$id": "64",
+            "id": "6141f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Stl",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_Stl_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_stl_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "9dc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "stl"
+        },
+        {
+            "$id": "65",
+            "id": "6441f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Str",
+            "summary": "Hot rolled mild and high carbon steel coil",
+            "description": "Hot rolled mild and high carbon steel coil",
+            "applications": [
+                "Building and Construction"
+            ],
+            "processingTechniques": [
+                "Hot rolled Pickled"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "HRCP_Str_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/hrcp_str_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "31ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "str"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "66",
+            "id": "7141f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Hot rolled Pickled",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "67",
+            "id": "9a7bffa6-4015-e711-80fb-005056857ef3",
+            "title": "Automotive ",
+            "count": 0
+        },
+        {
+            "$id": "68",
+            "id": "6b4c8c2a-b543-e811-80fd-005056857ef3",
+            "title": "Building and Construction",
+            "count": 0
+        },
+        {
+            "$id": "69",
+            "id": "dfb988c5-b843-e811-80fd-005056857ef3",
+            "title": "General Machinery",
+            "count": 0
+        },
+        {
+            "$id": "70",
+            "id": "2df63855-b0f2-e611-80fb-005056857ef3",
+            "title": "Pipe",
+            "count": 0
+        },
+        {
+            "$id": "71",
+            "id": "f2e132c4-6e44-e811-80fd-005056857ef3",
+            "title": "Pressure Vessel",
+            "count": 0
+        },
+        {
+            "$id": "72",
+            "id": "9084e587-be1e-40bd-b31b-722229790d0b",
+            "title": "Structural",
+            "count": 0
+        },
+        {
+            "$id": "73",
+            "id": "25a0dc4e-a3f0-4540-b7e1-5657a730e347",
+            "title": "Tubes",
+            "count": 0
+        },
+        {
+            "$id": "74",
+            "id": "ab2b9513-b543-e811-80fd-005056857ef3",
+            "title": "Water heater",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "75",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "76",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "77",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "78",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

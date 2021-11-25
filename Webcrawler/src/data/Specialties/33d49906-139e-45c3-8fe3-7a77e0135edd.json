@@ -1,0 +1,637 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "7d31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "630",
+            "summary": "NORYL PPE 630 powder is a medium molecular weight polymer based on Polyphenylene Ether (PPE).",
+            "description": "NORYL\u2122 PPE 630 powder is a medium molecular weight polymer based on Polyphenylene Ether (PPE). \u000bThis material is intended for use as an additive or a building block in a variety of thermoplastics and thermoplastic elastomers such as Styrenic Block Copolymers. PPE 640 powder can be used to improve properties (i.e. Heat Distortion and Creep Resistance).  It is hydrolytically stable and non-hydroscopic (typically less than 0.2% water uptake). The powder is soluble in common organic solvents like toluene, chloroform, and THF. Chemical name: Poly (2,6-dimethyl-, 1,4-phenylene ether) (PPE) Formula: (C8H8O)n Regulatory Status: Complies with the FDA regulation 21CFR 177..2460. Also complies with EU Directive 2002/72/EC.",
+            "applications": [
+                "Circuit Board",
+                "Displays",
+                "Electronic Components",
+                "Enclosure/Housing/Cover",
+                "Fused Deposition Modeling (FDM)",
+                "LED Lighting",
+                "Semiconductor"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL\u2122 PPE  Powders + Concentrates_630_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppe-powders-concentrates_630_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "6fb1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL\u2122 PPE  Powders + Concentrates_630_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppe-powders-concentrates_630_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "a3b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Additive Manufacturing",
+                "Lighting",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "630"
+        },
+        {
+            "$id": "3",
+            "id": "8b31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "6390C",
+            "summary": "NORYL\u2122  6390C resin concentrate is an non-reinforced blend of polyphenylene ether (PPE) + general purpose polystyrene (GPPS).",
+            "description": "NORYL\u2122  6390C resin concentrate is an non-reinforced blend of polyphenylene ether (PPE) + general purpose polystyrene (GPPS).  This material is in granule form and optimized for blending with polystyrene resins.  NORYL 6390C resin may be an excellent candidate in microwavable food packaging applications and is compliant with US and European food contact regulations.",
+            "applications": [
+                "Others",
+                "Additive Plastic",
+                "Building Element",
+                "Pharmaceutical Packaging & Drug Delivery"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL\u2122 PPE  Powders + Concentrates_6390C_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppe-powders-concentrates_6390c_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "c7c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Pharmaceutical",
+                "Construction",
+                "Additive Materials",
+                "Personal Accessory",
+                "Home Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "6390c"
+        },
+        {
+            "$id": "4",
+            "id": "8f31aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "6390H",
+            "summary": "NORYL\u2122  6390H resin concentrate is an non-reinforced blend of polyphenylene ether (PPE) + high impact polystyrene (HIPS).",
+            "description": "NORYL\u2122  6390H resin concentrate is an non-reinforced blend of polyphenylene ether (PPE) + high impact polystyrene (HIPS).  This  material is in granule form and is optimized for blending with polystyrene resins.  NORYL 6390H resin may be an excellent candidate in microwavable food packaging applications. This product is not certified per food contact regulations in US + EUR.  Certification would be dependent on end-part testing.",
+            "applications": [
+                "Building Element"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL\u2122 PPE  Powders + Concentrates_6390H_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppe-powders-concentrates_6390h_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "acb1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Construction"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "6390h"
+        },
+        {
+            "$id": "5",
+            "id": "9031aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "640",
+            "summary": "NORYL PPE 640 powder is a medium-high molecular weight polymer based on Polyphenylene Ether (PPE).",
+            "description": "NORYL\u2122 PPE 640 powder is a medium-high molecular weight polymer based on Polyphenylene Ether (PPE). This material is intended for use as an additive or a building block in a variety of thermoplastics and thermoplastic elastomers such as Styrenic Block Copolymers. PPE powder can be used to improve properties (i.e. Heat Distortion and Creep Resistance). It is hydrolytically stable and non-hydroscopic (typically less than 0.2% water uptake). The polymer is soluble in common organic solvents like toluene, chloroform, and THF. Chemical name: Poly (2,6-dimethyl-, 1,4-phenylene ether) (PPE) Formula: (C8H8O)n Regulatory Status: Complies with the FDA regulation 21CFR 177..2460. Also complies with EU Directive 2002/72/EC.",
+            "applications": [
+                "Building Element",
+                "Circuit Protection",
+                "Coatings",
+                "Composite",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Elastomer",
+                "Electronic Components",
+                "Electronic Material",
+                "Enclosure/Housing/Cover",
+                "Lawn/Garden",
+                "Photovoltaic Components",
+                "Refrigerator",
+                "Semiconductor"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL\u2122 PPE  Powders + Concentrates_640_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppe-powders-concentrates_640_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "20b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL\u2122 PPE  Powders + Concentrates_640_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppe-powders-concentrates_640_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "afb1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL\u2122 PPE  Powders + Concentrates_640_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppe-powders-concentrates_640_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "c8c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Outdoor, Lawn and Landscape",
+                "Electrical Devices and Displays",
+                "Construction",
+                "Additive Materials",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Composite",
+                "Coatings",
+                "Electronic Material"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "640"
+        },
+        {
+            "$id": "6",
+            "id": "9131aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "646",
+            "summary": "NORYL PPE 646 resin is a high molecular weight polymer based on Polyphenylene Ether (PPE).",
+            "description": "NORYL\u2122 PPE 646 resin is a high molecular weight polymer based on Polyphenylene Ether (PPE). This material is intended for use as an additive or a building block in a variety of thermoplastics and thermoplastic elastomers such as Styrenic Block Copolymers. PPE powder can be used to improve properties (i.e. Heat Distortion and Creep Resistance). It is hydrolytically stable and non-hydroscopic (typically less than 0.2% water uptake). The polymer is soluble in common organic solvents like toluene, chloroform, and THF. Chemical name: Poly (2,6-dimethyl-, 1,4-phenylene ether) (PPE) Formula: (C8H8O)n Regulatory Status: Complies with the FDA regulation 21CFR 177..2460. Also complies with EU Directive 2002/72/EC.",
+            "applications": [
+                "Composite",
+                "Data Transfer",
+                "Displays",
+                "Document Handling",
+                "Elastomer",
+                "Enclosure/Housing/Cover",
+                "Energy Management",
+                "LED Lighting",
+                "Power Manangement",
+                "Semiconductor",
+                "Small Appliance"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL\u2122 PPE  Powders + Concentrates_646_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppe-powders-concentrates_646_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "23b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL\u2122 PPE  Powders + Concentrates_646_Asia_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppe-powders-concentrates_646_asia_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Asia",
+                    "revision": "20210812",
+                    "id": "78b1102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL\u2122 PPE  Powders + Concentrates_646_Americas_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppe-powders-concentrates_646_americas_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Americas",
+                    "revision": "20210812",
+                    "id": "c9c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Electrical Devices and Displays",
+                "Additive Materials",
+                "Lighting",
+                "Home Appliance",
+                "Electronic Material Handling",
+                "Electrical Components and Infrastructure",
+                "Composite"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "646"
+        },
+        {
+            "$id": "7",
+            "id": "9731aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "6850C",
+            "summary": "NORYL\u2122  6850C resin concentrate is an non-reinforced blend of polyphenylene ether (PPE) + general purpose polystyrene  (GPPS).",
+            "description": "NORYL\u2122  6850C resin concentrate is an non-reinforced blend of polyphenylene ether (PPE) + general purpose polystyrene  (GPPS).  This material is in granule form and is optimized for blending with polystyrene resins.  NORYL 6850C resin may be an excellent candidate in microwavable food packaging applications and is compliant with US and European food contact regulations",
+            "applications": [
+                "Building Element",
+                "Building/Construction Sheet",
+                "Refrigerator",
+                "Window"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL\u2122 PPE  Powders + Concentrates_6850C_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppe-powders-concentrates_6850c_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "b8b1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Construction",
+                "Home Appliance"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "6850c"
+        },
+        {
+            "$id": "8",
+            "id": "9831aad7-e0d8-e611-819b-06b69393ae39",
+            "title": "6850H",
+            "summary": "PPE+HIPS, NORYL, Opaque, Extrusion Grade,",
+            "description": "NORYL\u2122  6850H resin concentrate is an non-reinforced blend of polyphenylene ether (PPE) + high impact polystyrene (HIPS).  This  material is in granule form and is optimized for blending with polystyrene resins.  NORYL 6850H resin may be an excellent candidate in microwavable food packaging applications. This product is not certified per food contact regulations in US + EUR.  Certification would be dependent on end-part testing.",
+            "applications": [
+                "Bottles",
+                "Commercial Storage/Cookware"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "NORYL\u2122 PPE  Powders + Concentrates_6850H_Europe_Technical_Data_Sheet",
+                    "url": "/en/products/documents/noryl-ppe-powders-concentrates_6850h_europe_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Europe",
+                    "revision": "20210812",
+                    "id": "bbb1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "industrySegments": [
+                "Food & Beverage"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "6850h"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "9",
+            "id": "5bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Board",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "71ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Displays",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "7bffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Components",
+            "count": 0
+        },
+        {
+            "$id": "12",
+            "id": "7fffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Enclosure/Housing/Cover",
+            "count": 0
+        },
+        {
+            "$id": "13",
+            "id": "a0ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Fused Deposition Modeling (FDM)",
+            "count": 0
+        },
+        {
+            "$id": "14",
+            "id": "bbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "LED Lighting",
+            "count": 0
+        },
+        {
+            "$id": "15",
+            "id": "efffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Semiconductor",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "15f6299b-fa92-e711-80fc-005056857ef3",
+            "title": "Others",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "36ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Plastic",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "54ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Element",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "d5ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical Packaging & Drug Delivery",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "5cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Circuit Protection",
+            "count": 0
+        },
+        {
+            "$id": "21",
+            "id": "62ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Coatings",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "66ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Composite",
+            "count": 0
+        },
+        {
+            "$id": "23",
+            "id": "6cffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Data Transfer",
+            "count": 0
+        },
+        {
+            "$id": "24",
+            "id": "72ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Document Handling",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "78ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Elastomer",
+            "count": 0
+        },
+        {
+            "$id": "26",
+            "id": "7dffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "baffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lawn/Garden",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "d7ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Photovoltaic Components",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "e4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Refrigerator",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "82ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Energy Management",
+            "count": 0
+        },
+        {
+            "$id": "31",
+            "id": "dbffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Power Manangement",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "f4ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Small Appliance",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "55ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building/Construction Sheet",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "1b00ef91-14d8-e611-819b-06b69393ae39",
+            "title": "Window",
+            "count": 0
+        },
+        {
+            "$id": "35",
+            "id": "51ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Bottles",
+            "count": 0
+        },
+        {
+            "$id": "36",
+            "id": "65ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Commercial Storage/Cookware",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "37",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "38",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "41",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Devices and Displays",
+            "id": "0cffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "42",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Manufacturing",
+            "id": "10ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "43",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Lighting",
+            "id": "20ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "44",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material Handling",
+            "id": "25ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "45",
+            "industry": "00ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical Components and Infrastructure",
+            "id": "26ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "46",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electronic Material",
+            "id": "2fffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "47",
+            "industry": "fefeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Pharmaceutical",
+            "id": "04ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "48",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "49",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Materials",
+            "id": "18ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "50",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Accessory",
+            "id": "1dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "51",
+            "industry": "fffeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Home Appliance",
+            "id": "22ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "52",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Outdoor, Lawn and Landscape",
+            "id": "05ffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "53",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Composite",
+            "id": "2bffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "54",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Coatings",
+            "id": "2dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "55",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food & Beverage",
+            "id": "0fffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

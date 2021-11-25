@@ -1,0 +1,355 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "3a8a4e95-70c7-e611-8197-06b69393ae39",
+            "title": "460B",
+            "summary": "Metals Long Products Rebar",
+            "description": "Metals Long Products Rebar",
+            "applications": [
+                "CONCRETE REINFORCEMENT",
+                "METAL DOWNSTREAM INDUSTRIALS",
+                "CUT AND BEND",
+                "EPOXY COATING "
+            ],
+            "processingTechniques": [
+                "Hot rolling"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "Rebar_460B_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/rebar_460b_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "3e3e3d54-c343-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "991cf0ec-004d-e711-80fb-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "88566a31-c343-e811-80fd-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "460b"
+        },
+        {
+            "$id": "5",
+            "id": "115277e2-67c7-e611-8197-06b69393ae39",
+            "title": "60",
+            "summary": "Metals Long Products Rebar",
+            "description": "Metals Long Products Rebar",
+            "applications": [
+                "CONCRETE REINFORCEMENT"
+            ],
+            "processingTechniques": [
+                "Hot rolling"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "Rebar_60_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/rebar_60_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "b6276fe2-c243-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "6",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "0811a368-014d-e711-80fb-005056857ef3"
+                },
+                {
+                    "$id": "7",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "dfc20dd7-c243-e811-80fd-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "60"
+        },
+        {
+            "$id": "8",
+            "id": "4d0abc68-6fc7-e611-8197-06b69393ae39",
+            "title": "75",
+            "summary": "Metals Long Products Rebar",
+            "description": "Metals Long Products Rebar",
+            "applications": [
+                "CONCRETE REINFORCEMENT",
+                "METAL DOWNSTREAM INDUSTRIALS",
+                "CUT AND BEND",
+                "EPOXY COATING "
+            ],
+            "processingTechniques": [
+                "Hot rolling"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "Rebar_75_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/rebar_75_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "8a05bb78-c243-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "9",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "94272db2-014d-e711-80fb-005056857ef3"
+                },
+                {
+                    "$id": "10",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "9d26e617-c243-e811-80fd-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "75"
+        },
+        {
+            "$id": "11",
+            "id": "152f9572-72c7-e611-8197-06b69393ae39",
+            "title": "B500B",
+            "summary": "Metals Long Products Rebar",
+            "description": "Metals Long Products Rebar",
+            "applications": [
+                "CONCRETE REINFORCEMENT",
+                "METAL DOWNSTREAM INDUSTRIALS",
+                "CUT AND BEND",
+                "EPOXY COATING "
+            ],
+            "processingTechniques": [
+                "Hot rolling"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "Rebar_B500B_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/rebar_b500b_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "a9bd2206-ba43-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "12",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "cbea26fe-014d-e711-80fb-005056857ef3"
+                },
+                {
+                    "$id": "13",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "da6595fa-b943-e811-80fd-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "b500b"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "14",
+            "id": "26db1f01-6ec7-e611-8197-06b69393ae39",
+            "title": "Hot rolling",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "15",
+            "id": "911a0ee4-69c7-e611-8197-06b69393ae39",
+            "title": "CONCRETE REINFORCEMENT",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "01748114-6ec7-e611-8197-06b69393ae39",
+            "title": "CUT AND BEND",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "25993a1e-6ec7-e611-8197-06b69393ae39",
+            "title": "EPOXY COATING ",
+            "count": 0
+        },
+        {
+            "$id": "18",
+            "id": "ff738114-6ec7-e611-8197-06b69393ae39",
+            "title": "METAL DOWNSTREAM INDUSTRIALS",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "19",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "21",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "22",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

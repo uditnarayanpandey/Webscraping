@@ -1,0 +1,91 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "f049dc0b-2ac8-e611-8197-06b69393ae39",
+            "title": "Anhydrous Ammonia",
+            "summary": "Anhydrous Ammonia is a gas containing approximately 82% nitrogen by weight. Under low temperature (around -33\u00b0C), Anhydrous Ammonia is being converted into liquid and stored and transported in this form under atmospheric pressure.",
+            "description": "Ammonia is the main raw material for the production of urea, and is used as one of the raw materials for the manufacturing of several other fertilizer products including DAP, NP/NPK, ammonium nitrate, calcium ammonium nitrate, ammonium sulphate and nitrogen solutions.\n\nAmmonia can be applied directly to the soil, thus providing high nitrogen content.\n\nIt is used for a number of industrial applications, such as caprolactum, acrylonitrile, Nitric Acid, melamine, explosives and glue.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-Anhydrous Ammonia-SDS-MEA-Saudi Arabia-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-anhydrous-ammonia-sds-mea-saudi-arabia-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "id": "eced5f28-8fb8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-Anhydrous Ammonia-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-anhydrous-ammonia-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "612c1e88-8fb8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "Anhydrous Ammonia_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/anhydrous-ammonia_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "78af102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas",
+                "Asia",
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "anhydrous-ammonia"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "3",
+            "id": "313ee29e-8cc7-e611-8197-06b69393ae39",
+            "title": "Placeholder - please replace me",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "4",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "5",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

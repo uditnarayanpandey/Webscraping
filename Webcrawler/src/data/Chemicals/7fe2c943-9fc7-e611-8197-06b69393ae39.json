@@ -1,0 +1,137 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "d4a31e7b-9fc7-e611-8197-06b69393ae39",
+            "title": "SABIC\u00ae Acetic Acid",
+            "summary": "Acetic acid is one of the simplest carboxylic acids. It is a weak acid, in that it is only a partially dissociated acid in an aqueous solution.",
+            "description": "Acetic acid is one of the simplest carboxylic acids. It is a weak acid, in that it is only a partially dissociated acid in an aqueous solution. Pure acetic acid (glacial acetic acid) is a colorless liquid, very corrosive",
+            "applications": [
+                "Production of polyethylene terephthalate (PTA) mainly used in soft drink bottles.",
+                "Production of Vinyl Acetate monomer.",
+                "Cellulose acetate for photographic film",
+                "Polyvinyl acetate for wood glue, as well as synthetic fibers and fabrics."
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-Acetic Acid-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-acetic-acid-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f8a4b094-7ab8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae Acetic Acid_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-acetic-acid_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "30c4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "5fff030a-a0c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "6f0a8ca7-7ab8-eb11-8109-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "aaa5a8f4-9981-e711-80fc-005056857ef3",
+                    "contactRoles": [
+                        "949d4a7a-cf37-4938-98e4-4dbd59741ee6"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "700a8ca7-7ab8-eb11-8109-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-acetic-acid"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "5",
+            "id": "2cd447de-29c8-e611-8197-06b69393ae39",
+            "title": "Production of polyethylene terephthalate (PTA) mainly used in soft drink bottles.",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "0e5979e4-29c8-e611-8197-06b69393ae39",
+            "title": "Production of Vinyl Acetate monomer.",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "1de9ebf4-29c8-e611-8197-06b69393ae39",
+            "title": "Cellulose acetate for photographic film",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "f149dc0b-2ac8-e611-8197-06b69393ae39",
+            "title": "Polyvinyl acetate for wood glue, as well as synthetic fibers and fabrics.",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "9",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "12",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

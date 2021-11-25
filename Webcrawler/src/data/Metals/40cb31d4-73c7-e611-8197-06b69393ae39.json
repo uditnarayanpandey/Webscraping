@@ -1,0 +1,341 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "89a63243-74c7-e611-8197-06b69393ae39",
+            "title": "40",
+            "summary": "Metals Long Products Rebar in Coil",
+            "description": "Metals Long Products Rebar in Coil",
+            "applications": [
+                "CONCRETE REINFORCEMENT",
+                "METAL DOWNSTREAM INDUSTRIALS",
+                "CUT AND BEND",
+                "EPOXY COATING "
+            ],
+            "processingTechniques": [
+                "Hot rolling"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "Rebar in Coil_40_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/rebar-in-coil_40_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2bc4102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac",
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "b14dab9c-024d-e711-80fb-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "40"
+        },
+        {
+            "$id": "4",
+            "id": "dddd0468-79c7-e611-8197-06b69393ae39",
+            "title": "460B",
+            "summary": "Metals Long Products Rebar in Coil",
+            "description": "Metals Long Products Rebar in Coil",
+            "applications": [
+                "CONCRETE REINFORCEMENT",
+                "METAL DOWNSTREAM INDUSTRIALS",
+                "CUT AND BEND",
+                "EPOXY COATING "
+            ],
+            "processingTechniques": [
+                "Hot rolling"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "Rebar in Coil_460B_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/rebar-in-coil_460b_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "0e63bc98-c343-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "5",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "37598c0e-034d-e711-80fb-005056857ef3"
+                },
+                {
+                    "$id": "6",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "9aadd182-c343-e811-80fd-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "460b"
+        },
+        {
+            "$id": "7",
+            "id": "cd695035-76c7-e611-8197-06b69393ae39",
+            "title": "60",
+            "summary": "Metals Long Products Rebar in Coil",
+            "description": "Metals Long Products Rebar in Coil",
+            "applications": [
+                "CONCRETE REINFORCEMENT",
+                "METAL DOWNSTREAM INDUSTRIALS",
+                "CUT AND BEND",
+                "EPOXY COATING "
+            ],
+            "processingTechniques": [
+                "Hot rolling"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "Rebar in Coil_60_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/rebar-in-coil_60_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "733946d8-c343-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "8",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "fcc496c8-024d-e711-80fb-005056857ef3"
+                },
+                {
+                    "$id": "9",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a6693bce-c343-e811-80fd-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "60"
+        },
+        {
+            "$id": "10",
+            "id": "c99a8cc9-79c7-e611-8197-06b69393ae39",
+            "title": "B500B",
+            "summary": "Metals Long Products Rebar in Coil",
+            "description": "Metals Long Products Rebar in Coil",
+            "applications": [
+                "CONCRETE REINFORCEMENT",
+                "METAL DOWNSTREAM INDUSTRIALS",
+                "CUT AND BEND",
+                "EPOXY COATING "
+            ],
+            "processingTechniques": [
+                "Hot rolling"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "Rebar in Coil_B500B_MEA_Technical_Data_Sheet",
+                    "url": "/en/products/documents/rebar-in-coil_b500b_mea_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "revision": "20210812",
+                    "id": "bc25a637-c443-e811-80fd-005056857ef3"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "11",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "eaa9f0e9-024d-e711-80fb-005056857ef3"
+                },
+                {
+                    "$id": "12",
+                    "contact": "fe06ee53-69c7-e611-8197-06b69393ae39",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "d160cb10-c443-e811-80fd-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "b500b"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "13",
+            "id": "26db1f01-6ec7-e611-8197-06b69393ae39",
+            "title": "Hot rolling",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "14",
+            "id": "911a0ee4-69c7-e611-8197-06b69393ae39",
+            "title": "CONCRETE REINFORCEMENT",
+            "count": 0
+        },
+        {
+            "$id": "15",
+            "id": "01748114-6ec7-e611-8197-06b69393ae39",
+            "title": "CUT AND BEND",
+            "count": 0
+        },
+        {
+            "$id": "16",
+            "id": "25993a1e-6ec7-e611-8197-06b69393ae39",
+            "title": "EPOXY COATING ",
+            "count": 0
+        },
+        {
+            "$id": "17",
+            "id": "ff738114-6ec7-e611-8197-06b69393ae39",
+            "title": "METAL DOWNSTREAM INDUSTRIALS",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "18",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "19",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "20",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "21",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

@@ -1,0 +1,129 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "8b2ef389-9c61-e911-8101-005056857ef3",
+            "title": "SABIC\u00ae MMA",
+            "summary": "(MMA)",
+            "description": "MMA is a key intermediate chemical. It is colorless, volatile and flammable liquid with low foreign matter content and\nexceptional clarity. It polymerize to form Poly Methyl Methacrylate (PMMA).",
+            "applications": [
+                "Additive Plastic",
+                "Coating",
+                "Flooring",
+                "Impact modification"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-MMA-SDS-Global-en-2021-05-17",
+                    "url": "/en/products/documents/sabic-mma-sds-global-en-2021-05-17/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "471fbd08-16b7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-MMA-SDS-Asia-China-en",
+                    "url": "/en/products/documents/sabic-mma-sds-asia-china-en/en",
+                    "language": "English",
+                    "country": "290a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "dc64e09e-adeb-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae MMA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-mma_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "91395314-4467-e911-8101-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Coatings",
+                "Automotive Lighting"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-mma"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "3",
+            "id": "36ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Additive Plastic",
+            "count": 0
+        },
+        {
+            "$id": "4",
+            "id": "22b8db3f-0a92-439a-a2dd-63fa0a52ad89",
+            "title": "Coating",
+            "count": 0
+        },
+        {
+            "$id": "5",
+            "id": "3449f4de-1b96-408b-abf3-acc846fb106c",
+            "title": "Flooring",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "0e7441b2-c530-4281-b422-d449cc1affa1",
+            "title": "Impact modification",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "7",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "11",
+            "industry": "02ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Coatings",
+            "id": "2dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "12",
+            "industry": "133a4a14-e25a-4ced-a093-ec7d1ec9b03d",
+            "title": "Automotive Lighting",
+            "id": "33ffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

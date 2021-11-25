@@ -1,0 +1,91 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "a795b00f-24c8-e611-8197-06b69393ae39",
+            "title": "PRILLED UREA",
+            "summary": "-",
+            "description": "P. Urea is white, solid, odorless or slightly ammoniacal, water soluble, produced in both granular, prills, or pastilles with\nnitrogen content of 46%.\n\nUrea is the most popular and economical of all nitrogenous fertilizers being used worldwide, the highest nitrogen concentration in the available solid conditions.",
+            "applications": [
+                "Placeholder - please replace me"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-PRILLED UREA-SDS-Global-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-prilled-urea-sds-global-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1e1cebe7-91b8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-PRILLED UREA-SDS-MEA-Saudi Arabia-en-2021-05-19",
+                    "url": "/en/products/documents/sabic-prilled-urea-sds-mea-saudi-arabia-en-2021-05-19/en",
+                    "language": "English",
+                    "region": "MEA",
+                    "id": "3d895363-93b8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "PRILLED UREA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/prilled-urea_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "9aaf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Americas",
+                "Asia",
+                "Europe",
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "prilled-urea"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "3",
+            "id": "313ee29e-8cc7-e611-8197-06b69393ae39",
+            "title": "Placeholder - please replace me",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "4",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "5",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

@@ -1,0 +1,829 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "6640f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "DC01EK",
+            "summary": "cold rolled annealed and tempered process, general purpose formable",
+            "description": "cold rolled annealed and tempered process, general purpose formable",
+            "applications": [
+                "Cold Rolled Coil"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_DC01EK_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_dc01ek_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "acbf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dc01ek"
+        },
+        {
+            "$id": "3",
+            "id": "6e40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "DQ",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Water heater",
+                "Cold Rolled Coil",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_DQ_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_dq_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b1bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "dq"
+        },
+        {
+            "$id": "4",
+            "id": "7040f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "DS-TypeB",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Water heater",
+                "Cold Rolled Coil",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_DS-TypeB_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_ds-typeb_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "b4bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "ds-typeb"
+        },
+        {
+            "$id": "5",
+            "id": "8440f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FeP01",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_FeP01_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_fep01_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c3bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fep01"
+        },
+        {
+            "$id": "6",
+            "id": "8640f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FeP03",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Water heater",
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_FeP03_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_fep03_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "bfc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fep03"
+        },
+        {
+            "$id": "7",
+            "id": "8840f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FeP04",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Water heater",
+                "Cold Rolled Coil",
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_FeP04_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_fep04_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fdc0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fep04"
+        },
+        {
+            "$id": "8",
+            "id": "8a40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FeP05",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Cold Rolled Coil"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_FeP05_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_fep05_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fac9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fep05"
+        },
+        {
+            "$id": "9",
+            "id": "8c40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FeP06",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Cold Rolled Coil"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_FeP06_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_fep06_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c9bf102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fep06"
+        },
+        {
+            "$id": "10",
+            "id": "8e40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FH",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Cold Rolled Coil"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Full hard"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_FH_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_fh_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "c5c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fh"
+        },
+        {
+            "$id": "11",
+            "id": "9340f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "FHQ700",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Cold Rolled Coil"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Full hard"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_FHQ700_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_fhq700_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "fbc9102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "fhq700"
+        },
+        {
+            "$id": "12",
+            "id": "bd40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "GrC Type1",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Cold Rolled Coil"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_GrC Type1_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_grc-type1_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "24c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "grc-type1"
+        },
+        {
+            "$id": "13",
+            "id": "bf40f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "GrC Type2",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Building and Construction",
+                "Cold Rolled Coil"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_GrC Type2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_grc-type2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "06ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "grc-type2"
+        },
+        {
+            "$id": "14",
+            "id": "c440f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "H240LA",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Building and Construction",
+                "Cold Rolled Coil"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_H240LA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_h240la_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "efc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "h240la"
+        },
+        {
+            "$id": "15",
+            "id": "c640f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "H360LA",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Building and Construction",
+                "Cold Rolled Coil"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_H360LA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_h360la_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2ac1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "h360la"
+        },
+        {
+            "$id": "16",
+            "id": "1d41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPCC",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Cold Rolled Coil"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_SPCC_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_spcc_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "6fc1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spcc"
+        },
+        {
+            "$id": "17",
+            "id": "1f41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPCCT",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Cold Rolled Coil",
+                "Electrical"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_SPCCT_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_spcct_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "1eca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spcct"
+        },
+        {
+            "$id": "18",
+            "id": "2141f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "SPCEN",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Cold Rolled Coil",
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_SPCEN_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_spcen_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "38c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "spcen"
+        },
+        {
+            "$id": "19",
+            "id": "5541f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St12",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Cold Rolled Coil",
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_St12_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_st12_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2cca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st12"
+        },
+        {
+            "$id": "20",
+            "id": "5741f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St13",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Cold Rolled Coil",
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_St13_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_st13_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "64c0102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st13"
+        },
+        {
+            "$id": "21",
+            "id": "5941f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St14",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Cold Rolled Coil",
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_St14_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_st14_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "99c1102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st14"
+        },
+        {
+            "$id": "22",
+            "id": "5e41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "St37-2",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Building and Construction",
+                "Cold Rolled Coil"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_St37-2_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_st37-2_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2fca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "st37-2"
+        },
+        {
+            "$id": "23",
+            "id": "6641f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "TypeA",
+            "summary": "Cold Rolled Coil",
+            "description": "Cold Rolled Coil",
+            "applications": [
+                "Cold Rolled Coil",
+                "Electrical",
+                "Tubes"
+            ],
+            "processingTechniques": [
+                "Cold Rolled Annealed"
+            ],
+            "documents": [
+                {
+                    "documentType": "TDS",
+                    "title": "CRC_TypeA_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/crc_typea_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "32ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "MEA"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "typea"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "24",
+            "id": "6b41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Cold Rolled Annealed",
+            "count": 0
+        },
+        {
+            "$id": "25",
+            "id": "6c41f52f-b7d9-e611-819b-06b69393ae39",
+            "title": "Cold Rolled Full hard",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "26",
+            "id": "6b4c8c2a-b543-e811-80fd-005056857ef3",
+            "title": "Building and Construction",
+            "count": 0
+        },
+        {
+            "$id": "27",
+            "id": "a41fa334-7e44-e811-80fd-005056857ef3",
+            "title": "Cold Rolled Coil",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "7affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Electrical",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "25a0dc4e-a3f0-4540-b7e1-5657a730e347",
+            "title": "Tubes",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "ab2b9513-b543-e811-80fd-005056857ef3",
+            "title": "Water heater",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "31",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}

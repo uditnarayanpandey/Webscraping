@@ -1,0 +1,1507 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "19f837d3-7480-e911-8101-005056857ef3",
+            "title": "7118LE",
+            "summary": "Density 918 kg/m3, MFR(2.16 kg)1 g/10 min",
+            "description": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 7118LE is a metallocene ethylene-hexene copolymer. It has a good processability and performs well in a wide range of general purpose and high performance blown film applications. Films produced with this grade offer good tensile and impact strength, puncture resistance and sealing properties. \nThe resin contains anti-block and slip agent.\nSABIC\u00ae mLLDPE 7118LE is typically used for applications like heavy duty bags, agriculture film, stretch hood, lamination film, frozen bags. \nProperties have been measured on blown film of 25 \u00b5m (mono layer) and BUR = 2.5\nTypical processing conditions for SABIC\u00ae mLLDPE 7118LE: processing temperatures 180 - 230 \u00b0C.\n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Stretch film",
+                "Lamination film",
+                "Heavy duty film"
+            ],
+            "processingTechniques": [
+                "Blown film"
+            ],
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7118LE-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7118le-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "bdcca8fc-11a4-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7118LE-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7118le-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "87fc5716-a7a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7118LE-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7118le-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6f6dfe35-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7118LE-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7118le-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3d6a0287-2eaf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7118LE-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7118le-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "17000879-3ae5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)_7118LE_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/supeer-metallocene-linear-low-density-polyethylene-mlldpe-_7118le_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "a3092ba8-fd81-e911-8101-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "7118le"
+        },
+        {
+            "$id": "3",
+            "id": "78c47c2f-816d-e811-80fe-005056857ef3",
+            "title": "7118NE",
+            "summary": "Density 918 kg/m3, MFR(2.16 kg) 1 g/10 min",
+            "description": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 7118NE is a metallocene ethylene-hexene copolymer. It has a good processability and performs well in a wide range of general purpose and high performance blown film applications. Films produced with this grade offer good tensile and impact strength, puncture resistance and sealing properties. \nSUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 7118NE is typically used for applications like heavy duty bags, agriculture film, stretch hood, lamination film, frozen bags. \nProperties have been measured on blown film of 25 \u00b5m and BUR = 2.5\nTypical processing conditions for SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 7118NE : processing temperatures 180 - 230 \u00b0C Blow up ratio: 2.0 - 4.0 \nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Stretch film",
+                "Lamination film",
+                "Heavy duty film"
+            ],
+            "processingTechniques": [
+                "Blown film"
+            ],
+            "documents": [
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7118NE-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7118ne-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0d61d3dd-7c83-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7118NE-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7118ne-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f346ea45-7d83-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7118NE-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7118ne-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ee2e3068-7d83-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7118NE-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7118ne-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b102fda7-7d83-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7118NE-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7118ne-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4175d7ff-7d83-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae SUPEER\u2122-7118NE-SDS-EU-DE-2018-06-21",
+                    "url": "/en/products/documents/sabic-supeer-7118ne-sds-eu-de-2018-06-21/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "6582cf94-8a83-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)_7118NE_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/supeer-metallocene-linear-low-density-polyethylene-mlldpe-_7118ne_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "28b30d8a-abc8-e811-80ff-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "7118ne"
+        },
+        {
+            "$id": "4",
+            "id": "4282593b-9846-eb11-8106-005056857ef3",
+            "title": "7118NM",
+            "summary": "Density 919kg/m3, MFR (2.16 kg) 1.2 g/10 min",
+            "description": "SABIC\u00ae SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 7118NM is a metallocene ethylene-hexene copolymer. It has a good processability and performs well in a wide range of general purpose and high performance blown film applications. It has also very good bubble stability. Films produced with this grade offer good tensile and extremely high impact strength, excellent optical properties, puncture resistance and low temperature sealing characteristics.",
+            "applications": [
+                "Packaging",
+                "Blown film",
+                "General purpose film",
+                "Lamination film",
+                "Heavy duty film"
+            ],
+            "processingTechniques": [
+                "Blown film"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-mLLDPE-SDS-Asia Pacific GHS Format -Global-en-2021-06-09",
+                    "url": "/en/products/documents/sabic-mlldpe-sds-asia-pacific-ghs-format-global-en-2021-06-09/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6cec3fc3-9cca-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)_7118NM_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/supeer-metallocene-linear-low-density-polyethylene-mlldpe-_7118nm_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "3838317e-0a49-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Flexible Packaging",
+                "Agricultural Packaging",
+                "Consumer Packaging"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "7118nm"
+        },
+        {
+            "$id": "5",
+            "id": "a61e3b19-a046-eb11-8106-005056857ef3",
+            "title": "7218WM",
+            "summary": "Density 920kg/m3, MFR (2.16 kg) 2.1g/10 min",
+            "description": "SABIC\u00ae SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 7218WM is a metallocene ethylene-hexene copolymer. It has a good processability and performs well in a wide range of general purpose and high performance blown film applications. It has also very good bubble stability. Films produced with this grade offer good tensile and extremely high impact strength, excellent optical properties, puncture resistance and low temperature sealing characteristics.",
+            "applications": [
+                "Packaging",
+                "Blown film",
+                "General purpose film",
+                "Lamination film",
+                "Heavy duty film"
+            ],
+            "processingTechniques": [
+                "Blown film"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-mLLDPE-SDS-Asia Pacific GHS Format -Global-en-2021-06-09",
+                    "url": "/en/products/documents/sabic-mlldpe-sds-asia-pacific-ghs-format-global-en-2021-06-09/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6cec3fc3-9cca-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)_7218WM_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/supeer-metallocene-linear-low-density-polyethylene-mlldpe-_7218wm_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "7ba3644b-0c49-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Flexible Packaging",
+                "Agricultural Packaging",
+                "Consumer Packaging"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "7218wm"
+        },
+        {
+            "$id": "6",
+            "id": "e540432d-846d-e811-80fe-005056857ef3",
+            "title": "7318BE",
+            "summary": "Density 918 kg/m3, MFR(2.16 kg) 3 g/10 min",
+            "description": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 7318BE is a metallocene ethylene-hexene copolymer. It has a good processability and performs well in a wide range of general purpose and high performance cast film applications. Films produced with this grade offer good impact strength, puncture resistance, sealing and optical properties. \nSUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 7318BE  is typically used for stretch and lamination films.\nProcessing temperatures 210- 260 \u00b0C. Properties have been measured on cast film of 25 \u00b5m.\n\nThis product is not intended for and must not be used in any pharmaceutical/medical applications.",
+            "applications": [
+                "Stretch film"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7318BE-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7318be-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2bb3c865-7e83-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7318BE-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7318be-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9d445687-7e83-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7318BE-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7318be-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "4e6809a7-7e83-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7318BE-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7318be-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6190dfc2-7e83-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-7318BE-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-7318be-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f8e71128-7f83-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00ae SUPEER\u2122-7318BE-SDS-EU-DE-2018-06-21",
+                    "url": "/en/products/documents/sabic-supeer-7318be-sds-eu-de-2018-06-21/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "11278cf4-8b83-e811-80fe-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)_7318BE_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/supeer-metallocene-linear-low-density-polyethylene-mlldpe-_7318be_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2913192c-4475-e811-80fe-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Flexible Packaging",
+                "Food & Beverage"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "7318be"
+        },
+        {
+            "$id": "7",
+            "id": "6059c553-a446-eb11-8106-005056857ef3",
+            "title": "7318BM",
+            "summary": "Density 918kg/m3, MFR (2.16 kg) 3.5g/10 min",
+            "description": "SABIC\u00ae SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 7318BM is a metallocene ethylene-hexene copolymer. It has a good processability and performs well in a wide range of general purpose and high performance cast film applications. It has high stretchability in cast film applications, high holding force, good web stability during extrusion, high output rates, excellent overall film appearance and surface finish, very high puncture resistance, good sealing and optical properties.",
+            "applications": [
+                "Stretch film"
+            ],
+            "processingTechniques": [
+                "Cast film"
+            ],
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-mLLDPE-SDS-Asia Pacific GHS Format -Global-en-2021-06-09",
+                    "url": "/en/products/documents/sabic-mlldpe-sds-asia-pacific-ghs-format-global-en-2021-06-09/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6cec3fc3-9cca-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)_7318BM_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/supeer-metallocene-linear-low-density-polyethylene-mlldpe-_7318bm_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "90e1bcdf-0c49-eb11-8106-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Flexible Packaging",
+                "Food & Beverage"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "7318bm"
+        },
+        {
+            "$id": "8",
+            "id": "7914b7d3-6443-45bf-a14b-8a46b93b33e0",
+            "title": "8112",
+            "summary": "Density 912 kg/m3, MFR(2.16 kg) 1.1 g/10 min",
+            "description": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 8112 is an ethylene-octene copolymer produced via solution polymerization using metallocene catalyst. It performs well in a wide range of general purpose and high performance LLDPE blown film applications and have excellent processability.",
+            "applications": [
+                "Stretch film",
+                "Lamination film",
+                "Heavy duty film"
+            ],
+            "processingTechniques": [
+                "Cast film",
+                "Blown film"
+            ],
+            "documents": [
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8112-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8112-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e13edc0b-24c1-4c84-8c11-25445ca81fa7"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8112-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8112-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0a6b3e95-7c99-47c4-9a3b-3daf9f57837b"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8112-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8112-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "bc08be5e-b44a-4274-ba88-8590457902c4"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "8112\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/8112-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "00b089e8-db00-47b1-9e51-93945e92eff8"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8112-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8112-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5275b17c-dfca-4e8e-a1b1-9eab3fbb2e04"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8112-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8112-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0f0edd84-6f6f-445c-84e1-b0d4ea19dcce"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)_8112_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/supeer-metallocene-linear-low-density-polyethylene-mlldpe-_8112_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "02c3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "IndustrySegment"
+            ],
+            "contacts": [
+                {
+                    "$id": "9",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a5fa5dfd-0f1d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "10",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a6fa5dfd-0f1d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "11",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a7fa5dfd-0f1d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "12",
+                    "contact": "939f3ead-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a8fa5dfd-0f1d-eb11-8106-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8112"
+        },
+        {
+            "$id": "13",
+            "id": "fa92e325-080b-42a0-b618-0ac0edc76056",
+            "title": "8112L",
+            "summary": "Density 912 kg/m3, MFR(2.16 kg) 1.1 g/10 min",
+            "description": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 8112L is an ethylene-octene copolymer produced via solution polymerization using metallocene catalyst. It performs well in a wide range of general purpose and high performance LLDPE blown film applications and have excellent processability. It contains slip and antiblock additives.",
+            "applications": [
+                "Stretch film",
+                "Lamination film",
+                "Heavy duty film"
+            ],
+            "processingTechniques": [
+                "Blown film"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8112L-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8112l-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9113f83b-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "8112L\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/8112l-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "964d4eea-62dd-447d-9552-4560c09e7aa4"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8112L-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8112l-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b9b25b46-2adf-4952-9d0b-6bc5fa9e1679"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8112L-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8112l-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "0aa2974b-4ceb-45f7-ab73-c3821ab038a9"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8112L-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8112l-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "b4dc6b76-b0db-4b0d-b2d3-e1601aa6d65b"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8112L-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8112l-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "dfdd286c-6930-4b0e-a773-e6121d9d16f8"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)_8112L_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/supeer-metallocene-linear-low-density-polyethylene-mlldpe-_8112l_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "38ca102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [
+                {
+                    "$id": "14",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "a9cd93b1-0f1d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "15",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "aacd93b1-0f1d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "16",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "abcd93b1-0f1d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "17",
+                    "contact": "939f3ead-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "accd93b1-0f1d-eb11-8106-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8112l"
+        },
+        {
+            "$id": "18",
+            "id": "3be7592d-136b-4d42-b97f-8d0df055f0ae",
+            "title": "8115",
+            "summary": "Density 915 kg/m3, MFR(2.16 kg) 1.1 g/10 min",
+            "description": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 8115 is an ethylene-octene copolymer produced via Nexlene\u2122 Technology. It performs well in a wide range of general purpose and high performance LLDPE blown film applications and has good processablity. The grade offers better performance in terms of tensile properties, stiffness / toughness ratio and optical properties.",
+            "applications": [
+                "Stretch film",
+                "Lamination film",
+                "Heavy duty film"
+            ],
+            "processingTechniques": [
+                "Blown film"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8115-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8115-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f4d21470-086d-4037-9d8d-3be6cd93c9ef"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "8115\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/8115-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "2e8fda5b-ff0b-43d7-aee2-553e487099b4"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8115-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8115-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "7b7c1707-191a-4754-a87a-5a70673f4e4c"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SUPEER\u2122-8115-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-8115-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ea60d6e0-9511-4bcd-8942-6e8390f8881f"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8115-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8115-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "76c97562-31af-48cd-af2b-93552169093c"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8115-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8115-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e6bb5a80-4cce-4c1f-a37f-d64103c0ff02"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)_8115_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/supeer-metallocene-linear-low-density-polyethylene-mlldpe-_8115_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "0ac3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8115"
+        },
+        {
+            "$id": "19",
+            "id": "96c8686e-a722-400e-9a87-7c3a9f6334dd",
+            "title": "8115L",
+            "summary": "Density 915 kg/m3, MFR(2.16 kg) 1.1 g/10 min",
+            "description": "SABIC\u00ae SUPEER\u2122 8115L is an ethylene-octene copolymer produced via Nexlene\u2122 Technology. It performs well in a wide range of general purpose and high performance LLDPE blown film applications and has good processablity. The grade offers better performance in terms of tensile properties, stiffness / toughness ratio and optical properties.",
+            "applications": [
+                "Stretch film",
+                "Lamination film",
+                "Heavy duty film"
+            ],
+            "processingTechniques": [
+                "Blown film"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8115L-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8115l-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "31ab77cc-3c1d-4931-a23c-055023316980"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8115L-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8115l-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "564200d9-9661-49bc-b12c-349ecb1a784a"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8115L-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8115l-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "340470af-4147-4be8-b71b-7ae3b530ccf9"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "8115L\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/8115l-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "c8ca1bc5-6d1a-4f20-8927-7f6c4e660854"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8115L-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8115l-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "f3d85e0a-75fd-4f0c-95ea-978651f26315"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8115L-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8115l-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "a9d12e43-131b-4332-8aed-b1d13ac4cf29"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)_8115L_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/supeer-metallocene-linear-low-density-polyethylene-mlldpe-_8115l_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "ccc2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [
+                {
+                    "$id": "20",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "3be9c1d8-961e-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "21",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "3ce9c1d8-961e-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "22",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "3de9c1d8-961e-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "23",
+                    "contact": "939f3ead-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "3ee9c1d8-961e-eb11-8106-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8115l"
+        },
+        {
+            "$id": "24",
+            "id": "e4810082-3370-45cb-8582-ba4404bcf7c0",
+            "title": "8118",
+            "summary": "Density 918 kg/m3, MFR(2.16 kg) 1.1 g/10 min",
+            "description": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 8118 is an ethylene-octene copolymer produced via solution polymerization using metallocene catalyst. It performs well in a wide range of general purpose and high performance LLDPE blown film applications and have excellent processability.",
+            "applications": [
+                "Stretch film",
+                "Lamination film",
+                "Heavy duty film"
+            ],
+            "processingTechniques": [
+                "Blown film"
+            ],
+            "documents": [
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8118-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8118-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "66047b4c-ca75-407c-bfbc-27cac79b45c9"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8118-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8118-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "76fbe38f-a247-4aac-aec1-39a6ba73b37e"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8118-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8118-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "201a5f82-66a5-40ad-8570-4797f8896938"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8118-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8118-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9cff6fe0-6281-43a4-9acd-75b90d181740"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8118-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8118-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "75f3fabb-11bc-4ad6-bfcc-ad7b626ce992"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "8118\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/8118-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "d807f697-b9cb-4f5f-8b28-e3de9d87ab80"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)_8118_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/supeer-metallocene-linear-low-density-polyethylene-mlldpe-_8118_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "50c2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [
+                {
+                    "$id": "25",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "232dc0cd-0f1d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "26",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "242dc0cd-0f1d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "27",
+                    "contact": "939f3ead-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "252dc0cd-0f1d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "28",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "262dc0cd-0f1d-eb11-8106-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8118"
+        },
+        {
+            "$id": "29",
+            "id": "37651ac0-8e5a-4c06-a8ca-517206633b40",
+            "title": "8118L",
+            "summary": "Density 918 kg/m3, MFR(2.16 kg) 1.1 g/10 min",
+            "description": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 8118L is an ethylene-octene copolymer produced via solution polymerization using metallocene catalyst. It performs well in a wide range of general purpose and high performance LLDPE blown film applications and have excellent processability. It contains slip and antiblock additives.",
+            "applications": [
+                "Stretch film",
+                "Lamination film",
+                "Heavy duty film"
+            ],
+            "processingTechniques": [
+                "Blown film"
+            ],
+            "documents": [
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8118L-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8118l-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5cc8295e-2236-47cc-97f1-2c84195801ca"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8118L-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8118l-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "83af7a70-daca-42e3-a5b9-304e82da34ce"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8118L-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8118l-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3d10e42f-1528-4619-8f5b-367304afffac"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8118L-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8118l-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "818f7d5d-2554-48dd-9726-af302f7db188"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "8118L\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/8118l-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "0c534120-2169-4f9e-ab4d-cac3fcfa34de"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8118L-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8118l-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6f6fc70b-7b0b-476b-a047-da133155f57a"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)_8118L_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/supeer-metallocene-linear-low-density-polyethylene-mlldpe-_8118l_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "42c3102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [
+                {
+                    "$id": "30",
+                    "contact": "475a0b04-6ade-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "b317fd97-0f1d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "31",
+                    "contact": "38bf1de2-69de-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "b417fd97-0f1d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "32",
+                    "contact": "939f3ead-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "b517fd97-0f1d-eb11-8106-005056857ef3"
+                },
+                {
+                    "$id": "33",
+                    "contact": "92943b93-54dd-e611-819b-06b69393ae39",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "b617fd97-0f1d-eb11-8106-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8118l"
+        },
+        {
+            "$id": "34",
+            "id": "17726c62-8b30-4af7-b946-c79dad264bd2",
+            "title": "8315",
+            "summary": "Density 915 kg/m3, MFR(2.16 kg) 3.0 g/10 min",
+            "description": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 8315 is an ethylene-octene copolymers produced via solution polymerization using metallocene catalyst. It performs well in a wide range of general purpose and high performance LLDPE cast film applications and has excellent impact strength and good transparency. SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) 8315 contains no slip and no antiblock additives.",
+            "applications": [
+                "Stretch film"
+            ],
+            "processingTechniques": [
+                "Cast film"
+            ],
+            "documents": [
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8315-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8315-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d93c3ae7-5eb7-415b-84fa-0c0518ca30db"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8315-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8315-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "e3e98dc4-bb52-4109-83eb-2e3764076de8"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "8315\\00900-Material Safety Datasheet",
+                    "url": "/en/products/documents/8315-00900-material-safety-datasheet/de",
+                    "language": "German",
+                    "region": "Global",
+                    "id": "764db64f-71d1-4ce5-ba61-ab32eeeb7056"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SUPEER\u2122 8315-GASD-Global-en-2021-09-27",
+                    "url": "/en/products/documents/sabic-supeer-8315-gasd-global-en-2021-09-27/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "07bf43c9-8c0c-4865-986c-ae7ef47f1bab"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8315-REAH-Global-en-2021-07-15",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8315-reah-global-en-2021-07-15/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "118a401d-6e88-41ac-972e-c8809468707b"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-8315-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-8315-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "454cb630-2927-4a6c-b11a-dcfe8c8261df"
+                },
+                {
+                    "documentType": "Phthalates declaration",
+                    "title": "PD_8315_00900__20170714",
+                    "url": "/en/products/documents/pd_8315_00900__20170714/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "92e917dd-d9f8-4df4-b52f-f1510e562cee"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)_8315_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/supeer-metallocene-linear-low-density-polyethylene-mlldpe-_8315_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210927",
+                    "id": "7ac2102f-8df7-e611-819b-06b69393ae39"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": [
+                "Flexible Packaging"
+            ],
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "8315"
+        },
+        {
+            "$id": "35",
+            "id": "bbf9be61-4c80-e911-8101-005056857ef3",
+            "title": "P8200RT",
+            "summary": "Density 941kg/cm3, MFR(190\u2103, 2.16kg) 0.5g/10min",
+            "description": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) P8200RT is an ethylene-octene copolymer produced via solution polymerization using metallocene\ncatalyst. SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE) P8200RT performs well in a wide range of pipe applications with excellent long-term hydrostatic strength,\ncombined with good surface and superior processibility. It is designed to fulfill all the requirements of DIN 16833 / ISO 24033\nfor PE-RT Type II.",
+            "applications": [
+                "Pipe"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-P8200RT-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-p8200rt-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9d840180-25a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-P8200RT-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-p8200rt-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2c46c629-a7a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-P8200RT-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-p8200rt-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "c8707742-75ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-P8200RT-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-p8200rt-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "07d80594-2eaf-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Food Contact Declaration",
+                    "title": "SABIC-SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)-P8200RT-Food Contact Declaration-Global",
+                    "url": "/en/products/documents/sabic-supeer-metallocene-linear-low-density-polyethylene-mlldpe-p8200rt-food-contact-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "53264f86-3ae5-eb11-810a-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SUPEER\u2122 Metallocene Linear Low Density Polyethylene (mLLDPE)_P8200RT_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/supeer-metallocene-linear-low-density-polyethylene-mlldpe-_p8200rt_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "35b95103-6680-e911-8101-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Americas",
+                "Asia",
+                "Middle East and Africa"
+            ],
+            "industrySegments": null,
+            "contacts": [],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "p8200rt"
+        }
+    ],
+    "processingTechniques": [
+        {
+            "$id": "36",
+            "id": "ab5bc66b-f995-4184-9565-9e6eda2ed478",
+            "title": "Blown film",
+            "count": 0
+        },
+        {
+            "$id": "37",
+            "id": "9f6aca12-29d3-4e15-8f1e-5d7b31c225de",
+            "title": "Cast film",
+            "count": 0
+        }
+    ],
+    "applications": [
+        {
+            "$id": "38",
+            "id": "3f8c116d-21f3-4e66-8143-166dc7608613",
+            "title": "Stretch film",
+            "count": 0
+        },
+        {
+            "$id": "39",
+            "id": "3a374905-5725-4cbe-9094-b4a64851ef26",
+            "title": "Lamination film",
+            "count": 0
+        },
+        {
+            "$id": "40",
+            "id": "9711a813-06ce-4d9a-aec3-ce8d476bafcf",
+            "title": "Heavy duty film",
+            "count": 0
+        },
+        {
+            "$id": "41",
+            "id": "8b237266-4015-e711-80fb-005056857ef3",
+            "title": "Packaging",
+            "count": 0
+        },
+        {
+            "$id": "42",
+            "id": "3e5994d3-cfaf-4ba8-963b-4744981ceb1c",
+            "title": "Blown film",
+            "count": 0
+        },
+        {
+            "$id": "43",
+            "id": "68cc0888-d309-4c0e-893e-b42f06af696f",
+            "title": "General purpose film",
+            "count": 0
+        },
+        {
+            "$id": "44",
+            "id": "2df63855-b0f2-e611-80fb-005056857ef3",
+            "title": "Pipe",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "45",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "46",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        },
+        {
+            "$id": "47",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "48",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Middle East and Africa",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "49",
+            "industry": "1679dc71-a5d2-4e3b-bd90-ef43d09fe4d9",
+            "title": "IndustrySegment",
+            "id": "f25a6df1-91f0-43a8-9b69-520be613d22d"
+        },
+        {
+            "$id": "50",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Flexible Packaging",
+            "id": "348b58e7-45e9-e611-80fb-005056857ef3"
+        },
+        {
+            "$id": "51",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Agricultural Packaging",
+            "id": "eee8da22-47f9-e811-80ff-005056857ef3"
+        },
+        {
+            "$id": "52",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Consumer Packaging",
+            "id": "1affee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "53",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Food & Beverage",
+            "id": "0fffee91-14d8-e611-819b-06b69393ae39"
+        }
+    ]
+}

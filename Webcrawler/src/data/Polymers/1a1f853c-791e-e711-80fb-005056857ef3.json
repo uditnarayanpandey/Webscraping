@@ -1,0 +1,975 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "1c30bd67-1520-e711-80fb-005056857ef3",
+            "title": "450FF",
+            "summary": "Expandable Polystyrene Fire Retardant Grade",
+            "description": "Fire retardant expanded Polystyrene SABIC\u00ae EPS450FF is manufactured by the suspension polymerization of styrene monomer. The polymerization is generally carried out in a batch process. SABIC\u00ae EPS450FF is an expandable polystyrene grade supplied in free flowing beads, containing pentane (CFC free) as a foaming agent. It is used for fast cycle shape and block molding applications with good surface finish.",
+            "applications": [
+                "Thermal insulation"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00aeEPS450FF-Material Safety Datasheet-MEAF",
+                    "url": "/en/products/documents/sabic-eps450ff-material-safety-datasheet-meaf/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "2f37faaa-1620-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-EPS-450FF-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-450ff-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5b077bdc-26a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-EPS-450FF-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-450ff-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8eb44cee-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-EPS-450FF-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-450ff-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "9fa43cda-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-EPS-450FF-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-450ff-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "175a29fa-30af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae EPS_450FF_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-eps_450ff_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "86bfbc78-1620-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Construction"
+            ],
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "8157a968-0c20-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "70023c3d-8003-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "4",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "71023c3d-8003-e911-8100-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "450ff"
+        },
+        {
+            "$id": "5",
+            "id": "37ea1085-7aeb-e611-80fb-005056857ef3",
+            "title": "452",
+            "summary": "Expandable Polystyrene Standard Grade",
+            "description": "Standard expanded Polystyrene SABIC\u00ae EPS452 is manufactured by the suspension polymerization of styrene monomer. The polymerization is generally carried out in a batch process. SABIC\u00ae EPS452 is an expandable polystyrene grade supplied in free-flowing beads, containing pentane (CFC free) as a foaming agent. It is used for fast cycle shape and block molding applications with good surface finish.",
+            "applications": [
+                "Packaging",
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00aeEPS452-Material Safety Datasheet-Asia",
+                    "url": "/en/products/documents/sabic-eps452-material-safety-datasheet-asia/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "936d3729-1520-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-EPS-452-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-452-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "261bee0d-7402-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-EPS-452-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-452-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "91b44cee-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-EPS-452-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-452-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "6d2eabe0-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-EPS-452-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-452-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1a5a29fa-30af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae EPS_452_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-eps_452_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "d58df7ef-1420-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Foam Packaging"
+            ],
+            "contacts": [
+                {
+                    "$id": "6",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "1b77d27d-8003-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "7",
+                    "contact": "8157a968-0c20-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "1c77d27d-8003-e911-8100-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "452"
+        },
+        {
+            "$id": "8",
+            "id": "65049bfb-1120-e711-80fb-005056857ef3",
+            "title": "550FF",
+            "summary": "Expandable Polystyrene Fire Retardant Grade",
+            "description": "Fire retardant expanded Polystyrene SABIC\u00ae EPS550FF is manufactured by the suspension polymerization of styrene monomer. The polymerization is generally carried out in a batch process and it contains a fire retarding additive in the formulation. SABIC\u00ae EPS550FF is an expandable polystyrene grade supplied in free-flowing beads containing pentane (CFC free) as a foaming agent.",
+            "applications": [
+                "Thermal insulation",
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00aeEPS550FF-Material Safety Datasheet-Europe",
+                    "url": "/en/products/documents/sabic-eps550ff-material-safety-datasheet-europe/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "56c155d6-1320-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-EPS-550FF-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-550ff-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "60077bdc-26a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-EPS-550FF-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-550ff-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "94b44cee-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-EPS-550FF-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-550ff-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "702eabe0-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-EPS-550FF-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-550ff-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1d5a29fa-30af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae EPS_550FF_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-eps_550ff_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "451953a5-1320-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Construction"
+            ],
+            "contacts": [
+                {
+                    "$id": "9",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "07060fa3-8003-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "10",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "08060fa3-8003-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "11",
+                    "contact": "8157a968-0c20-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "09060fa3-8003-e911-8100-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "550ff"
+        },
+        {
+            "$id": "12",
+            "id": "125e99dd-0c20-e711-80fb-005056857ef3",
+            "title": "552",
+            "summary": "Expandable Polystyrene Standard Grade",
+            "description": "Standard expanded Polystyrene SABIC\u00ae EPS552 is manufactured by the suspension polymerization of styrene monomer. The polymerization is generally carried out in a batch process. SABIC\u00ae EPS552 is supplied in free flowing beads, containing pentane (CFC free) as a foaming agent. It is used for fast cycle low density block molding applications with good surface finish.",
+            "applications": [
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00aeEPS552-Material Safety Datasheet-Asia",
+                    "url": "/en/products/documents/sabic-eps552-material-safety-datasheet-asia/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "cd54167e-1120-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-EPS-552-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-552-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "21ffcfb8-ae02-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-EPS-552-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-552-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "97b44cee-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-EPS-552-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-552-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "732eabe0-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-EPS-552-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-552-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "205a29fa-30af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae EPS_552_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-eps_552_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "e0decfd7-1020-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Foam Packaging",
+                "Construction"
+            ],
+            "contacts": [
+                {
+                    "$id": "13",
+                    "contact": "8157a968-0c20-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "69be0dca-8003-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "14",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "6abe0dca-8003-e911-8100-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "552"
+        },
+        {
+            "$id": "15",
+            "id": "4d73f938-a61e-e711-80fb-005056857ef3",
+            "title": "650FF",
+            "summary": "Expandable Polystyrene Fire Retardant",
+            "description": "Fire retardant expanded Polystyrene SABIC\u00ae EPS650FF is manufactured by the suspension polymerization of styrene monomer. The polymerization is generally carried out in a batch process. SABIC\u00ae EPS650FF is supplied in free flowing beads, containing pentane (CFC free) as a foaming agent. It is used for fast cycle low density block molding applications with good surface finish.",
+            "applications": [
+                "Thermal insulation"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00aeEPS650FF-Material Safety Datasheet-Europe",
+                    "url": "/en/products/documents/sabic-eps650ff-material-safety-datasheet-europe/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "ee219240-a81e-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-EPS-650FF-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-650ff-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "85a7a9e2-26a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-EPS-650FF-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-650ff-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "167ebaf4-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-EPS-650FF-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-650ff-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "762eabe0-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-EPS-650FF-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-650ff-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "50575f00-31af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae EPS_650FF_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-eps_650ff_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "9cb048bc-a71e-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Construction"
+            ],
+            "contacts": [
+                {
+                    "$id": "16",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "afbf99f3-7f03-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "17",
+                    "contact": "8157a968-0c20-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "b0bf99f3-7f03-e911-8100-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "650ff"
+        },
+        {
+            "$id": "18",
+            "id": "0c64a65a-a41e-e711-80fb-005056857ef3",
+            "title": "652",
+            "summary": "Expandable Polystyrene Standard Grade",
+            "description": "Standard expanded Polystyrene SABIC\u00ae EPS652 is manufactured by the suspension polymerization of styrene monomer. The polymerization is generally carried out in a batch process. SABIC\u00ae EPS763 is an expandable polystyrene grade supplied in free flowing beads, containing pentane (CFC free) as a foaming agent. It is used for fast cycle low density block molding applications with good surface finish.",
+            "applications": [
+                "Packaging",
+                "Foam"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00aeEPS652-Material Safety Datasheet-Asia",
+                    "url": "/en/products/documents/sabic-eps652-material-safety-datasheet-asia/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "d4929a01-a61e-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-EPS-652-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-652-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "910f0057-0905-e811-80fd-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-EPS-652-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-652-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "197ebaf4-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-EPS-652-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-652-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "792eabe0-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-EPS-652-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-652-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "53575f00-31af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae EPS_652_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-eps_652_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "eb634bae-a51e-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Foam Packaging",
+                "Construction"
+            ],
+            "contacts": [
+                {
+                    "$id": "19",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "62bebfee-8003-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "20",
+                    "contact": "8157a968-0c20-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "63bebfee-8003-e911-8100-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "652"
+        },
+        {
+            "$id": "21",
+            "id": "3977d091-c01d-e711-80fb-005056857ef3",
+            "title": "760FF",
+            "summary": "Expandable Polystyrene Fire Retardant Grade",
+            "description": "Fire retardant expanded Polystyrene SABIC\u00ae EPS760FF is manufactured by the suspension polymerization of styrene monomer. The polymerization is generally carried out in a batch process and it contains a fire retarding additive in the formulation. SABIC\u00ae EPS760FF is an expandable polystyrene grade supplied in free-flowing beads containing pentane (CFC free) as a foaming agent.",
+            "applications": [
+                "Packaging",
+                "Thermal insulation",
+                "Air Conditioning"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00aeEPS760FF-Material Safety Datasheet-Europe",
+                    "url": "/en/products/documents/sabic-eps760ff-material-safety-datasheet-europe/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "3bf53d03-c31d-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-EPS-760FF-REACH Declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-760ff-reach-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "8aa7a9e2-26a8-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-EPS-760FF-General absence declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-760ff-general-absence-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "1c7ebaf4-a9a9-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-EPS-760FF-BSE declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-760ff-bse-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "7c2eabe0-77ae-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-EPS-760FF-End of Life declaration-Global",
+                    "url": "/en/products/documents/sabic-eps-760ff-end-of-life-declaration-global/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "56575f00-31af-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae EPS_760FF_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-eps_760ff_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "2851ea86-c21d-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Foam Packaging",
+                "Insulations",
+                "Construction"
+            ],
+            "contacts": [
+                {
+                    "$id": "22",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "47603717-8103-e911-8100-005056857ef3"
+                },
+                {
+                    "$id": "23",
+                    "contact": "8157a968-0c20-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "48603717-8103-e911-8100-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "760ff"
+        },
+        {
+            "$id": "24",
+            "id": "eba26585-ba1d-e711-80fb-005056857ef3",
+            "title": "763",
+            "summary": "Standard Expanded Polystyrene",
+            "description": "Standard expanded Polystyrene SABIC\u00ae EPS763 is manufactured by the suspension polymerization of styrene monomer. The polymerization is generally carried out in a batch process. SABIC\u00ae EPS763 is an expandable polystyrene grade supplied in free-flowing beads, containing pentane (CFC free) as a foaming agent. It is used for fast cycle low density block molding applications with good surface finish.",
+            "applications": [
+                "Packaging",
+                "Air Conditioning"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC\u00aeEPS763-Material Safety Datasheet-Asia",
+                    "url": "/en/products/documents/sabic-eps763-material-safety-datasheet-asia/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "77771d2c-c01d-e711-80fb-005056857ef3"
+                },
+                {
+                    "documentType": "REACH Declaration",
+                    "title": "SABIC-EPS-763-REAH-Global-en-2021-04-30",
+                    "url": "/en/products/documents/sabic-eps-763-reah-global-en-2021-04-30/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "bb2279ed-49b2-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "BSE declaration",
+                    "title": "SABIC-EPS-763-BSED-Global-en-2021-05-06",
+                    "url": "/en/products/documents/sabic-eps-763-bsed-global-en-2021-05-06/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "5466f926-4ab2-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "General absence declaration",
+                    "title": "SABIC-EPS-763-GASD-Global-en-2021-09-27",
+                    "url": "/en/products/documents/sabic-eps-763-gasd-global-en-2021-09-27/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "32193958-4ab2-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "End of Life declaration",
+                    "title": "SABIC-EPS-763-EOLD-Global-en-2021-05-07",
+                    "url": "/en/products/documents/sabic-eps-763-eold-global-en-2021-05-07/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "bd4a7683-4ab2-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae EPS_763_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-eps_763_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210927",
+                    "id": "a1e9f08c-bf1d-e711-80fb-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": [
+                "Foam Packaging",
+                "Construction"
+            ],
+            "contacts": [
+                {
+                    "$id": "25",
+                    "contact": "8157a968-0c20-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "09de82d3-6b1f-ec11-810c-005056857ef3"
+                },
+                {
+                    "$id": "26",
+                    "contact": "08a60aa2-7209-e711-80fb-005056857ef3",
+                    "contactRoles": [
+                        "e01db03c-5bde-e611-819b-06b69393ae39"
+                    ],
+                    "regions": [
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "0ade82d3-6b1f-ec11-810c-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "763"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "27",
+            "id": "f7d14473-c21d-e711-80fb-005056857ef3",
+            "title": "Thermal insulation",
+            "count": 0
+        },
+        {
+            "$id": "28",
+            "id": "8b237266-4015-e711-80fb-005056857ef3",
+            "title": "Packaging",
+            "count": 0
+        },
+        {
+            "$id": "29",
+            "id": "d9dcd341-8780-4940-b2a7-028d86ff728e",
+            "title": "Foam",
+            "count": 0
+        },
+        {
+            "$id": "30",
+            "id": "3affee91-14d8-e611-819b-06b69393ae39",
+            "title": "Air Conditioning",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "31",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "32",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "33",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "34",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": [
+        {
+            "$id": "35",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Construction",
+            "id": "0dffee91-14d8-e611-819b-06b69393ae39"
+        },
+        {
+            "$id": "36",
+            "industry": "fdfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Foam Packaging",
+            "id": "27f9afdd-45e9-e611-80fb-005056857ef3"
+        },
+        {
+            "$id": "37",
+            "industry": "fbfeee91-14d8-e611-819b-06b69393ae39",
+            "title": "Insulations",
+            "id": "f806c36d-2815-e711-80fb-005056857ef3"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "$id": "1",
+    "grades": [
+        {
+            "$id": "2",
+            "id": "a3e8c717-85c7-e611-8197-06b69393ae39",
+            "title": "SABIC\u00ae 2-Ethylhexanol (2-EH)",
+            "summary": "2-Ethyl Hexanol (2-EH) is a clear, uniform, nontoxic liquid with a characteristic odor, insoluble in water, soluble in organic solvent.",
+            "description": "2-Ethyl Hexanol (2-EH) is a clear, uniform, nontoxic liquid with a characteristic odor, insoluble in water, soluble in organic solvent. It is obtained indirectly in OXO synthesis from propylene and synthesis gas.",
+            "applications": [
+                "Hoses",
+                "Automotive ",
+                "Building Accessory",
+                "Personal Care",
+                "Adhesives",
+                "Coating",
+                "Wire & cable",
+                "Flooring"
+            ],
+            "processingTechniques": null,
+            "documents": [
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-2-Ethylhexanol (2-EH)-SDS-Global-en-2021-05-17",
+                    "url": "/en/products/documents/sabic-2-ethylhexanol-2-eh-sds-global-en-2021-05-17/en",
+                    "language": "English",
+                    "region": "Global",
+                    "id": "14d254ba-16b7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "Safety Datasheet",
+                    "title": "SABIC-2-Ethylhexanol (2-EH)-SDS-Asia-China-en-2021-05-18",
+                    "url": "/en/products/documents/sabic-2-ethylhexanol-2-eh-sds-asia-china-en-2021-05-18/en",
+                    "language": "English",
+                    "country": "290a1e3f-2a62-e711-a975-024771460781",
+                    "region": "Asia",
+                    "id": "8a7dd57c-cbb7-eb11-8109-005056857ef3"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae 2-Ethylhexanol (2-EH)_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-2-ethylhexanol-2-eh-_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "61af102f-8df7-e611-819b-06b69393ae39"
+                },
+                {
+                    "documentType": "TDS",
+                    "title": "SABIC\u00ae 2-Ethylhexanol (2-EH)_Global_Technical_Data_Sheet",
+                    "url": "/en/products/documents/sabic-2-ethylhexanol-2-eh-_global_technical_data_sheet/en",
+                    "language": "English",
+                    "region": "Global",
+                    "revision": "20210812",
+                    "id": "10dfa1cf-7c77-e711-80fc-005056857ef3"
+                }
+            ],
+            "regions": [
+                "Europe",
+                "Asia",
+                "MEA",
+                "Americas"
+            ],
+            "industrySegments": null,
+            "contacts": [
+                {
+                    "$id": "3",
+                    "contact": "ebf1be0a-5862-e811-80fe-005056857ef3",
+                    "contactRoles": [
+                        "e02b0f0e-acbb-e611-80ca-000c2926daac"
+                    ],
+                    "regions": [
+                        "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+                        "ee05ec09-ed6d-4fed-80ac-229549245c91",
+                        "a3c56a19-9937-49e3-a578-81b38ed00b45"
+                    ],
+                    "countries": [],
+                    "industryApplications": [],
+                    "regulatoryOptions": [],
+                    "id": "62b93869-f3bd-eb11-8109-005056857ef3"
+                }
+            ],
+            "operatingCompanies": [],
+            "hasTechnicalDetails": true,
+            "visibility": "Public",
+            "urlTitle": "sabic\u00ae-2-ethylhexanol-(2-eh)"
+        }
+    ],
+    "processingTechniques": [],
+    "applications": [
+        {
+            "$id": "4",
+            "id": "91ad08ba-c1f1-e611-80fb-005056857ef3",
+            "title": "Hoses",
+            "count": 0
+        },
+        {
+            "$id": "5",
+            "id": "9a7bffa6-4015-e711-80fb-005056857ef3",
+            "title": "Automotive ",
+            "count": 0
+        },
+        {
+            "$id": "6",
+            "id": "53ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Building Accessory",
+            "count": 0
+        },
+        {
+            "$id": "7",
+            "id": "d1ffee91-14d8-e611-819b-06b69393ae39",
+            "title": "Personal Care",
+            "count": 0
+        },
+        {
+            "$id": "8",
+            "id": "1f8fb7b9-09a7-45e5-acb5-1175b471ed83",
+            "title": "Adhesives",
+            "count": 0
+        },
+        {
+            "$id": "9",
+            "id": "22b8db3f-0a92-439a-a2dd-63fa0a52ad89",
+            "title": "Coating",
+            "count": 0
+        },
+        {
+            "$id": "10",
+            "id": "a36cc295-ea49-4a6f-b084-946e439947ef",
+            "title": "Wire & cable",
+            "count": 0
+        },
+        {
+            "$id": "11",
+            "id": "3449f4de-1b96-408b-abf3-acc846fb106c",
+            "title": "Flooring",
+            "count": 0
+        }
+    ],
+    "regions": [
+        {
+            "$id": "12",
+            "id": "ea2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Europe",
+            "count": 0
+        },
+        {
+            "$id": "13",
+            "id": "eb2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "Asia",
+            "count": 0
+        },
+        {
+            "$id": "14",
+            "id": "ec2b0f0e-acbb-e611-80ca-000c2926daac",
+            "title": "MEA",
+            "count": 0
+        },
+        {
+            "$id": "15",
+            "id": "ee05ec09-ed6d-4fed-80ac-229549245c91",
+            "title": "Americas",
+            "count": 0
+        }
+    ],
+    "industrySegments": []
+}
